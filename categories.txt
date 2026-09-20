@@ -1,0 +1,16 @@
+   21  Senior Men Assaut -75 kg
+   21  Senior Men Assaut -80 kg
+   21  Senior Men Assaut -70 kg
+   18  Senior Men Assaut +85 kg
+   18  Senior Men Assaut -65 kg
+   15  Senior Men Assaut -60kg
+   15  Senior Women Assaut -56 kg
+   15  Senior Men Assaut -56 kg
+   15  Senior Women Assaut -52 kg
+   15  Senior Men Assaut -85 kg
+   12  Senior Women Assaut -48 kg
+   12  Senior Women Assaut -70 kg
+   12  Senior Women Assaut -65 kg
+    9  Senior Women Assaut -60kg
+    6  Senior Women Assaut +75 kg
+    6  Senior Women Assaut -75 kg

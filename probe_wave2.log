@@ -1,0 +1,1258 @@
+  [  1/966] 2009   -  10-2009-1fd09f59c4
+  [  2/966] 2011   -  11-Savate_Resultats_equipes_2011.xls-bf3e226b5
+  [  3/966] 2011   universitaire {'bouts': 84, 'placings': 21, 'categories': 6, 'decided': 0, 'problems': 2}  11-Savate_Resultats_jeunes_filles_2011.xls-f71
+  [  4/966] 2011   universitaire {'bouts': 85, 'placings': 23, 'categories': 6, 'decided': 0, 'problems': 1}  11-Savate_Resultats_jeunes_gens_2011.xls-367bd
+  [  5/966] 2013   -  113-resultats-assauts-samedi-22-juin-2013-92c2
+  [  6/966] 2016   cesav_sheets {'bouts': 9, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 4}  12-combat-european-championship-2016-results-7
+  [  7/966] 2016   cesav_sheets {'bouts': 9, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 4}  12-europen-championship-combat-2016-results-0a
+  [  8/966] 2025   -  124-report-of-the-6th-asian-savate-championshi
+  [  9/966] 2026   -  128-7th-asian-savate-championship-2026-and-1st
+  [ 10/966] 2013   antilles_bouts {'bouts': 6, 'placings': 0, 'categories': 3, 'decided': 0, 'problems': 1}  140-challenge-23-novembre-2013-4ed2a41f51
+  [ 11/966] 2014   antilles_bouts {'bouts': 8, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  154-resultats-assauts-phenix-club-22-fevrier-2
+  [ 12/966]        -  155-world-assaut-medal-table-b732cd17ac.pdf
+  [ 13/966] 2014   antilles_bouts {'bouts': 4, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  159-resultats-gala-des-abymes-01-mars-2014-b8f
+  [ 14/966] 2014   antilles_bouts {'bouts': 6, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  168-resultats-challenge-creps-5-avril-2014-f3a
+  [ 15/966]        antilles_bouts {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 2}  183-resultat-challenge-de-trois-rivieres-4b497
+  [ 16/966] 2011   -  2-2011-83c8178b7a
+  [ 17/966]        -  2-cf4d61142c
+  [ 18/966]        cesav_sheets {'bouts': 0, 'placings': 22, 'categories': 11, 'decided': 0, 'problems': 3}  20-qualifying-tournament-of-the-european-savat
+  [ 19/966] 2010   -  2010-04-30-9-d7580c690d
+  [ 20/966] 2011   -  2011-04-15-15-d09cd9629c
+  [ 21/966] 2011   -  2011-06-24-16-15990fe984
+  [ 22/966] 2011   savate_jp {'bouts': 0, 'placings': 5, 'categories': 3, 'decided': 0, 'problems': 0}  2011-79fc9cb232
+  [ 23/966] 2012   savate_jp {'bouts': 0, 'placings': 9, 'categories': 4, 'decided': 0, 'problems': 1}  2012-9f0590b609
+  [ 24/966] 2013   savate_jp {'bouts': 0, 'placings': 5, 'categories': 2, 'decided': 0, 'problems': 1}  2013-e0eda05bd6
+  [ 25/966] 2014   savate_jp {'bouts': 0, 'placings': 10, 'categories': 5, 'decided': 0, 'problems': 0}  2014-fc745fff47
+  [ 26/966] 2014   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  2014.-SAVATE-Croatia-Open-CRO.pdf-bd3a3e49d5.p
+  [ 27/966] 2015   -  2015-5ae7e3f5d8
+  [ 28/966] 2015   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  2015SAVATE-Croatia-open1.pdf-755b2ee963.pdf
+  [ 29/966] 2016   savate_jp {'bouts': 1, 'placings': 11, 'categories': 7, 'decided': 0, 'problems': 0}  2016-ceaf760147
+  [ 30/966] 2017   -  2017-0c8f408551
+  [ 31/966] 2017   -  2017-SAVATE-Croatia-open.pdf-6526e276c9.pdf
+  [ 32/966] 2018   -  2018-2e4f7de1ec
+  [ 33/966] 2019   savate_weight_list {'bouts': 0, 'placings': 24, 'categories': 8, 'decided': 0, 'problems': 3}  2019-20Classement-20Internationale-20Savate-20
+  [ 34/966] 2019   savate_jp {'bouts': 0, 'placings': 18, 'categories': 7, 'decided': 0, 'problems': 0}  2019-30bf7d7612
+  [ 35/966] 2021   savate_jp {'bouts': 1, 'placings': 8, 'categories': 4, 'decided': 0, 'problems': 0}  2021-009f014394
+  [ 36/966] 2023   ffsavate_bouts {'bouts': 52, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 0}  2022-2023-Resultats-Combat-2eme-serie-Fem.pdf-
+  [ 37/966] 2023   ffsavate_bouts {'bouts': 9, 'placings': 6, 'categories': 3, 'decided': 0, 'problems': 0}  2022-2023-Resultats-Elite-B-Fem.pdf-0c81801f2e
+  [ 38/966] 2023   ffsavate_bouts {'bouts': 47, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 2}  2022-2023-Resultats-Elite-B-Masc.pdf-6a4bd3484
+  [ 39/966] 2023   ffsavate_bouts {'bouts': 52, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 0}  2022-2023-Resultats-Espoirs-Masc.pdf-1dd28bc42
+  [ 40/966] 2022   savate_jp {'bouts': 0, 'placings': 12, 'categories': 4, 'decided': 0, 'problems': 0}  2022-8ebfc883d7
+  [ 41/966] 2023   savate_jp {'bouts': 0, 'placings': 18, 'categories': 6, 'decided': 0, 'problems': 0}  2023-01e6313cb2
+  [ 42/966] 2023   -  2023-03-24_-Resultats-par-equipe_A2.pdf-36081e
+  [ 43/966]        antilles_bouts {'bouts': 6, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  208-resultats-challenge-mjc-du-gosier-4cfcc19a
+  [ 44/966]        antilles_bouts {'bouts': 9, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 2}  225-deplacement-martinique-718be9589c
+  [ 45/966]        antilles_bouts {'bouts': 13, 'placings': 0, 'categories': 2, 'decided': 0, 'problems': 0}  231-de-beaux-assauts-sur-la-plage-b7af297f99
+  [ 46/966] 2015   antilles_bouts {'bouts': 8, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  235-resultats-challenge-goyave-20-06-2015-40df
+  [ 47/966] 2016   fisav_sheets {'bouts': 0, 'placings': 47, 'categories': 13, 'decided': 0, 'problems': 2}  238-european-youth-championships-2016-abc32529
+  [ 48/966]        antilles_bouts {'bouts': 5, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  247-challenge-gant-de-bronze-a-goyave-18f9a84c
+  [ 49/966] 2014   -  25-2014-b95f3a8b92
+  [ 50/966] 2017   -  25-european-senior-savate-assaut-championships
+  [ 51/966] 2015   antilles_bouts {'bouts': 6, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  251-resultats-challenge-ti-moun-trois-rivieres
+  [ 52/966]        antilles_bouts {'bouts': 11, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  254-challenge-ti-moun-palais-des-sports-du-gos
+  [ 53/966] 2016   antilles_bouts {'bouts': 4, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  258-boxe-samedi-20-fevrier-2016-resultats-db3d
+  [ 54/966] 2016   antilles_bouts {'bouts': 6, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  264-resultats-challenge-goyave-16-avril-2016-6
+  [ 55/966] 2016   antilles_bouts {'bouts': 2, 'placings': 0, 'categories': 2, 'decided': 0, 'problems': 0}  268-resultats-challenge-martinique-24-avril-20
+  [ 56/966] 2015   -  27-2015-22434bb8c4
+  [ 57/966]        antilles_bouts {'bouts': 12, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 2}  272-challenge-timoun-st-felix-gosier-04-06-204
+  [ 58/966] 2016   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  272-world-championship-canne-de-combat-2016-re
+  [ 59/966] 2015   -  283-world-combat-championships-inscriptions-20
+  [ 60/966] 2015   -  284-world-combat-championships-inscriptions-20
+  [ 61/966] 2015   quomodo_club {'bouts': 1, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  285-world-combat-championships-inscriptions-20
+  [ 62/966]        -  2finizv.pdf-950e82c702.pdf
+  [ 63/966] 2012   -  3-2012-50e139052e
+  [ 64/966]        -  3-5eea16cc7f
+  [ 65/966]        -  3-9f63cde449
+  [ 66/966] 2018   -  30-championnat-d-europe-seniors-juniors-combat
+  [ 67/966]        antilles_bouts {'bouts': 5, 'placings': 0, 'categories': 4, 'decided': 0, 'problems': 0}  300-gala-de-boxe-goyave-d96f0b9da6
+  [ 68/966] 2017   -  305-world-combat-2017-junior-men-33d6e61897
+  [ 69/966] 2017   antilles_bouts {'bouts': 7, 'placings': 0, 'categories': 4, 'decided': 0, 'problems': 0}  310-resultats-challenge-25-novembre-2017-e6e54
+  [ 70/966] 2017   antilles_bouts {'bouts': 4, 'placings': 0, 'categories': 4, 'decided': 0, 'problems': 1}  311-derniere-competition-de-2017-825567eb34
+  [ 71/966] 2018   antilles_bouts {'bouts': 9, 'placings': 0, 'categories': 4, 'decided': 0, 'problems': 0}  313-challenge-3-rivieres-2018-f56973070b
+  [ 72/966]        savate_weight_list {'bouts': 0, 'placings': 24, 'categories': 8, 'decided': 0, 'problems': 3}  319-international-ranking-in-savate-combat-sen
+  [ 73/966]        -  32-savate-35cb83f496
+  [ 74/966]        savate_weight_list {'bouts': 0, 'placings': 24, 'categories': 8, 'decided': 0, 'problems': 3}  320-international-ranking-in-savate-combat-sen
+  [ 75/966] 2017   fisav_sheets {'bouts': 13, 'placings': 0, 'categories': 7, 'decided': 0, 'problems': 1}  322-ring-1-pool-results-2017-3fb9722d55.pdf
+  [ 76/966] 2018   antilles_bouts {'bouts': 7, 'placings': 0, 'categories': 6, 'decided': 0, 'problems': 0}  323-challenge-du-16-juin-2018-d2cf6bd963
+  [ 77/966] 2017   fisav_sheets {'bouts': 14, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 8}  323-combat-ring-2-pool-results-2017-fe1453bbc4
+  [ 78/966] 2017   fisav_sheets {'bouts': 17, 'placings': 0, 'categories': 7, 'decided': 0, 'problems': 8}  324-combat-ring-3-pool-results-2017-da2a56c705
+  [ 79/966] 2017   fisav_sheets {'bouts': 14, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 2}  325-youth-pool-results-boys-2017-b9776f3afd
+  [ 80/966] 2017   fisav_sheets {'bouts': 8, 'placings': 0, 'categories': 6, 'decided': 0, 'problems': 2}  326-jeunes-pool-results-girls-2017-c607e769f6.
+  [ 81/966] 2018   antilles_bouts {'bouts': 3, 'placings': 0, 'categories': 2, 'decided': 0, 'problems': 0}  327-gala-du-30-juin-2018-a-dothemare-abymes-e6
+  [ 82/966] 2018   -  33-european-youth-championship-in-savate-assau
+  [ 83/966] 2018   fisav_sheets {'bouts': 88, 'placings': 52, 'categories': 12, 'decided': 65, 'problems': 17}  349-european-youth-championships-june-2018-49a
+  [ 84/966] 2016   -  35-2016-1edb5bef65
+  [ 85/966] 2019   -  35-2019-european-assaut-championship-results-1
+  [ 86/966]        antilles_bouts {'bouts': 7, 'placings': 0, 'categories': 5, 'decided': 0, 'problems': 0}  353-challenge-gant-de-bronze-international-f45
+  [ 87/966] 2019   antilles_bouts {'bouts': 13, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  363-challenge-de-goyave-22-11-2019-0a6706b1e6
+  [ 88/966] 2021   -  38-european-assaut-championships-senior-2021-d
+  [ 89/966] 2022   -  39-youth-european-championships-2022-4ae8b2d46
+  [ 90/966]        antilles_bouts {'bouts': 2, 'placings': 0, 'categories': 2, 'decided': 0, 'problems': 4}  394-petit-challenge-du-mois-d-avril-57758698d4
+  [ 91/966]        savate_jp {'bouts': 0, 'placings': 1, 'categories': 1, 'decided': 0, 'problems': 0}  3rd-asian-savate-championships-380-bafcebe2a9
+  [ 92/966] 2013   -  4-2013-6939ae348e
+  [ 93/966] 2017   -  40-2017-22b3d45ef4
+  [ 94/966] 2022   -  40-european-combat-championships-2022-a0e4bc8c
+  [ 95/966] 2017   -  41-pool-results-combat-2017-2487265abb
+  [ 96/966]        -  41-youth-european-championships-weiz-3261ab16d
+  [ 97/966] 2018   fisav_sheets {'bouts': 9, 'placings': 0, 'categories': 1, 'decided': 6, 'problems': 1}  411-f-48kg-pool-results-2018-7fa52f3a66
+  [ 98/966] 2018   fisav_sheets {'bouts': 19, 'placings': 0, 'categories': 1, 'decided': 15, 'problems': 0}  412-f-52kg-pool-results-2018-f9913ef2b6
+  [ 99/966] 2018   fisav_sheets {'bouts': 19, 'placings': 0, 'categories': 1, 'decided': 15, 'problems': 0}  413-f-56kg-pool-results-2018-60fc83b669
+  [100/966] 2018   ffsavate_finals {'bouts': 1, 'placings': 2, 'categories': 1, 'decided': 0, 'problems': 0}  414-f-60kg-pool-results-2018-446e6dd293
+  [101/966] 2018   fisav_sheets {'bouts': 0, 'placings': 64, 'categories': 16, 'decided': 0, 'problems': 0}  415-world-assaut-championships-2018-medallists
+  [102/966] 2018   -  416-f-65kg-pool-results-2018-38f0e9b04c
+  [103/966] 2018   fisav_sheets {'bouts': 15, 'placings': 0, 'categories': 1, 'decided': 12, 'problems': 0}  417-f-70kg-pool-results-2018-b3e4bbf978
+  [104/966] 2017   -  42-pool-results-jeunes-2017-1efb162fa2
+  [105/966] 2018   fisav_sheets {'bouts': 10, 'placings': 0, 'categories': 1, 'decided': 10, 'problems': 0}  426-f-75kg-pool-results-2018-fb770b051f
+  [106/966] 2018   fisav_sheets {'bouts': 11, 'placings': 0, 'categories': 1, 'decided': 10, 'problems': 1}  427-f-75kg-pool-results-2018794-f64b5e5a7b.pdf
+  [107/966] 2018   fisav_sheets {'bouts': 26, 'placings': 0, 'categories': 1, 'decided': 21, 'problems': 2}  428-m-75kg-pool-results-2018-f7bac9562b.pdf
+  [108/966] 2018   fisav_sheets {'bouts': 22, 'placings': 0, 'categories': 1, 'decided': 18, 'problems': 3}  429-m-70kg-pool-results-2018-966979424a
+  [109/966] 2018   fisav_sheets {'bouts': 23, 'placings': 0, 'categories': 1, 'decided': 18, 'problems': 1}  430-m-65kg-pool-results-2018-4afacadee8.pdf
+  [110/966] 2018   -  431-m-60kg-pool-results-2018-f6cdc67f14
+  [111/966] 2018   fisav_sheets {'bouts': 20, 'placings': 0, 'categories': 1, 'decided': 15, 'problems': 3}  432-m-85kg-pool-results-2018-a9ca56d378.pdf
+  [112/966] 2018   fisav_sheets {'bouts': 23, 'placings': 0, 'categories': 1, 'decided': 18, 'problems': 4}  433-m-80kg-pool-results-2018-1ceb592170.pdf
+  [113/966] 2018   fisav_sheets {'bouts': 14, 'placings': 0, 'categories': 1, 'decided': 9, 'problems': 0}  434-m-56kg-pool-results-2018-edbff61dd8.pdf
+  [114/966] 2018   fisav_sheets {'bouts': 23, 'placings': 0, 'categories': 1, 'decided': 18, 'problems': 4}  435-m-85kg-pool-results-2018960-70c2fa5b24.pdf
+  [115/966] 2018   fisav_sheets {'bouts': 0, 'placings': 16, 'categories': 6, 'decided': 0, 'problems': 0}  442-championship-of-africa-savate-combat-2018-
+  [116/966] 2018   -  45-2018-c851bb07c5
+  [117/966]        -  45-results-of-the-european-combat-championship
+  [118/966] 2023   savate_jp {'bouts': 0, 'placings': 2, 'categories': 1, 'decided': 0, 'problems': 0}  4th-asian-savate-championship-may-2023-tashken
+  [119/966] 2019   -  50-2019-c16ef627a5
+  [120/966] 2019   -  51-pool-results-combat-2019-93f2ebe239
+  [121/966] 2023   -  53-results-of-the-2023-european-championships-
+  [122/966] 2024   -  55-results-of-the-2024-european-youth-champion
+  [123/966] 2024   -  55-results-of-the-2024-european-youth-champion
+  [124/966] 2024   -  56-results-of-the-2024-european-combat-champio
+  [125/966] 2021   -  57-2021-d66c25adca
+  [126/966] 2024   cesav_sheets {'bouts': 2, 'placings': 0, 'categories': 2, 'decided': 0, 'problems': 1}  57-results-of-the-2024-ceintures-europeennes-s
+  [127/966] 2011   fisav_sheets {'bouts': 0, 'placings': 43, 'categories': 17, 'decided': 0, 'problems': 0}  59-wyc-results-2011-b8c434ea1d.pdf
+  [128/966]        savate_jp {'bouts': 0, 'placings': 1, 'categories': 1, 'decided': 0, 'problems': 0}  5th-asian-savate-championship-honour-and-pride
+  [129/966] 2008   fisav_sheets {'bouts': 0, 'placings': 89, 'categories': 15, 'decided': 0, 'problems': 0}  60-world-assaut-championship-2008-results-15c7
+  [130/966] 2010   -  61-world-assaut-2010-results-by-country-31d29e
+  [131/966] 2009   fisav_sheets {'bouts': 14, 'placings': 28, 'categories': 14, 'decided': 0, 'problems': 0}  62-results-world-championship-combat-2009-aaaa
+  [132/966]        -  629-campionati-italiani-assoluti-di-savate-ris
+  [133/966]        fisav_worksheet_pdf {'bouts': 1, 'placings': 0, 'categories': 1, 'decided': 1, 'problems': 0}  662-junior-men-75kg-389c13ccb6
+  [134/966]        fisav_sheets {'bouts': 1, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 2}  665-senior-men-56kg-774a1bd499
+  [135/966]        fisav_sheets {'bouts': 6, 'placings': 0, 'categories': 1, 'decided': 6, 'problems': 2}  666-senior-men-60kg-89855ad939
+  [136/966]        fisav_sheets {'bouts': 6, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 5}  667-senior-men-65kg-488ab46980
+  [137/966]        fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 3}  668-senior-men-70kg-374d9bb68c
+  [138/966]        fisav_sheets {'bouts': 9, 'placings': 0, 'categories': 1, 'decided': 8, 'problems': 3}  669-senior-men-75kg-84ae0fed79
+  [139/966] 2013   savate_medal_list {'bouts': 0, 'placings': 40, 'categories': 10, 'decided': 0, 'problems': 1}  67-world-combat-games-2013-full-results-73275e
+  [140/966]        fisav_sheets {'bouts': 7, 'placings': 0, 'categories': 1, 'decided': 6, 'problems': 1}  674-senior-women-48kg-16e63cfd41
+  [141/966]        fisav_sheets {'bouts': 10, 'placings': 0, 'categories': 1, 'decided': 10, 'problems': 1}  676-senior-women-56kg-1d4a35fe1f.pdf
+  [142/966]        fisav_sheets {'bouts': 1, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 2}  677-senior-women-60kg-b004cee7ab.pdf
+  [143/966]        savate_weight_list {'bouts': 0, 'placings': 24, 'categories': 8, 'decided': 0, 'problems': 3}  681-international-ranking-in-savate-assaut-sen
+  [144/966]        savate_weight_list {'bouts': 0, 'placings': 24, 'categories': 8, 'decided': 0, 'problems': 3}  682-international-ranking-in-savate-assaut-sen
+  [145/966] 2019   podium_pdf {'bouts': 0, 'placings': 30, 'categories': 9, 'decided': 0, 'problems': 3}  689-results-of-the-2019-asian-savate-champions
+  [146/966] 2020   fisav_sheets {'bouts': 0, 'placings': 101, 'categories': 38, 'decided': 0, 'problems': 3}  694-results-budapest-open-2020-ac1d307696
+  [147/966] 2025   savate_jp {'bouts': 0, 'placings': 1, 'categories': 1, 'decided': 0, 'problems': 0}  6th-asian-savate-championship-2025-new-delhi-4
+  [148/966] 2007   -  7-2007-99df556e31
+  [149/966] 2022   -  70-2022-c34c819c08
+  [150/966] 2021   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  705-world-youth-championship-2021-f48-678ea2f9
+  [151/966] 2021   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  706-world-youth-championship-2021-f52-0784146c
+  [152/966] 2021   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  707-world-youth-championship-2021-f56-73db1484
+  [153/966] 2021   -  708-world-youth-championship-2021-f60-f4cd342c
+  [154/966] 2021   savate_jp {'bouts': 2, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  709-world-youth-championship-2021-f65-26388599
+  [155/966] 2007   fisav_sheets {'bouts': 0, 'placings': 21, 'categories': 7, 'decided': 0, 'problems': 6}  71-championnat-d-europe-assaut-femmes-2007-4a9
+  [156/966] 2021   -  710-world-youth-championship-2021-f70-153828aa
+  [157/966] 2021   -  711-world-youth-championship-2021-f75-6fe2c2b5
+  [158/966] 2021   -  712-world-youth-championship-2021-f-75-5f4c6aa
+  [159/966] 2021   -  713-world-youth-championship-2021-g52-67d49a59
+  [160/966] 2021   -  714-world-youth-championship-2021-g56-65f91a5a
+  [161/966] 2021   -  715-world-youth-championship-2021-g60-577a66a5
+  [162/966] 2021   -  716-world-youth-championship-2021-g65-506537b6
+  [163/966] 2021   -  717-world-youth-championship-2021-g70-d59dd384
+  [164/966] 2021   -  718-world-youth-championship-2021-g75-e0565e90
+  [165/966] 2021   -  719-world-youth-championship-2021-g80-1e980a21
+  [166/966] 2007   fisav_sheets {'bouts': 0, 'placings': 26, 'categories': 6, 'decided': 0, 'problems': 6}  72-championnat-d-europe-assaut-hommes-2007-ca8
+  [167/966] 2021   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  720-world-youth-championship-2021-g85-111a354a
+  [168/966] 2021   -  721-world-youth-championship-2021-g-85-7105406
+  [169/966] 2021   -  722-world-cadet-cup-2021-f52-3b3c8842d5
+  [170/966] 2021   -  723-world-cadet-cup-2021-f56-2417d95857
+  [171/966] 2021   fisav_sheets {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 4}  724-world-cadet-cup-2021-f60-bd0eb30fe4.pdf
+  [172/966] 2021   -  725-world-cadet-cup-2021-f65-e98ba21480.pdf
+  [173/966] 2021   -  726-world-cadet-cup-2021-g45-5fcb99e419
+  [174/966] 2021   -  727-world-cadet-cup-2021-g48-6754306b24.pdf
+  [175/966] 2021   -  728-world-cadet-cup-2021-g52-095147b02f.pdf
+  [176/966] 2021   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  729-world-cadet-cup-2021-g56-e5158e3efd.pdf
+  [177/966] 2023   -  73-2023-bb1c4b66ea
+  [178/966] 2007   savate_podium_words {'bouts': 0, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 0}  73-championnat-du-monde-combat-2007-masc-junio
+  [179/966] 2021   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  730-world-cadet-cup-2021-g60-cd65e13b98.pdf
+  [180/966] 2021   -  731-world-cadet-cup-2021-g65-c5623b72c8.pdf
+  [181/966] 2021   -  732-world-cadet-cup-2021-g70-9023fafc19.pdf
+  [182/966] 2021   savate_medal_list {'bouts': 0, 'placings': 20, 'categories': 8, 'decided': 0, 'problems': 0}  733-world-youth-championship-2021-medals-a446c
+  [183/966] 2021   savate_medal_list {'bouts': 0, 'placings': 37, 'categories': 11, 'decided': 0, 'problems': 0}  734-world-cadet-cup-2021-medals-179599b02a
+  [184/966] 2021   fisav_sheets {'bouts': 0, 'placings': 34, 'categories': 13, 'decided': 0, 'problems': 0}  739-world-cup-assaut-2021-senior-results-2e1fe
+  [185/966] 2007   savate_podium_words {'bouts': 0, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 0}  74-championnat-du-monde-combat-2007-femmes-a9f
+  [186/966] 2021   fisav_sheets {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 2, 'problems': 1}  740-world-cup-assaut-2021-senior-f48-52656be79
+  [187/966] 2021   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 2, 'problems': 4}  741-world-cup-assaut-2021-senior-f52-0f29999dc
+  [188/966] 2021   fisav_sheets {'bouts': 11, 'placings': 0, 'categories': 1, 'decided': 10, 'problems': 0}  742-world-cup-assaut-2021-senior-m70-9b9dbfa66
+  [189/966] 2021   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 3}  743-world-cup-assaut-2021-senior-m80-b99418208
+  [190/966] 2021   ffsavate_finals {'bouts': 1, 'placings': 2, 'categories': 1, 'decided': 0, 'problems': 1}  744-world-cup-assaut-2021-senior-m-85-86320d80
+  [191/966] 2021   fisav_sheets {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 2}  745-world-cup-assaut-2021-senior-m85-0eee719df
+  [192/966]        fisav_sheets {'bouts': 9, 'placings': 0, 'categories': 1, 'decided': 6, 'problems': 1}  750-world-combat-senior-women-f56-8f13cd1786
+  [193/966]        fisav_worksheet_pdf {'bouts': 6, 'placings': 0, 'categories': 1, 'decided': 6, 'problems': 0}  751-world-combat-senior-women-f60-090a3eb236.p
+  [194/966]        fisav_worksheet_pdf {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 0}  752-world-combat-junior-j75-cb44af8db6.pdf
+  [195/966]        fisav_sheets {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 1}  753-world-combat-senior-men-m56-56089dae2d
+  [196/966]        fisav_sheets {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 1}  754-world-combat-senior-men-m60-258edb9f80.pdf
+  [197/966]        fisav_sheets {'bouts': 9, 'placings': 0, 'categories': 1, 'decided': 6, 'problems': 1}  755-world-combat-senior-men-m65-a2ab0fe6d2
+  [198/966]        fisav_sheets {'bouts': 11, 'placings': 0, 'categories': 1, 'decided': 9, 'problems': 2}  756-world-combat-senior-men-m70-9c929d4e1f.pdf
+  [199/966]        fisav_worksheet_pdf {'bouts': 6, 'placings': 0, 'categories': 1, 'decided': 6, 'problems': 0}  757-world-combat-senior-men-m75-f7c58c5dda.pdf
+  [200/966]        fisav_sheets {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 1}  758-world-combat-senior-men-m80-cd60501f8f.pdf
+  [201/966]        fisav_worksheet_pdf {'bouts': 6, 'placings': 0, 'categories': 1, 'decided': 6, 'problems': 0}  759-world-combat-senior-men-m85-731d94b6b2.pdf
+  [202/966] 2024   -  76-2024-b2f44657f6
+  [203/966] 2024   -  76-2024-c21723b0f5
+  [204/966] 2007   savate_podium_words {'bouts': 0, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 0}  76-championnat-du-monde-combat-hommes-2007-ddf
+  [205/966]        fisav_sheets {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 3, 'problems': 1}  760-world-combat-senior-men-m-85-9218f5c06e.pd
+  [206/966] 2008   fisav_sheets {'bouts': 0, 'placings': 97, 'categories': 22, 'decided': 0, 'problems': 5}  77-junior-combat-european-championship-2008-6b
+  [207/966] 2008   savate_tabular_pdf {'bouts': 0, 'placings': 27, 'categories': 7, 'decided': 0, 'problems': 1}  78-women-s-assaut-2008-7b3b6edf73
+  [208/966] 2008   -  79-2008-world-savate-assaut-championship-8e0d9
+  [209/966]        -  7OPZ_propozicije.pdf-0350fb72a7.pdf
+  [210/966] 2010   -  8-2010-e90c09cdd0
+  [211/966] 2009   savate_weight_list {'bouts': 0, 'placings': 45, 'categories': 14, 'decided': 0, 'problems': 4}  80-european-championships-assaut-2009-5555ad2a
+  [212/966] 2022   savate_medal_list {'bouts': 0, 'placings': 65, 'categories': 17, 'decided': 0, 'problems': 0}  807-results-of-european-youth-championships-20
+  [213/966] 2022   savate_medal_list {'bouts': 0, 'placings': 44, 'categories': 14, 'decided': 0, 'problems': 0}  808-results-of-the-european-combat-championshi
+  [214/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  809-m-85kg-pool-results-assaut-2022-525d11dfde
+  [215/966] 2025   -  81-2025-d5a5a0e41d
+  [216/966] 2025   -  81-2025-d88ea45a29
+  [217/966] 2022   fisav_sheets {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  810-m85kg-pool-results-assaut-2022-775a460103
+  [218/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  811-m80kg-pool-results-assaut-2022-0917d944ad
+  [219/966] 2022   fisav_sheets {'bouts': 4, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  812-m75kg-pool-results-assaut-2022-f6bc0bab6c
+  [220/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  813-m70kg-pool-results-assaut-2022-afbd6ce426
+  [221/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  814-m65kg-pool-results-assaut-2022-d182461d9b
+  [222/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  815-m60kg-pool-results-assaut-2022-c37499037b.
+  [223/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  816-m56kg-pool-results-assaut-2022-ab8932fd82.
+  [224/966] 2022   fisav_sheets {'bouts': 1, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 2}  817-f-75kg-pool-results-assaut-2022-4ee4653c2f
+  [225/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  818-f75kg-pool-results-assaut-2022-eebe029a91.
+  [226/966] 2022   fisav_sheets {'bouts': 1, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  819-f70kg-pool-results-assaut-2022-c191d9e029
+  [227/966] 2010   fisav_sheets {'bouts': 0, 'placings': 62, 'categories': 16, 'decided': 0, 'problems': 0}  82-championnat-du-monde-assaut-2010-d4d7b3905c
+  [228/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  820-f65kg-pool-results-assaut-2022-731796864a.
+  [229/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  821-f60kg-pool-results-assaut-2022-8e4ba964dc.
+  [230/966] 2022   -  822-f56kg-pool-results-assaut-2022-581a580f5d.
+  [231/966] 2022   fisav_sheets {'bouts': 5, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  823-f52kg-pool-results-assaut-2022-05bc263206
+  [232/966] 2022   fisav_sheets {'bouts': 3, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 1}  824-f48kg-pool-results-assaut-2022-cd212d1ee4.
+  [233/966] 2022   fisav_sheets {'bouts': 0, 'placings': 63, 'categories': 16, 'decided': 0, 'problems': 1}  825-medallists-world-savate-assaut-championshi
+  [234/966] 2022   -  826-championnats-du-monde-savate-assaut-2022-m
+  [235/966]        federkombat {'bouts': 0, 'placings': 80, 'categories': 31, 'decided': 0, 'problems': 4}  828_Nazionali_ItalianiSavate_Risultati.pdf-0bc
+  [236/966]        -  828_Nazionali_Italiani_Savate_Medagliere.pdf-c
+  [237/966] 2010   fisav_sheets {'bouts': 0, 'placings': 18, 'categories': 6, 'decided': 0, 'problems': 1}  83-european-combat-championship-2010-women-335
+  [238/966] 2023   -  836-world-youth-2023-medal-table-01b24b3c4d
+  [239/966] 2010   savate_weight_list {'bouts': 0, 'placings': 18, 'categories': 7, 'decided': 0, 'problems': 0}  85-european-combat-championships-2010-juniors-
+  [240/966] 2024   savate_jp {'bouts': 2, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  868-pool-results-world-canne-2024-b92d874d1e.p
+  [241/966] 2024   -  869-world-championships-canne-de-combat-2024-r
+  [242/966] 2024   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  870-world-cup-canne-de-combat-2024-prague-resu
+  [243/966] 2024   fisav_sheets {'bouts': 0, 'placings': 64, 'categories': 16, 'decided': 0, 'problems': 0}  893-world-assaut-championships-2024-slovenia-m
+  [244/966] 2008   -  9-2008-991f967dcc
+  [245/966]        -  901256-8fc731d136
+  [246/966] 2025   fisav_sheets {'bouts': 0, 'placings': 61, 'categories': 16, 'decided': 0, 'problems': 0}  955-european-assaut-championships-2025-medals-
+  [247/966] 2006   savate_weight_list {'bouts': 0, 'placings': 3, 'categories': 1, 'decided': 0, 'problems': 44}  AV_mer_brest2006_Resultats.pdf-2b33c71675.pdf
+  [248/966]        -  BADMINTON_RESULTATS_INDIV.pdf-7a1da40113.pdf
+  [249/966]        -  BAD_resultatscompletsindiv.PDF-a2d1aa8aa0.pdf
+  [250/966]        -  CLASSEMENT-20DES-20NATIONS.pdf-292df95891.pdf
+  [251/966] 2024   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  CLASSEMENT-DES-OFFICIELS-PAR-LIGUE-2023-2024.p
+  [252/966] 2025   -  CLASSEMENT-DES-OFFICIELS-PAR-LIGUE-2024_2025-V
+  [253/966]        universitaire {'bouts': 0, 'placings': 26, 'categories': 12, 'decided': 0, 'problems': 0}  CLASSEMENTS-SBF-IDF-24-25.pdf-a58a72c078.pdf
+  [254/966] 2024   -  CNCCB-Dossier-complet-Championnat-de-France-20
+  [255/966] 2020   quomodo_club {'bouts': 17, 'placings': 8, 'categories': 4, 'decided': 0, 'problems': 1}  COUPE-20DE-20FRANCE-20--20Resultats-202018.pdf
+  [256/966] 2026   ffsavate_sheets {'bouts': 0, 'placings': 80, 'categories': 20, 'decided': 0, 'problems': 8}  Championnat-de-France-Avenir-mai-2026-Resultat
+  [257/966] 2024   savate_jp {'bouts': 2, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Championnat-de-France-JEUNES-2024-GUADELOUPE.p
+  [258/966] 2024   -  Championnat-de-France-JEUNES-2024-GUADELOUPE_c
+  [259/966]        -  Championnats-20de-20France-20Jeune.pdf-6b5e82b
+  [260/966] 2025   -  Classement-au-18-Juin-2025.pdf-3d84a48a32.pdf
+  [261/966] 2025   -  Classement-au-23-Mai-2025.pdf-6d62a9ebbf.pdf
+  [262/966] 2025   -  Classement-au-7-avril-2025-1.pdf-252aec357a.pd
+  [263/966] 2023   quomodo_club {'bouts': 14, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  Classement-des-officiels-internationaux-par-li
+  [264/966] 2024   quomodo_club {'bouts': 15, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  Classement-des-officiels-internationaux-par-li
+  [265/966] 2025   quomodo_club {'bouts': 12, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  Classement-des-officiels-internationaux-par-li
+  [266/966] 2023   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Classement-des-officiels-nationaux-par-Ligue-2
+  [267/966] 2024   -  Classement-des-officiels-nationaux-par-Ligue-2
+  [268/966] 2023   quomodo_club {'bouts': 11, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  Classement-des-officiels-savate-pro-par-ligue-
+  [269/966] 2024   quomodo_club {'bouts': 11, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  Classement-des-officiels-savate-pro-par-ligue-
+  [270/966] 2025   quomodo_club {'bouts': 11, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  Classement-des-officiels-savate-pro-par-ligue-
+  [271/966] 2023   -  Classement-national-2022-2023.pdf-ef3743b992.p
+  [272/966]        -  Classement-national-base22-23.pdf-68ca5a3167.p
+  [273/966]        ffsavate_sheets {'bouts': 28, 'placings': 0, 'categories': 10, 'decided': 0, 'problems': 23}  Copie-de-ACADEMIQUES-8-02-24.pdf-461aa874b1.pd
+  [274/966] 2020   -  Cyclisme_sur_Route_Coupe_-202005.pdf-0488f3982
+  [275/966]        quomodo_club {'bouts': 15, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 8}  DEROULT-20ELITE-20B.pdf-3211062a4a.pdf
+  [276/966]        quomodo_club {'bouts': 193, 'placings': 0, 'categories': 13, 'decided': 0, 'problems': 9}  DEROULT-ELITE-MF-1ERE-PHASEV5.pdf-97ecee51f8.p
+  [277/966]        savate_weight_list {'bouts': 0, 'placings': 1, 'categories': 1, 'decided': 0, 'problems': 8}  DEROULT_ELITE_2_phase.pdf-78fbf244a7.pdf
+  [278/966] 2024   ffsavate_sheets {'bouts': 7, 'placings': 0, 'categories': 5, 'decided': 0, 'problems': 3}  DONZERE-PREMIUM-Elite-A-2024-3.pdf-17a7c626bf.
+  [279/966] 2023   savate_jp {'bouts': 25, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Directives-Techniques-2022-2023_FINAL-1.pdf-f3
+  [280/966]        quomodo_club {'bouts': 18, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 7}  Dossier-20Competition-20v9-20--20Livret-20Open
+  [281/966] 2020   -  EQUIPES-20--20CFU-20SAVATE-202007.xls-e7ec94cb
+  [282/966]        savate_weight_list {'bouts': 0, 'placings': 3, 'categories': 1, 'decided': 0, 'problems': 6}  ESCALADE_RESULTATS.pdf-1d82eee56d.pdf
+  [283/966]        savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Evidencija-natjecanja-i-rezultata.pdf-c9f5ae5e
+  [284/966]        savate_jp {'bouts': 2, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  FINALES-CHAMPIONNAT-DE-FRANCE-PREMIUM-ET-JUNIO
+  [285/966] 2023   savate_jp {'bouts': 3, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Fascicule-debut-saison-2022-2023v14_-_Resultat
+  [286/966]        -  Finales-EA-EB-a-Marseille-resultats.pdf-fa27e2
+  [287/966] 2023   ffsavate_sheets {'bouts': 73, 'placings': 0, 'categories': 38, 'decided': 0, 'problems': 135}  France-Jeunes-2023-resultats-1.pdf-95d6db7f45.
+  [288/966] 2023   ffsavate_sheets {'bouts': 73, 'placings': 0, 'categories': 38, 'decided': 0, 'problems': 135}  France-Jeunes-2023-resultats-2.pdf-0d1848f4de.
+  [289/966] 2023   ffsavate_sheets {'bouts': 73, 'placings': 0, 'categories': 38, 'decided': 0, 'problems': 135}  France-Jeunes-2023-resultats-3.pdf-7c81582447.
+  [290/966] 2023   ffsavate_sheets {'bouts': 73, 'placings': 0, 'categories': 38, 'decided': 0, 'problems': 135}  France-Jeunes-2023-resultats-4.pdf-eeefbef501.
+  [291/966] 2023   ffsavate_sheets {'bouts': 73, 'placings': 0, 'categories': 38, 'decided': 0, 'problems': 135}  France-Jeunes-2023-resultats.pdf-e41b321596.pd
+  [292/966] 2024   savate_podium_words {'bouts': 0, 'placings': 111, 'categories': 37, 'decided': 0, 'problems': 0}  France-jeunes-2024-Resultats-1.pdf-ee831c18d4.
+  [293/966] 2024   savate_podium_words {'bouts': 0, 'placings': 111, 'categories': 37, 'decided': 0, 'problems': 0}  France-jeunes-2024-Resultats-2.pdf-b4ec138b7c.
+  [294/966] 2024   savate_podium_words {'bouts': 0, 'placings': 111, 'categories': 37, 'decided': 0, 'problems': 0}  France-jeunes-2024-Resultats.pdf-b4582b9eb5.pd
+  [295/966]        srbija_sheets {'bouts': 0, 'placings': 8, 'categories': 7, 'decided': 0, 'problems': 6}  IZVGRCKA.doc-e15c734093
+  [296/966]        srbija_sheets {'bouts': 0, 'placings': 4, 'categories': 4, 'decided': 0, 'problems': 5}  IZVSP.pdf-e296e57568.pdf
+  [297/966]        -  IdEvento-1614-ed41ce1950
+  [298/966]        -  IdEvento-1989-d0f2eb1baa
+  [299/966]        -  IdEvento-2835-8e31211033
+  [300/966]        -  IdEvento-2947-0a58b2b550
+  [301/966]        -  IdEvento-3433-ceaba3eef5
+  [302/966]        -  IdEvento-3439-2447a0ade8
+  [303/966]        -  IdEvento-4025-4b0e5bcff0
+  [304/966]        -  IdEvento-725-ff6e701441
+  [305/966]        savate_jp {'bouts': 3, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  International-Savate-Tournament.pdf-42ec3f3af5
+  [306/966] 2020   -  J-20.Filles-20--20CFU-20SAVATE-20INDIVIDUEL-20
+  [307/966] 2020   -  JGens-20--20CFU-20SAVATE-20INDIVIDUEL-202007.x
+  [308/966] 2015   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  KONA-NA-RANG-LISTA-KANDIDATA-2015..pdf-bc142ab
+  [309/966]        ffsavate_bouts {'bouts': 2, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 2}  Livret-12-Finales-ELITE-B.pdf-5051666c20.pdf
+  [310/966]        savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 1}  Livret-2F-V1-PLESCOP-RESULTAT-.pdf-8e3e3a1b49.
+  [311/966]        quomodo_club {'bouts': 43, 'placings': 0, 'categories': 15, 'decided': 0, 'problems': 11}  Livret-2eme-Serie-Torreilles-V5.pdf-076e643deb
+  [312/966]        savate_misc {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 10}  Livret-2eme-serie-M-Finales-2.pdf-d1278d61b7.p
+  [313/966]        savate_misc {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 10}  Livret-2eme-serie-M-Finales.pdf-d650011cf7.pdf
+  [314/966]        ffsavate_finals {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 7}  Livret-2eme-serie-M-Resultat-BRUNOY.pdf-1b38fa
+  [315/966]        ffsavate_bouts {'bouts': 28, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 31}  Livret-2eme-serie-M-V5.pdf-1e6bf25459.pdf
+  [316/966] 2024   quomodo_club {'bouts': 71, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 9}  Livret-Assaut-Calais-2024-1.pdf-b85ba8573a.pdf
+  [317/966]        quomodo_club {'bouts': 71, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 10}  Livret-Assaut-V4.pdf-6a76ccb00d.pdf
+  [318/966] 2024   -  Livret-Champ-Fr-Jeunes-2024.pdf-6b13417b0d.pdf
+  [319/966]        quomodo_club {'bouts': 19, 'placings': 0, 'categories': 7, 'decided': 0, 'problems': 9}  Livret-Combat-F-V5.pdf-175e45d6c3.pdf
+  [320/966] 2023   ffsavate_bouts {'bouts': 18, 'placings': 10, 'categories': 5, 'decided': 0, 'problems': 0}  Livret-Coupe-de-France-Assaut-2023.pdf-4c970f4
+  [321/966] 2024   quomodo_club {'bouts': 25, 'placings': 0, 'categories': 15, 'decided': 0, 'problems': 11}  Livret-ELITE-A-2024-1.pdf-5ff9984d2d.pdf
+  [322/966] 2024   quomodo_club {'bouts': 25, 'placings': 0, 'categories': 15, 'decided': 0, 'problems': 11}  Livret-ELITE-A-2024-vDemiF.pdf-66cd56f103.pdf
+  [323/966] 2024   quomodo_club {'bouts': 25, 'placings': 0, 'categories': 15, 'decided': 0, 'problems': 11}  Livret-ELITE-A-2024.pdf-627baed703.pdf
+  [324/966] 2023   quomodo_club {'bouts': 29, 'placings': 0, 'categories': 14, 'decided': 0, 'problems': 11}  Livret-ELITE-A-MF-2023-v9.pdf-160978fff5.pdf
+  [325/966]        ffsavate_bouts {'bouts': 6, 'placings': 12, 'categories': 5, 'decided': 0, 'problems': 1}  Livret-ELITE-A-RESULTAT-Armentieres.pdf-7ade9b
+  [326/966]        savate_misc {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 10}  Livret-ELITE-A-St-Christol-les-Ales.pdf-d4bd91
+  [327/966]        savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 8}  Livret-ELITE-A-Vandoeuvre.pdf-9ab16e71a4.pdf
+  [328/966]        quomodo_club {'bouts': 16, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 14}  Livret-ELITE-B-v5.pdf-695f3f1bc8.pdf
+  [329/966]        quomodo_club {'bouts': 15, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 13}  Livret-ELITE-B-v8.pdf-7ff71ac75c.pdf
+  [330/966]        savate_misc {'bouts': 15, 'placings': 30, 'categories': 15, 'decided': 0, 'problems': 17}  Livret-Finales-2eme-Serie-Angouleme-V1.pdf-45a
+  [331/966]        savate_misc {'bouts': 15, 'placings': 30, 'categories': 15, 'decided': 0, 'problems': 17}  Livret-Finales-2eme-Serie-Angouleme-V2.pdf-495
+  [332/966]        savate_misc {'bouts': 13, 'placings': 26, 'categories': 13, 'decided': 0, 'problems': 15}  Livret-Finales-2eme-Serie-Angouleme-V3.pdf-9b8
+  [333/966]        savate_misc {'bouts': 11, 'placings': 22, 'categories': 11, 'decided': 0, 'problems': 13}  Livret-Finales-ELITE-B-v1.pdf-d85a580e59.pdf
+  [334/966]        savate_misc {'bouts': 12, 'placings': 24, 'categories': 12, 'decided': 0, 'problems': 14}  Livret-Finales-ELITE-B-v2.pdf-eba038ed28.pdf
+  [335/966]        quomodo_club {'bouts': 12, 'placings': 24, 'categories': 12, 'decided': 0, 'problems': 1}  Livret-Finales-RESULTAT-ELITE-B-v2.pdf-f4407f3
+  [336/966] 2024   savate_misc {'bouts': 27, 'placings': 54, 'categories': 14, 'decided': 0, 'problems': 29}  Livret-Finales-Verdun-23-mars-2024-1.pdf-22bd0
+  [337/966] 2024   savate_misc {'bouts': 26, 'placings': 52, 'categories': 13, 'decided': 0, 'problems': 30}  Livret-Finales-Verdun-23-mars-2024.pdf-95a5999
+  [338/966]        savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 9}  Livret-JUNIORS-Finales-1.pdf-211c499d51.pdf
+  [339/966]        savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 9}  Livret-JUNIORS-Finales.pdf-3131d47b74.pdf
+  [340/966]        ffsavate_bouts {'bouts': 5, 'placings': 0, 'categories': 3, 'decided': 0, 'problems': 14}  Livret-Juniors-MAJ.pdf-4cc8289676.pdf
+  [341/966]        ffsavate_finals_wide {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 2}  Livret-Juniors-v-Finale.pdf-32843a5a72.pdf
+  [342/966] 2025   ffsavate_sheets {'bouts': 15, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 16}  Livret-Open-Automne-2025-v2.pdf-806d121f8e.pdf
+  [343/966] 2025   ffsavate_sheets {'bouts': 16, 'placings': 0, 'categories': 10, 'decided': 0, 'problems': 16}  Livret-Open-Automne-2025-v3.pdf-14bbc19adf.pdf
+  [344/966] 2025   ffsavate_sheets {'bouts': 15, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 14}  Livret-Open-Automne-2025.pdf-6be27dbde5.pdf
+  [345/966] 2023   savate_misc {'bouts': 6, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 12}  Livret-Open-dAutomne-2023.pdf-94d8a3765a.pdf
+  [346/966] 2023   savate_misc {'bouts': 6, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 12}  Livret-Open-dAutomne-2023v2.pdf-3abf3fbb71.pdf
+  [347/966] 2023   quomodo_club {'bouts': 15, 'placings': 16, 'categories': 7, 'decided': 0, 'problems': 7}  Livret-Open-dAutomne-2023vf.pdf-9e1660c9af.pdf
+  [348/966]        ffsavate_sheets {'bouts': 71, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 27}  Livret-Open-de-Francev2.pdf-66a129849d.pdf
+  [349/966] 2024   quomodo_club {'bouts': 25, 'placings': 0, 'categories': 12, 'decided': 0, 'problems': 7}  Livret-PREMIUM-2024-1.pdf-b59eba8c93.pdf
+  [350/966]        savate_misc {'bouts': 6, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 4}  Livret-PREMIUM-RESULTAT-Armentieres.pdf-4163b2
+  [351/966]        quomodo_club {'bouts': 25, 'placings': 0, 'categories': 12, 'decided': 0, 'problems': 7}  Livret-PREMIUM.pdf-2eeb892135.pdf
+  [352/966] 2023   quomodo_club {'bouts': 111, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 7}  Livret-Veterans-M-2023.pdf-61f5d7408c.pdf
+  [353/966]        quomodo_club {'bouts': 33, 'placings': 0, 'categories': 11, 'decided': 0, 'problems': 9}  Livret-Veterans-et-Coupe-de-France-v3.pdf-308c
+  [354/966] 2024   ffsavate_bouts {'bouts': 26, 'placings': 0, 'categories': 11, 'decided': 0, 'problems': 34}  Livret-de-competition-Barbezieux-2024.pdf-cda6
+  [355/966]        -  Livret-de-competition-CHAMPIONNAT-DE-FRANCE-IN
+  [356/966] 2025   ffsavate_bouts {'bouts': 79, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 87}  Livret-de-competition-Championnat-Assaut-2025-
+  [357/966] 2025   ffsavate_bouts {'bouts': 78, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 86}  Livret-de-competition-Championnat-Assaut-2025-
+  [358/966] 2025   ffsavate_bouts {'bouts': 77, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 85}  Livret-de-competition-Championnat-Assaut-2025-
+  [359/966] 2025   -  Livret-de-competition-Championnat-Assaut-2025-
+  [360/966] 2025   ffsavate_bouts {'bouts': 79, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 88}  Livret-de-competition-Championnat-Assaut-2025.
+  [361/966] 2026   ffsavate_bouts {'bouts': 37, 'placings': 0, 'categories': 13, 'decided': 0, 'problems': 47}  Livret-de-competition-Championnat-Veteran-2026
+  [362/966] 2026   ffsavate_bouts {'bouts': 36, 'placings': 0, 'categories': 13, 'decided': 0, 'problems': 46}  Livret-de-competition-Championnat-Veteran-2026
+  [363/966] 2026   ffsavate_bouts {'bouts': 38, 'placings': 0, 'categories': 13, 'decided': 0, 'problems': 47}  Livret-de-competition-Championnat-Veteran-2026
+  [364/966] 2025   quomodo_club {'bouts': 74, 'placings': 0, 'categories': 25, 'decided': 0, 'problems': 37}  Livret-de-competition-Championnat-de-France-Av
+  [365/966] 2025   quomodo_club {'bouts': 77, 'placings': 0, 'categories': 26, 'decided': 0, 'problems': 14}  Livret-de-competition-Championnat-de-France-Av
+  [366/966] 2025   quomodo_club {'bouts': 83, 'placings': 0, 'categories': 17, 'decided': 0, 'problems': 12}  Livret-de-competition-Championnat-de-France-Ca
+  [367/966] 2025   quomodo_club {'bouts': 80, 'placings': 0, 'categories': 17, 'decided': 0, 'problems': 15}  Livret-de-competition-Championnat-de-France-Ca
+  [368/966] 2025   quomodo_club {'bouts': 83, 'placings': 0, 'categories': 17, 'decided': 0, 'problems': 12}  Livret-de-competition-Championnat-de-France-Ca
+  [369/966]        quomodo_club {'bouts': 83, 'placings': 0, 'categories': 17, 'decided': 0, 'problems': 12}  Livret-de-competition-Championnat-de-France-Ca
+  [370/966]        quomodo_club {'bouts': 16, 'placings': 0, 'categories': 4, 'decided': 0, 'problems': 1}  Livret-de-competition-ELITE-B-La-cote-St-Andre
+  [371/966]        savate_misc {'bouts': 14, 'placings': 28, 'categories': 14, 'decided': 0, 'problems': 16}  Livret-de-competition-Finale-ELITE-B-Maubeuge.
+  [372/966]        savate_misc {'bouts': 14, 'placings': 28, 'categories': 14, 'decided': 0, 'problems': 16}  Livret-de-competition-Finales-2e-series-Rousie
+  [373/966] 2025   savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 9}  Livret-de-competition-JUNIORS-VIUZ-EN-SALLAZ-2
+  [374/966] 2025   quomodo_club {'bouts': 85, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 14}  Livret-de-competition-OPEN-DE-FRANCE-2025-v190
+  [375/966] 2025   quomodo_club {'bouts': 85, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 15}  Livret-de-competition-OPEN-DE-FRANCE-2025.pdf-
+  [376/966]        ffsavate_sheets {'bouts': 76, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 25}  Livret-de-competition-Open-assaut-a-Merignac.p
+  [377/966] 2025   ffsavate_bouts {'bouts': 12, 'placings': 0, 'categories': 7, 'decided': 0, 'problems': 16}  Livret-de-competition-Poules-JUNIORS-Merignac-
+  [378/966] 2025   ffsavate_bouts {'bouts': 33, 'placings': 0, 'categories': 12, 'decided': 0, 'problems': 38}  Livret-de-competition-Veteran-2025-v07.05.25.p
+  [379/966] 2026   ffsavate_sheets {'bouts': 72, 'placings': 0, 'categories': 41, 'decided': 0, 'problems': 20}  Livret-de-competition-championnat-Avenir-2026-
+  [380/966] 2026   ffsavate_sheets {'bouts': 70, 'placings': 0, 'categories': 40, 'decided': 0, 'problems': 22}  Livret-de-competition-championnat-Avenir-2026-
+  [381/966] 2026   ffsavate_sheets {'bouts': 67, 'placings': 0, 'categories': 41, 'decided': 0, 'problems': 22}  Livret-de-competition-championnat-Avenir-2026-
+  [382/966] 2026   ffsavate_sheets {'bouts': 73, 'placings': 0, 'categories': 41, 'decided': 0, 'problems': 42}  Livret-de-competition-championnat-Avenir-2026-
+  [383/966] 2026   ffsavate_sheets {'bouts': 73, 'placings': 0, 'categories': 41, 'decided': 0, 'problems': 40}  Livret-de-competition-championnat-Avenir-2026-
+  [384/966] 2026   ffsavate_sheets {'bouts': 72, 'placings': 0, 'categories': 41, 'decided': 0, 'problems': 39}  Livret-de-competition-championnat-Avenir-2026-
+  [385/966]        ffsavate_sheets {'bouts': 24, 'placings': 0, 'categories': 13, 'decided': 0, 'problems': 3}  Livret-de-competition-finale-Riaille-v2.pdf-3c
+  [386/966]        ffsavate_sheets {'bouts': 24, 'placings': 0, 'categories': 13, 'decided': 0, 'problems': 3}  Livret-de-competition-finale-Riaille-v3.pdf-b5
+  [387/966]        ffsavate_sheets {'bouts': 24, 'placings': 0, 'categories': 13, 'decided': 0, 'problems': 3}  Livret-de-competition-finale-Riaille.pdf-3f203
+  [388/966] 2026   savate_misc {'bouts': 8, 'placings': 16, 'categories': 6, 'decided': 0, 'problems': 9}  Livret-de-competition-finales-EA-EB-Marseille-
+  [389/966] 2026   savate_misc {'bouts': 8, 'placings': 16, 'categories': 6, 'decided': 0, 'problems': 9}  Livret-de-competition-finales-EA-EB-Marseille-
+  [390/966] 2025   savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 8}  Livret-de-competition-finales-ESPOIR-M-2025-V2
+  [391/966] 2025   savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 8}  Livret-de-competition-finales-ESPOIR-M-2025-V3
+  [392/966] 2025   savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 8}  Livret-de-competition-finales-ESPOIR-M-2025.pd
+  [393/966] 2026   savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 8}  Livret-de-competition-finales-Juniors-avril-20
+  [394/966] 2026   savate_misc {'bouts': 16, 'placings': 32, 'categories': 16, 'decided': 0, 'problems': 18}  Livret-de-competition-finales-assaut-2026.pdf-
+  [395/966]        ffsavate_bouts {'bouts': 74, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 83}  Livret-de-competition-open-assaut-individuel-C
+  [396/966]        ffsavate_sheets {'bouts': 72, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 13}  Livret-de-competition-open-assaut-individuel-C
+  [397/966]        ffsavate_sheets {'bouts': 78, 'placings': 0, 'categories': 16, 'decided': 0, 'problems': 13}  Livret-de-competition-open-assaut-individuel-C
+  [398/966] 2024   savate_misc {'bouts': 3, 'placings': 6, 'categories': 3, 'decided': 0, 'problems': 4}  Livret-de-competition-open-de-printemps-La-Fou
+  [399/966]        -  Livret-de-competition-open-de-printemps.pdf-7e
+  [400/966] 2026   -  Livret-de-competition-open-par-equipe-2026-v2.
+  [401/966] 2026   -  Livret-de-competition-open-par-equipe-2026-v3.
+  [402/966] 2026   -  Livret-de-competition-open-par-equipe-2026-v4.
+  [403/966] 2026   -  Livret-de-competition-open-par-equipe-2026-v5.
+  [404/966] 2026   -  Livret-de-competition-open-par-equipe-2026.pdf
+  [405/966] 2025   ffsavate_bouts {'bouts': 23, 'placings': 0, 'categories': 11, 'decided': 0, 'problems': 28}  Livret-de-competition_Open-dAutomne-2025-v5.pd
+  [406/966] 2025   ffsavate_bouts {'bouts': 23, 'placings': 0, 'categories': 11, 'decided': 0, 'problems': 27}  Livret-de-competition_Open-dAutomne-2025-v6-.p
+  [407/966] 2025   ffsavate_bouts {'bouts': 23, 'placings': 0, 'categories': 11, 'decided': 0, 'problems': 27}  Livret-de-competition_Open-dAutomne-2025-v6.pd
+  [408/966]        savate_jp {'bouts': 2, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Livret-de-competitions-25-26-v19.09.25.pdf-926
+  [409/966]        ffsavate_bouts {'bouts': 14, 'placings': 0, 'categories': 10, 'decided': 0, 'problems': 17}  Livret-des-competitions-v1-Open-dautomne.pdf-6
+  [410/966]        ffsavate_bouts {'bouts': 13, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 15}  Livret-des-competitions-v3-Open-dautomne.pdf-f
+  [411/966]        savate_misc {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 3}  Livret-espoir-RESULTAT-V1-PLESCOP-V2.pdf-d8b28
+  [412/966]        savate_misc {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 3}  Livret-espoir-RESULTAT-V1-PLESCOP.pdf-92b7c58d
+  [413/966]        savate_misc {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 10}  Livret-espoir-V2-PLESCOP.pdf-01186647d1.pdf
+  [414/966]        ffsavate_bouts {'bouts': 21, 'placings': 0, 'categories': 7, 'decided': 0, 'problems': 26}  Livret-espoir-V5.pdf-b73ae7708a.pdf
+  [415/966]        savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 8}  Livret-finales-2F-V1.pdf-b0bae1793c.pdf
+  [416/966]        savate_misc {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 10}  Livret-finales-espoir-V1.pdf-9100774255.pdf
+  [417/966]        savate_weight_list {'bouts': 0, 'placings': 73, 'categories': 24, 'decided': 0, 'problems': 31}  Livret2HenplusCollege-SAVATE-V3.pdf-26f3414a79
+  [418/966]        -  Medaglieri.pdf-fe2a45f300.pdf
+  [419/966]        -  ODP_champ_monde_titre.pdf-b994892f66.pdf
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [420/966]        srbija_sheets {'bouts': 0, 'placings': 42, 'categories': 16, 'decided': 0, 'problems': 0}  OPSOM5.doc-2de7aeddad.doc
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [421/966]        srbija_sheets {'bouts': 0, 'placings': 57, 'categories': 21, 'decided': 0, 'problems': 1}  OPVRU3.doc-bfb351b553.doc
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [422/966]        srbija_sheets {'bouts': 0, 'placings': 66, 'categories': 25, 'decided': 0, 'problems': 1}  OPVRU4.doc-b8376de64a.doc
+  [423/966]        -  OTChET-ChR-asso.pdf-b671d0f947.pdf
+  [424/966]        savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  OTChET-ChR-komba-1.pdf-a99b10953b.pdf
+  [425/966]        -  OTChET-PR-asso.pdf-f25dc36d52.pdf
+  [426/966]        -  OTChET-PR-komba.pdf-7ee4659e97.pdf
+  [427/966] 2025   -  Open-SF-2025-v2.pdf-499e48bc0b.pdf
+  [428/966]        ffsavate_sheets {'bouts': 23, 'placings': 0, 'categories': 11, 'decided': 0, 'problems': 2}  P.-20ELITE-20A-208-12-20JAPY.pdf-7310e10853.pd
+  [429/966]        savate_misc {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 11}  P.FINALES-ELITE-A-DUNKERQUE.pdf-29f1e49114.pdf
+  [430/966] 2024   savate_medal_list {'bouts': 0, 'placings': 22, 'categories': 10, 'decided': 0, 'problems': 0}  PH-combat-i-precombat-2024.-Split.pdf-7e5ed995
+  [431/966] 2019   -  PLASMAN-KLUBOVA-NA-PRVENSTVIMA-VOJVODINE-U-201
+  [432/966]        -  POULES_JUNIORS.pdf-11580c9815.pdf
+  [433/966]        -  POULES_JUNIORS.pdf-256a7b5d89.pdf
+  [434/966] 2015   -  PRELIMINARNA-RANG-LISTA-HSS-a-2015.pdf-a00ce37
+  [435/966] 2016   -  PRELIMINARNA-RANG-LISTA-HSS-a-2016..pdf-908cf2
+  [436/966] 2022   -  PRILOZI-za-Skupstinu_najuspesniji2022.pdf-6fb1
+  [437/966] 2024   -  PRILOZIskupstina2024_NAJUSPESNIJI-2024.pdf-0d4
+  [438/966] 2023   -  Plateau-Finales-C2M-Merignac-25032023-V2.pdf-1
+  [439/966]        ffsavate_finals_wide {'bouts': 22, 'placings': 44, 'categories': 13, 'decided': 0, 'problems': 23}  Plateau-Merignac.pdf-1370b75785.pdf
+  [440/966] 2019   savate_jp {'bouts': 2, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Preliminarna-Rang-lista-2018.-2019..pdf-de983c
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [441/966]        srbija_sheets {'bouts': 0, 'placings': 34, 'categories': 12, 'decided': 0, 'problems': 3}  PrvRU.doc-41bb449d6c.doc
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [442/966]        srbija_sheets {'bouts': 0, 'placings': 51, 'categories': 19, 'decided': 0, 'problems': 3}  PrvRU1.doc-9cbe4cd202.doc
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [443/966]        srbija_sheets {'bouts': 0, 'placings': 42, 'categories': 17, 'decided': 0, 'problems': 3}  PrvRU4.doc-31b6a39e4e.doc
+  [444/966]        srbija_sheets {'bouts': 0, 'placings': 59, 'categories': 18, 'decided': 0, 'problems': 2}  PrvSBG.doc-0a0b1f21a6.doc
+  [445/966]        srbija_sheets {'bouts': 0, 'placings': 82, 'categories': 32, 'decided': 0, 'problems': 1}  PrvSBG1.doc-51bca62115
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [446/966]        srbija_sheets {'bouts': 0, 'placings': 28, 'categories': 11, 'decided': 0, 'problems': 4}  PrvSM.doc-cb6c17c06c.doc
+  [447/966]        srbija_sheets {'bouts': 0, 'placings': 84, 'categories': 33, 'decided': 0, 'problems': 0}  PrvVRU.doc-dd5e026494.doc
+  [448/966] 2020   quomodo_club {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 1}  R--20FINALES-20ELITE-20B-20--2027-20JANV-20201
+  [449/966]        ffsavate_sheets {'bouts': 6, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 1}  R--20Finales-20CHPT-20DE-20FRANCE-20ELITE-20B.
+  [450/966] 2020   quomodo_club {'bouts': 25, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 0}  R--20TOURNOIS-20DE-20FRANCE-20SENIORS-20M-F-20
+  [451/966] 2020   quomodo_club {'bouts': 175, 'placings': 32, 'categories': 16, 'decided': 0, 'problems': 2}  R-20--20ASSAUT-202021.pdf-14c2853310.pdf
+  [452/966] 2020   quomodo_club {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 1}  R-20--20Finales-20COMBAT-20FEM-202019.pdf-56fc
+  [453/966]        quomodo_club {'bouts': 14, 'placings': 28, 'categories': 14, 'decided': 0, 'problems': 1}  R-20--20Finales-20ELITE-20A.pdf-93b19e7eb2.pdf
+  [454/966] 2020   quomodo_club {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 0}  R-20--20Finales-20ESPOIRS-202019.pdf-1d10501df
+  [455/966] 2020   quomodo_club {'bouts': 5, 'placings': 10, 'categories': 5, 'decided': 0, 'problems': 0}  R-20--20Finales-20JUNIORS-202019.pdf-660807d93
+  [456/966] 2020   ffsavate_sheets {'bouts': 18, 'placings': 36, 'categories': 10, 'decided': 0, 'problems': 1}  R-20--20OPEN-20AUTOMNE-202021.pdf-6f72448e13.p
+  [457/966]        ffsavate_sheets {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 1}  R-20FINALES-20ELITE-20A-20MF-20--20LONGWY.pdf-
+  [458/966] 2020   quomodo_club {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 1}  R-20FRANCE-20JUNIORS-202015.pdf-4e0cc81709.pdf
+  [459/966] 2020   ffsavate_sheets {'bouts': 14, 'placings': 28, 'categories': 14, 'decided': 0, 'problems': 1}  R-20finales-20ESPOIRS-20MF-20--2013-20FEVRIER-
+  [460/966]        ffsavate_sheets {'bouts': 11, 'placings': 0, 'categories': 10, 'decided': 0, 'problems': 0}  R-DF-ELITE-A-BEAUMONT.pdf-71579d270f.pdf
+  [461/966]        ffsavate_sheets {'bouts': 12, 'placings': 0, 'categories': 10, 'decided': 0, 'problems': 0}  R-NANTES.pdf-fc89a21b42.pdf
+  [462/966] 2023   ffsavate_sheets {'bouts': 9, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 3}  R-Open-dAutomne-2023-1.pdf-481a0d1e24.pdf
+  [463/966] 2023   ffsavate_sheets {'bouts': 8, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 3}  R-Open-dAutomne-2023.pdf-03634b6b43.pdf
+  [464/966] 2023   ffsavate_sheets {'bouts': 39, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 6}  R-TQ-Elite-B-2023-1.pdf-76438f659e.pdf
+  [465/966] 2023   ffsavate_sheets {'bouts': 39, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 6}  R-TQ-Elite-B-2023-V2.pdf-84de7dcb01.pdf
+  [466/966] 2023   ffsavate_sheets {'bouts': 39, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 6}  R-TQ-Elite-B-2023.pdf-8f4b13f04c.pdf
+  [467/966]        ffsavate_sheets {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 2}  R.-20FINALES-20ELITE-20A-20F-20CAMBRAI.pdf-5fb
+  [468/966]        ffsavate_sheets {'bouts': 13, 'placings': 0, 'categories': 10, 'decided': 0, 'problems': 2}  R.AGEN.pdf-9ade6a7b69.pdf
+  [469/966]        ffsavate_sheets {'bouts': 15, 'placings': 0, 'categories': 10, 'decided': 0, 'problems': 2}  R.CAMBRAI.pdf-74d4bc0598.pdf
+  [470/966]        ffsavate_sheets {'bouts': 6, 'placings': 0, 'categories': 5, 'decided': 0, 'problems': 1}  R.ELITE-A-JAPY-2801.pdf-ffebeb3218.pdf
+  [471/966]        ffsavate_sheets {'bouts': 23, 'placings': 0, 'categories': 13, 'decided': 0, 'problems': 1}  R.ELITE-A-MARSEILLE.pdf-e6fb859465.pdf
+  [472/966]        ffsavate_sheets {'bouts': 9, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 2}  R.ELITE-A-MF-WIGNEHIES.pdf-3b0a907db2.pdf
+  [473/966]        ffsavate_sheets {'bouts': 11, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 1}  R.ELITE-A-NANTES-2801.pdf-7693146771.pdf
+  [474/966]        ffsavate_sheets {'bouts': 12, 'placings': 0, 'categories': 11, 'decided': 0, 'problems': 1}  R.ELITE-A-TOULOUSE-FEV.pdf-cf0dc5898e.pdf
+  [475/966]        ffsavate_sheets {'bouts': 8, 'placings': 0, 'categories': 7, 'decided': 0, 'problems': 1}  R.ELITEA-JAPY-1911.pdf-e6dad6cc4d.pdf
+  [476/966]        ffsavate_sheets {'bouts': 13, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 0}  R.ELITEA-PLESCOP.pdf-4fc3f869d1.pdf
+  [477/966]        ffsavate_sheets {'bouts': 17, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 0}  R.ELITEA-VANDOEUVRE.pdf-ad955f5971.pdf
+  [478/966] 2019   ffsavate_sheets {'bouts': 12, 'placings': 0, 'categories': 5, 'decided': 0, 'problems': 1}  R.ESPOIRS-2019-20JANV-20JAPY.pdf-a05a242978.pd
+  [479/966]        ffsavate_sheets {'bouts': 5, 'placings': 0, 'categories': 4, 'decided': 0, 'problems': 0}  R.QF-ELITE-A-MF-2502.pdf-b6f89567f7.pdf
+  [480/966]        ffsavate_sheets {'bouts': 12, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 1}  R.VANNES.pdf-69e5f9d686.pdf
+  [481/966] 2011   ffsavate_sheets {'bouts': 19, 'placings': 0, 'categories': 10, 'decided': 0, 'problems': 1}  R.pouchet-5nov2011.pdf-d2a2ec3d53.pdf
+  [482/966] 2020   ffsavate_finals {'bouts': 15, 'placings': 30, 'categories': 14, 'decided': 0, 'problems': 20}  RESULT-20TQ-20-20JUN-20europe-202018.compresse
+  [483/966] 2023   ffsavate_finals {'bouts': 11, 'placings': 22, 'categories': 9, 'decided': 0, 'problems': 8}  RESULTATS-11-MARS-2023-ELITE-A.pdf-ab7d4a4c8d.
+  [484/966] 2023   ffsavate_finals {'bouts': 5, 'placings': 10, 'categories': 3, 'decided': 0, 'problems': 3}  RESULTATS-11-MARS-2023-PREMIUM.pdf-e687054b1f.
+  [485/966] 2020   -  RESULTATS-20CFU-20SAVATE-202009.xls-f48712c715
+  [486/966]        ffsavate_sheets {'bouts': 14, 'placings': 28, 'categories': 14, 'decided': 0, 'problems': 2}  RESULTATS-20ESPOIRS-20MF.pdf-64ebda4218.pdf
+  [487/966] 2020   quomodo_club {'bouts': 16, 'placings': 32, 'categories': 16, 'decided': 0, 'problems': 1}  RESULTATS-20FINALES-20ESPOIRS-20M-F-202015-202
+  [488/966] 2020   savate_tabular_pdf {'bouts': 0, 'placings': 32, 'categories': 8, 'decided': 0, 'problems': 1}  RESULTATS-20HOMMES-20ASSAUT-202008.pdf-2588751
+  [489/966]        ffsavate_bouts {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 1}  RESULTATS-CHAMPIONNAT-DE-FRANCE-ELITE-A-St-Chr
+  [490/966]        ffsavate_sheets {'bouts': 13, 'placings': 20, 'categories': 13, 'decided': 0, 'problems': 3}  RESULTATS-COUBERTIN1.pdf-fe1e4d20c2.pdf
+  [491/966] 2022   universitaire {'bouts': 0, 'placings': 34, 'categories': 12, 'decided': 0, 'problems': 0}  RESULTATS-Championnat-Universitaire-2022.pdf-6
+  [492/966] 2024   -  RESULTATS-DES-CHAMPIONNATS-DE-FRANCE-CNCCB-202
+  [493/966] 2020   savate_tabular_pdf {'bouts': 0, 'placings': 27, 'categories': 7, 'decided': 0, 'problems': 1}  RESULTS-20WOMEN-20ASSAUT-202008.pdf-d4e266519a
+  [494/966]        savate_jp {'bouts': 3, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  REVRED.pdf-22d52c826f.pdf
+  [495/966] 2012   -  REZM2012.doc-6d2f0a25c7
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [496/966]        srbija_sheets {'bouts': 0, 'placings': 3, 'categories': 2, 'decided': 0, 'problems': 8}  REZSOFIJA.doc-d647cb85c7
+  [497/966]        savate_weight_list {'bouts': 0, 'placings': 63, 'categories': 22, 'decided': 0, 'problems': 9}  REZULTATI_-C5-BDABALJ.pdf-6cac3a4c8a.pdf
+  [498/966]        savate_weight_list {'bouts': 0, 'placings': 65, 'categories': 25, 'decided': 0, 'problems': 3}  REZULTATI_KIKINDA_.pdf-070ed0f164.pdf
+  [499/966]        savate_weight_list {'bouts': 0, 'placings': 50, 'categories': 17, 'decided': 0, 'problems': 3}  REZULTATI_MOKRIN.pdf-a8e7a2619b.pdf
+  [500/966]        savate_weight_list {'bouts': 0, 'placings': 82, 'categories': 26, 'decided': 0, 'problems': 5}  REZULTATI_SENTA.pdf-53c306a7a9.pdf
+  [501/966]        savate_weight_list {'bouts': 0, 'placings': 55, 'categories': 20, 'decided': 0, 'problems': 4}  REZULTATI_ZABALJ.pdf-536a7d6347.pdf
+  [502/966] 2024   srbija_sheets {'bouts': 0, 'placings': 51, 'categories': 14, 'decided': 0, 'problems': 5}  REZULTATI_ZABALJ_28.04.2024.pdf-405ecf0bdd.pdf
+  [503/966]        -  RLA_tableau-synoptique-des-officiels-1.pdf-fc4
+  [504/966] 2020   quomodo_club {'bouts': 15, 'placings': 2, 'categories': 15, 'decided': 0, 'problems': 1}  Repartition-20Finales-20Europe-202018.pdf-22fb
+  [505/966] 2023   ffsavate_finals_wide {'bouts': 7, 'placings': 14, 'categories': 5, 'decided': 0, 'problems': 0}  Resulats-Demi-Finales-Elite-A-Samedi-18-mars-2
+  [506/966] 2023   ffsavate_finals_wide {'bouts': 4, 'placings': 8, 'categories': 3, 'decided': 0, 'problems': 0}  Resulats-Demi-Finales-PREMIUM-Samedi-18-mars-2
+  [507/966]        ffsavate_bouts {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 1}  Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-JUNIORS-
+  [508/966] 2024   ffsavate_bouts {'bouts': 12, 'placings': 24, 'categories': 12, 'decided': 0, 'problems': 0}  Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-PREMIUM-
+  [509/966] 2022   -  Resulats-de-la-Coupe-Letessier-SBF-020223.pdf-
+  [510/966] 2024   ffsavate_finals_wide {'bouts': 4, 'placings': 8, 'categories': 4, 'decided': 0, 'problems': 4}  Resultat-Albertville-PREMIUM-Elite-A-2024-1.pd
+  [511/966] 2024   ffsavate_finals_wide {'bouts': 4, 'placings': 8, 'categories': 4, 'decided': 0, 'problems': 4}  Resultat-Albertville-PREMIUM-Elite-A-2024-2.pd
+  [512/966] 2024   savate_misc {'bouts': 6, 'placings': 12, 'categories': 5, 'decided': 0, 'problems': 2}  Resultat-Albertville-PREMIUM-Elite-A-2024.pdf-
+  [513/966]        ffsavate_sheets {'bouts': 0, 'placings': 170, 'categories': 39, 'decided': 0, 'problems': 5}  Resultat-Championnat-Avenir-juin-205.pdf-b8487
+  [514/966] 2024   ffsavate_sheets {'bouts': 11, 'placings': 0, 'categories': 6, 'decided': 0, 'problems': 2}  Resultat-DONZERE-PREMIUM-Elite-A-2024.pdf-2f74
+  [515/966] 2026   ffsavate_sheets {'bouts': 17, 'placings': 0, 'categories': 17, 'decided': 0, 'problems': 3}  Resultat-cadets-2026.pdf-0a8df444bb.pdf
+  [516/966] 2025   ffsavate_finals_wide {'bouts': 17, 'placings': 34, 'categories': 17, 'decided': 0, 'problems': 1}  Resultat-du-championnat-cadet-F-M-2025.pdf-3bd
+  [517/966] 2012   ffsavate_sheets {'bouts': 15, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Resultats-20-2022_23-12-2012-20FFSBF-20et-20DA
+  [518/966] 2020   quomodo_club {'bouts': 275, 'placings': 32, 'categories': 16, 'decided': 0, 'problems': 1}  Resultats-20ASSAUT-202018.pdf-8ea4ca6a22.pdf
+  [519/966] 2020   quomodo_club {'bouts': 0, 'placings': 72, 'categories': 36, 'decided': 0, 'problems': 2}  Resultats-20JEUNES-202018.pdf-3bd3475903.pdf
+  [520/966]        ffsavate_finals_wide {'bouts': 6, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 8}  Resultats-20Veterans.pdf-c8cd338021.pdf
+  [521/966]        ffsavate_sheets {'bouts': 113, 'placings': 0, 'categories': 14, 'decided': 0, 'problems': 2}  Resultats-2S-FM-Torreilles.pdf-f8e4852319.pdf
+  [522/966]        ffsavate_sheets {'bouts': 15, 'placings': 0, 'categories': 12, 'decided': 0, 'problems': 0}  Resultats-Beaumont-Les-Valence.pdf-e0ccc3399f.
+  [523/966]        ffsavate_sheets {'bouts': 76, 'placings': 0, 'categories': 1, 'decided': 0, 'problems': 0}  Resultats-C2M.pdf-6b2e412952.pdf
+  [524/966] 2025   -  Resultats-Challenge-JV-2025-v2.pdf-30571ad756.
+  [525/966] 2025   -  Resultats-Challenge-JV-2025.pdf-70d2958c44.pdf
+  [526/966] 2026   savate_podium_words {'bouts': 0, 'placings': 17, 'categories': 17, 'decided': 0, 'problems': 1}  Resultats-Championnat-dEurope-Jeunes-2026.pdf-
+  [527/966]        -  Resultats-Championnat-de-France-U-NSS-Boxe-Fra
+  [528/966] 2025   -  Resultats-Championnats-de-France-Individuel-de
+  [529/966] 2023   ffsavate_bouts {'bouts': 18, 'placings': 10, 'categories': 5, 'decided': 0, 'problems': 1}  Resultats-Coupe-de-France-Assaut-2023.pdf-ccaa
+  [530/966] 2026   ffsavate_finals_wide {'bouts': 8, 'placings': 16, 'categories': 4, 'decided': 0, 'problems': 5}  Resultats-Dieppe-10.01.2026-.pdf-697a9e8cc2.pd
+  [531/966] 2024   ffsavate_bouts {'bouts': 8, 'placings': 16, 'categories': 7, 'decided': 0, 'problems': 1}  Resultats-ELITE-A-Vandoeuvre-mars-2024.pdf-3ae
+  [532/966]        ffsavate_sheets {'bouts': 8, 'placings': 0, 'categories': 5, 'decided': 0, 'problems': 0}  Resultats-Elite-A-CLERMONT.pdf-f4c646d0a6.pdf
+  [533/966]        ffsavate_sheets {'bouts': 13, 'placings': 24, 'categories': 13, 'decided': 0, 'problems': 2}  Resultats-Elite-A-Coubertin.pdf-e3cfe9b29d.pdf
+  [534/966]        ffsavate_sheets {'bouts': 7, 'placings': 0, 'categories': 5, 'decided': 0, 'problems': 1}  Resultats-Elite-A-Maubeuge.pdf-e4b9d4cb35.pdf
+  [535/966]        -  Resultats-FINALES-ESPOIRS-M-a-La-Cote-St-Andre
+  [536/966]        ffsavate_finals {'bouts': 15, 'placings': 30, 'categories': 15, 'decided': 0, 'problems': 2}  Resultats-Finales-2eme-Serie-Angouleme-V2.pdf-
+  [537/966]        ffsavate_finals {'bouts': 15, 'placings': 30, 'categories': 15, 'decided': 0, 'problems': 14}  Resultats-Finales-2eme-Serie-Angouleme.pdf-005
+  [538/966] 2023   ffsavate_sheets {'bouts': 73, 'placings': 0, 'categories': 38, 'decided': 0, 'problems': 136}  Resultats-France-Jeunes-2023-resultats.docx.pd
+  [539/966]        -  Resultats-INTERNATIONAUX-DE-FRANCE-25.pdf-e726
+  [540/966]        ffsavate_finals_wide {'bouts': 22, 'placings': 44, 'categories': 22, 'decided': 0, 'problems': 1}  Resultats-Merignac-.pdf-f79c2491dc.pdf
+  [541/966]        ffsavate_sheets {'bouts': 28, 'placings': 0, 'categories': 15, 'decided': 0, 'problems': 2}  Resultats-Merignac.pdf-c209142798.pdf
+  [542/966] 2026   ffsavate_finals_wide {'bouts': 21, 'placings': 42, 'categories': 21, 'decided': 0, 'problems': 41}  Resultats-Minimes-Championnats-de-France-2026-
+  [543/966]        ffsavate_sheets {'bouts': 84, 'placings': 0, 'categories': 12, 'decided': 0, 'problems': 3}  Resultats-Montelimar.pdf-7ae8f38e2e.pdf
+  [544/966] 2025   ffsavate_finals {'bouts': 16, 'placings': 32, 'categories': 16, 'decided': 0, 'problems': 1}  Resultats-OPEN-DE-FRANCE-INDIVIDUEL-EQUIPE-202
+  [545/966] 2024   ffsavate_bouts {'bouts': 16, 'placings': 32, 'categories': 16, 'decided': 0, 'problems': 2}  Resultats-Open-de-France-assaut-2024.pdf-4bf50
+  [546/966]        ffsavate_bouts {'bouts': 2, 'placings': 4, 'categories': 2, 'decided': 0, 'problems': 1}  Resultats-Open-de-France-de-printemps.pdf-e4ee
+  [547/966] 2025   -  Resultats-Open-de-France-savate-forme-2025.pdf
+  [548/966] 2026   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Resultats-Open-de-France-savate-forme-2026.pdf
+  [549/966] 2026   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Resultats-Open-par-equipe-2026.pdf-b2fa33110f.
+  [550/966]        ffsavate_sheets {'bouts': 4, 'placings': 0, 'categories': 3, 'decided': 0, 'problems': 0}  Resultats-PREMIUM-Clermont-Ferrand.pdf-27427d8
+  [551/966]        ffsavate_sheets {'bouts': 5, 'placings': 0, 'categories': 3, 'decided': 0, 'problems': 0}  Resultats-PREMIUM-Maubeuge.pdf-ca3cff1505.pdf
+  [552/966]        ffsavate_sheets {'bouts': 22, 'placings': 0, 'categories': 22, 'decided': 0, 'problems': 0}  Resultats-RIAILLE-31-01-26.pdf-8c200fb84f.pdf
+  [553/966] 2026   ffsavate_sheets {'bouts': 9, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 0}  Resultats-St-Yrieix-sur-charente-mars-2026-.pd
+  [554/966]        ffsavate_sheets {'bouts': 56, 'placings': 0, 'categories': 7, 'decided': 0, 'problems': 1}  Resultats-TQ-Espoirs-Merignac.pdf-6665c14de2.p
+  [555/966]        ffsavate_sheets {'bouts': 24, 'placings': 0, 'categories': 4, 'decided': 0, 'problems': 3}  Resultats-TQ-JUNIORS-Merignac-1.pdf-24bce66413
+  [556/966]        ffsavate_sheets {'bouts': 24, 'placings': 0, 'categories': 4, 'decided': 0, 'problems': 1}  Resultats-TQ-JUNIORS-Merignac.pdf-8083a46a77.p
+  [557/966] 2024   -  Resultats-UNSS-2024-Meze.pdf-887878f37b.pdf
+  [558/966]        ffsavate_sheets {'bouts': 9, 'placings': 0, 'categories': 7, 'decided': 0, 'problems': 1}  Resultats-Verdun-07.03.26.pdf-81263c76ef.pdf
+  [559/966]        ffsavate_bouts {'bouts': 8, 'placings': 16, 'categories': 8, 'decided': 0, 'problems': 2}  Resultats-Verdun-CHAMPIONNAT-DE-FRANCE-2e-seri
+  [560/966] 2023   ffsavate_bouts {'bouts': 85, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 1}  Resultats-Veterans-M-2023.pdf-1656d62944.pdf
+  [561/966] 2024   -  Resultats-challenge-national-2024-CNCCB.pdf-2f
+  [562/966] 2025   ffsavate_finals_wide {'bouts': 16, 'placings': 32, 'categories': 16, 'decided': 0, 'problems': 1}  Resultats-championnat-ASSAUT-2025.pdf-58d79a20
+  [563/966] 2025   ffsavate_finals {'bouts': 12, 'placings': 24, 'categories': 12, 'decided': 0, 'problems': 1}  Resultats-championnat-Veterans-2025.pdf-24b1c9
+  [564/966] 2026   -  Resultats-championnat-par-equipe-2026.pdf-486e
+  [565/966]        ffsavate_bouts {'bouts': 11, 'placings': 22, 'categories': 11, 'decided': 0, 'problems': 2}  Resultats-finales-Barbezieux.pdf-6b5d07f3f3.pd
+  [566/966] 2026   ffsavate_sheets {'bouts': 8, 'placings': 0, 'categories': 8, 'decided': 0, 'problems': 1}  Resultats-finales-ELITE-A-et-ELITE-B-Vandoeuvr
+  [567/966]        ffsavate_finals {'bouts': 15, 'placings': 30, 'categories': 15, 'decided': 0, 'problems': 1}  Resultats-finales-ELITE-A.pdf-45e9ea7f1b.pdf
+  [568/966] 2025   ffsavate_finals {'bouts': 7, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 1}  Resultats-finales-JUNIORS-2025.pdf-681c8dead6.
+  [569/966] 2026   ffsavate_sheets {'bouts': 9, 'placings': 0, 'categories': 9, 'decided': 0, 'problems': 1}  Resultats-finales-Plescop-avril-2026.pdf-2c077
+  [570/966] 2005   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  Resultats_Challenge_Aviron-20de-20Mer-2005-20a
+  [571/966]        federkombat {'bouts': 0, 'placings': 119, 'categories': 42, 'decided': 0, 'problems': 3}  Risultati.pdf-b9f98bf5d9.pdf
+  [572/966] 2018   federkombat {'bouts': 0, 'placings': 105, 'categories': 51, 'decided': 0, 'problems': 3}  Risultati_Assoluti_2018_Savate.pdf-77ec14ce46.
+  [573/966]        federkombat {'bouts': 0, 'placings': 96, 'categories': 41, 'decided': 0, 'problems': 2}  Risultati_Assoluti_Savate.pdf-6aeeb8e9ae.pdf
+  [574/966]        -  SBF_RESULTATS-_COUPE_LETESSIER_121224_OK.pdf-6
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [575/966]        srbija_sheets {'bouts': 0, 'placings': 27, 'categories': 10, 'decided': 0, 'problems': 1}  SPSNS.doc-dee6cac45a.doc
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [576/966]        srbija_sheets {'bouts': 0, 'placings': 42, 'categories': 17, 'decided': 0, 'problems': 0}  SPSR.doc-39eabcf35a
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [577/966]        srbija_sheets {'bouts': 0, 'placings': 5, 'categories': 5, 'decided': 0, 'problems': 4}  SVETSKO.doc-77fa47a3ba
+  [578/966] 2020   -  Savate_Champ-20France-20CNJ-202012-20v2.pdf-17
+  [579/966] 2013   -  Savate_at_the_2013_World_Combat_Games-36ba272f
+  [580/966] 2006   universitaire {'bouts': 0, 'placings': 55, 'categories': 14, 'decided': 0, 'problems': 1}  Savate_resultats_2006.xls-8ea3d9379e
+  [581/966]        -  Skup.doc-158ccd9447.doc
+  [582/966] 2025   quomodo_club {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  Soli_Campionati_Italiani_Assoluti_Savate_2025.
+  [583/966]        -  TAS-ELITE-A-24.03.25.pdf-f3b83cca61.pdf
+  [584/966]        -  UKPLS10.doc-a5ee06cb62.doc
+  [585/966]        -  UKPLSV10.doc-b6885e6fa9.doc
+  [586/966]        -  UKPLV10.doc-144136f1eb.doc
+  [587/966]        podium_pdf {'bouts': 0, 'placings': 23, 'categories': 7, 'decided': 0, 'problems': 0}  WCADET.pdf-3a7f477437.pdf
+  [588/966]        savate_weight_list {'bouts': 0, 'placings': 40, 'categories': 10, 'decided': 0, 'problems': 4}  WCG-RESULTATS-SAVATE.pdf-00ba6e9fc6.pdf
+  [589/966]        podium_pdf {'bouts': 0, 'placings': 22, 'categories': 8, 'decided': 0, 'problems': 0}  WCJUNIOR.pdf-5cdc5eb50f.pdf
+  [590/966]        podium_pdf {'bouts': 0, 'placings': 24, 'categories': 8, 'decided': 0, 'problems': 0}  WCSENIOR.pdf-8476fe643c.pdf
+  [591/966]        podium_pdf {'bouts': 0, 'placings': 22, 'categories': 8, 'decided': 0, 'problems': 0}  WCWOMEN.pdf-e9be57dbc7.pdf
+  [592/966]        -  about-e6d2b36c73
+  [593/966] 2025   fisav_sheets {'bouts': 0, 'placings': 25, 'categories': 14, 'decided': 0, 'problems': 4}  african-championship-2025-dakar-senegal-424-9e
+  [594/966]        savate_misc {'bouts': 36, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 1}  asorumas.pdf-fa5259f5ff.pdf
+  [595/966] 2024   fisav_sheets {'bouts': 0, 'placings': 64, 'categories': 16, 'decided': 0, 'problems': 0}  assaut2024.pdf-c5ed396ce1.pdf
+  [596/966]        -  athle_estival_resultats.pdf-1b82b05162.pdf
+  [597/966]        savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  austrijacomb.pdf-f639b4a82e.pdf
+  [598/966]        -  balkansko.pdf-d5c5f2a4d6.pdf
+  [599/966]        -  balkanskorev.pdf-5417e6274b.pdf
+  [600/966]        -  beograd.pdf-4318b0d804.pdf
+  [601/966] 2025   -  birmingham-open-2025-success-d60ab0d4cd
+  [602/966]        -  blog-8d288b5b53
+  [603/966]        -  blog-f5cc877c39
+/Users/jonathan/Code/fight/savate/adapters/ffsavate_sheets.py:2035: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  soup = BeautifulSoup(doc.html, "html.parser")
+  [604/966]        -  blog-feed.xml-e539faabe4
+  [605/966]        -  blog-start-0-f798390dff
+  [606/966]        savate_jp {'bouts': 0, 'placings': 5, 'categories': 1, 'decided': 0, 'problems': 0}  blog-start-12-afe97ce877
+  [607/966]        -  blog-start-16-a02d2bd940
+  [608/966]        -  blog-start-20-1d0230356c
+  [609/966]        -  blog-start-24-a132f97cc3
+  [610/966]        -  blog-start-28-7f42fe4ba5
+  [611/966]        -  blog-start-32-eb61c7f309
+  [612/966]        -  blog-start-36-8d4688bcb2
+  [613/966]        british_champions {'bouts': 0, 'placings': 2, 'categories': 2, 'decided': 0, 'problems': 2}  blog-start-4-c3a2d07141
+  [614/966]        -  blog-start-40-842cf4c521
+  [615/966]        -  blog-start-8-25fc6b1520
+  [616/966]        -  bodliste.pdf-aede4a7704.pdf
+  [617/966]        savate_weight_list {'bouts': 0, 'placings': 1, 'categories': 1, 'decided': 0, 'problems': 33}  boxe_francaise_resultats.pdf-208cafeafc.pdf
+  [618/966] 2026   -  british-savate-assaut-championships-2026-3e172
+  [619/966] 2024   british_champions {'bouts': 0, 'placings': 18, 'categories': 9, 'decided': 0, 'problems': 3}  british-savate-champions-2024-77f84dac63
+  [620/966] 2025   british_champions {'bouts': 0, 'placings': 10, 'categories': 5, 'decided': 0, 'problems': 3}  british-savate-champions-2025-1941a7ce95
+  [621/966] 2023   -  british-senior-savate-championships-2023-c5256
+  [622/966]        srbija_sheets {'bouts': 0, 'placings': 21, 'categories': 17, 'decided': 0, 'problems': 9}  budim.pdf-a21a465884.pdf
+  [623/966]        srbija_sheets {'bouts': 0, 'placings': 17, 'categories': 15, 'decided': 0, 'problems': 4}  budimrez.pdf-f584371def.pdf
+  [624/966]        -  calendario_gare-1c44e69dff
+  [625/966]        -  calendrier-sportif-674aeda2ce
+  [626/966]        -  cesrezkranev.pdf-f25c5097da.pdf
+  [627/966]        misc_federations {'bouts': 7, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 3}  challenge-dynamik-contact-d268bab713
+  [628/966]        -  championnat-de-belgique-assaut-0ee2a5922e
+  [629/966]        -  championnats-resultats-12797e92ec
+  [630/966]        -  championnats-results-21cd9dff24
+  [631/966] 2015   british_champions {'bouts': 0, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 2}  champions2015-5313aec76a
+  [632/966]        -  classement_national_assaut_feminins.pdf-8c36e4
+  [633/966]        -  classement_national_seniors_feminins_combat.pd
+  [634/966]        -  combat24.pdf-8dab960470.pdf
+  [635/966]        fisav_sheets {'bouts': 0, 'placings': 51, 'categories': 12, 'decided': 0, 'problems': 1}  combatruma.pdf-969ec8d7f7.pdf
+  [636/966]        -  documenti-savate.html-d58267300e
+  [637/966]        -  documents-2629aefb7a
+  [638/966]        -  documents-category-147-5d40a71743
+  [639/966]        savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  dopuna-precombat.pdf-5d05fabd98.pdf
+  [640/966]        podium_pdf {'bouts': 0, 'placings': 15, 'categories': 5, 'decided': 0, 'problems': 0}  download.php-id-12-baf0532d02
+  [641/966]        podium_pdf {'bouts': 0, 'placings': 27, 'categories': 8, 'decided': 0, 'problems': 0}  download.php-id-13-6724934e75.pdf
+  [642/966]        podium_pdf {'bouts': 0, 'placings': 25, 'categories': 8, 'decided': 0, 'problems': 0}  download.php-id-14-61d02da984.pdf
+  [643/966]        podium_pdf {'bouts': 0, 'placings': 33, 'categories': 8, 'decided': 0, 'problems': 0}  download.php-id-15-b1cdb65b8b
+  [644/966]        -  download.php-id-20-7a53d61a33.pdf
+  [645/966]        savate_jp {'bouts': 4, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  download.php-id-22-711fa24638
+  [646/966]        -  download.php-id-34-102e56e7ba
+  [647/966]        -  download.php-id-35-13c4c9c7cc
+  [648/966]        -  download.php-id-36-86328bedbd
+  [649/966]        -  download.php-id-45-768c33145e.pdf
+  [650/966]        -  drzavni_r_ind.pdf-b6161b8b66.pdf
+  [651/966] 2023   srbija_sheets {'bouts': 0, 'placings': 1, 'categories': 1, 'decided': 0, 'problems': 4}  epizv2023.pdf-192f7d1742.pdf
+  [652/966]        fisav_sheets {'bouts': 0, 'placings': 61, 'categories': 16, 'decided': 0, 'problems': 0}  epmed.pdf-f53269942e.pdf
+  [653/966]        federkombat {'bouts': 0, 'placings': 80, 'categories': 31, 'decided': 0, 'problems': 4}  file.html-f8ed5f2b78
+  [654/966]        -  finale.pdf-e5c91078e9.pdf
+  [655/966] 2025   -  finales-elite-a-de-savate-2025-lexcellence-de-
+  [656/966]        savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  fismember.pdf-8fad8cc9de.pdf
+  [657/966]        -  guildford-savate-successes-at-irish-savate-ope
+  [658/966]        -  haberdetay-43-240-ilk-turkiye-savate-sampiyona
+  [659/966]        misc_federations {'bouts': 0, 'placings': 12, 'categories': 10, 'decided': 0, 'problems': 3}  haberdetay-43-321-savate-bransi-millilerimizde
+  [660/966]        -  haberdetay-43-371-savate-combat-dunya-sampiyon
+  [661/966]        -  haberdetay-duyurular-219-minikler-yildizlar-ge
+  [662/966]        -  history-f610cf553e
+  [663/966]        -  idmancilarimiz-respublika-yarisindan-3-medal-i
+  [664/966]        savate_jp {'bouts': 3, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  index-D-2hwmAF.js-2f167b3bf6
+  [665/966]        -  index-EVqzIzCp.js-6405635f69
+  [666/966]        -  index.php-title-Croatia_Open_-savate-action-ra
+  [667/966] 2013   -  index.php-title-Savate_at_the_2013_World_Comba
+  [668/966]        fisav_sheets {'bouts': 0, 'placings': 95, 'categories': 21, 'decided': 0, 'problems': 7}  index2.php-option-com_docman-task-doc_view-gid
+  [669/966]        -  international-ranking-e75f039b19
+  [670/966]        savate_weight_list {'bouts': 0, 'placings': 6, 'categories': 1, 'decided': 0, 'problems': 3}  izvitalija.pdf-e28227cf05.pdf
+  [671/966]        srbija_sheets {'bouts': 0, 'placings': 6, 'categories': 5, 'decided': 0, 'problems': 7}  izvkranev.pdf-26e1d7f276.pdf
+  [672/966]        srbija_sheets {'bouts': 0, 'placings': 7, 'categories': 7, 'decided': 0, 'problems': 4}  izvslovenia.pdf-bbf8af4ddb.pdf
+  [673/966]        savate_jp {'bouts': 1, 'placings': 8, 'categories': 1, 'decided': 0, 'problems': 0}  jap_nouvelle.html-97531411c9
+  [674/966]        -  jp_tokyo_open.html-e931d64ecf
+  [675/966] 2022   -  konacni-skor-2022.pdf-7efd8e5f71.pdf
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [676/966]        srbija_sheets {'bouts': 0, 'placings': 2, 'categories': 2, 'decided': 0, 'problems': 4}  koreja.doc-1536badd33
+  [677/966]        podium_pdf {'bouts': 0, 'placings': 25, 'categories': 7, 'decided': 0, 'problems': 0}  kupboy.pdf-c80a9e2873.pdf
+  [678/966]        podium_pdf {'bouts': 0, 'placings': 12, 'categories': 4, 'decided': 0, 'problems': 0}  kupgirls.pdf-0ed623efaa.pdf
+  [679/966]        savate_medal_list {'bouts': 0, 'placings': 37, 'categories': 11, 'decided': 0, 'problems': 0}  kupmedal.pdf-96b0813fb0.pdf
+  [680/966]        srbija_sheets {'bouts': 0, 'placings': 77, 'categories': 38, 'decided': 0, 'problems': 3}  kupsrbije.doc-32d9e2a24f
+  [681/966]        fisav_sheets {'bouts': 2, 'placings': 0, 'categories': 2, 'decided': 0, 'problems': 0}  lang-french-9e3e049a6f
+  [682/966]        -  les-champions--the-champions.html-3eedf56e56
+  [683/966]        -  lice.pdf-1818199907.pdf
+  [684/966]        -  links-87b9f4cb7e
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [685/966]        -  loverval.doc-0230cccb27
+  [686/966]        srbija_sheets {'bouts': 135, 'placings': 55, 'categories': 15, 'decided': 135, 'problems': 0}  lovervale.xlsx-fc415403ba.xlsx
+  [687/966]        -  medj_r_individualni.pdf-10f2b3fe2f.pdf
+  [688/966]        -  millimiz-serbiyada-ugurla-cixis-edib-038294fb8
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [689/966] 2010   -  naj2010.doc-47f6491039.doc
+  [690/966] 2019   -  najuspe-C5-A1niji-2019.-ssv.pdf-7065579aba.pdf
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [691/966] 2010   -  najv2010.doc-5cd4f25cc7.doc
+  [692/966]        -  news-0c4bcf08f0
+  [693/966]        savate_jp {'bouts': 0, 'placings': 5, 'categories': 1, 'decided': 0, 'problems': 0}  news-category-3-9ee8b640b5
+  [694/966]        -  news-d5aff777a3
+  [695/966]        -  news-savate.html-a38cd6466c
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [696/966]        srbija_sheets {'bouts': 0, 'placings': 29, 'categories': 13, 'decided': 0, 'problems': 0}  obrenovacr.doc-648656959e
+  [697/966]        -  p-787-3f65a8384d
+  [698/966]        -  page-02566db7b7
+  [699/966]        -  page-03c914aa67
+  [700/966]        -  page-0612a1bd9a
+  [701/966]        -  page-06f12a3731
+  [702/966]        -  page-085b6657dc
+  [703/966]        -  page-08f349f997
+  [704/966]        -  page-095b18c97b
+  [705/966]        -  page-09b8d5b48d
+  [706/966]        -  page-0a3284fae2
+  [707/966]        -  page-0a6f2b21ab
+  [708/966]        -  page-0b3bdd01f3
+  [709/966]        -  page-0fae304372
+  [710/966]        -  page-0ffcf0cd52
+  [711/966]        -  page-100c474b1b
+  [712/966]        -  page-119afe7ede
+  [713/966]        -  page-11d03f49e6
+  [714/966]        british_champions {'bouts': 0, 'placings': 38, 'categories': 19, 'decided': 0, 'problems': 3}  page-129251eab4
+  [715/966]        -  page-1384f07ad9
+  [716/966]        -  page-14ea06ac4b
+  [717/966]        -  page-160030c01f
+  [718/966]        -  page-183b9bdc87
+  [719/966]        misc_federations {'bouts': 6, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 2}  page-185b6a6db7
+  [720/966]        british_champions {'bouts': 0, 'placings': 14, 'categories': 7, 'decided': 0, 'problems': 3}  page-19a83a41cb
+  [721/966]        -  page-1b876bfdbc
+  [722/966]        -  page-1c83a06408
+  [723/966]        -  page-1cc41f9977
+  [724/966]        -  page-1d24fad2f4
+  [725/966]        -  page-1dbe72bdb7
+  [726/966]        -  page-1de8d8ad0f
+  [727/966]        -  page-1f58da2e15
+  [728/966]        -  page-1f5c189f63
+  [729/966]        -  page-20e135de5f
+  [730/966]        -  page-22caf1762a
+  [731/966]        -  page-264938e669
+  [732/966]        -  page-272e0d9cd8
+  [733/966]        -  page-284e966768
+  [734/966]        -  page-2993193246
+  [735/966]        british_champions {'bouts': 0, 'placings': 7, 'categories': 7, 'decided': 0, 'problems': 2}  page-2a867c7fe9
+  [736/966]        srbija_sheets {'bouts': 0, 'placings': 4, 'categories': 3, 'decided': 0, 'problems': 4}  page-2c34fd897e
+  [737/966]        -  page-2d4e77326f
+  [738/966]        -  page-30ddca6258
+  [739/966]        -  page-33c43ae556
+  [740/966]        -  page-35dea2edb1
+  [741/966]        -  page-361e538e64
+  [742/966]        -  page-37f57ab67b
+  [743/966]        -  page-3977caff38
+  [744/966]        -  page-3bc65339c6
+  [745/966]        british_champions {'bouts': 0, 'placings': 20, 'categories': 10, 'decided': 0, 'problems': 3}  page-3e6408c062
+  [746/966]        -  page-3ef393b777
+  [747/966]        -  page-3f16d21651
+  [748/966]        -  page-3f20d348cc
+  [749/966]        -  page-3f62da1a1a
+  [750/966]        -  page-42cc34945b
+  [751/966]        -  page-439d786918
+  [752/966]        -  page-43baa7de27
+  [753/966]        -  page-451f5c95db
+  [754/966]        srbija_sheets {'bouts': 0, 'placings': 4, 'categories': 3, 'decided': 0, 'problems': 4}  page-4d603c5a32
+  [755/966]        -  page-4e33aadfd4
+  [756/966]        -  page-4ec1e60125
+  [757/966]        -  page-517b7ad70a
+  [758/966]        -  page-52c5b0fcbc
+  [759/966]        -  page-5633eed08b
+  [760/966]        -  page-5720bb5d56
+  [761/966]        -  page-59d5c8f2e8
+  [762/966]        -  page-5be50cad81
+  [763/966]        -  page-5cd159c885
+  [764/966]        -  page-5f14cdcf6a
+  [765/966]        -  page-5f83b8e455
+  [766/966]        british_champions {'bouts': 0, 'placings': 5, 'categories': 5, 'decided': 0, 'problems': 3}  page-606f6a58be
+  [767/966]        -  page-60fafca2b7
+  [768/966]        -  page-6114f5868a
+  [769/966]        -  page-61c84c198e
+  [770/966]        -  page-6291be55cd
+  [771/966]        -  page-63e6f5e06e
+  [772/966]        -  page-69fbf72d97
+  [773/966]        british_champions {'bouts': 0, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 3}  page-6af0836ee5
+  [774/966]        -  page-6c089ef0d9
+  [775/966]        -  page-6ce11d21c2
+  [776/966]        -  page-6d227c1d95
+  [777/966]        -  page-6db67dab30
+  [778/966]        -  page-6e74f214d3
+  [779/966]        -  page-70bb602277
+  [780/966]        -  page-717346bf8e
+  [781/966]        -  page-722bf6e80e
+  [782/966]        -  page-752ee03455
+  [783/966]        -  page-76652860f2
+  [784/966]        -  page-77deca91ea
+  [785/966]        -  page-782e091b5f
+  [786/966]        -  page-78dc92a445
+  [787/966]        -  page-7963c146e7
+  [788/966]        -  page-79fb19bc97
+  [789/966]        -  page-7b5ad5e4de
+  [790/966]        -  page-7bca1ba346
+  [791/966]        -  page-7c060ee7f8
+  [792/966]        savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  page-7c60832f28
+  [793/966]        -  page-7ca12a265d
+  [794/966]        srbija_sheets {'bouts': 0, 'placings': 4, 'categories': 3, 'decided': 0, 'problems': 4}  page-7d5e0fe495
+  [795/966]        -  page-7e74077257
+  [796/966]        -  page-823e204e8c
+  [797/966]        -  page-8400349e2c
+  [798/966]        -  page-84d5d74ed7
+  [799/966]        -  page-851074c54a
+  [800/966]        -  page-896f05c2db
+  [801/966]        -  page-8a0a1ac452
+  [802/966]        -  page-8a802f364f
+  [803/966]        -  page-8acd873015
+  [804/966]        -  page-8e55312f63
+  [805/966]        -  page-8e7cbc7cc2
+  [806/966]        -  page-8ea2ec4a47
+  [807/966]        -  page-8ea5a3d786
+  [808/966]        -  page-8f169e3f0f
+  [809/966]        -  page-8f4985df9f
+  [810/966]        -  page-91b59d6260
+  [811/966]        -  page-92047f9d33
+  [812/966]        -  page-9279a1219a
+  [813/966]        -  page-93fa993345
+  [814/966]        -  page-94981daec8
+  [815/966]        -  page-9687f4000a
+  [816/966]        -  page-984718df1d
+  [817/966]        -  page-9aa4c4c937
+  [818/966]        -  page-9b7978d35a
+  [819/966]        -  page-9d91b30f31
+  [820/966]        -  page-9dcc2ccff2
+  [821/966]        -  page-9e6f3ba28f
+  [822/966]        -  page-a0c6d8ab28
+  [823/966]        -  page-a2eee6b11c
+  [824/966]        british_champions {'bouts': 0, 'placings': 12, 'categories': 6, 'decided': 0, 'problems': 2}  page-a4ac2de05d
+  [825/966]        -  page-a4cb1915d9
+  [826/966]        -  page-a582c5128a
+  [827/966]        -  page-a76b2fae07
+  [828/966]        -  page-a78eafc0ea
+  [829/966]        -  page-a89037f36b
+  [830/966]        -  page-a98488d26b
+  [831/966]        -  page-aa67993bec
+  [832/966]        -  page-ab378cc8d3
+  [833/966]        -  page-ab91b11b40
+  [834/966]        -  page-ac7f7b4d97
+  [835/966]        -  page-acc2986e2d
+  [836/966]        -  page-ad91a9a605
+  [837/966]        -  page-af2726eea2
+  [838/966]        -  page-b170d24ad1
+  [839/966]        -  page-b64b07dca4
+  [840/966]        -  page-b8cd5631eb
+  [841/966]        -  page-b95ae4bad9
+  [842/966]        -  page-bc3705dcc2
+  [843/966]        -  page-bc67515667
+  [844/966]        -  page-bc7beff3f0
+  [845/966]        -  page-c0cdf60415
+  [846/966]        -  page-c254fe4955
+  [847/966]        -  page-c278948690
+  [848/966]        -  page-c5ce492365
+  [849/966]        -  page-c60ca4da6f
+  [850/966]        savate_jp {'bouts': 0, 'placings': 4, 'categories': 1, 'decided': 0, 'problems': 0}  page-c83454a92a
+  [851/966]        -  page-c8f3fe0cb0
+  [852/966]        -  page-c93ffb3eb5
+  [853/966]        -  page-c9782d8277
+  [854/966]        -  page-cbb600921e
+  [855/966]        -  page-cc3ce12600
+  [856/966]        -  page-cca651d050
+  [857/966]        -  page-cd25d7f291
+  [858/966]        -  page-cd6636b4c1
+  [859/966]        -  page-d287c4a07e
+  [860/966]        -  page-d5595ff979
+  [861/966]        -  page-d86798758e
+  [862/966]        -  page-d89731853f
+  [863/966]        -  page-d900caf43c
+  [864/966]        -  page-d962cf29e5
+  [865/966]        srbija_sheets {'bouts': 0, 'placings': 3, 'categories': 3, 'decided': 0, 'problems': 3}  page-d9a993c1b5
+  [866/966]        -  page-daa3cdd960
+  [867/966]        -  page-daeefe985c
+  [868/966]        -  page-dbe827e81a
+  [869/966]        savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  page-ddcdc2708e
+  [870/966]        -  page-ddd9867b98
+  [871/966]        -  page-dec164b138
+  [872/966]        -  page-ded1eb4d4d
+  [873/966]        -  page-e0a9814a44
+  [874/966]        -  page-e1ff69ebd2
+  [875/966]        -  page-e21f13e8ae
+  [876/966]        -  page-e40d0cc813
+  [877/966]        -  page-e5355d4170
+  [878/966]        -  page-eba01d6848
+  [879/966]        -  page-ec57433f3e
+  [880/966]        -  page-eebbf972c5
+  [881/966]        -  page-ef0b03073f
+  [882/966]        -  page-f19883dbff
+  [883/966]        british_champions {'bouts': 0, 'placings': 5, 'categories': 5, 'decided': 0, 'problems': 3}  page-f2e96d29f8
+  [884/966]        -  page-f5190555f8
+  [885/966]        -  page-f6bf0ac361
+  [886/966]        -  page-f8aa160647
+  [887/966]        misc_federations {'bouts': 6, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 2}  page-f8cc87e701
+  [888/966]        -  page-fa0154e2c2
+  [889/966]        -  page-fb6bd8e746
+  [890/966]        -  page-fba8b30cd4
+  [891/966]        -  page-fc0b051c4b
+  [892/966]        -  page-fe09878e65
+  [893/966]        -  page-fe80918920
+  [894/966]        -  page_id-251-c812d6e1e4
+  [895/966] 2014   ffsavate_sheets {'bouts': 14, 'placings': 28, 'categories': 14, 'decided': 0, 'problems': 2}  palmares_2014.html-b8bea06bd7
+  [896/966]        -  pantheacuteon--hall-of-fame.html-6f134e6202
+  [897/966] 2021   savate_weight_list {'bouts': 0, 'placings': 67, 'categories': 24, 'decided': 0, 'problems': 2}  pioniri2021.pdf-e1c9be7c34.pdf
+  [898/966]        -  plasman.pdf-835cf89820.pdf
+  [899/966] 2020   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  plasman2020.pdf-83ad5dabb3.pdf
+  [900/966] 2024   savate_jp {'bouts': 1, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  plasman2024.pdf-862aafae95.pdf
+  [901/966] 2023   -  plasmansss2023.pdf-7c1658625b.pdf
+  [902/966]        -  pokrajinski_r_br_uc_ind_.pdf-3ca2f37250.pdf
+  [903/966]        savate_weight_list {'bouts': 0, 'placings': 11, 'categories': 4, 'decided': 0, 'problems': 17}  pool_G1_R1_SC.pdf-419b56dd60.pdf
+  [904/966]        savate_weight_list {'bouts': 0, 'placings': 32, 'categories': 6, 'decided': 0, 'problems': 66}  pool_G1_T1_SdT.pdf-509af636f1.pdf
+  [905/966]        ffsavate_sheets {'bouts': 11, 'placings': 0, 'categories': 7, 'decided': 0, 'problems': 29}  resultats-1er-gant.pdf-30d2c9d91a.pdf
+  [906/966] 2020   quomodo_club {'bouts': 0, 'placings': 72, 'categories': 36, 'decided': 0, 'problems': 2}  resultats-20JEUNES-202015-20ET-20TROPHEE-20Den
+  [907/966]        -  resultats-championnat-de-france-ffsu-savate-bo
+  [908/966]        universitaire {'bouts': 0, 'placings': 54, 'categories': 14, 'decided': 0, 'problems': 1}  resultats-savate.xls-89aeeca7c6
+  [909/966]        -  results-955136df93
+  [910/966]        -  results-f9c7de9bf9
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [911/966]        srbija_sheets {'bouts': 0, 'placings': 11, 'categories': 7, 'decided': 0, 'problems': 9}  rezbudimp.doc-638ed99e9a
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [912/966]        srbija_sheets {'bouts': 0, 'placings': 37, 'categories': 16, 'decided': 0, 'problems': 0}  rezcomb.doc-8af4d98512.doc
+  [913/966]        srbija_sheets {'bouts': 0, 'placings': 7, 'categories': 5, 'decided': 0, 'problems': 8}  rezevraustrija.pdf-02bfed222b.pdf
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [914/966]        srbija_sheets {'bouts': 0, 'placings': 5, 'categories': 4, 'decided': 0, 'problems': 6}  rezgenova.doc-1b4973bab8.doc
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [915/966]        srbija_sheets {'bouts': 0, 'placings': 5, 'categories': 4, 'decided': 0, 'problems': 5}  rezkup.doc-07d45f379c.doc
+  [916/966]        srbija_sheets {'bouts': 0, 'placings': 7, 'categories': 7, 'decided': 0, 'problems': 5}  rezslovenija.pdf-416913fb9f.pdf
+  [917/966] 2023   savate_misc {'bouts': 4, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 13}  rezultati-SSV-2023.pdf-c46ff26864.pdf
+  [918/966]        srbija_sheets {'bouts': 0, 'placings': 1, 'categories': 1, 'decided': 0, 'problems': 2}  rezultatrijad.pdf-deaa7b2ed2.pdf
+  [919/966]        -  risultati_istituzionali-0fceebda14
+  [920/966]        -  risultati_istituzionali-stagione-16-eba86e000b
+  [921/966]        -  risultati_istituzionali-stagione-17-79b5787601
+  [922/966]        -  risultati_istituzionali-stagione-18-f210c7bd5e
+  [923/966]        -  risultati_istituzionali-stagione-19-fa5b098bcf
+  [924/966]        -  risultati_istituzionali-stagione-20-e7fd448735
+  [925/966]        -  risultati_istituzionali-stagione-21-d6c02d2e4c
+  [926/966]        -  risultati_istituzionali-stagione-22-97831aa83e
+  [927/966]        -  risultati_istituzionali-stagione-23-a38e1fca0c
+  [928/966]        -  risultati_istituzionali-stagione-24-1d9b1d1af4
+  [929/966]        -  risultati_istituzionali-stagione-25-01985bb7db
+  [930/966]        -  risultati_istituzionali-stagione-26-d4795fd1f8
+  [931/966]        -  risultati_istituzionali-stagione-27-87d8409169
+  [932/966]        -  risultati_istituzionali-stagione-28-543741ae91
+  [933/966]        -  risultati_istituzionali-stagione-29-ad3dc4c672
+  [934/966]        -  risultati_istituzionali-stagione-30-45d3d256c0
+  [935/966] 2023   -  rugvica2023.pdf-446934bc65.pdf
+  [936/966]        -  rules-494e0b8680
+  [937/966]        -  savat-uzr-aciq-respublika-cempionati-kecirilib
+  [938/966]        -  savat-uzr-baki-shr-birinciliyi-kecirilib-d1262
+  [939/966]        -  savate-boxe-belgium-3334cd3263
+  [940/966] 2008   universitaire {'bouts': 0, 'placings': 58, 'categories': 14, 'decided': 0, 'problems': 1}  savate_bf_resultats_2008.xls-1d7cba4c67
+  [941/966] 2004   -  savate_resultats_cf_2004_limoges.xls-d7e3065fd
+/opt/homebrew/lib/python3.14/site-packages/bs4/__init__.py:476: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  self._feed()
+  [942/966]        -  savate_resultats_equipes.doc-04b24c01f0
+  [943/966] 2015   savate_weight_list {'bouts': 0, 'placings': 2, 'categories': 2, 'decided': 0, 'problems': 4}  savate_resultats_equipes_2015.pdf-82f63c71d5.p
+  [944/966]        -  savate_resultats_feminins.xls-e90e7913ad
+  [945/966]        -  savate_resultats_masculins.xls-a24ec4fe31
+  [946/966] 2015   savate_weight_list {'bouts': 0, 'placings': 4, 'categories': 2, 'decided': 0, 'problems': 40}  savate_tableaux_feminin_cfu_2015.pdf-41f6f5c97
+  [947/966] 2015   savate_weight_list {'bouts': 0, 'placings': 12, 'categories': 4, 'decided': 0, 'problems': 50}  savate_tableaux_masculins_cfu_2015.pdf-ade2de9
+  [948/966]        podium_pdf {'bouts': 0, 'placings': 35, 'categories': 10, 'decided': 0, 'problems': 0}  sloveniaman.pdf-6a9edf2676.pdf
+  [949/966]        savate_poule_grid {'bouts': 117, 'placings': 0, 'categories': 12, 'decided': 0, 'problems': 30}  sloveniapool.pdf-7b9f6e637b.pdf
+  [950/966]        podium_pdf {'bouts': 0, 'placings': 19, 'categories': 6, 'decided': 0, 'problems': 0}  sloveniawoman.pdf-396da0df44.pdf
+  [951/966]        podium_pdf {'bouts': 0, 'placings': 34, 'categories': 10, 'decided': 0, 'problems': 0}  spboy.pdf-b8be01e65e.pdf
+  [952/966]        podium_pdf {'bouts': 0, 'placings': 19, 'categories': 7, 'decided': 0, 'problems': 0}  spgirl.pdf-d202bb453c.pdf
+  [953/966]        savate_medal_list {'bouts': 0, 'placings': 20, 'categories': 8, 'decided': 0, 'problems': 0}  spmedal.pdf-b29c41e48c.pdf
+  [954/966]        -  sportprav.pdf-4854eafee8.pdf
+  [955/966]        srbija_sheets {'bouts': 0, 'placings': 90, 'categories': 12, 'decided': 0, 'problems': 11}  sprezultati.pdf-ad088a2ca6.pdf
+  [956/966]        srbija_sheets {'bouts': 0, 'placings': 2, 'categories': 2, 'decided': 0, 'problems': 3}  team-gb-medals-3-for-3-e0c480f82b
+  [957/966]        srbija_sheets {'bouts': 0, 'placings': 6, 'categories': 6, 'decided': 0, 'problems': 5}  varazdin.pdf-f561eee653.pdf
+  [958/966]        savate_poule_grid {'bouts': 149, 'placings': 0, 'categories': 21, 'decided': 0, 'problems': 39}  varazdincombat.pdf-8d81d29ebf.pdf
+  [959/966]        podium_pdf {'bouts': 0, 'placings': 24, 'categories': 8, 'decided': 0, 'problems': 0}  varazdincombatjunior.pdf-5cb8b30447.pdf
+  [960/966]        podium_pdf {'bouts': 0, 'placings': 31, 'categories': 8, 'decided': 0, 'problems': 0}  varazdincombatman.pdf-b849b0bf7a.pdf
+  [961/966]        podium_pdf {'bouts': 0, 'placings': 7, 'categories': 3, 'decided': 0, 'problems': 0}  varazdincombatwoman.pdf-6a4a70a42b.pdf
+  [962/966]        savate_jp {'bouts': 2, 'placings': 0, 'categories': 0, 'decided': 0, 'problems': 0}  wcup.pdf-4d5ccdf3f5.pdf
+  [963/966]        -  wedstrijden-937c4e95fb
+  [964/966] 2024   british_champions {'bouts': 0, 'placings': 3, 'categories': 3, 'decided': 0, 'problems': 6}  world-assaut-championships-2024-gb-results-530
+  [965/966] 2025   savate_jp {'bouts': 0, 'placings': 1, 'categories': 1, 'decided': 0, 'problems': 0}  world-championship-combat-2025-428-6c1861b561
+  [966/966] 2025   savate_jp {'bouts': 0, 'placings': 1, 'categories': 1, 'decided': 0, 'problems': 0}  world-youth-championship-2025-tashkent-430-9f2
+
+525/966 documents parse into believable rows
+  bouts available:   7595
+  placings available:7607
+    78 via ffsavate_sheets
+    77 via fisav_sheets
+    57 via savate_jp
+    50 via quomodo_club
+    40 via srbija_sheets
+    37 via savate_misc
+    36 via ffsavate_bouts
+    25 via antilles_bouts
+    25 via savate_weight_list
+    18 via podium_pdf
+    13 via british_champions
+    12 via ffsavate_finals
+    12 via ffsavate_finals_wide
+     8 via savate_medal_list
+     7 via universitaire
+     7 via savate_podium_words
+     5 via fisav_worksheet_pdf
+     5 via federkombat
+     4 via cesav_sheets
+     4 via misc_federations
+     3 via savate_tabular_pdf
+     2 via savate_poule_grid
+
+-> probe_wave2.json

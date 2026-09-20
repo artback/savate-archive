@@ -1,0 +1,37 @@
+{
+  "_comment": [
+    "Human decisions about identity, and nothing else.",
+    "",
+    "Almost nothing belongs here. The register already merges case, accents,",
+    "punctuation and word order, and `loose_key` merges spellings that are the",
+    "same name under a different convention - Patrik/Patrick, Erica/Erika,",
+    "Nandi/Nandy, Marko/Marco. Those are rules and they carry over to every",
+    "competitor the archive will ever gain.",
+    "",
+    "What is left is what no rule should decide: a typo (Valentino printed as",
+    "Valention), a dropped syllable (Khalilzade/Khalizade), a genuine variant",
+    "spelling (Florijanić/Florjanić). Merging those on resemblance would also",
+    "merge siblings, and this archive is full of them.",
+    "",
+    "Run `python3 analyse.py names` for the pairs awaiting a decision.",
+    "",
+    "\"same\": spellings confirmed to be one competitor.",
+    "\"different\": names that look alike and are two people."
+  ],
+  "same": [
+    [
+      "Valentino Florijanić",
+      "Valentino Florjanić",
+      "VALENTION FLORJANIĆ"
+    ],
+    [
+      "YUSIF KHALILZADE",
+      "KHALIZADE YUSIF"
+    ],
+    [
+      "SOFIA MATNAME",
+      "Sofia MATNANE"
+    ]
+  ],
+  "different": []
+}

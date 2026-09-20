@@ -1,0 +1,53 @@
+[
+ {
+  "slug": "canada-2013",
+  "adapter": "misc_federations",
+  "source": "http://web.archive.org/web/20160804151151/http://www.savatecanada.com/les-champions--the-champions.html",
+  "event": "2013",
+  "meta": {
+   "name": "Canadian National Savate Assaut Champions 2013",
+   "year": "2013",
+   "level": "national",
+   "discipline": "assaut",
+   "home_country": "Canada"
+  }
+ },
+ {
+  "slug": "canada-2014",
+  "adapter": "misc_federations",
+  "source": "http://web.archive.org/web/20160804151151/http://www.savatecanada.com/les-champions--the-champions.html",
+  "event": "2014",
+  "meta": {
+   "name": "Canadian National Savate Assaut Champions 2014",
+   "year": "2014",
+   "level": "national",
+   "discipline": "assaut",
+   "home_country": "Canada"
+  }
+ },
+ {
+  "slug": "canada-2015",
+  "adapter": "misc_federations",
+  "source": "http://web.archive.org/web/20160804151151/http://www.savatecanada.com/les-champions--the-champions.html",
+  "event": "2015",
+  "meta": {
+   "name": "Canadian National Savate Assaut Champions 2015",
+   "year": "2015",
+   "level": "national",
+   "discipline": "assaut",
+   "home_country": "Canada"
+  }
+ },
+ {
+  "slug": "junior-combat-european-championship-2008",
+  "adapter": "fisav_sheets",
+  "source": "https://web.archive.org/web/20090612/http://fisavate.org/component/option,com_docman/task,doc_download/gid,118/Itemid,34/lang,english/",
+  "meta": {
+   "name": "Junior Combat European Championship 2008",
+   "year": "2008",
+   "level": "european",
+   "discipline": "combat",
+   "age_class": "Junior"
+  }
+ }
+]

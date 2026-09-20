@@ -1,0 +1,138 @@
+    3  AmirReza Zarghani
+    3  Pharelle Wilson AKOUAN
+    3  D'ERRICO JULIEN
+    3  Tommaso Mari
+    3  Kenta FUNAYAMA
+    3  DIRICQ ENZO
+    3  Anja Lukić
+    3  Rumi UMEDA
+    3  Nikola Vukčević
+    3  Li Yu Hung
+    3  Abolfazl Dowlat Abadi
+    3  Viktoria Vogel
+    3  BUGADA Marine
+    3  POCHET Lohane
+    3  Arijana Otašević
+    3  Sofia MATNANE
+    2  Farkas Botond
+    2  VOINOV VITALII
+    2  TOGNOCCHI JULIEN
+    2  Gabriele Fioravanti
+    2  Kevin Truesdale
+    2  NYAMA André
+    2  Johannes Stindt
+    2  Narek BABADZHANIAN
+    2  IDRISSA SAGNA
+    2  CHAN WAI YIP
+    2  Sajjad Dareini
+    2  Bukovinszky Luca
+    2  NAROU Yoann
+    2  Sabri Sahraoui
+    2  GARCIA Iden
+    2  Cheikh THIAM
+    2  James Antill
+    2  GHARRAS Amor
+    2  ATTOUGBRE Yves Alain
+    2  Katarina Klarić
+    2  Beyrak BAGHIROV
+    2  Anthony Ghassiri
+    2  Silvio Fortunato
+    2  Sajti Benjamin
+    2  Sim Cong Yu
+    2  Mariama CISSE
+    2  Alen Nokaj
+    2  Helena Beljak
+    2  LOPEZ Ousmane
+    2  Kamel Mayouf
+    2  Egor GOLOVCHENKO
+    2  KERRINCKX ELISABETH
+    2  Soraya Bouzidi
+    2  Anna Bosc
+    2  TOUSSAINT MARGUERITE
+    2  Riikka Holopainen
+    2  Mahdiyeh Alizadeh
+    2  ROUSSY Noa
+    2  DJONDO Sara
+    2  Emily COLAUTTI
+    2  DESARME Pierre-Ley
+    2  Tóth-Csáki Fruzsina
+    2  Louisa Furniss
+    2  Kira TOROPOVA
+    2  Georlice Kelia Lollos
+    2  PECQUET BAPTISTE
+    2  LEMAYLLEUX NATHALIE
+    2  MASSAMBA MAR
+    2  LAPAUW CLOE
+    2  MINET GWENAËLLE
+    2  Maria BEN MOUSSA
+    2  Olivier Foult
+    2  Nikolai IARANTSEV
+    2  Szabára Dávid
+    2  Basil Twayana
+    2  POSKOCHIN OLEKSANDR
+    2  VAN HOECKE CHRIS
+    2  Smael Mayouf
+    2  SERENA Fanny
+    2  Kirill KURILKO
+    2  HEUNG TSZ HEI
+    1  HÜSEYİN KARAAĞAÇ
+    1  Andrei KOTOCHIGOV
+    1  Yordan Yordanov
+    1  Kais Garayalde
+    1  TONG SIU WANG VINCENT
+    1  Chant HOVHANNISYAN
+    1  GHASSIRI Johan
+    1  Mehmet Emin ERTUĞRUL
+    1  Viivi Hirvonen
+    1  Radoje Stevanović
+    1  Simone Cogrossi
+    1  Yoshinori HASHIMOTO
+    1  Gadir BARKHUDARLI
+    1  LOBJEOIS Gwendoline
+    1  Sergey Drobinsky
+    1  Sanan BABAZADE
+    1  ELİF YALIM
+    1  KEREM ALTAY
+    1  Keivan Zarghani
+    1  CAVROT-WESTERLINCK Ethan
+    1  BIENVENU Jovan
+    1  Georgi Dimitrov
+    1  Mutéba Orphée Francis FWAMBA
+    1  SALDIRAY KALKAN
+    1  Anthony Colli
+    1  ALAKBAR KHANMAMMADOV
+    1  LACHENAL Edouard
+    1  NANDI Chloe
+    1  Valentino Florjanić
+    1  HALILOU Haoua
+    1  Jonathan Artback
+    1  LAURENT Medhi
+    1  Aicha Ouennas
+    1  Taeko SESHITA
+    1  KURNOSENKO SOFIIA
+    1  Rishav Sharma
+    1  Nihat GULIYEV
+    1  Hamzeh Moradian
+    1  EYLÜL KORKMAZ
+    1  Giulia RUDEZ
+    1  Jessica NOMBREUSE
+    1  Giulia Triolo
+    1  SERIGNE FALLOU MBOUP
+    1  LEMAIRE EMMA
+    1  Zarha Slimani
+    1  Anastasiia GAVRICHENKO
+    1  Stefania Aleksandrova
+    1  Chanistha JOSHI
+    1  Tajana Koščak
+    1  Mirta Obelić
+    1  Giada VITRANI
+    1  Mariko HARA
+    1  DELAPLESSE Arwen
+    1  BERKE YILMAZ
+    1  CAMARA Mohamadou
+    1  James Southwood
+    1  SAYT ESMIT OZUNA CEBALLOS
+    1  Vugar EYYUBOV
+    1  FATİH ÖREN
+    1  Noah Kaergel
+    1  DEMOUGEOT Franck

@@ -1,0 +1,566 @@
+<title>Palmarès Savate</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+/* ===================================================================
+   PALMARÈS SAVATE
+
+   One colour law, and the whole interface follows from it:
+
+     rouge / bleu   a CORNER, and nothing else. Never a result, never a
+                    medal, never a link, never a focus ring. The red corner
+                    is simply whoever the document named first, which is why
+                    red "wins" 53.5% of this archive - an artefact of naming,
+                    not of skill. Encoding victory in it would be a lie the
+                    reader could not see.
+     vert           victoire. The only success colour.
+     or/argent/bronze   the three medals, three distinct values.
+     violet         a gap: something the federation did not publish.
+     ink            everything else, including every interactive control.
+
+   The chrome therefore carries no accent hue of its own. Colour on this
+   page always means something about savate.
+   =================================================================== */
+
+:root{
+  color-scheme: light;
+
+  --ground:#F2F5F7;
+  --surface:#FFFFFF;
+  --raised:#FFFFFF;
+  --sunk:#E8ECF0;
+  --band:#EDF1F4;
+
+  --ink:#0E1319;
+  --ink-2:#4E5862;
+  --ink-3:#77818C;
+
+  --line:#DFE4E9;
+  --line-2:#C4CCD4;
+
+  --rouge:#B02318;
+  --rouge-wash:#FBEAE7;
+  --bleu:#14479B;
+  --bleu-wash:#E6ECF8;
+  --vert:#0F7150;
+  --vert-wash:#E3F2EC;
+
+  --or:#9C7614;
+  --argent:#717B85;
+  --bronze:#94602C;
+  --gap:#6A4FC4;
+
+  --shadow:0 1px 2px rgba(14,19,25,.05), 0 8px 24px -12px rgba(14,19,25,.16);
+  --shadow-lift:0 2px 6px rgba(14,19,25,.07), 0 18px 40px -18px rgba(14,19,25,.24);
+
+  --ui:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --fig:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+
+  --shell:1200px;
+  --bar:60px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    color-scheme: dark;
+    --ground:#0A0D11;
+    --surface:#121820;
+    --raised:#172029;
+    --sunk:#0F151B;
+    --band:#1A222C;
+
+    --ink:#E9EEF3;
+    --ink-2:#A3AEB9;
+    --ink-3:#7C8794;
+
+    --line:#212A34;
+    --line-2:#313C48;
+
+    --rouge:#E8796A;
+    --rouge-wash:#2B1512;
+    --bleu:#7FA6E8;
+    --bleu-wash:#131C2C;
+    --vert:#4FC394;
+    --vert-wash:#0E2620;
+
+    --or:#D9B44C;
+    --argent:#A6B0BA;
+    --bronze:#C4874B;
+    --gap:#A891F0;
+
+    --shadow:0 1px 2px rgba(0,0,0,.5), 0 8px 24px -12px rgba(0,0,0,.8);
+    --shadow-lift:0 2px 6px rgba(0,0,0,.55), 0 18px 40px -18px rgba(0,0,0,.9);
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --ground:#0A0D11;
+  --surface:#121820;
+  --raised:#172029;
+  --sunk:#0F151B;
+  --band:#1A222C;
+
+  --ink:#E9EEF3;
+  --ink-2:#A3AEB9;
+  --ink-3:#7C8794;
+
+  --line:#212A34;
+  --line-2:#313C48;
+
+  --rouge:#E8796A;
+  --rouge-wash:#2B1512;
+  --bleu:#7FA6E8;
+  --bleu-wash:#131C2C;
+  --vert:#4FC394;
+  --vert-wash:#0E2620;
+
+  --or:#D9B44C;
+  --argent:#A6B0BA;
+  --bronze:#C4874B;
+  --gap:#A891F0;
+
+  --shadow:0 1px 2px rgba(0,0,0,.5), 0 8px 24px -12px rgba(0,0,0,.8);
+  --shadow-lift:0 2px 6px rgba(0,0,0,.55), 0 18px 40px -18px rgba(0,0,0,.9);
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:var(--ground);
+  color:var(--ink);
+  font-family:var(--ui);
+  font-size:15px;
+  line-height:1.5;
+  -webkit-text-size-adjust:100%;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3,h4{margin:0;font-weight:700;letter-spacing:-.018em;text-wrap:balance;line-height:1.2}
+p{margin:0}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+a{color:inherit;text-decoration:none}
+:focus-visible{outline:2px solid var(--ink);outline-offset:2px;border-radius:3px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+
+.fig,.num{font-family:var(--fig);font-variant-numeric:tabular-nums}
+.micro{
+  font-size:11px;font-weight:600;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink-3);
+}
+.shell{max-width:var(--shell);margin-inline:auto;padding-inline:16px}
+@media (min-width:720px){.shell{padding-inline:28px}}
+
+.skip{position:absolute;left:-9999px;top:0;z-index:100;background:var(--ink);
+  color:var(--ground);padding:10px 16px;border-radius:0 0 8px 0}
+.skip:focus{left:0}
+
+/* ---- the piste: savate's own plan view -----------------------------
+   The rulebook permits markings on the floor instead of a ring for assaut:
+   a combat zone inside a limit zone, two different colours, with the red
+   corner to the left of the officials' table and blue opposite. That is
+   the sport's only true diagram, and it is the mark. */
+.piste{display:block;flex:none}
+.piste rect{fill:none}
+.piste .zone{stroke:var(--line-2);stroke-width:1.5}
+.piste .r{fill:var(--rouge)}
+.piste .b{fill:var(--bleu)}
+
+/* ---- app bar -------------------------------------------------------- */
+.appbar{
+  position:sticky;top:0;z-index:50;
+  background:color-mix(in srgb, var(--surface) 88%, transparent);
+  backdrop-filter:saturate(180%) blur(12px);
+  -webkit-backdrop-filter:saturate(180%) blur(12px);
+  border-bottom:1px solid var(--line);
+}
+.appbar .shell{display:flex;align-items:center;gap:10px;min-height:var(--bar);
+  flex-wrap:wrap}
+
+/* Below this width the brand, six sections and three controls cannot share a
+   row without every one of them being squeezed. The nav takes its own line and
+   scrolls; nothing shrinks. */
+@media (max-width:820px){
+  .appbar .shell{min-height:0;padding-block:9px 0;row-gap:0}
+  .nav{order:10;flex-basis:100%;margin-left:-3px;padding-block:4px 7px}
+  .brand{font-size:14.5px}
+}
+.brand{display:flex;align-items:center;gap:9px;font-weight:700;font-size:15px;
+  letter-spacing:-.02em;padding-block:8px;flex:none}
+.brand span{white-space:nowrap}
+.brand em{font-style:normal;color:var(--ink-3);font-weight:500}
+
+/* min-width:0 is what actually lets a flex child scroll its own overflow
+   instead of widening the bar and, with it, the whole page. */
+.nav{display:flex;gap:2px;margin-left:6px;overflow-x:auto;scrollbar-width:none;
+  min-width:0}
+.nav::-webkit-scrollbar{display:none}
+.nav a{
+  padding:8px 11px;border-radius:7px;font-size:13.5px;font-weight:600;
+  color:var(--ink-2);white-space:nowrap;
+}
+.nav a:hover{background:var(--band);color:var(--ink)}
+.nav a[aria-current="page"]{background:var(--ink);color:var(--surface)}
+
+.barspace{flex:1 1 auto;min-width:8px}
+.iconbtn{
+  display:inline-flex;align-items:center;justify-content:center;gap:7px;
+  min-height:36px;padding:0 11px;border:1px solid var(--line);border-radius:8px;
+  color:var(--ink-2);background:var(--surface);flex:none;
+}
+.iconbtn:hover{border-color:var(--line-2);color:var(--ink)}
+.iconbtn kbd{
+  font-family:var(--fig);font-size:10.5px;color:var(--ink-3);
+  border:1px solid var(--line);border-radius:4px;padding:1px 4px;
+}
+/* The language control is a real <select>: three options do not justify a
+   custom menu, and the native one is already keyboard- and screen-reader-
+   correct in every browser. */
+select.lang{
+  appearance:none;cursor:pointer;font:600 13px/1 var(--ui);
+  padding-right:24px;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6'><path d='M1 1l4 4 4-4' fill='none' stroke='%2377818C' stroke-width='1.5'/></svg>");
+  background-repeat:no-repeat;background-position:right 8px center;
+}
+@media (max-width:820px){
+  .iconbtn kbd{display:none}
+}
+@media (max-width:560px){
+  .iconbtn .label{display:none}
+  .iconbtn{padding-inline:9px}
+  .brand em{display:none}
+}
+
+/* ---- page furniture -------------------------------------------------- */
+main{display:block;padding-block:26px 72px;min-height:60vh;min-width:0}
+.fil{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12.5px;
+  color:var(--ink-3);margin-bottom:12px}
+.fil a{border-bottom:1px solid var(--line)}
+.fil a:hover{border-bottom-color:var(--ink);color:var(--ink)}
+.fil i{font-style:normal;color:var(--line-2)}
+
+.pagehead{margin-bottom:22px}
+.pagehead h1{font-size:clamp(24px,5.2vw,34px);overflow-wrap:anywhere}
+.pagehead .sub{color:var(--ink-2);font-size:14.5px;margin-top:6px}
+
+/* ---- filter field ---------------------------------------------------- */
+.field{display:flex;align-items:center;gap:9px;background:var(--surface);
+  border:1px solid var(--line);border-radius:9px;padding:0 12px;
+  margin-bottom:16px;max-width:420px}
+.field svg{color:var(--ink-3);flex:none}
+.field input{flex:1;min-width:0;border:0;background:transparent;color:var(--ink);
+  font:400 16px/1.4 var(--ui);padding:10px 0}
+.field input:focus{outline:0}
+.field:focus-within{border-color:var(--line-2)}
+/* On the front page the search is the primary action, not a refinement. */
+.field.big{max-width:560px;border-radius:11px;padding-inline:15px;
+  box-shadow:var(--shadow)}
+.field.big input{font-size:17px;padding-block:14px}
+.field.big svg{width:18px;height:18px}
+
+.section{margin-top:36px;min-width:0}
+.sectionhead{display:flex;align-items:baseline;justify-content:space-between;
+  gap:12px;flex-wrap:wrap;margin-bottom:12px;min-width:0;
+  padding-bottom:9px;border-bottom:1px solid var(--line)}
+.sectionhead h2{font-size:15px;letter-spacing:.02em;min-width:0;
+  overflow-wrap:anywhere}
+.sectionhead .note{min-width:0;overflow-wrap:anywhere}
+.sectionhead .note{font-size:12.5px;color:var(--ink-3)}
+
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px}
+.pad{padding:18px}
+@media (min-width:720px){.pad{padding:22px}}
+
+.grid{display:grid;gap:14px;min-width:0}
+.grid > *{min-width:0}
+/* Cards in a row share a height; their last line should sit on the floor of
+   the card rather than leaving a gap under short content. */
+a.card{display:flex;flex-direction:column}
+a.card .foot{margin-top:auto;padding-top:10px}
+.g2{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.g3{grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+.g4{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+
+/* ---- chips ----------------------------------------------------------- */
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{
+  display:inline-flex;align-items:center;gap:5px;
+  padding:3px 9px;border-radius:999px;border:1px solid var(--line);
+  font-size:12px;font-weight:600;color:var(--ink-2);background:var(--surface);
+  white-space:nowrap;
+}
+button.chip{cursor:pointer}
+button.chip:hover{border-color:var(--line-2);color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--surface)}
+.chip.assaut{border-color:color-mix(in srgb,var(--bleu) 34%,var(--line))}
+.chip.combat{border-color:color-mix(in srgb,var(--rouge) 34%,var(--line))}
+.chip .dot{width:6px;height:6px;border-radius:50%;background:currentColor;flex:none}
+
+/* ---- statistics ------------------------------------------------------ */
+.stat{padding:14px 16px;border:1px solid var(--line);border-radius:10px;
+  background:var(--surface);min-width:0}
+.stat b{display:block;font-family:var(--fig);font-weight:600;
+  font-size:26px;line-height:1.1;letter-spacing:-.02em}
+.stat > span{display:block;margin-top:3px;font-size:11px;font-weight:600;
+  letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3)}
+.stat b .record{font-size:26px}
+.stat.win b{color:var(--vert)}
+
+/* ---- the record: V–D, never red/green against each other ------------- */
+.record{font-family:var(--fig);font-variant-numeric:tabular-nums;font-weight:600}
+.record .w{color:var(--vert)}
+.record .sep{color:var(--ink-3);margin-inline:2px}
+.record .l{color:var(--ink-2)}
+
+/* ---- medals ---------------------------------------------------------- */
+.medals{display:inline-flex;gap:5px;align-items:center}
+.med{display:inline-flex;align-items:center;gap:3px;font-family:var(--fig);
+  font-size:12px;font-weight:600}
+.med i{width:8px;height:8px;border-radius:50%;display:inline-block;flex:none}
+.med.or{color:var(--or)} .med.or i{background:var(--or)}
+.med.ar{color:var(--argent)} .med.ar i{background:var(--argent)}
+.med.br{color:var(--bronze)} .med.br i{background:var(--bronze)}
+
+/* ---- nation ---------------------------------------------------------- */
+.nat{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.nat .flag{font-size:14px;line-height:1}
+.nat .code{font-family:var(--fig);font-size:11.5px;font-weight:600;
+  color:var(--ink-3);letter-spacing:.03em}
+.nat .name{font-size:13.5px}
+
+/* ---- la croix: the judge's own mark for "I cannot decide" ------------
+   Drawn from two gradients rather than a character, so it can never fall
+   back to a random glyph. Always ink-3, never red: a gap is not an error. */
+.croix{
+  display:inline-block;width:.78em;height:.78em;vertical-align:-.02em;
+  color:var(--ink-3);
+  background:
+    linear-gradient(to bottom right,transparent 44%,currentColor 44% 56%,transparent 56%),
+    linear-gradient(to bottom left, transparent 44%,currentColor 44% 56%,transparent 56%);
+}
+button.croix{cursor:help;padding:0;border:0}
+.gapnote{color:var(--ink-3);font-size:12.5px}
+.notes{margin-top:26px;padding-top:12px;border-top:2px solid var(--line)}
+.notes ol{margin:8px 0 0;padding-left:22px;display:grid;gap:6px}
+.notes li{font-size:12.5px;color:var(--ink-2);line-height:1.5}
+.notes li::marker{font-family:var(--fig);color:var(--ink-3);font-size:11px}
+.notes li.flash{animation:flash .6s ease}
+@keyframes flash{from{background:var(--band)}to{background:transparent}}
+
+/* ---- tables ---------------------------------------------------------- */
+.scroll{overflow-x:auto;overscroll-behavior-x:contain;max-width:100%;min-width:0;
+  border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+/* No position:sticky on these headers. The wrapper below sets overflow-x,
+   which makes it the scrollport, so a sticky header would anchor to a box
+   that never scrolls vertically and simply never move. Inert CSS that
+   implies a behaviour is worse than no CSS. */
+thead th{
+  background:var(--surface);
+  text-align:left;font-size:11px;font-weight:700;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--ink-3);
+  padding:10px 12px;border-bottom:1px solid var(--line-2);white-space:nowrap;
+}
+thead th.n{text-align:right}
+tbody td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:middle}
+td.name{overflow-wrap:break-word}
+td.issue,td.dec,td.tour{white-space:nowrap}
+tbody tr:last-child td{border-bottom:0}
+tbody tr:hover{background:var(--band)}
+td.n,th.n{text-align:right;font-family:var(--fig);font-variant-numeric:tabular-nums}
+td.name{font-weight:600}
+td.name a:hover,.linky:hover{text-decoration:underline;text-underline-offset:2px}
+th[aria-sort]{cursor:pointer;user-select:none}
+th[aria-sort]:hover{color:var(--ink)}
+th[aria-sort]::after{content:"";display:inline-block;width:0;height:0;margin-left:6px;
+  border-inline:3.5px solid transparent;vertical-align:middle;opacity:.28}
+th[aria-sort="none"]::after{border-top:4px solid currentColor}
+th[aria-sort="descending"]::after{border-top:4px solid currentColor;opacity:1}
+th[aria-sort="ascending"]::after{border-bottom:4px solid currentColor;opacity:1}
+tr.moi td{background:var(--band)}
+tr.moi td:first-child{box-shadow:inset 3px 0 0 var(--ink)}
+
+/* ---- la feuille de poule: savate's native object ---------------------
+   Fighters on both axes, the diagonal struck out, and every result cell
+   carrying an inset rail in the corner that tireur actually occupied for
+   that rencontre. No other sport's results archive records corner at the
+   group stage, so no other sport's cross-table can draw this. */
+table.poule{font-family:var(--fig);font-size:13px}
+table.poule th,table.poule td{border:1px solid var(--line);padding:0}
+table.poule thead th{position:static;text-align:center;padding:7px 4px}
+table.poule th.who{text-align:left;min-width:132px;padding:7px 10px;
+  font-family:var(--ui)}
+table.poule td.who{text-align:left;padding:7px 10px;font-family:var(--ui);
+  font-size:13.5px;font-weight:600}
+table.poule td.cell{width:46px;height:40px;text-align:center;font-weight:600}
+table.poule td.sum{width:38px;text-align:center;font-weight:600}
+table.poule td.self{
+  background:repeating-linear-gradient(135deg,transparent 0 5px,var(--line-2) 5px 6px);
+}
+td.corner-r{box-shadow:inset 3px 0 0 var(--rouge)}
+td.corner-b{box-shadow:inset 3px 0 0 var(--bleu)}
+.poule .v{color:var(--ink);font-weight:700}
+.poule .d{color:var(--ink-3);font-weight:400}
+.poule tr.moi td.who{box-shadow:inset 3px 0 0 var(--ink)}
+.poule tr.hi td,.poule td.hi{background:var(--band)}
+.poule td.decider{outline:1.5px solid var(--rouge);outline-offset:-2px}
+.poule .rg1{font-weight:700}
+.poule tr.tied td{background:var(--band)}
+.sheetfoot{display:grid;gap:6px;margin-top:10px;font-size:12.5px;color:var(--ink-3)}
+.sheetfoot b{color:var(--ink-2);font-weight:600}
+.sheetfoot .bad{color:var(--rouge)}
+
+/* ---- avertissements: three strokes, the third is the disqualification - */
+.avert{display:inline-flex;gap:2px;align-items:center;vertical-align:-1px}
+.avert i{width:2px;height:11px;background:var(--ink-2);display:block;
+  transform:skewX(-12deg)}
+.avert i.third{background:var(--rouge)}
+.avert.none{color:var(--ink-3);font-family:var(--fig);font-size:12px}
+
+/* ---- le bulletin: red corner left, blue right, never sorted ---------- */
+.bulletin{display:grid;gap:0;border:1px solid var(--line);border-radius:12px;
+  overflow:hidden;background:var(--surface)}
+@media (min-width:600px){.bulletin{grid-template-columns:1fr 128px 1fr}}
+.corner{padding:18px}
+.corner.n{box-shadow:inset 4px 0 0 var(--line-2)}
+.corner.r{box-shadow:inset 4px 0 0 var(--rouge)}
+.corner.b{box-shadow:inset 4px 0 0 var(--bleu)}
+@media (min-width:600px){.corner.b{box-shadow:inset -4px 0 0 var(--bleu)}}
+.corner .lab{font-size:11px;font-weight:700;letter-spacing:.11em;
+  text-transform:uppercase}
+.corner.r .lab{color:var(--rouge)} .corner.b .lab{color:var(--bleu)}
+.corner.n .lab{color:var(--ink-3)}
+.corner h3{font-size:18px;margin-top:8px}
+.corner.won h3{border-bottom:2px solid var(--vert);display:inline-block;
+  padding-bottom:2px}
+.corner.lost h3{color:var(--ink-2);font-weight:600}
+.corner .meta{margin-top:8px;display:grid;gap:5px;font-size:13px;color:var(--ink-2)}
+.gutter{padding:18px;background:var(--sunk);display:grid;gap:8px;
+  align-content:center;justify-items:center;text-align:center;
+  border-block:1px solid var(--line)}
+@media (min-width:600px){.gutter{border-block:0;border-inline:1px solid var(--line)}}
+.gutter .phase{font-size:11px;font-weight:700;letter-spacing:.11em;
+  text-transform:uppercase;color:var(--ink-3)}
+.gutter .dec{font-size:13.5px;font-weight:600}
+.gutter .pts{display:flex;gap:10px;font-family:var(--fig);font-size:18px;
+  font-weight:600}
+
+/* ---- le tableau: poule -> demie -> finale ---------------------------- */
+.tableau{display:flex;gap:14px;align-items:stretch;overflow-x:auto;
+  padding-bottom:6px}
+.round{display:flex;flex-direction:column;gap:12px;justify-content:space-around;
+  min-width:210px;flex:1}
+.round > .micro{text-align:center}
+.tie{border:1px solid var(--line);border-radius:10px;background:var(--surface);
+  overflow:hidden;display:grid}
+.tie a,.tie div.side{display:flex;align-items:center;gap:8px;padding:9px 11px;
+  font-size:13.5px}
+.tie .side + .side{border-top:1px solid var(--line)}
+.tie .side.n{box-shadow:inset 3px 0 0 var(--line-2)}
+.tie .side.r{box-shadow:inset 3px 0 0 var(--rouge)}
+.tie .side.b{box-shadow:inset 3px 0 0 var(--bleu)}
+.tie .side.won{font-weight:700}
+.tie .side.lost{color:var(--ink-2)}
+.tie .side .sc{margin-left:auto;font-family:var(--fig);font-weight:600}
+
+/* ---- coverage strip -------------------------------------------------- */
+.cov{display:flex;gap:3px;align-items:flex-end}
+.cov a{flex:1;min-width:0;display:grid;gap:2px;justify-items:center;
+  padding:4px 0;border-radius:6px}
+.cov a:hover{background:var(--band)}
+.cov .bar{width:100%;background:var(--line-2);border-radius:2px;min-height:2px}
+.cov a.has .bar{background:var(--ink-2)}
+.cov .yr{font-family:var(--fig);font-size:10px;color:var(--ink-3)}
+
+/* ---- command palette ------------------------------------------------- */
+.scrim{position:fixed;inset:0;z-index:80;background:rgba(10,13,17,.45);
+  display:grid;align-items:start;justify-items:center;padding:12vh 16px 16px;
+  backdrop-filter:blur(3px)}
+.palette{width:min(620px,100%);background:var(--surface);border:1px solid var(--line-2);
+  border-radius:14px;box-shadow:var(--shadow-lift);overflow:hidden}
+.palette input{
+  width:100%;border:0;border-bottom:1px solid var(--line);background:transparent;
+  color:var(--ink);font:500 16px/1.4 var(--ui);padding:15px 17px;
+}
+.palette input:focus{outline:0}
+.palette ul{list-style:none;margin:0;padding:6px;max-height:min(52vh,420px);
+  overflow-y:auto}
+.palette li a{display:flex;align-items:center;gap:10px;padding:9px 11px;
+  border-radius:8px;font-size:14px}
+.palette li[aria-selected="true"] a,.palette li a:hover{background:var(--band)}
+.palette .kind{margin-left:auto;font-size:11px;font-weight:600;
+  letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.palette .empty{padding:22px 17px;color:var(--ink-3);font-size:13.5px}
+
+/* ---- empty state: the judge raising the scorecard -------------------- */
+.carte{display:grid;justify-items:center;gap:14px;padding:44px 16px;
+  text-align:center;color:var(--ink-3)}
+.carte .card{width:118px;height:80px;display:grid;place-items:center;
+  font-family:var(--fig);font-weight:600;font-size:20px;color:var(--ink-3);
+  border:1px solid var(--line-2);border-radius:6px;background:var(--surface);
+  animation:lift .26s ease}
+@keyframes lift{from{transform:translateY(8px);opacity:0}to{transform:none;opacity:1}}
+.carte p{max-width:44ch;font-size:13.5px;line-height:1.6}
+
+/* ---- footer ---------------------------------------------------------- */
+footer{border-top:1px solid var(--line);background:var(--surface);
+  padding-block:26px 40px;margin-top:20px}
+footer .shell{display:grid;gap:14px}
+footer .row{display:flex;flex-wrap:wrap;gap:14px;align-items:center;
+  justify-content:space-between}
+footer p{font-size:12.5px;color:var(--ink-3);max-width:62ch;line-height:1.6}
+footer a{border-bottom:1px solid var(--line)}
+footer a:hover{border-bottom-color:var(--ink)}
+.keys{display:flex;flex-wrap:wrap;gap:10px;font-size:12px;color:var(--ink-3)}
+.keys kbd{font-family:var(--fig);font-size:10.5px;border:1px solid var(--line);
+  border-radius:4px;padding:1px 5px;color:var(--ink-2)}
+
+@media print{
+  .appbar,.palette,.scrim,footer,.iconbtn,.fil{display:none!important}
+  body{background:#fff}
+  .scroll{border:0}
+  table.poule th,table.poule td{border-color:#999}
+}
+</style>
+
+<a class="skip" href="#view"></a>
+
+<header class="appbar">
+  <div class="shell">
+    <a class="brand" href="#/">
+      <svg class="piste" width="22" height="22" viewBox="0 0 22 22" aria-hidden="true">
+        <rect class="zone" x="1.5" y="1.5" width="19" height="19" rx="1"/>
+        <rect class="zone" x="5.5" y="5.5" width="11" height="11" rx="1"/>
+        <rect class="r" x="1" y="8" width="2.5" height="6" rx="1"/>
+        <rect class="b" x="18.5" y="8" width="2.5" height="6" rx="1"/>
+      </svg>
+      <span>Palmarès <em>Savate</em></span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Sections"></nav>
+    <div class="barspace"></div>
+    <a class="iconbtn" id="mine" href="#/moi"></a>
+    <select class="iconbtn lang" id="lang"></select>
+    <button class="iconbtn" id="search" aria-label="Rechercher">
+      <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+        <circle cx="7" cy="7" r="4.6" stroke="currentColor" stroke-width="1.6"/>
+        <path d="M10.6 10.6 14 14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+      </svg>
+      <span class="label">Rechercher</span><kbd>⌘K</kbd>
+    </button>
+    <button class="iconbtn" id="theme" aria-label="Thème"></button>
+  </div>
+</header>
+
+<main id="view" class="shell" tabindex="-1"></main>
+
+<footer>
+  <div class="shell">
+    <div class="row">
+      <p id="foot-count"></p>
+      <div class="keys" id="foot-keys"></div>
+    </div>
+    <p id="foot-note"></p>
+  </div>
+</footer>
+
+<script src="i18n.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>

@@ -1,0 +1,6487 @@
+[
+ {
+  "slug": "11-savate-resultats-jeunes-filles-2011-2011",
+  "adapter": "universitaire",
+  "source": "raw_sources/11-Savate_Resultats_jeunes_filles_2011.xls-f71a75592e",
+  "meta": {
+   "name": "11 Savate Resultats jeunes filles 2011",
+   "year": "2011",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "11 Savate Resultats jeunes filles 2011",
+   "doc_name": "",
+   "file_name": "11 Savate Resultats jeunes filles 2011",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 84,
+    "placings": 21,
+    "categories": 6,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 46
+  }
+ },
+ {
+  "slug": "11-savate-resultats-jeunes-gens-2011-2011",
+  "adapter": "universitaire",
+  "source": "raw_sources/11-Savate_Resultats_jeunes_gens_2011.xls-367bd94843",
+  "meta": {
+   "name": "11 Savate Resultats jeunes gens 2011",
+   "year": "2011",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "11 Savate Resultats jeunes gens 2011",
+   "doc_name": "",
+   "file_name": "11 Savate Resultats jeunes gens 2011",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 85,
+    "placings": 23,
+    "categories": 6,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 47
+  }
+ },
+ {
+  "slug": "238-european-youth-championships-2016-2016",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/238-european-youth-championships-2016-abc32529c9",
+  "meta": {
+   "name": "238 european youth championships 2016",
+   "year": "2016"
+  },
+  "_review": {
+   "label": "238 european youth championships 2016",
+   "doc_name": "",
+   "file_name": "238 european youth championships 2016",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 47,
+    "categories": 13,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 47
+  }
+ },
+ {
+  "slug": "322-ring-1-pool-results-2017-2017",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/322-ring-1-pool-results-2017-3fb9722d55.pdf",
+  "meta": {
+   "name": "322 ring 1 pool results 2017",
+   "year": "2017"
+  },
+  "_review": {
+   "label": "322 ring 1 pool results 2017",
+   "doc_name": "",
+   "file_name": "322 ring 1 pool results 2017",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 13,
+    "placings": 0,
+    "categories": 7,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 20
+  }
+ },
+ {
+  "slug": "323-combat-ring-2-pool-results-2017-2017",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/323-combat-ring-2-pool-results-2017-fe1453bbc4.pdf",
+  "meta": {
+   "name": "323 combat ring 2 pool results 2017",
+   "year": "2017"
+  },
+  "_review": {
+   "label": "323 combat ring 2 pool results 2017",
+   "doc_name": "",
+   "file_name": "323 combat ring 2 pool results 2017",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 14,
+    "placings": 0,
+    "categories": 8,
+    "decided": 0,
+    "problems": 8
+   },
+   "names": 22
+  }
+ },
+ {
+  "slug": "324-combat-ring-3-pool-results-2017-2017",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/324-combat-ring-3-pool-results-2017-da2a56c705.pdf",
+  "meta": {
+   "name": "324 combat ring 3 pool results 2017",
+   "year": "2017"
+  },
+  "_review": {
+   "label": "324 combat ring 3 pool results 2017",
+   "doc_name": "",
+   "file_name": "324 combat ring 3 pool results 2017",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 17,
+    "placings": 0,
+    "categories": 7,
+    "decided": 0,
+    "problems": 8
+   },
+   "names": 24
+  }
+ },
+ {
+  "slug": "326-jeunes-pool-results-girls-2017-2017",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/326-jeunes-pool-results-girls-2017-c607e769f6.pdf",
+  "meta": {
+   "name": "326 jeunes pool results girls 2017",
+   "year": "2017"
+  },
+  "_review": {
+   "label": "326 jeunes pool results girls 2017",
+   "doc_name": "",
+   "file_name": "326 jeunes pool results girls 2017",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 8,
+    "placings": 0,
+    "categories": 6,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "349-european-youth-championships-june-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/349-european-youth-championships-june-2018-49a2d1758f",
+  "meta": {
+   "name": "349 european youth championships june 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "349 european youth championships june 2018",
+   "doc_name": "",
+   "file_name": "349 european youth championships june 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 88,
+    "placings": 52,
+    "categories": 12,
+    "decided": 65,
+    "problems": 17
+   },
+   "names": 103
+  }
+ },
+ {
+  "slug": "412-f-52kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/412-f-52kg-pool-results-2018-f9913ef2b6",
+  "meta": {
+   "name": "412 f 52kg pool results 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "412 f 52kg pool results 2018",
+   "doc_name": "",
+   "file_name": "412 f 52kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 19,
+    "placings": 0,
+    "categories": 1,
+    "decided": 15,
+    "problems": 0
+   },
+   "names": 11
+  }
+ },
+ {
+  "slug": "413-f-56kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/413-f-56kg-pool-results-2018-60fc83b669",
+  "meta": {
+   "name": "413 f 56kg pool results 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "413 f 56kg pool results 2018",
+   "doc_name": "",
+   "file_name": "413 f 56kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 19,
+    "placings": 0,
+    "categories": 1,
+    "decided": 15,
+    "problems": 0
+   },
+   "names": 11
+  }
+ },
+ {
+  "slug": "414-f-60kg-pool-results-2018-2018",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/414-f-60kg-pool-results-2018-446e6dd293",
+  "meta": {
+   "name": "414 f 60kg pool results 2018",
+   "year": "2018",
+   "level": "national"
+  },
+  "_review": {
+   "label": "414 f 60kg pool results 2018",
+   "doc_name": "",
+   "file_name": "414 f 60kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 1,
+    "placings": 2,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 2
+  }
+ },
+ {
+  "slug": "417-f-70kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/417-f-70kg-pool-results-2018-b3e4bbf978",
+  "meta": {
+   "name": "417 f 70kg pool results 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "417 f 70kg pool results 2018",
+   "doc_name": "",
+   "file_name": "417 f 70kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 15,
+    "placings": 0,
+    "categories": 1,
+    "decided": 12,
+    "problems": 0
+   },
+   "names": 10
+  }
+ },
+ {
+  "slug": "428-m-75kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/428-m-75kg-pool-results-2018-f7bac9562b.pdf",
+  "meta": {
+   "name": "428 m 75kg pool results 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "428 m 75kg pool results 2018",
+   "doc_name": "",
+   "file_name": "428 m 75kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 26,
+    "placings": 0,
+    "categories": 1,
+    "decided": 21,
+    "problems": 2
+   },
+   "names": 18
+  }
+ },
+ {
+  "slug": "429-m-70kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/429-m-70kg-pool-results-2018-966979424a",
+  "meta": {
+   "name": "429 m 70kg pool results 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "429 m 70kg pool results 2018",
+   "doc_name": "",
+   "file_name": "429 m 70kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 22,
+    "placings": 0,
+    "categories": 1,
+    "decided": 18,
+    "problems": 3
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "430-m-65kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/430-m-65kg-pool-results-2018-4afacadee8.pdf",
+  "meta": {
+   "name": "430 m 65kg pool results 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "430 m 65kg pool results 2018",
+   "doc_name": "",
+   "file_name": "430 m 65kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 23,
+    "placings": 0,
+    "categories": 1,
+    "decided": 18,
+    "problems": 1
+   },
+   "names": 18
+  }
+ },
+ {
+  "slug": "432-m-85kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/432-m-85kg-pool-results-2018-a9ca56d378.pdf",
+  "meta": {
+   "name": "432 m 85kg pool results 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "432 m 85kg pool results 2018",
+   "doc_name": "",
+   "file_name": "432 m 85kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 20,
+    "placings": 0,
+    "categories": 1,
+    "decided": 15,
+    "problems": 3
+   },
+   "names": 16
+  }
+ },
+ {
+  "slug": "433-m-80kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/433-m-80kg-pool-results-2018-1ceb592170.pdf",
+  "meta": {
+   "name": "433 m 80kg pool results 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "433 m 80kg pool results 2018",
+   "doc_name": "",
+   "file_name": "433 m 80kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 23,
+    "placings": 0,
+    "categories": 1,
+    "decided": 18,
+    "problems": 4
+   },
+   "names": 17
+  }
+ },
+ {
+  "slug": "434-m-56kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/434-m-56kg-pool-results-2018-edbff61dd8.pdf",
+  "meta": {
+   "name": "434 m 56kg pool results 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "434 m 56kg pool results 2018",
+   "doc_name": "",
+   "file_name": "434 m 56kg pool results 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 14,
+    "placings": 0,
+    "categories": 1,
+    "decided": 9,
+    "problems": 0
+   },
+   "names": 9
+  }
+ },
+ {
+  "slug": "435-m-85kg-pool-results-2018960-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/435-m-85kg-pool-results-2018960-70c2fa5b24.pdf",
+  "meta": {
+   "name": "435 m 85kg pool results 2018960",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "435 m 85kg pool results 2018960",
+   "doc_name": "",
+   "file_name": "435 m 85kg pool results 2018960",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 23,
+    "placings": 0,
+    "categories": 1,
+    "decided": 18,
+    "problems": 4
+   },
+   "names": 17
+  }
+ },
+ {
+  "slug": "442-championship-of-africa-savate-combat-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/442-championship-of-africa-savate-combat-2018-90632c362f",
+  "meta": {
+   "name": "442 championship of africa savate combat 2018",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "442 championship of africa savate combat 2018",
+   "doc_name": "",
+   "file_name": "442 championship of africa savate combat 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 16,
+    "categories": 6,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 16
+  }
+ },
+ {
+  "slug": "59-wyc-results-2011-2011",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/59-wyc-results-2011-b8c434ea1d.pdf",
+  "meta": {
+   "name": "59 wyc results 2011",
+   "year": "2011"
+  },
+  "_review": {
+   "label": "59 wyc results 2011",
+   "doc_name": "",
+   "file_name": "59 wyc results 2011",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 43,
+    "categories": 17,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 43
+  }
+ },
+ {
+  "slug": "60-world-assaut-championship-2008-results-2008",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/60-world-assaut-championship-2008-results-15c74a6c38.pdf",
+  "meta": {
+   "name": "60 world assaut championship 2008 results",
+   "year": "2008"
+  },
+  "_review": {
+   "label": "60 world assaut championship 2008 results",
+   "doc_name": "",
+   "file_name": "60 world assaut championship 2008 results",
+   "copies": 2,
+   "others": [
+    "raw_sources/78-women-s-assaut-2008-7b3b6edf73"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 89,
+    "categories": 15,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 89
+  }
+ },
+ {
+  "slug": "62-results-world-championship-combat-2009-2009",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/62-results-world-championship-combat-2009-aaaaf2a698",
+  "meta": {
+   "name": "62 results world championship combat 2009",
+   "year": "2009"
+  },
+  "_review": {
+   "label": "62 results world championship combat 2009",
+   "doc_name": "",
+   "file_name": "62 results world championship combat 2009",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 14,
+    "placings": 28,
+    "categories": 14,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 28
+  }
+ },
+ {
+  "slug": "666-senior-men-60kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/666-senior-men-60kg-89855ad939",
+  "meta": {
+   "name": "666 senior men 60kg",
+   "year": ""
+  },
+  "_review": {
+   "label": "666 senior men 60kg",
+   "doc_name": "",
+   "file_name": "666 senior men 60kg",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 1,
+    "decided": 6,
+    "problems": 2
+   },
+   "names": 6
+  }
+ },
+ {
+  "slug": "667-senior-men-65kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/667-senior-men-65kg-488ab46980",
+  "meta": {
+   "name": "667 senior men 65kg",
+   "year": ""
+  },
+  "_review": {
+   "label": "667 senior men 65kg",
+   "doc_name": "",
+   "file_name": "667 senior men 65kg",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 5
+   },
+   "names": 9
+  }
+ },
+ {
+  "slug": "668-senior-men-70kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/668-senior-men-70kg-374d9bb68c",
+  "meta": {
+   "name": "668 senior men 70kg",
+   "year": ""
+  },
+  "_review": {
+   "label": "668 senior men 70kg",
+   "doc_name": "",
+   "file_name": "668 senior men 70kg",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 3
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "669-senior-men-75kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/669-senior-men-75kg-84ae0fed79",
+  "meta": {
+   "name": "669 senior men 75kg",
+   "year": ""
+  },
+  "_review": {
+   "label": "669 senior men 75kg",
+   "doc_name": "",
+   "file_name": "669 senior men 75kg",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 1,
+    "decided": 8,
+    "problems": 3
+   },
+   "names": 7
+  }
+ },
+ {
+  "slug": "674-senior-women-48kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/674-senior-women-48kg-16e63cfd41",
+  "meta": {
+   "name": "674 senior women 48kg",
+   "year": ""
+  },
+  "_review": {
+   "label": "674 senior women 48kg",
+   "doc_name": "",
+   "file_name": "674 senior women 48kg",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 0,
+    "categories": 1,
+    "decided": 6,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "676-senior-women-56kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/676-senior-women-56kg-1d4a35fe1f.pdf",
+  "meta": {
+   "name": "676 senior women 56kg",
+   "year": ""
+  },
+  "_review": {
+   "label": "676 senior women 56kg",
+   "doc_name": "",
+   "file_name": "676 senior women 56kg",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 10,
+    "placings": 0,
+    "categories": 1,
+    "decided": 10,
+    "problems": 1
+   },
+   "names": 5
+  }
+ },
+ {
+  "slug": "694-results-budapest-open-2020-2020",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/694-results-budapest-open-2020-ac1d307696",
+  "meta": {
+   "name": "694 results budapest open 2020",
+   "year": "2020"
+  },
+  "_review": {
+   "label": "694 results budapest open 2020",
+   "doc_name": "",
+   "file_name": "694 results budapest open 2020",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 101,
+    "categories": 38,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 100
+  }
+ },
+ {
+  "slug": "71-championnat-d-europe-assaut-femmes-2007-2007",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/71-championnat-d-europe-assaut-femmes-2007-4a92eac3cd.pdf",
+  "meta": {
+   "name": "71 championnat d europe assaut femmes 2007",
+   "year": "2007"
+  },
+  "_review": {
+   "label": "71 championnat d europe assaut femmes 2007",
+   "doc_name": "",
+   "file_name": "71 championnat d europe assaut femmes 2007",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 21,
+    "categories": 7,
+    "decided": 0,
+    "problems": 6
+   },
+   "names": 21
+  }
+ },
+ {
+  "slug": "72-championnat-d-europe-assaut-hommes-2007-2007",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/72-championnat-d-europe-assaut-hommes-2007-ca86746927",
+  "meta": {
+   "name": "72 championnat d europe assaut hommes 2007",
+   "year": "2007"
+  },
+  "_review": {
+   "label": "72 championnat d europe assaut hommes 2007",
+   "doc_name": "",
+   "file_name": "72 championnat d europe assaut hommes 2007",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 26,
+    "categories": 6,
+    "decided": 0,
+    "problems": 6
+   },
+   "names": 26
+  }
+ },
+ {
+  "slug": "724-world-cadet-cup-2021-f60-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/724-world-cadet-cup-2021-f60-bd0eb30fe4.pdf",
+  "meta": {
+   "name": "724 world cadet cup 2021 f60",
+   "year": "2021"
+  },
+  "_review": {
+   "label": "724 world cadet cup 2021 f60",
+   "doc_name": "",
+   "file_name": "724 world cadet cup 2021 f60",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 4
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "733-world-youth-championship-2021-medals-2021",
+  "adapter": "savate_medal_list",
+  "source": "raw_sources/733-world-youth-championship-2021-medals-a446c318e9.pdf",
+  "meta": {
+   "name": "733 world youth championship 2021 medals",
+   "year": "2021"
+  },
+  "_review": {
+   "label": "733 world youth championship 2021 medals",
+   "doc_name": "",
+   "file_name": "733 world youth championship 2021 medals",
+   "copies": 2,
+   "others": [
+    "raw_sources/spmedal.pdf-b29c41e48c.pdf"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 20,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 19
+  }
+ },
+ {
+  "slug": "739-world-cup-assaut-2021-senior-results-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/739-world-cup-assaut-2021-senior-results-2e1fe64bfd.pdf",
+  "meta": {
+   "name": "739 world cup assaut 2021 senior results",
+   "year": "2021"
+  },
+  "_review": {
+   "label": "739 world cup assaut 2021 senior results",
+   "doc_name": "",
+   "file_name": "739 world cup assaut 2021 senior results",
+   "copies": 3,
+   "others": [
+    "raw_sources/742-world-cup-assaut-2021-senior-m70-9b9dbfa663.pdf",
+    "raw_sources/740-world-cup-assaut-2021-senior-f48-52656be79c.pdf"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 34,
+    "categories": 13,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 33
+  }
+ },
+ {
+  "slug": "741-world-cup-assaut-2021-senior-f52-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/741-world-cup-assaut-2021-senior-f52-0f29999dc0.pdf",
+  "meta": {
+   "name": "741 world cup assaut 2021 senior f52",
+   "year": "2021"
+  },
+  "_review": {
+   "label": "741 world cup assaut 2021 senior f52",
+   "doc_name": "",
+   "file_name": "741 world cup assaut 2021 senior f52",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 2,
+    "problems": 4
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "743-world-cup-assaut-2021-senior-m80-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/743-world-cup-assaut-2021-senior-m80-b99418208d",
+  "meta": {
+   "name": "743 world cup assaut 2021 senior m80",
+   "year": "2021"
+  },
+  "_review": {
+   "label": "743 world cup assaut 2021 senior m80",
+   "doc_name": "",
+   "file_name": "743 world cup assaut 2021 senior m80",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 3
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "744-world-cup-assaut-2021-senior-m-85-2021",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/744-world-cup-assaut-2021-senior-m-85-86320d80c5",
+  "meta": {
+   "name": "744 world cup assaut 2021 senior m 85",
+   "year": "2021",
+   "level": "national"
+  },
+  "_review": {
+   "label": "744 world cup assaut 2021 senior m 85",
+   "doc_name": "",
+   "file_name": "744 world cup assaut 2021 senior m 85",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 1,
+    "placings": 2,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 2
+  }
+ },
+ {
+  "slug": "745-world-cup-assaut-2021-senior-m85-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/745-world-cup-assaut-2021-senior-m85-0eee719df4.pdf",
+  "meta": {
+   "name": "745 world cup assaut 2021 senior m85",
+   "year": "2021"
+  },
+  "_review": {
+   "label": "745 world cup assaut 2021 senior m85",
+   "doc_name": "",
+   "file_name": "745 world cup assaut 2021 senior m85",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 2
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "750-world-combat-senior-women-f56",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/750-world-combat-senior-women-f56-8f13cd1786",
+  "meta": {
+   "name": "750 world combat senior women f56",
+   "year": ""
+  },
+  "_review": {
+   "label": "750 world combat senior women f56",
+   "doc_name": "",
+   "file_name": "750 world combat senior women f56",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 1,
+    "decided": 6,
+    "problems": 1
+   },
+   "names": 6
+  }
+ },
+ {
+  "slug": "751-world-combat-senior-women-f60",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "raw_sources/751-world-combat-senior-women-f60-090a3eb236.pdf",
+  "meta": {
+   "name": "751 world combat senior women f60",
+   "year": ""
+  },
+  "_review": {
+   "label": "751 world combat senior women f60",
+   "doc_name": "",
+   "file_name": "751 world combat senior women f60",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 1,
+    "decided": 6,
+    "problems": 0
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "752-world-combat-junior-j75",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "raw_sources/752-world-combat-junior-j75-cb44af8db6.pdf",
+  "meta": {
+   "name": "752 world combat junior j75",
+   "year": ""
+  },
+  "_review": {
+   "label": "752 world combat junior j75",
+   "doc_name": "",
+   "file_name": "752 world combat junior j75",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 0
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "753-world-combat-senior-men-m56",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/753-world-combat-senior-men-m56-56089dae2d",
+  "meta": {
+   "name": "753 world combat senior men m56",
+   "year": ""
+  },
+  "_review": {
+   "label": "753 world combat senior men m56",
+   "doc_name": "",
+   "file_name": "753 world combat senior men m56",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 1
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "754-world-combat-senior-men-m60",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/754-world-combat-senior-men-m60-258edb9f80.pdf",
+  "meta": {
+   "name": "754 world combat senior men m60",
+   "year": ""
+  },
+  "_review": {
+   "label": "754 world combat senior men m60",
+   "doc_name": "",
+   "file_name": "754 world combat senior men m60",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 1
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "755-world-combat-senior-men-m65",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/755-world-combat-senior-men-m65-a2ab0fe6d2",
+  "meta": {
+   "name": "755 world combat senior men m65",
+   "year": ""
+  },
+  "_review": {
+   "label": "755 world combat senior men m65",
+   "doc_name": "",
+   "file_name": "755 world combat senior men m65",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 1,
+    "decided": 6,
+    "problems": 1
+   },
+   "names": 6
+  }
+ },
+ {
+  "slug": "756-world-combat-senior-men-m70",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/756-world-combat-senior-men-m70-9c929d4e1f.pdf",
+  "meta": {
+   "name": "756 world combat senior men m70",
+   "year": ""
+  },
+  "_review": {
+   "label": "756 world combat senior men m70",
+   "doc_name": "",
+   "file_name": "756 world combat senior men m70",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 11,
+    "placings": 0,
+    "categories": 1,
+    "decided": 9,
+    "problems": 2
+   },
+   "names": 5
+  }
+ },
+ {
+  "slug": "757-world-combat-senior-men-m75",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "raw_sources/757-world-combat-senior-men-m75-f7c58c5dda.pdf",
+  "meta": {
+   "name": "757 world combat senior men m75",
+   "year": ""
+  },
+  "_review": {
+   "label": "757 world combat senior men m75",
+   "doc_name": "",
+   "file_name": "757 world combat senior men m75",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 1,
+    "decided": 6,
+    "problems": 0
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "758-world-combat-senior-men-m80",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/758-world-combat-senior-men-m80-cd60501f8f.pdf",
+  "meta": {
+   "name": "758 world combat senior men m80",
+   "year": ""
+  },
+  "_review": {
+   "label": "758 world combat senior men m80",
+   "doc_name": "",
+   "file_name": "758 world combat senior men m80",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 1
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "759-world-combat-senior-men-m85",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "raw_sources/759-world-combat-senior-men-m85-731d94b6b2.pdf",
+  "meta": {
+   "name": "759 world combat senior men m85",
+   "year": ""
+  },
+  "_review": {
+   "label": "759 world combat senior men m85",
+   "doc_name": "",
+   "file_name": "759 world combat senior men m85",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 1,
+    "decided": 6,
+    "problems": 0
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "760-world-combat-senior-men-m-85",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/760-world-combat-senior-men-m-85-9218f5c06e.pdf",
+  "meta": {
+   "name": "760 world combat senior men m 85",
+   "year": ""
+  },
+  "_review": {
+   "label": "760 world combat senior men m 85",
+   "doc_name": "",
+   "file_name": "760 world combat senior men m 85",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 1,
+    "decided": 3,
+    "problems": 1
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "80-european-championships-assaut-2009-2009",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/80-european-championships-assaut-2009-5555ad2ac0.pdf",
+  "meta": {
+   "name": "80 european championships assaut 2009",
+   "year": "2009"
+  },
+  "_review": {
+   "label": "80 european championships assaut 2009",
+   "doc_name": "",
+   "file_name": "80 european championships assaut 2009",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 45,
+    "categories": 14,
+    "decided": 0,
+    "problems": 4
+   },
+   "names": 45
+  }
+ },
+ {
+  "slug": "807-results-of-european-youth-championships-2022-2022",
+  "adapter": "savate_medal_list",
+  "source": "raw_sources/807-results-of-european-youth-championships-2022-58f002e460",
+  "meta": {
+   "name": "807 results of european youth championships 2022",
+   "year": "2022"
+  },
+  "_review": {
+   "label": "807 results of european youth championships 2022",
+   "doc_name": "",
+   "file_name": "807 results of european youth championships 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 65,
+    "categories": 17,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 62
+  }
+ },
+ {
+  "slug": "808-results-of-the-european-combat-championships-2022-2022",
+  "adapter": "savate_medal_list",
+  "source": "raw_sources/808-results-of-the-european-combat-championships-2022-816ee0f39d.pdf",
+  "meta": {
+   "name": "808 results of the european combat championships 2022",
+   "year": "2022"
+  },
+  "_review": {
+   "label": "808 results of the european combat championships 2022",
+   "doc_name": "",
+   "file_name": "808 results of the european combat championships 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 44,
+    "categories": 14,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 42
+  }
+ },
+ {
+  "slug": "82-championnat-du-monde-assaut-2010-2010",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/82-championnat-du-monde-assaut-2010-d4d7b3905c",
+  "meta": {
+   "name": "82 championnat du monde assaut 2010",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "82 championnat du monde assaut 2010",
+   "doc_name": "",
+   "file_name": "82 championnat du monde assaut 2010",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 62,
+    "categories": 16,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 62
+  }
+ },
+ {
+  "slug": "83-european-combat-championship-2010-women-2010",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/83-european-combat-championship-2010-women-335f4f05dc",
+  "meta": {
+   "name": "83 european combat championship 2010 women",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "83 european combat championship 2010 women",
+   "doc_name": "",
+   "file_name": "83 european combat championship 2010 women",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 18,
+    "categories": 6,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 18
+  }
+ },
+ {
+  "slug": "av-mer-brest2006-resultats-pdf-2006",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/AV_mer_brest2006_Resultats.pdf-2b33c71675.pdf",
+  "meta": {
+   "name": "AV mer brest2006 Resultats.pdf",
+   "year": "2006"
+  },
+  "_review": {
+   "label": "AV mer brest2006 Resultats.pdf",
+   "doc_name": "",
+   "file_name": "AV mer brest2006 Resultats.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 3,
+    "categories": 1,
+    "decided": 0,
+    "problems": 44
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "boxe-samedi-20-fevrier-2016-resultats-2016",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/258-boxe-samedi-20-fevrier-2016-resultats-db3de67b88",
+  "meta": {
+   "name": "BOXE SAMEDI 20 FEVRIER 2016 RESULTATS",
+   "year": "2016"
+  },
+  "_review": {
+   "label": "BOXE SAMEDI 20 FEVRIER 2016 RESULTATS",
+   "doc_name": "BOXE SAMEDI 20 FEVRIER 2016 RESULTATS",
+   "file_name": "258 boxe samedi 20 fevrier 2016 resultats",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 8
+  }
+ },
+ {
+  "slug": "british-savate-assaut-champions-2015-2015",
+  "adapter": "british_champions",
+  "source": "raw_sources/champions2015-5313aec76a",
+  "meta": {
+   "name": "British Savate Assaut Champions 2015",
+   "year": "2015",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "British Savate Assaut Champions 2015",
+   "doc_name": "British Savate Assaut Champions 2015",
+   "file_name": "champions2015",
+   "copies": 2,
+   "others": [
+    "raw_sources/page-a4ac2de05d"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 12,
+    "categories": 6,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 12
+  }
+ },
+ {
+  "slug": "british-savate-assaut-champions-2016-2016",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-2a867c7fe9",
+  "meta": {
+   "name": "British Savate Assaut Champions 2016",
+   "year": "2016",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "British Savate Assaut Champions 2016",
+   "doc_name": "British Savate Assaut Champions 2016",
+   "file_name": "page",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 7,
+    "categories": 7,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 7
+  }
+ },
+ {
+  "slug": "british-savate-assaut-champions-2017-2017",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-19a83a41cb",
+  "meta": {
+   "name": "British Savate Assaut Champions 2017",
+   "year": "2017",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "British Savate Assaut Champions 2017",
+   "doc_name": "British Savate Assaut Champions 2017",
+   "file_name": "page",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "british-savate-champions-2024-2024",
+  "adapter": "british_champions",
+  "source": "raw_sources/british-savate-champions-2024-77f84dac63",
+  "meta": {
+   "name": "British Savate Champions 2024",
+   "year": "2024",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "British Savate Champions 2024",
+   "doc_name": "British Savate Champions 2024",
+   "file_name": "british savate champions 2024",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 18,
+    "categories": 9,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 18
+  }
+ },
+ {
+  "slug": "british-savate-champions-2025-2025",
+  "adapter": "british_champions",
+  "source": "raw_sources/british-savate-champions-2025-1941a7ce95",
+  "meta": {
+   "name": "British Savate Champions 2025",
+   "year": "2025",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "British Savate Champions 2025",
+   "doc_name": "British Savate Champions 2025",
+   "file_name": "british savate champions 2025",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 10,
+    "categories": 5,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 10
+  }
+ },
+ {
+  "slug": "british-savate-championships-2012-8th-july-results-2012",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-606f6a58be",
+  "meta": {
+   "name": "British Savate Championships 2012: 8th July, Results",
+   "year": "2012",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "British Savate Championships 2012: 8th July, Results",
+   "doc_name": "British Savate Championships 2012: 8th July, Results",
+   "file_name": "page",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 5,
+    "categories": 5,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 5
+  }
+ },
+ {
+  "slug": "campionati-assoluti-savate-2021",
+  "adapter": "federkombat",
+  "source": "raw_sources/Risultati.pdf-b9f98bf5d9.pdf",
+  "meta": {
+   "name": "CAMPIONATI ASSOLUTI SAVATE",
+   "year": "2021"
+  },
+  "_review": {
+   "label": "CAMPIONATI ASSOLUTI SAVATE",
+   "doc_name": "CAMPIONATI ASSOLUTI SAVATE",
+   "file_name": "Risultati.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 119,
+    "categories": 42,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 87
+  }
+ },
+ {
+  "slug": "campionati-assoluti-savate-2022-2022",
+  "adapter": "federkombat",
+  "source": "raw_sources/Risultati_Assoluti_Savate.pdf-6aeeb8e9ae.pdf",
+  "meta": {
+   "name": "CAMPIONATI ASSOLUTI SAVATE 2022",
+   "year": "2022"
+  },
+  "_review": {
+   "label": "CAMPIONATI ASSOLUTI SAVATE 2022",
+   "doc_name": "CAMPIONATI ASSOLUTI SAVATE 2022",
+   "file_name": "Risultati Assoluti Savate.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 96,
+    "categories": 41,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 55
+  }
+ },
+ {
+  "slug": "campionati-italiani-savate-2019",
+  "adapter": "federkombat",
+  "source": "raw_sources/828_Nazionali_ItalianiSavate_Risultati.pdf-0bc569ac3b.pdf",
+  "meta": {
+   "name": "CAMPIONATI ITALIANI SAVATE",
+   "year": "2019",
+   "city": "Genzano"
+  },
+  "_review": {
+   "label": "CAMPIONATI ITALIANI SAVATE",
+   "doc_name": "CAMPIONATI ITALIANI SAVATE",
+   "file_name": "828 Nazionali ItalianiSavate Risultati.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/file.html-f8ed5f2b78"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 80,
+    "categories": 31,
+    "decided": 0,
+    "problems": 4
+   },
+   "names": 46
+  }
+ },
+ {
+  "slug": "challenge-gant-de-bronze-international-2019",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/353-challenge-gant-de-bronze-international-f45091a776",
+  "meta": {
+   "name": "CHALLENGE /GANT DE BRONZE INTERNATIONAL",
+   "year": "2019"
+  },
+  "_review": {
+   "label": "CHALLENGE /GANT DE BRONZE INTERNATIONAL",
+   "doc_name": "CHALLENGE /GANT DE BRONZE INTERNATIONAL",
+   "file_name": "353 challenge gant de bronze international",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 0,
+    "categories": 5,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 13
+  }
+ },
+ {
+  "slug": "challenge-23-novembre-2013-2013",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/140-challenge-23-novembre-2013-4ed2a41f51",
+  "meta": {
+   "name": "CHALLENGE 23 NOVEMBRE 2013",
+   "year": "2013",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "CHALLENGE 23 NOVEMBRE 2013",
+   "doc_name": "CHALLENGE 23 NOVEMBRE 2013",
+   "file_name": "140 challenge 23 novembre 2013",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 3,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 8
+  }
+ },
+ {
+  "slug": "challenge-3-rivieres-2018-2018",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/313-challenge-3-rivieres-2018-f56973070b",
+  "meta": {
+   "name": "CHALLENGE 3 RIVIERES 2018",
+   "year": "2018",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "CHALLENGE 3 RIVIERES 2018",
+   "doc_name": "CHALLENGE 3 RIVIERES 2018",
+   "file_name": "313 challenge 3 rivieres 2018",
+   "copies": 2,
+   "others": [
+    "raw_sources/327-gala-du-30-juin-2018-a-dothemare-abymes-e67dc88135"
+   ],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 4,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 13
+  }
+ },
+ {
+  "slug": "challenge-de-goyave-22-11-2019-2019",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/363-challenge-de-goyave-22-11-2019-0a6706b1e6",
+  "meta": {
+   "name": "CHALLENGE DE GOYAVE 22/11/2019",
+   "year": "2019",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "CHALLENGE DE GOYAVE 22/11/2019",
+   "doc_name": "CHALLENGE DE GOYAVE 22/11/2019",
+   "file_name": "363 challenge de goyave 22 11 2019",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 13,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 21
+  }
+ },
+ {
+  "slug": "challenge-du-16-juin-2018-2018",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/323-challenge-du-16-juin-2018-d2cf6bd963",
+  "meta": {
+   "name": "CHALLENGE DU 16 JUIN 2018",
+   "year": "2018",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "CHALLENGE DU 16 JUIN 2018",
+   "doc_name": "CHALLENGE DU 16 JUIN 2018",
+   "file_name": "323 challenge du 16 juin 2018",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 0,
+    "categories": 6,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 12
+  }
+ },
+ {
+  "slug": "challenge-gant-de-bronze-a-goyave-2015",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/247-challenge-gant-de-bronze-a-goyave-18f9a84ca8",
+  "meta": {
+   "name": "CHALLENGE GANT DE BRONZE A GOYAVE",
+   "year": "2015"
+  },
+  "_review": {
+   "label": "CHALLENGE GANT DE BRONZE A GOYAVE",
+   "doc_name": "CHALLENGE GANT DE BRONZE A GOYAVE",
+   "file_name": "247 challenge gant de bronze a goyave",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 5,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 10
+  }
+ },
+ {
+  "slug": "challenge-ti-moun-palais-des-sports-du-gosier-2016",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/254-challenge-ti-moun-palais-des-sports-du-gosier-4be127e18d",
+  "meta": {
+   "name": "CHALLENGE TI-MOUN PALAIS DES SPORTS DU GOSIER",
+   "year": "2016"
+  },
+  "_review": {
+   "label": "CHALLENGE TI-MOUN PALAIS DES SPORTS DU GOSIER",
+   "doc_name": "CHALLENGE TI-MOUN PALAIS DES SPORTS DU GOSIER",
+   "file_name": "254 challenge ti moun palais des sports du gosier",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 11,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 20
+  }
+ },
+ {
+  "slug": "challenge-timoun-st-felix-gosier-04-06-20416",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/272-challenge-timoun-st-felix-gosier-04-06-20416-a6d0299c42",
+  "meta": {
+   "name": "CHALLENGE TIMOUN ST FELIX GOSIER 04/06/20416",
+   "year": "",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "CHALLENGE TIMOUN ST FELIX GOSIER 04/06/20416",
+   "doc_name": "CHALLENGE TIMOUN ST FELIX GOSIER 04/06/20416",
+   "file_name": "272 challenge timoun st felix gosier 04 06 20416",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 12,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 23
+  }
+ },
+ {
+  "slug": "championnat-de-2023",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Combat-F-V5.pdf-175e45d6c3.pdf",
+  "meta": {
+   "name": "CHAMPIONNAT DE",
+   "year": "2023"
+  },
+  "_review": {
+   "label": "CHAMPIONNAT DE",
+   "doc_name": "CHAMPIONNAT DE",
+   "file_name": "Livret Combat F V5.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 19,
+    "placings": 0,
+    "categories": 7,
+    "decided": 0,
+    "problems": 9
+   },
+   "names": 38
+  }
+ },
+ {
+  "slug": "championnat-de-2024",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-ELITE-A-2024-1.pdf-5ff9984d2d.pdf",
+  "meta": {
+   "name": "CHAMPIONNAT DE",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "CHAMPIONNAT DE",
+   "doc_name": "CHAMPIONNAT DE",
+   "file_name": "Livret ELITE A 2024 1.pdf",
+   "copies": 6,
+   "others": [
+    "raw_sources/Livret-ELITE-A-2024-vDemiF.pdf-66cd56f103.pdf",
+    "raw_sources/Livret-ELITE-A-2024.pdf-627baed703.pdf",
+    "raw_sources/Resultats-ELITE-A-Vandoeuvre-mars-2024.pdf-3ae7c29fe2.pdf",
+    "raw_sources/RESULTATS-CHAMPIONNAT-DE-FRANCE-ELITE-A-St-Christol.pdf-4152bd52e6.pdf",
+    "raw_sources/Livret-ELITE-A-RESULTAT-Armentieres.pdf-7ade9b730c.pdf"
+   ],
+   "stats": {
+    "bouts": 25,
+    "placings": 0,
+    "categories": 15,
+    "decided": 0,
+    "problems": 11
+   },
+   "names": 50
+  }
+ },
+ {
+  "slug": "championnat-de-2024-2",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Finales-RESULTAT-ELITE-B-v2.pdf-f4407f3ea2.pdf",
+  "meta": {
+   "name": "CHAMPIONNAT DE",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "CHAMPIONNAT DE",
+   "doc_name": "CHAMPIONNAT DE",
+   "file_name": "Livret Finales RESULTAT ELITE B v2.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 12,
+    "placings": 24,
+    "categories": 12,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 24
+  }
+ },
+ {
+  "slug": "championnat-de-france-cadets-f-m-2025",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-de-competition-Championnat-de-France-Cadet-2025-1.pdf-08c768a570.pdf",
+  "meta": {
+   "name": "CHAMPIONNAT DE FRANCE CADETS F/M",
+   "year": "2025",
+   "city": "21h00"
+  },
+  "_review": {
+   "label": "CHAMPIONNAT DE FRANCE CADETS F/M",
+   "doc_name": "CHAMPIONNAT DE FRANCE CADETS F/M",
+   "file_name": "Livret de competition Championnat de France Cadet 2025 1.pdf",
+   "copies": 4,
+   "others": [
+    "raw_sources/Livret-de-competition-Championnat-de-France-Cadet-2025.pdf-39c2dded57.pdf",
+    "raw_sources/Livret-de-competition-Championnat-de-France-Cadet-v29.04.202-1e0c574263.pdf",
+    "raw_sources/Livret-de-competition-Championnat-de-France-Cadet-2025-v07.0-bc3a25c8be.pdf"
+   ],
+   "stats": {
+    "bouts": 83,
+    "placings": 0,
+    "categories": 17,
+    "decided": 0,
+    "problems": 12
+   },
+   "names": 166
+  }
+ },
+ {
+  "slug": "combat-european-championship-2016-results-2016",
+  "adapter": "cesav_sheets",
+  "source": "raw_sources/12-combat-european-championship-2016-results-715d14bdee",
+  "meta": {
+   "name": "COMBAT EUROPEAN CHAMPIONSHIP 2016 -RESULTS",
+   "year": "2016",
+   "discipline": "combat"
+  },
+  "_review": {
+   "label": "COMBAT EUROPEAN CHAMPIONSHIP 2016 -RESULTS",
+   "doc_name": "COMBAT EUROPEAN CHAMPIONSHIP 2016 -RESULTS",
+   "file_name": "12 combat european championship 2016 results",
+   "copies": 2,
+   "others": [
+    "raw_sources/12-europen-championship-combat-2016-results-0a8a738c8e"
+   ],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 9,
+    "decided": 0,
+    "problems": 4
+   },
+   "names": 18
+  }
+ },
+ {
+  "slug": "championnat-de-assaut-m-f",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Assaut-V4.pdf-6a76ccb00d.pdf",
+  "meta": {
+   "name": "Championnat de ASSAUT (M&F)",
+   "year": ""
+  },
+  "_review": {
+   "label": "Championnat de ASSAUT (M&F)",
+   "doc_name": "Championnat de ASSAUT (M&F)",
+   "file_name": "Livret Assaut V4.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/Livret-de-competition-open-de-printemps-La-Fouillouse-2024.p-2772be9976.pdf",
+    "raw_sources/Resultats-Open-de-France-de-printemps.pdf-e4ee36f208.pdf"
+   ],
+   "stats": {
+    "bouts": 71,
+    "placings": 0,
+    "categories": 16,
+    "decided": 0,
+    "problems": 10
+   },
+   "names": 142
+  }
+ },
+ {
+  "slug": "championnat-de-france-avenir-mai-2026-resultats-benjamin-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Championnat-de-France-Avenir-mai-2026-Resultats-Benjamin.pdf-0fe2d29cb3.pdf",
+  "meta": {
+   "name": "Championnat de France Avenir mai 2026 Resultats Benjamin.pdf",
+   "year": "2026"
+  },
+  "_review": {
+   "label": "Championnat de France Avenir mai 2026 Resultats Benjamin.pdf",
+   "doc_name": "",
+   "file_name": "Championnat de France Avenir mai 2026 Resultats Benjamin.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 80,
+    "categories": 20,
+    "decided": 0,
+    "problems": 8
+   },
+   "names": 80
+  }
+ },
+ {
+  "slug": "championnat-de-france-elite-a-m-f-2023",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-ELITE-A-MF-2023-v9.pdf-160978fff5.pdf",
+  "meta": {
+   "name": "Championnat de France ELITE A (M/F)",
+   "year": "2023"
+  },
+  "_review": {
+   "label": "Championnat de France ELITE A (M/F)",
+   "doc_name": "Championnat de France ELITE A (M/F)",
+   "file_name": "Livret ELITE A MF 2023 v9.pdf",
+   "copies": 7,
+   "others": [
+    "raw_sources/Resultats-Elite-A-Coubertin.pdf-e3cfe9b29d.pdf",
+    "raw_sources/RESULTATS-COUBERTIN1.pdf-fe1e4d20c2.pdf",
+    "raw_sources/Resulats-Demi-Finales-Elite-A-Samedi-18-mars-2023-CALAIS.pdf-4ac667a632.pdf",
+    "raw_sources/2022-2023-Resultats-Elite-B-Fem.pdf-0c81801f2e.pdf",
+    "raw_sources/Resultats-Elite-A-CLERMONT.pdf-f4c646d0a6.pdf",
+    "raw_sources/Resultats-Elite-A-Maubeuge.pdf-e4b9d4cb35.pdf"
+   ],
+   "stats": {
+    "bouts": 29,
+    "placings": 0,
+    "categories": 14,
+    "decided": 0,
+    "problems": 11
+   },
+   "names": 58
+  }
+ },
+ {
+  "slug": "championnat-de-france-veteran-m-2023",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Veterans-M-2023.pdf-61f5d7408c.pdf",
+  "meta": {
+   "name": "Championnat de France VETERAN (M)",
+   "year": "2023"
+  },
+  "_review": {
+   "label": "Championnat de France VETERAN (M)",
+   "doc_name": "Championnat de France VETERAN (M)",
+   "file_name": "Livret Veterans M 2023.pdf",
+   "copies": 9,
+   "others": [
+    "raw_sources/Resultats-Veterans-M-2023.pdf-1656d62944.pdf",
+    "raw_sources/Livret-Veterans-et-Coupe-de-France-v3.pdf-308c982dd5.pdf",
+    "raw_sources/Livret-de-competition-Veteran-2025-v07.05.25.pdf-96c2c96d80.pdf",
+    "raw_sources/Livret-de-competition-Barbezieux-2024.pdf-cda69c4947.pdf",
+    "raw_sources/Resultats-championnat-Veterans-2025.pdf-24b1c9b0bd.pdf",
+    "raw_sources/Livret-Coupe-de-France-Assaut-2023.pdf-4c970f47a3.pdf",
+    "raw_sources/Resultats-Coupe-de-France-Assaut-2023.pdf-ccaa611870.pdf",
+    "raw_sources/Resultats-finales-Barbezieux.pdf-6b5d07f3f3.pdf"
+   ],
+   "stats": {
+    "bouts": 111,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 7
+   },
+   "names": 62
+  }
+ },
+ {
+  "slug": "championnats-2011",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/DEROULT-ELITE-MF-1ERE-PHASEV5.pdf-97ecee51f8.pdf",
+  "meta": {
+   "name": "Championnats",
+   "year": "2011"
+  },
+  "_review": {
+   "label": "Championnats",
+   "doc_name": "Championnats",
+   "file_name": "DEROULT ELITE MF 1ERE PHASEV5.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/R-NANTES.pdf-fc89a21b42.pdf"
+   ],
+   "stats": {
+    "bouts": 193,
+    "placings": 0,
+    "categories": 13,
+    "decided": 0,
+    "problems": 9
+   },
+   "names": 97
+  }
+ },
+ {
+  "slug": "championnats-de-2010",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/DEROULT-20ELITE-20B.pdf-3211062a4a.pdf",
+  "meta": {
+   "name": "Championnats de",
+   "year": "2010",
+   "city": "partir de rencontres éliminatoires formé"
+  },
+  "_review": {
+   "label": "Championnats de",
+   "doc_name": "Championnats de",
+   "file_name": "DEROULT 20ELITE 20B.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 15,
+    "placings": 0,
+    "categories": 8,
+    "decided": 0,
+    "problems": 8
+   },
+   "names": 30
+  }
+ },
+ {
+  "slug": "copie-de-academiques-8-02-24-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Copie-de-ACADEMIQUES-8-02-24.pdf-461aa874b1.pdf",
+  "meta": {
+   "name": "Copie de ACADEMIQUES 8 02 24.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Copie de ACADEMIQUES 8 02 24.pdf",
+   "doc_name": "",
+   "file_name": "Copie de ACADEMIQUES 8 02 24.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 28,
+    "placings": 0,
+    "categories": 10,
+    "decided": 0,
+    "problems": 23
+   },
+   "names": 52
+  }
+ },
+ {
+  "slug": "de-beaux-assauts-sur-la-plage-2015",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/231-de-beaux-assauts-sur-la-plage-b7af297f99",
+  "meta": {
+   "name": "DE BEAUX ASSAUTS SUR LA PLAGE",
+   "year": "2015",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "DE BEAUX ASSAUTS SUR LA PLAGE",
+   "doc_name": "DE BEAUX ASSAUTS SUR LA PLAGE",
+   "file_name": "231 de beaux assauts sur la plage",
+   "copies": 2,
+   "others": [
+    "raw_sources/251-resultats-challenge-ti-moun-trois-rivieres-06-12-2015-49a20915db"
+   ],
+   "stats": {
+    "bouts": 13,
+    "placings": 0,
+    "categories": 2,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 17
+  }
+ },
+ {
+  "slug": "deplacement-martinique",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/225-deplacement-martinique-718be9589c",
+  "meta": {
+   "name": "DEPLACEMENT MARTINIQUE",
+   "year": "",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "DEPLACEMENT MARTINIQUE",
+   "doc_name": "DEPLACEMENT MARTINIQUE",
+   "file_name": "225 deplacement martinique",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "derniere-competition-de-2017-2017",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/311-derniere-competition-de-2017-825567eb34",
+  "meta": {
+   "name": "DERNIERE COMPETITION DE 2017",
+   "year": "2017"
+  },
+  "_review": {
+   "label": "DERNIERE COMPETITION DE 2017",
+   "doc_name": "DERNIERE COMPETITION DE 2017",
+   "file_name": "311 derniere competition de 2017",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 4,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 8
+  }
+ },
+ {
+  "slug": "dossier-20competition-20v9-20-20livret-20open-20v3-pdf",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Dossier-20Competition-20v9-20--20Livret-20Open-20v3.pdf-077fffdb58.pdf",
+  "meta": {
+   "name": "Dossier 20Competition 20v9 20 20Livret 20Open 20v3.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Dossier 20Competition 20v9 20 20Livret 20Open 20v3.pdf",
+   "doc_name": "",
+   "file_name": "Dossier 20Competition 20v9 20 20Livret 20Open 20v3.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 18,
+    "placings": 0,
+    "categories": 9,
+    "decided": 0,
+    "problems": 7
+   },
+   "names": 36
+  }
+ },
+ {
+  "slug": "escalade-resultats-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/ESCALADE_RESULTATS.pdf-1d82eee56d.pdf",
+  "meta": {
+   "name": "ESCALADE RESULTATS.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "ESCALADE RESULTATS.pdf",
+   "doc_name": "",
+   "file_name": "ESCALADE RESULTATS.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 3,
+    "categories": 1,
+    "decided": 0,
+    "problems": 6
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "finales-des-championnats-de-france-elite-a-m-f-2019",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20Finales-20ELITE-20A.pdf-93b19e7eb2.pdf",
+  "meta": {
+   "name": "Finales des Championnats de France ELITE A M&F",
+   "year": "2019",
+   "city": "Paris"
+  },
+  "_review": {
+   "label": "Finales des Championnats de France ELITE A M&F",
+   "doc_name": "Finales des Championnats de France ELITE A M&F",
+   "file_name": "R 20 20Finales 20ELITE 20A.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 14,
+    "placings": 28,
+    "categories": 14,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 28
+  }
+ },
+ {
+  "slug": "finales-du-championnat-de-france-combat-f-minin-2-me-s-rie-2",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20Finales-20COMBAT-20FEM-202019.pdf-56fcfc3780.pdf",
+  "meta": {
+   "name": "Finales du Championnat de France Combat Féminin 2ème série",
+   "year": "2020",
+   "city": "Ille-Sur-Tet"
+  },
+  "_review": {
+   "label": "Finales du Championnat de France Combat Féminin 2ème série",
+   "doc_name": "Finales du Championnat de France Combat Féminin 2ème série",
+   "file_name": "R 20 20Finales 20COMBAT 20FEM 202019.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 8,
+    "placings": 16,
+    "categories": 8,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 16
+  }
+ },
+ {
+  "slug": "finales-du-championnat-de-france-espoirs-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20Finales-20ESPOIRS-202019.pdf-1d10501df9.pdf",
+  "meta": {
+   "name": "Finales du Championnat de France Espoirs",
+   "year": "2020",
+   "city": "Ille-Sur-Tet"
+  },
+  "_review": {
+   "label": "Finales du Championnat de France Espoirs",
+   "doc_name": "Finales du Championnat de France Espoirs",
+   "file_name": "R 20 20Finales 20ESPOIRS 202019.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "finales-du-championnat-de-france-juniors-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20Finales-20JUNIORS-202019.pdf-660807d930.pdf",
+  "meta": {
+   "name": "Finales du Championnat de France JUNIORS",
+   "year": "2020",
+   "city": "Marseille"
+  },
+  "_review": {
+   "label": "Finales du Championnat de France JUNIORS",
+   "doc_name": "Finales du Championnat de France JUNIORS",
+   "file_name": "R 20 20Finales 20JUNIORS 202019.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 5,
+    "placings": 10,
+    "categories": 5,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 10
+  }
+ },
+ {
+  "slug": "france-jeunes-2023-resultats-1-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/France-Jeunes-2023-resultats-1.pdf-95d6db7f45.pdf",
+  "meta": {
+   "name": "France Jeunes 2023 resultats 1.pdf",
+   "year": "2023"
+  },
+  "_review": {
+   "label": "France Jeunes 2023 resultats 1.pdf",
+   "doc_name": "",
+   "file_name": "France Jeunes 2023 resultats 1.pdf",
+   "copies": 6,
+   "others": [
+    "raw_sources/France-Jeunes-2023-resultats-2.pdf-0d1848f4de.pdf",
+    "raw_sources/France-Jeunes-2023-resultats-3.pdf-7c81582447.pdf",
+    "raw_sources/France-Jeunes-2023-resultats-4.pdf-eeefbef501.pdf",
+    "raw_sources/France-Jeunes-2023-resultats.pdf-e41b321596.pdf",
+    "raw_sources/Resultats-France-Jeunes-2023-resultats.docx.pdf-d235c5cae6.pdf"
+   ],
+   "stats": {
+    "bouts": 73,
+    "placings": 0,
+    "categories": 38,
+    "decided": 0,
+    "problems": 135
+   },
+   "names": 146
+  }
+ },
+ {
+  "slug": "gala-de-boxe-goyave-2017",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/300-gala-de-boxe-goyave-d96f0b9da6",
+  "meta": {
+   "name": "GALA DE BOXE GOYAVE",
+   "year": "2017"
+  },
+  "_review": {
+   "label": "GALA DE BOXE GOYAVE",
+   "doc_name": "GALA DE BOXE GOYAVE",
+   "file_name": "300 gala de boxe goyave",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 5,
+    "placings": 0,
+    "categories": 4,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 10
+  }
+ },
+ {
+  "slug": "huiti-mes-quarts-de-finales-2024",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-PREMIUM-2024-1.pdf-b59eba8c93.pdf",
+  "meta": {
+   "name": "Huitièmes & Quarts de Finales",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "Huitièmes & Quarts de Finales",
+   "doc_name": "Huitièmes & Quarts de Finales",
+   "file_name": "Livret PREMIUM 2024 1.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/Livret-PREMIUM.pdf-2eeb892135.pdf",
+    "raw_sources/Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-PREMIUM-mars-2024.pdf-293abe952f.pdf"
+   ],
+   "stats": {
+    "bouts": 25,
+    "placings": 0,
+    "categories": 12,
+    "decided": 0,
+    "problems": 7
+   },
+   "names": 50
+  }
+ },
+ {
+  "slug": "izvgrcka-2016",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/IZVGRCKA.doc-e15c734093",
+  "meta": {
+   "name": "IZVGRCKA",
+   "year": "2016"
+  },
+  "_review": {
+   "label": "IZVGRCKA",
+   "doc_name": "",
+   "file_name": "IZVGRCKA",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 8,
+    "categories": 7,
+    "decided": 0,
+    "problems": 6
+   },
+   "names": 8
+  }
+ },
+ {
+  "slug": "izvsp-pdf-2016",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/IZVSP.pdf-e296e57568.pdf",
+  "meta": {
+   "name": "IZVSP.pdf",
+   "year": "2016"
+  },
+  "_review": {
+   "label": "IZVSP.pdf",
+   "doc_name": "",
+   "file_name": "IZVSP.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 4,
+    "categories": 4,
+    "decided": 0,
+    "problems": 5
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "july-2013-british-savate-assaut-championships-2013-results-2",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-f2e96d29f8",
+  "meta": {
+   "name": "July 2013 – British Savate Assaut Championships 2013: Results",
+   "year": "2013",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "July 2013 – British Savate Assaut Championships 2013: Results",
+   "doc_name": "July 2013 – British Savate Assaut Championships 2013: Results",
+   "file_name": "page",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 5,
+    "categories": 5,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 5
+  }
+ },
+ {
+  "slug": "le-championnat-de-france-assaut-2024-2024",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Assaut-Calais-2024-1.pdf-b85ba8573a.pdf",
+  "meta": {
+   "name": "LE CHAMPIONNAT DE FRANCE ASSAUT 2024",
+   "year": "2024",
+   "city": "20h30"
+  },
+  "_review": {
+   "label": "LE CHAMPIONNAT DE FRANCE ASSAUT 2024",
+   "doc_name": "LE CHAMPIONNAT DE FRANCE ASSAUT 2024",
+   "file_name": "Livret Assaut Calais 2024 1.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 71,
+    "placings": 0,
+    "categories": 16,
+    "decided": 0,
+    "problems": 9
+   },
+   "names": 142
+  }
+ },
+ {
+  "slug": "livret-2f-v1-plescop-resultat-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-2F-V1-PLESCOP-RESULTAT-.pdf-8e3e3a1b49.pdf",
+  "meta": {
+   "name": "Livret 2F V1 PLESCOP RESULTAT .pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret 2F V1 PLESCOP RESULTAT .pdf",
+   "doc_name": "",
+   "file_name": "Livret 2F V1 PLESCOP RESULTAT .pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/Livret-finales-2F-V1.pdf-b0bae1793c.pdf"
+   ],
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "livret-2eme-serie-m-resultat-brunoy-pdf",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/Livret-2eme-serie-M-Resultat-BRUNOY.pdf-1b38fac31f.pdf",
+  "meta": {
+   "name": "Livret 2eme serie M Resultat BRUNOY.pdf",
+   "year": "",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Livret 2eme serie M Resultat BRUNOY.pdf",
+   "doc_name": "",
+   "file_name": "Livret 2eme serie M Resultat BRUNOY.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 7
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "livret-elite-a-st-christol-les-ales-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-ELITE-A-St-Christol-les-Ales.pdf-d4bd91170c.pdf",
+  "meta": {
+   "name": "Livret ELITE A St Christol les Ales.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret ELITE A St Christol les Ales.pdf",
+   "doc_name": "",
+   "file_name": "Livret ELITE A St Christol les Ales.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 8,
+    "placings": 16,
+    "categories": 8,
+    "decided": 0,
+    "problems": 10
+   },
+   "names": 16
+  }
+ },
+ {
+  "slug": "livret-elite-a-vandoeuvre-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-ELITE-A-Vandoeuvre.pdf-9ab16e71a4.pdf",
+  "meta": {
+   "name": "Livret ELITE A Vandoeuvre.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret ELITE A Vandoeuvre.pdf",
+   "doc_name": "",
+   "file_name": "Livret ELITE A Vandoeuvre.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 8
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "livret-finales-2eme-serie-angouleme-v1-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-Finales-2eme-Serie-Angouleme-V1.pdf-45a2de3983.pdf",
+  "meta": {
+   "name": "Livret Finales 2eme Serie Angouleme V1.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret Finales 2eme Serie Angouleme V1.pdf",
+   "doc_name": "",
+   "file_name": "Livret Finales 2eme Serie Angouleme V1.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/Livret-Finales-2eme-Serie-Angouleme-V2.pdf-49567295ef.pdf",
+    "raw_sources/Livret-Finales-2eme-Serie-Angouleme-V3.pdf-9b86f05105.pdf"
+   ],
+   "stats": {
+    "bouts": 15,
+    "placings": 30,
+    "categories": 15,
+    "decided": 0,
+    "problems": 17
+   },
+   "names": 30
+  }
+ },
+ {
+  "slug": "livret-finales-elite-b-v2-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-Finales-ELITE-B-v2.pdf-eba038ed28.pdf",
+  "meta": {
+   "name": "Livret Finales ELITE B v2.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret Finales ELITE B v2.pdf",
+   "doc_name": "",
+   "file_name": "Livret Finales ELITE B v2.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/Livret-Finales-ELITE-B-v1.pdf-d85a580e59.pdf"
+   ],
+   "stats": {
+    "bouts": 12,
+    "placings": 24,
+    "categories": 12,
+    "decided": 0,
+    "problems": 14
+   },
+   "names": 24
+  }
+ },
+ {
+  "slug": "livret-finales-verdun-23-mars-2024-1-pdf-2024",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-Finales-Verdun-23-mars-2024-1.pdf-22bd0f3eba.pdf",
+  "meta": {
+   "name": "Livret Finales Verdun 23 mars 2024 1.pdf",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "Livret Finales Verdun 23 mars 2024 1.pdf",
+   "doc_name": "",
+   "file_name": "Livret Finales Verdun 23 mars 2024 1.pdf",
+   "copies": 6,
+   "others": [
+    "raw_sources/Livret-Finales-Verdun-23-mars-2024.pdf-95a5999768.pdf",
+    "raw_sources/Livret-2eme-serie-M-Finales-2.pdf-d1278d61b7.pdf",
+    "raw_sources/Livret-2eme-serie-M-Finales.pdf-d650011cf7.pdf",
+    "raw_sources/Livret-JUNIORS-Finales-1.pdf-211c499d51.pdf",
+    "raw_sources/Livret-JUNIORS-Finales.pdf-3131d47b74.pdf"
+   ],
+   "stats": {
+    "bouts": 27,
+    "placings": 54,
+    "categories": 14,
+    "decided": 0,
+    "problems": 29
+   },
+   "names": 54
+  }
+ },
+ {
+  "slug": "livret-juniors-maj-pdf",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-Juniors-MAJ.pdf-4cc8289676.pdf",
+  "meta": {
+   "name": "Livret Juniors MAJ.pdf",
+   "year": "",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Livret Juniors MAJ.pdf",
+   "doc_name": "",
+   "file_name": "Livret Juniors MAJ.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 5,
+    "placings": 0,
+    "categories": 3,
+    "decided": 0,
+    "problems": 14
+   },
+   "names": 10
+  }
+ },
+ {
+  "slug": "livret-open-de-francev2-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-Open-de-Francev2.pdf-66a129849d.pdf",
+  "meta": {
+   "name": "Livret Open de Francev2.pdf",
+   "year": "2023"
+  },
+  "_review": {
+   "label": "Livret Open de Francev2.pdf",
+   "doc_name": "",
+   "file_name": "Livret Open de Francev2.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 71,
+    "placings": 0,
+    "categories": 16,
+    "decided": 0,
+    "problems": 27
+   },
+   "names": 140
+  }
+ },
+ {
+  "slug": "livret-premium-resultat-armentieres-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-PREMIUM-RESULTAT-Armentieres.pdf-4163b2e3b9.pdf",
+  "meta": {
+   "name": "Livret PREMIUM RESULTAT Armentieres.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret PREMIUM RESULTAT Armentieres.pdf",
+   "doc_name": "",
+   "file_name": "Livret PREMIUM RESULTAT Armentieres.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 12,
+    "categories": 6,
+    "decided": 0,
+    "problems": 4
+   },
+   "names": 12
+  }
+ },
+ {
+  "slug": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-de-competition-Championnat-Assaut-2025-1.pdf-3ecbafc5f3.pdf",
+  "meta": {
+   "name": "Livret de competition Championnat Assaut 2025 1.pdf",
+   "year": "2025",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Livret de competition Championnat Assaut 2025 1.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition Championnat Assaut 2025 1.pdf",
+   "copies": 5,
+   "others": [
+    "raw_sources/Livret-de-competition-Championnat-Assaut-2025.pdf-ecee01dc40.pdf",
+    "raw_sources/Livret-de-competition-Championnat-Assaut-2025-2.pdf-5cd79e8927.pdf",
+    "raw_sources/Livret-de-competition-Championnat-Assaut-2025-v18.04.pdf-96fa590d77.pdf",
+    "raw_sources/Resultats-championnat-ASSAUT-2025.pdf-58d79a2053.pdf"
+   ],
+   "stats": {
+    "bouts": 79,
+    "placings": 0,
+    "categories": 16,
+    "decided": 0,
+    "problems": 87
+   },
+   "names": 158
+  }
+ },
+ {
+  "slug": "livret-de-competition-championnat-veteran-2026-pdf-2026",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-de-competition-Championnat-Veteran-2026.pdf-1bbcf1dda0.pdf",
+  "meta": {
+   "name": "Livret de competition Championnat Veteran 2026.pdf",
+   "year": "2026",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Livret de competition Championnat Veteran 2026.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition Championnat Veteran 2026.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/Livret-de-competition-Championnat-Veteran-2026-v2.pdf-1d60dc46b4.pdf",
+    "raw_sources/Livret-de-competition-Championnat-Veteran-2026-v3.pdf-329283b20c.pdf"
+   ],
+   "stats": {
+    "bouts": 38,
+    "placings": 0,
+    "categories": 13,
+    "decided": 0,
+    "problems": 47
+   },
+   "names": 76
+  }
+ },
+ {
+  "slug": "livret-de-competition-finale-elite-b-maubeuge-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-Finale-ELITE-B-Maubeuge.pdf-e4581eb579.pdf",
+  "meta": {
+   "name": "Livret de competition Finale ELITE B Maubeuge.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret de competition Finale ELITE B Maubeuge.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition Finale ELITE B Maubeuge.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 14,
+    "placings": 28,
+    "categories": 14,
+    "decided": 0,
+    "problems": 16
+   },
+   "names": 28
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-2e-series-rousies-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-Finales-2e-series-Rousies.pdf-2b74a885ab.pdf",
+  "meta": {
+   "name": "Livret de competition Finales 2e series Rousies.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret de competition Finales 2e series Rousies.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition Finales 2e series Rousies.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 14,
+    "placings": 28,
+    "categories": 14,
+    "decided": 0,
+    "problems": 16
+   },
+   "names": 28
+  }
+ },
+ {
+  "slug": "livret-de-competition-open-assaut-a-merignac-pdf-2024",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-de-competition-Open-assaut-a-Merignac.pdf-47b7c33bcb.pdf",
+  "meta": {
+   "name": "Livret de competition Open assaut a Merignac.pdf",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "Livret de competition Open assaut a Merignac.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition Open assaut a Merignac.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 76,
+    "placings": 0,
+    "categories": 16,
+    "decided": 0,
+    "problems": 25
+   },
+   "names": 150
+  }
+ },
+ {
+  "slug": "livret-de-competition-open-dautomne-2025-v5-pdf-2025",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-de-competition_Open-dAutomne-2025-v5.pdf-5701a10538.pdf",
+  "meta": {
+   "name": "Livret de competition Open dAutomne 2025 v5.pdf",
+   "year": "2025",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Livret de competition Open dAutomne 2025 v5.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition Open dAutomne 2025 v5.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/Livret-de-competition_Open-dAutomne-2025-v6-.pdf-6f014bb134.pdf",
+    "raw_sources/Livret-de-competition_Open-dAutomne-2025-v6.pdf-77694236b6.pdf"
+   ],
+   "stats": {
+    "bouts": 23,
+    "placings": 0,
+    "categories": 11,
+    "decided": 0,
+    "problems": 28
+   },
+   "names": 46
+  }
+ },
+ {
+  "slug": "livret-de-competition-championnat-avenir-2026-v4-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-de-competition-championnat-Avenir-2026-v4.pdf-c1e59980e8.pdf",
+  "meta": {
+   "name": "Livret de competition championnat Avenir 2026 v4.pdf",
+   "year": "2026"
+  },
+  "_review": {
+   "label": "Livret de competition championnat Avenir 2026 v4.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition championnat Avenir 2026 v4.pdf",
+   "copies": 6,
+   "others": [
+    "raw_sources/Livret-de-competition-championnat-Avenir-2026-v5.pdf-40fda51fff.pdf",
+    "raw_sources/Livret-de-competition-championnat-Avenir-2026-v1.pdf-a019de1961.pdf",
+    "raw_sources/Livret-de-competition-championnat-Avenir-2026-v6.pdf-1526a65c39.pdf",
+    "raw_sources/Livret-de-competition-championnat-Avenir-2026-v2.pdf-5f28580b2b.pdf",
+    "raw_sources/Livret-de-competition-championnat-Avenir-2026-v3.pdf-ef959d0ff5.pdf"
+   ],
+   "stats": {
+    "bouts": 73,
+    "placings": 0,
+    "categories": 41,
+    "decided": 0,
+    "problems": 42
+   },
+   "names": 146
+  }
+ },
+ {
+  "slug": "livret-de-competition-finale-riaille-v2-pdf-2025",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-de-competition-finale-Riaille-v2.pdf-3c85590f6e.pdf",
+  "meta": {
+   "name": "Livret de competition finale Riaille v2.pdf",
+   "year": "2025"
+  },
+  "_review": {
+   "label": "Livret de competition finale Riaille v2.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition finale Riaille v2.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/Livret-de-competition-finale-Riaille-v3.pdf-b5376ca1d1.pdf",
+    "raw_sources/Livret-de-competition-finale-Riaille.pdf-3f20377c41.pdf"
+   ],
+   "stats": {
+    "bouts": 24,
+    "placings": 0,
+    "categories": 13,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 48
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-ea-eb-marseille-avril-2026-v2",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-finales-EA-EB-Marseille-avril-2026-v2.-2c33f992b2.pdf",
+  "meta": {
+   "name": "Livret de competition finales EA EB Marseille avril 2026 v2.",
+   "year": "2026"
+  },
+  "_review": {
+   "label": "Livret de competition finales EA EB Marseille avril 2026 v2.",
+   "doc_name": "",
+   "file_name": "Livret de competition finales EA EB Marseille avril 2026 v2.",
+   "copies": 2,
+   "others": [
+    "raw_sources/Livret-de-competition-finales-EA-EB-Marseille-avril-2026.pdf-fc499c3322.pdf"
+   ],
+   "stats": {
+    "bouts": 8,
+    "placings": 16,
+    "categories": 6,
+    "decided": 0,
+    "problems": 9
+   },
+   "names": 16
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-finales-ESPOIR-M-2025-V2.pdf-f5dabce92a.pdf",
+  "meta": {
+   "name": "Livret de competition finales ESPOIR M 2025 V2.pdf",
+   "year": "2025"
+  },
+  "_review": {
+   "label": "Livret de competition finales ESPOIR M 2025 V2.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition finales ESPOIR M 2025 V2.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/Livret-de-competition-finales-ESPOIR-M-2025-V3.pdf-d796cbb7f3.pdf",
+    "raw_sources/Livret-de-competition-finales-ESPOIR-M-2025.pdf-f9e6d153fa.pdf"
+   ],
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 8
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-finales-Juniors-avril-2026.pdf-9a8374bcec.pdf",
+  "meta": {
+   "name": "Livret de competition finales Juniors avril 2026.pdf",
+   "year": "2026"
+  },
+  "_review": {
+   "label": "Livret de competition finales Juniors avril 2026.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition finales Juniors avril 2026.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 8
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-assaut-2026-pdf-2026",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-finales-assaut-2026.pdf-5467a6f250.pdf",
+  "meta": {
+   "name": "Livret de competition finales assaut 2026.pdf",
+   "year": "2026"
+  },
+  "_review": {
+   "label": "Livret de competition finales assaut 2026.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition finales assaut 2026.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 16,
+    "placings": 32,
+    "categories": 16,
+    "decided": 0,
+    "problems": 18
+   },
+   "names": 32
+  }
+ },
+ {
+  "slug": "livret-de-competition-open-assaut-individuel-calais-v2-pdf",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-de-competition-open-assaut-individuel-Calais-v2.pdf-604bf620bb.pdf",
+  "meta": {
+   "name": "Livret de competition open assaut individuel Calais v2.pdf",
+   "year": "",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Livret de competition open assaut individuel Calais v2.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition open assaut individuel Calais v2.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 74,
+    "placings": 0,
+    "categories": 16,
+    "decided": 0,
+    "problems": 83
+   },
+   "names": 148
+  }
+ },
+ {
+  "slug": "livret-de-competition-open-assaut-individuel-calais-pdf-2025",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-de-competition-open-assaut-individuel-Calais.pdf-e14b6b64c0.pdf",
+  "meta": {
+   "name": "Livret de competition open assaut individuel Calais.pdf",
+   "year": "2025"
+  },
+  "_review": {
+   "label": "Livret de competition open assaut individuel Calais.pdf",
+   "doc_name": "",
+   "file_name": "Livret de competition open assaut individuel Calais.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/Livret-de-competition-open-assaut-individuel-Calais-v3.pdf-74a63b5316.pdf"
+   ],
+   "stats": {
+    "bouts": 78,
+    "placings": 0,
+    "categories": 16,
+    "decided": 0,
+    "problems": 13
+   },
+   "names": 156
+  }
+ },
+ {
+  "slug": "livret-des-competitions-v1-open-dautomne-pdf",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-des-competitions-v1-Open-dautomne.pdf-6ad853ae8e.pdf",
+  "meta": {
+   "name": "Livret des competitions v1 Open dautomne.pdf",
+   "year": "",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Livret des competitions v1 Open dautomne.pdf",
+   "doc_name": "",
+   "file_name": "Livret des competitions v1 Open dautomne.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/Livret-des-competitions-v3-Open-dautomne.pdf-f52732a72b.pdf"
+   ],
+   "stats": {
+    "bouts": 14,
+    "placings": 0,
+    "categories": 10,
+    "decided": 0,
+    "problems": 17
+   },
+   "names": 28
+  }
+ },
+ {
+  "slug": "livret-espoir-resultat-v1-plescop-v2-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-espoir-RESULTAT-V1-PLESCOP-V2.pdf-d8b2895419.pdf",
+  "meta": {
+   "name": "Livret espoir RESULTAT V1 PLESCOP V2.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret espoir RESULTAT V1 PLESCOP V2.pdf",
+   "doc_name": "",
+   "file_name": "Livret espoir RESULTAT V1 PLESCOP V2.pdf",
+   "copies": 5,
+   "others": [
+    "raw_sources/Livret-espoir-RESULTAT-V1-PLESCOP.pdf-92b7c58d8c.pdf",
+    "raw_sources/Livret-espoir-V2-PLESCOP.pdf-01186647d1.pdf",
+    "raw_sources/Livret-finales-espoir-V1.pdf-9100774255.pdf",
+    "raw_sources/Livret-de-competition-JUNIORS-VIUZ-EN-SALLAZ-2025-1.pdf-7774a7dcb3.pdf"
+   ],
+   "stats": {
+    "bouts": 8,
+    "placings": 16,
+    "categories": 8,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 16
+  }
+ },
+ {
+  "slug": "livret2henpluscollege-savate-v3-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/Livret2HenplusCollege-SAVATE-V3.pdf-26f3414a79.pdf",
+  "meta": {
+   "name": "Livret2HenplusCollege SAVATE V3.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Livret2HenplusCollege SAVATE V3.pdf",
+   "doc_name": "",
+   "file_name": "Livret2HenplusCollege SAVATE V3.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 73,
+    "categories": 24,
+    "decided": 0,
+    "problems": 31
+   },
+   "names": 26
+  }
+ },
+ {
+  "slug": "open-de-france-individuel-par-equipe-2025",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-de-competition-OPEN-DE-FRANCE-2025-v190525.pdf-3fa6df381d.pdf",
+  "meta": {
+   "name": "OPEN DE FRANCE INDIVIDUEL & PAR EQUIPE",
+   "year": "2025",
+   "city": "20h30"
+  },
+  "_review": {
+   "label": "OPEN DE FRANCE INDIVIDUEL & PAR EQUIPE",
+   "doc_name": "OPEN DE FRANCE INDIVIDUEL & PAR EQUIPE",
+   "file_name": "Livret de competition OPEN DE FRANCE 2025 v190525.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/Livret-de-competition-OPEN-DE-FRANCE-2025.pdf-ba64465ca2.pdf",
+    "raw_sources/Resultats-OPEN-DE-FRANCE-INDIVIDUEL-EQUIPE-2025.pdf-1cf29b134c.pdf"
+   ],
+   "stats": {
+    "bouts": 85,
+    "placings": 0,
+    "categories": 16,
+    "decided": 0,
+    "problems": 14
+   },
+   "names": 170
+  }
+ },
+ {
+  "slug": "opsom5-doc",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/OPSOM5.doc-2de7aeddad.doc",
+  "meta": {
+   "name": "OPSOM5.doc",
+   "year": ""
+  },
+  "_review": {
+   "label": "OPSOM5.doc",
+   "doc_name": "",
+   "file_name": "OPSOM5.doc",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 42,
+    "categories": 16,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 42
+  }
+ },
+ {
+  "slug": "opvru3-doc-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/OPVRU3.doc-bfb351b553.doc",
+  "meta": {
+   "name": "OPVRU3.doc",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "OPVRU3.doc",
+   "doc_name": "",
+   "file_name": "OPVRU3.doc",
+   "copies": 3,
+   "others": [
+    "raw_sources/SPSNS.doc-dee6cac45a.doc",
+    "raw_sources/SVETSKO.doc-77fa47a3ba"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 57,
+    "categories": 21,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 57
+  }
+ },
+ {
+  "slug": "opvru4-doc-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/OPVRU4.doc-b8376de64a.doc",
+  "meta": {
+   "name": "OPVRU4.doc",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "OPVRU4.doc",
+   "doc_name": "",
+   "file_name": "OPVRU4.doc",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 66,
+    "categories": 25,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 66
+  }
+ },
+ {
+  "slug": "p-20elite-20a-208-12-20japy-pdf-2013",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/P.-20ELITE-20A-208-12-20JAPY.pdf-7310e10853.pdf",
+  "meta": {
+   "name": "P. 20ELITE 20A 208 12 20JAPY.pdf",
+   "year": "2013"
+  },
+  "_review": {
+   "label": "P. 20ELITE 20A 208 12 20JAPY.pdf",
+   "doc_name": "",
+   "file_name": "P. 20ELITE 20A 208 12 20JAPY.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 23,
+    "placings": 0,
+    "categories": 11,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 46
+  }
+ },
+ {
+  "slug": "p-finales-elite-a-dunkerque-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/P.FINALES-ELITE-A-DUNKERQUE.pdf-29f1e49114.pdf",
+  "meta": {
+   "name": "P.FINALES ELITE A DUNKERQUE.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "P.FINALES ELITE A DUNKERQUE.pdf",
+   "doc_name": "",
+   "file_name": "P.FINALES ELITE A DUNKERQUE.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 11
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "prvru-doc-2011",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvRU.doc-41bb449d6c.doc",
+  "meta": {
+   "name": "PrvRU.doc",
+   "year": "2011"
+  },
+  "_review": {
+   "label": "PrvRU.doc",
+   "doc_name": "",
+   "file_name": "PrvRU.doc",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 34,
+    "categories": 12,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 33
+  }
+ },
+ {
+  "slug": "prvru1-doc-2011",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvRU1.doc-9cbe4cd202.doc",
+  "meta": {
+   "name": "PrvRU1.doc",
+   "year": "2011"
+  },
+  "_review": {
+   "label": "PrvRU1.doc",
+   "doc_name": "",
+   "file_name": "PrvRU1.doc",
+   "copies": 2,
+   "others": [
+    "raw_sources/PrvSM.doc-cb6c17c06c.doc"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 51,
+    "categories": 19,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 50
+  }
+ },
+ {
+  "slug": "prvru4-doc",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvRU4.doc-31b6a39e4e.doc",
+  "meta": {
+   "name": "PrvRU4.doc",
+   "year": ""
+  },
+  "_review": {
+   "label": "PrvRU4.doc",
+   "doc_name": "",
+   "file_name": "PrvRU4.doc",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 42,
+    "categories": 17,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 41
+  }
+ },
+ {
+  "slug": "prvsbg-doc-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvSBG.doc-0a0b1f21a6.doc",
+  "meta": {
+   "name": "PrvSBG.doc",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "PrvSBG.doc",
+   "doc_name": "",
+   "file_name": "PrvSBG.doc",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 59,
+    "categories": 18,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 59
+  }
+ },
+ {
+  "slug": "prvsbg1-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvSBG1.doc-51bca62115",
+  "meta": {
+   "name": "PrvSBG1",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "PrvSBG1",
+   "doc_name": "",
+   "file_name": "PrvSBG1",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 82,
+    "categories": 32,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 82
+  }
+ },
+ {
+  "slug": "prvvru-doc-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvVRU.doc-dd5e026494.doc",
+  "meta": {
+   "name": "PrvVRU.doc",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "PrvVRU.doc",
+   "doc_name": "",
+   "file_name": "PrvVRU.doc",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 84,
+    "categories": 33,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 84
+  }
+ },
+ {
+  "slug": "qualifying-tournament-of-the-european-savate-combat-champion",
+  "adapter": "cesav_sheets",
+  "source": "raw_sources/20-qualifying-tournament-of-the-european-savate-combat-champ-ae8a38adee",
+  "meta": {
+   "name": "Qualifying Tournament of the European Savate Combat Championships 2016",
+   "year": "2016",
+   "discipline": "combat",
+   "level": "european"
+  },
+  "_review": {
+   "label": "Qualifying Tournament of the European Savate Combat Championships 2016",
+   "doc_name": "Qualifying Tournament of the European Savate Combat Championships 2016",
+   "file_name": "20 qualifying tournament of the european savate combat champ",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 22,
+    "categories": 11,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 22
+  }
+ },
+ {
+  "slug": "r-20-20open-20automne-202021-pdf-2020",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R-20--20OPEN-20AUTOMNE-202021.pdf-6f72448e13.pdf",
+  "meta": {
+   "name": "R 20 20OPEN 20AUTOMNE 202021.pdf",
+   "year": "2020"
+  },
+  "_review": {
+   "label": "R 20 20OPEN 20AUTOMNE 202021.pdf",
+   "doc_name": "",
+   "file_name": "R 20 20OPEN 20AUTOMNE 202021.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 18,
+    "placings": 36,
+    "categories": 10,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 28
+  }
+ },
+ {
+  "slug": "r-20finales-20elite-20a-20mf-20-20longwy-pdf-2016",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R-20FINALES-20ELITE-20A-20MF-20--20LONGWY.pdf-0cdf3c4b28.pdf",
+  "meta": {
+   "name": "R 20FINALES 20ELITE 20A 20MF 20 20LONGWY.pdf",
+   "year": "2016"
+  },
+  "_review": {
+   "label": "R 20FINALES 20ELITE 20A 20MF 20 20LONGWY.pdf",
+   "doc_name": "",
+   "file_name": "R 20FINALES 20ELITE 20A 20MF 20 20LONGWY.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "r-20finales-20chpt-20de-20france-20elite-20b-pdf-2015",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R--20Finales-20CHPT-20DE-20FRANCE-20ELITE-20B.pdf-25577ed45c.pdf",
+  "meta": {
+   "name": "R 20Finales 20CHPT 20DE 20FRANCE 20ELITE 20B.pdf",
+   "year": "2015"
+  },
+  "_review": {
+   "label": "R 20Finales 20CHPT 20DE 20FRANCE 20ELITE 20B.pdf",
+   "doc_name": "",
+   "file_name": "R 20Finales 20CHPT 20DE 20FRANCE 20ELITE 20B.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 12,
+    "categories": 6,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 12
+  }
+ },
+ {
+  "slug": "r-20finales-20espoirs-20mf-20-2013-20fevrier-202016-20billo",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R-20finales-20ESPOIRS-20MF-20--2013-20FEVRIER-202016-20BILLO-a9d1bd4c19.pdf",
+  "meta": {
+   "name": "R 20finales 20ESPOIRS 20MF 20 2013 20FEVRIER 202016 20BILLO",
+   "year": "2020"
+  },
+  "_review": {
+   "label": "R 20finales 20ESPOIRS 20MF 20 2013 20FEVRIER 202016 20BILLO",
+   "doc_name": "",
+   "file_name": "R 20finales 20ESPOIRS 20MF 20 2013 20FEVRIER 202016 20BILLO",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 14,
+    "placings": 28,
+    "categories": 14,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 28
+  }
+ },
+ {
+  "slug": "r-tq-elite-b-2023-1-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R-TQ-Elite-B-2023-1.pdf-76438f659e.pdf",
+  "meta": {
+   "name": "R TQ Elite B 2023 1.pdf",
+   "year": "2023"
+  },
+  "_review": {
+   "label": "R TQ Elite B 2023 1.pdf",
+   "doc_name": "",
+   "file_name": "R TQ Elite B 2023 1.pdf",
+   "copies": 6,
+   "others": [
+    "raw_sources/R-TQ-Elite-B-2023-V2.pdf-84de7dcb01.pdf",
+    "raw_sources/R-TQ-Elite-B-2023.pdf-8f4b13f04c.pdf",
+    "raw_sources/Livret-ELITE-B-v5.pdf-695f3f1bc8.pdf",
+    "raw_sources/Livret-ELITE-B-v8.pdf-7ff71ac75c.pdf",
+    "raw_sources/Livret-12-Finales-ELITE-B.pdf-5051666c20.pdf"
+   ],
+   "stats": {
+    "bouts": 39,
+    "placings": 0,
+    "categories": 8,
+    "decided": 0,
+    "problems": 6
+   },
+   "names": 31
+  }
+ },
+ {
+  "slug": "r-20finales-20elite-20a-20f-20cambrai-pdf-2013",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.-20FINALES-20ELITE-20A-20F-20CAMBRAI.pdf-5fb6180eef.pdf",
+  "meta": {
+   "name": "R. 20FINALES 20ELITE 20A 20F 20CAMBRAI.pdf",
+   "year": "2013"
+  },
+  "_review": {
+   "label": "R. 20FINALES 20ELITE 20A 20F 20CAMBRAI.pdf",
+   "doc_name": "",
+   "file_name": "R. 20FINALES 20ELITE 20A 20F 20CAMBRAI.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 14
+  }
+ },
+ {
+  "slug": "r-agen-pdf-2010",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.AGEN.pdf-9ade6a7b69.pdf",
+  "meta": {
+   "name": "R.AGEN.pdf",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "R.AGEN.pdf",
+   "doc_name": "",
+   "file_name": "R.AGEN.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 13,
+    "placings": 0,
+    "categories": 10,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 26
+  }
+ },
+ {
+  "slug": "r-elite-a-marseille-pdf-2012",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.ELITE-A-MARSEILLE.pdf-e6fb859465.pdf",
+  "meta": {
+   "name": "R.ELITE A MARSEILLE.pdf",
+   "year": "2012"
+  },
+  "_review": {
+   "label": "R.ELITE A MARSEILLE.pdf",
+   "doc_name": "",
+   "file_name": "R.ELITE A MARSEILLE.pdf",
+   "copies": 8,
+   "others": [
+    "raw_sources/R.CAMBRAI.pdf-74d4bc0598.pdf",
+    "raw_sources/R.ELITE-A-TOULOUSE-FEV.pdf-cf0dc5898e.pdf",
+    "raw_sources/R-DF-ELITE-A-BEAUMONT.pdf-71579d270f.pdf",
+    "raw_sources/R.ELITE-A-NANTES-2801.pdf-7693146771.pdf",
+    "raw_sources/R.ELITEA-JAPY-1911.pdf-e6dad6cc4d.pdf",
+    "raw_sources/R.ELITE-A-JAPY-2801.pdf-ffebeb3218.pdf",
+    "raw_sources/R.QF-ELITE-A-MF-2502.pdf-b6f89567f7.pdf"
+   ],
+   "stats": {
+    "bouts": 23,
+    "placings": 0,
+    "categories": 13,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 46
+  }
+ },
+ {
+  "slug": "r-elite-a-mf-wignehies-pdf-2012",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.ELITE-A-MF-WIGNEHIES.pdf-3b0a907db2.pdf",
+  "meta": {
+   "name": "R.ELITE A MF WIGNEHIES.pdf",
+   "year": "2012"
+  },
+  "_review": {
+   "label": "R.ELITE A MF WIGNEHIES.pdf",
+   "doc_name": "",
+   "file_name": "R.ELITE A MF WIGNEHIES.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 9,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 18
+  }
+ },
+ {
+  "slug": "r-elitea-vandoeuvre-pdf-2012",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.ELITEA-VANDOEUVRE.pdf-ad955f5971.pdf",
+  "meta": {
+   "name": "R.ELITEA VANDOEUVRE.pdf",
+   "year": "2012"
+  },
+  "_review": {
+   "label": "R.ELITEA VANDOEUVRE.pdf",
+   "doc_name": "",
+   "file_name": "R.ELITEA VANDOEUVRE.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/R.ELITEA-PLESCOP.pdf-4fc3f869d1.pdf"
+   ],
+   "stats": {
+    "bouts": 17,
+    "placings": 0,
+    "categories": 9,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 34
+  }
+ },
+ {
+  "slug": "r-espoirs-2019-20janv-20japy-pdf-2019",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.ESPOIRS-2019-20JANV-20JAPY.pdf-a05a242978.pdf",
+  "meta": {
+   "name": "R.ESPOIRS 2019 20JANV 20JAPY.pdf",
+   "year": "2019"
+  },
+  "_review": {
+   "label": "R.ESPOIRS 2019 20JANV 20JAPY.pdf",
+   "doc_name": "",
+   "file_name": "R.ESPOIRS 2019 20JANV 20JAPY.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 12,
+    "placings": 0,
+    "categories": 5,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 15
+  }
+ },
+ {
+  "slug": "r-vannes-pdf-2010",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.VANNES.pdf-69e5f9d686.pdf",
+  "meta": {
+   "name": "R.VANNES.pdf",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "R.VANNES.pdf",
+   "doc_name": "",
+   "file_name": "R.VANNES.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 12,
+    "placings": 0,
+    "categories": 8,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 24
+  }
+ },
+ {
+  "slug": "r-pouchet-5nov2011-pdf-2011",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.pouchet-5nov2011.pdf-d2a2ec3d53.pdf",
+  "meta": {
+   "name": "R.pouchet 5nov2011.pdf",
+   "year": "2011"
+  },
+  "_review": {
+   "label": "R.pouchet 5nov2011.pdf",
+   "doc_name": "",
+   "file_name": "R.pouchet 5nov2011.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 19,
+    "placings": 0,
+    "categories": 10,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 38
+  }
+ },
+ {
+  "slug": "result-20tq-20-20jun-20europe-202018-compressed-pdf-2020",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/RESULT-20TQ-20-20JUN-20europe-202018.compressed.pdf-ce15abb21d.pdf",
+  "meta": {
+   "name": "RESULT 20TQ 20 20JUN 20europe 202018.compressed.pdf",
+   "year": "2020",
+   "level": "national"
+  },
+  "_review": {
+   "label": "RESULT 20TQ 20 20JUN 20europe 202018.compressed.pdf",
+   "doc_name": "",
+   "file_name": "RESULT 20TQ 20 20JUN 20europe 202018.compressed.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 15,
+    "placings": 30,
+    "categories": 14,
+    "decided": 0,
+    "problems": 20
+   },
+   "names": 30
+  }
+ },
+ {
+  "slug": "resultats-11-mars-2023-premium-pdf-2023",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/RESULTATS-11-MARS-2023-PREMIUM.pdf-e687054b1f.pdf",
+  "meta": {
+   "name": "RESULTATS 11 MARS 2023 PREMIUM.pdf",
+   "year": "2023",
+   "level": "national"
+  },
+  "_review": {
+   "label": "RESULTATS 11 MARS 2023 PREMIUM.pdf",
+   "doc_name": "",
+   "file_name": "RESULTATS 11 MARS 2023 PREMIUM.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 5,
+    "placings": 10,
+    "categories": 3,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 9
+  }
+ },
+ {
+  "slug": "resultats-20espoirs-20mf-pdf-2013",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/RESULTATS-20ESPOIRS-20MF.pdf-64ebda4218.pdf",
+  "meta": {
+   "name": "RESULTATS 20ESPOIRS 20MF.pdf",
+   "year": "2013"
+  },
+  "_review": {
+   "label": "RESULTATS 20ESPOIRS 20MF.pdf",
+   "doc_name": "",
+   "file_name": "RESULTATS 20ESPOIRS 20MF.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 14,
+    "placings": 28,
+    "categories": 14,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 28
+  }
+ },
+ {
+  "slug": "resultats-assauts-phenix-club-22-fevrier-2014-2014",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/154-resultats-assauts-phenix-club-22-fevrier-2014-79fc2b7149",
+  "meta": {
+   "name": "RESULTATS ASSAUTS PHENIX CLUB 22 FEVRIER 2014",
+   "year": "2014",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "RESULTATS ASSAUTS PHENIX CLUB 22 FEVRIER 2014",
+   "doc_name": "RESULTATS ASSAUTS PHENIX CLUB 22 FEVRIER 2014",
+   "file_name": "154 resultats assauts phenix club 22 fevrier 2014",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 8,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 13
+  }
+ },
+ {
+  "slug": "resultats-challenge-25-novembre-2017-2017",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/310-resultats-challenge-25-novembre-2017-e6e54ac585",
+  "meta": {
+   "name": "RESULTATS CHALLENGE 25 NOVEMBRE 2017",
+   "year": "2017",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "RESULTATS CHALLENGE 25 NOVEMBRE 2017",
+   "doc_name": "RESULTATS CHALLENGE 25 NOVEMBRE 2017",
+   "file_name": "310 resultats challenge 25 novembre 2017",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 0,
+    "categories": 4,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 12
+  }
+ },
+ {
+  "slug": "resultats-challenge-creps-5-avril-2014-2014",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/168-resultats-challenge-creps-5-avril-2014-f3ab7d5dab",
+  "meta": {
+   "name": "RESULTATS CHALLENGE CREPS 5 AVRIL 2014",
+   "year": "2014",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "RESULTATS CHALLENGE CREPS 5 AVRIL 2014",
+   "doc_name": "RESULTATS CHALLENGE CREPS 5 AVRIL 2014",
+   "file_name": "168 resultats challenge creps 5 avril 2014",
+   "copies": 2,
+   "others": [
+    "raw_sources/183-resultat-challenge-de-trois-rivieres-4b497d9c6f"
+   ],
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 10
+  }
+ },
+ {
+  "slug": "resultats-challenge-goyave-16-avril-2016-2016",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/264-resultats-challenge-goyave-16-avril-2016-652cc6ed15",
+  "meta": {
+   "name": "RESULTATS CHALLENGE GOYAVE 16 AVRIL 2016",
+   "year": "2016",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "RESULTATS CHALLENGE GOYAVE 16 AVRIL 2016",
+   "doc_name": "RESULTATS CHALLENGE GOYAVE 16 AVRIL 2016",
+   "file_name": "264 resultats challenge goyave 16 avril 2016",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 9
+  }
+ },
+ {
+  "slug": "resultats-challenge-goyave-20-06-2015-2015",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/235-resultats-challenge-goyave-20-06-2015-40df28c2e8",
+  "meta": {
+   "name": "RESULTATS CHALLENGE GOYAVE 20/06/2015",
+   "year": "2015",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "RESULTATS CHALLENGE GOYAVE 20/06/2015",
+   "doc_name": "RESULTATS CHALLENGE GOYAVE 20/06/2015",
+   "file_name": "235 resultats challenge goyave 20 06 2015",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 8,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 11
+  }
+ },
+ {
+  "slug": "resultats-challenge-mjc-du-gosier-2014",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/208-resultats-challenge-mjc-du-gosier-4cfcc19a55",
+  "meta": {
+   "name": "RESULTATS CHALLENGE MJC DU GOSIER",
+   "year": "2014",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "RESULTATS CHALLENGE MJC DU GOSIER",
+   "doc_name": "RESULTATS CHALLENGE MJC DU GOSIER",
+   "file_name": "208 resultats challenge mjc du gosier",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 8
+  }
+ },
+ {
+  "slug": "resultats-championnat-universitaire-2022-pdf-2022",
+  "adapter": "universitaire",
+  "source": "raw_sources/RESULTATS-Championnat-Universitaire-2022.pdf-68ad8b23c5.pdf",
+  "meta": {
+   "name": "RESULTATS Championnat Universitaire 2022.pdf",
+   "year": "2022"
+  },
+  "_review": {
+   "label": "RESULTATS Championnat Universitaire 2022.pdf",
+   "doc_name": "",
+   "file_name": "RESULTATS Championnat Universitaire 2022.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 34,
+    "categories": 12,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 34
+  }
+ },
+ {
+  "slug": "resultats-des-finales-du-championnat-de-france-elite-b-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R--20FINALES-20ELITE-20B-20--2027-20JANV-202018-20MARSEILLE-0ff7fd34c8.pdf",
+  "meta": {
+   "name": "RESULTATS DES FINALES DU CHAMPIONNAT DE FRANCE ELITE B",
+   "year": "2020",
+   "city": "Marseille"
+  },
+  "_review": {
+   "label": "RESULTATS DES FINALES DU CHAMPIONNAT DE FRANCE ELITE B",
+   "doc_name": "RESULTATS DES FINALES DU CHAMPIONNAT DE FRANCE ELITE B",
+   "file_name": "R 20FINALES 20ELITE 20B 20 2027 20JANV 202018 20MARSEILLE",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 8,
+    "placings": 16,
+    "categories": 8,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 16
+  }
+ },
+ {
+  "slug": "resultats-des-tournois-qualificatifs-assaut-m-f-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20ASSAUT-202021.pdf-14c2853310.pdf",
+  "meta": {
+   "name": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+   "year": "2020"
+  },
+  "_review": {
+   "label": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+   "doc_name": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+   "file_name": "R 20 20ASSAUT 202021.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 175,
+    "placings": 32,
+    "categories": 16,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 102
+  }
+ },
+ {
+  "slug": "resultats-des-tournois-qualificatifs-assaut-m-f-2020-2",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Resultats-20ASSAUT-202018.pdf-8ea4ca6a22.pdf",
+  "meta": {
+   "name": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+   "year": "2020"
+  },
+  "_review": {
+   "label": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+   "doc_name": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+   "file_name": "Resultats 20ASSAUT 202018.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 275,
+    "placings": 32,
+    "categories": 16,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 130
+  }
+ },
+ {
+  "slug": "resultats-gala-des-abymes-01-mars-2014-2014",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/159-resultats-gala-des-abymes-01-mars-2014-b8f621b46e",
+  "meta": {
+   "name": "RESULTATS GALA DES ABYMES 01 MARS 2014",
+   "year": "2014"
+  },
+  "_review": {
+   "label": "RESULTATS GALA DES ABYMES 01 MARS 2014",
+   "doc_name": "RESULTATS GALA DES ABYMES 01 MARS 2014",
+   "file_name": "159 resultats gala des abymes 01 mars 2014",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 8
+  }
+ },
+ {
+  "slug": "rezsofija-2016",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/REZSOFIJA.doc-d647cb85c7",
+  "meta": {
+   "name": "REZSOFIJA",
+   "year": "2016"
+  },
+  "_review": {
+   "label": "REZSOFIJA",
+   "doc_name": "",
+   "file_name": "REZSOFIJA",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 3,
+    "categories": 2,
+    "decided": 0,
+    "problems": 8
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "rezultati-kikinda-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/REZULTATI_KIKINDA_.pdf-070ed0f164.pdf",
+  "meta": {
+   "name": "REZULTATI KIKINDA .pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "REZULTATI KIKINDA .pdf",
+   "doc_name": "",
+   "file_name": "REZULTATI KIKINDA .pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 65,
+    "categories": 25,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 65
+  }
+ },
+ {
+  "slug": "rezultati-senta-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/REZULTATI_SENTA.pdf-53c306a7a9.pdf",
+  "meta": {
+   "name": "REZULTATI SENTA.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "REZULTATI SENTA.pdf",
+   "doc_name": "",
+   "file_name": "REZULTATI SENTA.pdf",
+   "copies": 7,
+   "others": [
+    "raw_sources/REZULTATI_-C5-BDABALJ.pdf-6cac3a4c8a.pdf",
+    "raw_sources/REZULTATI_ZABALJ.pdf-536a7d6347.pdf",
+    "raw_sources/REZULTATI_MOKRIN.pdf-a8e7a2619b.pdf",
+    "raw_sources/rezevraustrija.pdf-02bfed222b.pdf",
+    "raw_sources/rezslovenija.pdf-416913fb9f.pdf",
+    "raw_sources/izvkranev.pdf-26e1d7f276.pdf"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 82,
+    "categories": 26,
+    "decided": 0,
+    "problems": 5
+   },
+   "names": 82
+  }
+ },
+ {
+  "slug": "rezultati-zabalj-28-04-2024-pdf-2024",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/REZULTATI_ZABALJ_28.04.2024.pdf-405ecf0bdd.pdf",
+  "meta": {
+   "name": "REZULTATI ZABALJ 28.04.2024.pdf",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "REZULTATI ZABALJ 28.04.2024.pdf",
+   "doc_name": "",
+   "file_name": "REZULTATI ZABALJ 28.04.2024.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 51,
+    "categories": 14,
+    "decided": 0,
+    "problems": 5
+   },
+   "names": 51
+  }
+ },
+ {
+  "slug": "risultati-campionati-assoluti-2018-settore-savate-2018",
+  "adapter": "federkombat",
+  "source": "raw_sources/Risultati_Assoluti_2018_Savate.pdf-77ec14ce46.pdf",
+  "meta": {
+   "name": "RISULTATI CAMPIONATI ASSOLUTI 2018 - SETTORE SAVATE",
+   "year": "2018"
+  },
+  "_review": {
+   "label": "RISULTATI CAMPIONATI ASSOLUTI 2018 - SETTORE SAVATE",
+   "doc_name": "RISULTATI CAMPIONATI ASSOLUTI 2018 - SETTORE SAVATE",
+   "file_name": "Risultati Assoluti 2018 Savate.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 105,
+    "categories": 51,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 68
+  }
+ },
+ {
+  "slug": "resultat-albertville-premium-elite-a-2024-1-pdf-2024",
+  "adapter": "ffsavate_finals_wide",
+  "source": "raw_sources/Resultat-Albertville-PREMIUM-Elite-A-2024-1.pdf-6c1879a983.pdf",
+  "meta": {
+   "name": "Resultat Albertville PREMIUM Elite A 2024 1.pdf",
+   "year": "2024",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Resultat Albertville PREMIUM Elite A 2024 1.pdf",
+   "doc_name": "",
+   "file_name": "Resultat Albertville PREMIUM Elite A 2024 1.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/Resultat-Albertville-PREMIUM-Elite-A-2024-2.pdf-9df7fdad0d.pdf"
+   ],
+   "stats": {
+    "bouts": 4,
+    "placings": 8,
+    "categories": 4,
+    "decided": 0,
+    "problems": 4
+   },
+   "names": 7
+  }
+ },
+ {
+  "slug": "resultat-albertville-premium-elite-a-2024-pdf-2024",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Resultat-Albertville-PREMIUM-Elite-A-2024.pdf-0fd81d6fff.pdf",
+  "meta": {
+   "name": "Resultat Albertville PREMIUM Elite A 2024.pdf",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "Resultat Albertville PREMIUM Elite A 2024.pdf",
+   "doc_name": "",
+   "file_name": "Resultat Albertville PREMIUM Elite A 2024.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 12,
+    "categories": 5,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 12
+  }
+ },
+ {
+  "slug": "resultat-championnat-avenir-juin-205-pdf-2025",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultat-Championnat-Avenir-juin-205.pdf-b8487abab4.pdf",
+  "meta": {
+   "name": "Resultat Championnat Avenir juin 205.pdf",
+   "year": "2025",
+   "city": "Melun"
+  },
+  "_review": {
+   "label": "Resultat Championnat Avenir juin 205.pdf",
+   "doc_name": "",
+   "file_name": "Resultat Championnat Avenir juin 205.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/Livret-de-competition-Championnat-de-France-Avenir-2025.pdf-8bfd6c47ba.pdf",
+    "raw_sources/Livret-de-competition-Championnat-de-France-Avenir-2025-v02.-8dd1297c9a.pdf"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 170,
+    "categories": 39,
+    "decided": 0,
+    "problems": 5
+   },
+   "names": 170
+  }
+ },
+ {
+  "slug": "resultat-donzere-premium-elite-a-2024-pdf-2024",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultat-DONZERE-PREMIUM-Elite-A-2024.pdf-2f7460d9bb.pdf",
+  "meta": {
+   "name": "Resultat DONZERE PREMIUM Elite A 2024.pdf",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "Resultat DONZERE PREMIUM Elite A 2024.pdf",
+   "doc_name": "",
+   "file_name": "Resultat DONZERE PREMIUM Elite A 2024.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/DONZERE-PREMIUM-Elite-A-2024-3.pdf-17a7c626bf.pdf"
+   ],
+   "stats": {
+    "bouts": 11,
+    "placings": 0,
+    "categories": 6,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 22
+  }
+ },
+ {
+  "slug": "resultat-cadets-2026-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultat-cadets-2026.pdf-0a8df444bb.pdf",
+  "meta": {
+   "name": "Resultat cadets 2026.pdf",
+   "year": "2026",
+   "city": "Chilly-Mazarin"
+  },
+  "_review": {
+   "label": "Resultat cadets 2026.pdf",
+   "doc_name": "",
+   "file_name": "Resultat cadets 2026.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/Resultats-Championnat-dEurope-Jeunes-2026.pdf-81b251ee20.pdf"
+   ],
+   "stats": {
+    "bouts": 17,
+    "placings": 0,
+    "categories": 17,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 34
+  }
+ },
+ {
+  "slug": "resultats-20-2022-23-12-2012-20ffsbf-20et-20da-pdf-2012",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-20-2022_23-12-2012-20FFSBF-20et-20DA.pdf-748e5a5f3f.pdf",
+  "meta": {
+   "name": "Resultats 20 2022 23 12 2012 20FFSBF 20et 20DA.pdf",
+   "year": "2012"
+  },
+  "_review": {
+   "label": "Resultats 20 2022 23 12 2012 20FFSBF 20et 20DA.pdf",
+   "doc_name": "",
+   "file_name": "Resultats 20 2022 23 12 2012 20FFSBF 20et 20DA.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 15,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 17
+  }
+ },
+ {
+  "slug": "resultats-20veterans-pdf",
+  "adapter": "ffsavate_finals_wide",
+  "source": "raw_sources/Resultats-20Veterans.pdf-c8cd338021.pdf",
+  "meta": {
+   "name": "Resultats 20Veterans.pdf",
+   "year": "",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Resultats 20Veterans.pdf",
+   "doc_name": "",
+   "file_name": "Resultats 20Veterans.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 6,
+    "placings": 12,
+    "categories": 6,
+    "decided": 0,
+    "problems": 8
+   },
+   "names": 12
+  }
+ },
+ {
+  "slug": "resultats-2s-fm-torreilles-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-2S-FM-Torreilles.pdf-f8e4852319.pdf",
+  "meta": {
+   "name": "Resultats 2S FM Torreilles.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Resultats 2S FM Torreilles.pdf",
+   "doc_name": "",
+   "file_name": "Resultats 2S FM Torreilles.pdf",
+   "copies": 4,
+   "others": [
+    "raw_sources/Livret-2eme-Serie-Torreilles-V5.pdf-076e643deb.pdf",
+    "raw_sources/Resultats-Finales-2eme-Serie-Angouleme-V2.pdf-b777bfc0a4.pdf",
+    "raw_sources/Resultats-Finales-2eme-Serie-Angouleme.pdf-0053c46dcf.pdf"
+   ],
+   "stats": {
+    "bouts": 113,
+    "placings": 0,
+    "categories": 14,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 86
+  }
+ },
+ {
+  "slug": "resultats-c2m-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-C2M.pdf-6b2e412952.pdf",
+  "meta": {
+   "name": "Resultats C2M.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Resultats C2M.pdf",
+   "doc_name": "",
+   "file_name": "Resultats C2M.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 76,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 52
+  }
+ },
+ {
+  "slug": "resultats-merignac-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-Merignac.pdf-c209142798.pdf",
+  "meta": {
+   "name": "Resultats Merignac.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Resultats Merignac.pdf",
+   "doc_name": "",
+   "file_name": "Resultats Merignac.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/Resultats-Beaumont-Les-Valence.pdf-e0ccc3399f.pdf"
+   ],
+   "stats": {
+    "bouts": 28,
+    "placings": 0,
+    "categories": 15,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 52
+  }
+ },
+ {
+  "slug": "resultats-minimes-championnats-de-france-2026-compil-podiums",
+  "adapter": "ffsavate_finals_wide",
+  "source": "raw_sources/Resultats-Minimes-Championnats-de-France-2026-Compil-Podiums-5a9ad8e93c.pdf",
+  "meta": {
+   "name": "Resultats Minimes Championnats de France 2026 Compil Podiums",
+   "year": "2026",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Resultats Minimes Championnats de France 2026 Compil Podiums",
+   "doc_name": "",
+   "file_name": "Resultats Minimes Championnats de France 2026 Compil Podiums",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 21,
+    "placings": 42,
+    "categories": 21,
+    "decided": 0,
+    "problems": 41
+   },
+   "names": 23
+  }
+ },
+ {
+  "slug": "resultats-montelimar-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-Montelimar.pdf-7ae8f38e2e.pdf",
+  "meta": {
+   "name": "Resultats Montelimar.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Resultats Montelimar.pdf",
+   "doc_name": "",
+   "file_name": "Resultats Montelimar.pdf",
+   "copies": 4,
+   "others": [
+    "raw_sources/Livret-2eme-serie-M-V5.pdf-1e6bf25459.pdf",
+    "raw_sources/Livret-de-competition-ELITE-B-La-cote-St-Andre-V1.pdf-a553f60703.pdf",
+    "raw_sources/Resultats-Verdun-CHAMPIONNAT-DE-FRANCE-2e-serie-M.pdf-146b8a18e1.pdf"
+   ],
+   "stats": {
+    "bouts": 84,
+    "placings": 0,
+    "categories": 12,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 64
+  }
+ },
+ {
+  "slug": "resultats-premium-clermont-ferrand-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-PREMIUM-Clermont-Ferrand.pdf-27427d8621.pdf",
+  "meta": {
+   "name": "Resultats PREMIUM Clermont Ferrand.pdf",
+   "year": "2023"
+  },
+  "_review": {
+   "label": "Resultats PREMIUM Clermont Ferrand.pdf",
+   "doc_name": "",
+   "file_name": "Resultats PREMIUM Clermont Ferrand.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 3,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 8
+  }
+ },
+ {
+  "slug": "resultats-premium-maubeuge-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-PREMIUM-Maubeuge.pdf-ca3cff1505.pdf",
+  "meta": {
+   "name": "Resultats PREMIUM Maubeuge.pdf",
+   "year": "2023"
+  },
+  "_review": {
+   "label": "Resultats PREMIUM Maubeuge.pdf",
+   "doc_name": "",
+   "file_name": "Resultats PREMIUM Maubeuge.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 5,
+    "placings": 0,
+    "categories": 3,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 10
+  }
+ },
+ {
+  "slug": "resultats-riaille-31-01-26-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-RIAILLE-31-01-26.pdf-8c200fb84f.pdf",
+  "meta": {
+   "name": "Resultats RIAILLE 31 01 26.pdf",
+   "year": "2026",
+   "city": "Riaillé"
+  },
+  "_review": {
+   "label": "Resultats RIAILLE 31 01 26.pdf",
+   "doc_name": "",
+   "file_name": "Resultats RIAILLE 31 01 26.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 22,
+    "placings": 0,
+    "categories": 22,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 44
+  }
+ },
+ {
+  "slug": "resultats-st-yrieix-sur-charente-mars-2026-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-St-Yrieix-sur-charente-mars-2026-.pdf-67c808fa07.pdf",
+  "meta": {
+   "name": "Resultats St Yrieix sur charente mars 2026 .pdf",
+   "year": "2026",
+   "city": "St Yrieix Sur Charente"
+  },
+  "_review": {
+   "label": "Resultats St Yrieix sur charente mars 2026 .pdf",
+   "doc_name": "",
+   "file_name": "Resultats St Yrieix sur charente mars 2026 .pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 18
+  }
+ },
+ {
+  "slug": "resultats-tq-espoirs-merignac-pdf-2024",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-TQ-Espoirs-Merignac.pdf-6665c14de2.pdf",
+  "meta": {
+   "name": "Resultats TQ Espoirs Merignac.pdf",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "Resultats TQ Espoirs Merignac.pdf",
+   "doc_name": "",
+   "file_name": "Resultats TQ Espoirs Merignac.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 56,
+    "placings": 0,
+    "categories": 7,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 36
+  }
+ },
+ {
+  "slug": "resultats-tq-juniors-merignac-1-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-TQ-JUNIORS-Merignac-1.pdf-24bce66413.pdf",
+  "meta": {
+   "name": "Resultats TQ JUNIORS Merignac 1.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "Resultats TQ JUNIORS Merignac 1.pdf",
+   "doc_name": "",
+   "file_name": "Resultats TQ JUNIORS Merignac 1.pdf",
+   "copies": 6,
+   "others": [
+    "raw_sources/Resultats-TQ-JUNIORS-Merignac.pdf-8083a46a77.pdf",
+    "raw_sources/Livret-espoir-V5.pdf-b73ae7708a.pdf",
+    "raw_sources/Resultats-finales-JUNIORS-2025.pdf-681c8dead6.pdf",
+    "raw_sources/download.php-id-13-6724934e75.pdf",
+    "raw_sources/Livret-de-competition-Poules-JUNIORS-Merignac-2025.pdf-59133a94f6.pdf"
+   ],
+   "stats": {
+    "bouts": 24,
+    "placings": 0,
+    "categories": 4,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 17
+  }
+ },
+ {
+  "slug": "resultats-verdun-07-03-26-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-Verdun-07.03.26.pdf-81263c76ef.pdf",
+  "meta": {
+   "name": "Resultats Verdun 07.03.26.pdf",
+   "year": "2026",
+   "city": "Verdun"
+  },
+  "_review": {
+   "label": "Resultats Verdun 07.03.26.pdf",
+   "doc_name": "",
+   "file_name": "Resultats Verdun 07.03.26.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 7,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 18
+  }
+ },
+ {
+  "slug": "resultats-finales-elite-a-et-elite-b-vandoeuvre-2026-pdf-202",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-finales-ELITE-A-et-ELITE-B-Vandoeuvre-2026.pdf-d7dfc5455e.pdf",
+  "meta": {
+   "name": "Resultats finales ELITE A et ELITE B Vandoeuvre 2026.pdf",
+   "year": "2026",
+   "city": "Vandoeuvre Les Nancy"
+  },
+  "_review": {
+   "label": "Resultats finales ELITE A et ELITE B Vandoeuvre 2026.pdf",
+   "doc_name": "",
+   "file_name": "Resultats finales ELITE A et ELITE B Vandoeuvre 2026.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 8,
+    "placings": 0,
+    "categories": 8,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 16
+  }
+ },
+ {
+  "slug": "resultats-finales-plescop-avril-2026-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-finales-Plescop-avril-2026.pdf-2c077453bc.pdf",
+  "meta": {
+   "name": "Resultats finales Plescop avril 2026.pdf",
+   "year": "2026",
+   "city": "Plescop"
+  },
+  "_review": {
+   "label": "Resultats finales Plescop avril 2026.pdf",
+   "doc_name": "",
+   "file_name": "Resultats finales Plescop avril 2026.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 9,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 18
+  }
+ },
+ {
+  "slug": "results-of-the-junior-savate-assaut-championships-2019-2019",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-3e6408c062",
+  "meta": {
+   "name": "Results of the Junior Savate Assaut Championships 2019",
+   "year": "2019",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Results of the Junior Savate Assaut Championships 2019",
+   "doc_name": "Results of the Junior Savate Assaut Championships 2019",
+   "file_name": "page",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 20,
+    "categories": 10,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 20
+  }
+ },
+ {
+  "slug": "results-of-the-senior-and-junior-savate-assaut-championships",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-129251eab4",
+  "meta": {
+   "name": "Results of the Senior and Junior Savate Assaut Championships 2018",
+   "year": "2018",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "Results of the Senior and Junior Savate Assaut Championships 2018",
+   "doc_name": "Results of the Senior and Junior Savate Assaut Championships 2018",
+   "file_name": "page",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 38,
+    "categories": 19,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 37
+  }
+ },
+ {
+  "slug": "r-sultats-des-finales-des-championnats-de-france-espoirs-m-f",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/RESULTATS-20FINALES-20ESPOIRS-20M-F-202015-2021-2002-202015.-e9648e7b06.pdf",
+  "meta": {
+   "name": "Résultats des Finales des Championnats de France ESPOIRS M/F",
+   "year": "2020"
+  },
+  "_review": {
+   "label": "Résultats des Finales des Championnats de France ESPOIRS M/F",
+   "doc_name": "Résultats des Finales des Championnats de France ESPOIRS M/F",
+   "file_name": "RESULTATS 20FINALES 20ESPOIRS 20M F 202015 2021 2002 202015.",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 16,
+    "placings": 32,
+    "categories": 16,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 32
+  }
+ },
+ {
+  "slug": "r-sultats-des-tournois-de-france-seniors-m-f-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R--20TOURNOIS-20DE-20FRANCE-20SENIORS-20M-F-202015.pdf-10aef757de.pdf",
+  "meta": {
+   "name": "Résultats des TOURNOIS DE FRANCE SENIORS M/F",
+   "year": "2020",
+   "city": "Ille sur Têt"
+  },
+  "_review": {
+   "label": "Résultats des TOURNOIS DE FRANCE SENIORS M/F",
+   "doc_name": "Résultats des TOURNOIS DE FRANCE SENIORS M/F",
+   "file_name": "R 20TOURNOIS 20DE 20FRANCE 20SENIORS 20M F 202015.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 25,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 32
+  }
+ },
+ {
+  "slug": "r-sultats-des-championnats-de-france-jeunes-narbonne-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Resultats-20JEUNES-202018.pdf-3bd3475903.pdf",
+  "meta": {
+   "name": "Résultats des championnats de France JEUNES à Narbonne",
+   "year": "2020",
+   "city": "Narbonne"
+  },
+  "_review": {
+   "label": "Résultats des championnats de France JEUNES à Narbonne",
+   "doc_name": "Résultats des championnats de France JEUNES à Narbonne",
+   "file_name": "Resultats 20JEUNES 202018.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 72,
+    "categories": 36,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 72
+  }
+ },
+ {
+  "slug": "r-sultats-des-finales-des-championnats-de-france-jeunes-mini",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/resultats-20JEUNES-202015-20ET-20TROPHEE-20Denise-20AVEDIGUI-799a24167b.pdf",
+  "meta": {
+   "name": "Résultats des finales des CHAMPIONNATS DE FRANCE JEUNES MINIMES G/F",
+   "year": "2020",
+   "city": "Tulle"
+  },
+  "_review": {
+   "label": "Résultats des finales des CHAMPIONNATS DE FRANCE JEUNES MINIMES G/F",
+   "doc_name": "Résultats des finales des CHAMPIONNATS DE FRANCE JEUNES MINIMES G/F",
+   "file_name": "resultats 20JEUNES 202015 20ET 20TROPHEE 20Denise 20AVEDIGUI",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 72,
+    "categories": 36,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 72
+  }
+ },
+ {
+  "slug": "r-sultats-des-finales-du-championnat-de-france-juniors-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20FRANCE-20JUNIORS-202015.pdf-4e0cc81709.pdf",
+  "meta": {
+   "name": "Résultats des finales du CHAMPIONNAT DE FRANCE JUNIORS",
+   "year": "2020",
+   "city": "Servian"
+  },
+  "_review": {
+   "label": "Résultats des finales du CHAMPIONNAT DE FRANCE JUNIORS",
+   "doc_name": "Résultats des finales du CHAMPIONNAT DE FRANCE JUNIORS",
+   "file_name": "R 20FRANCE 20JUNIORS 202015.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 8,
+    "placings": 16,
+    "categories": 8,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 16
+  }
+ },
+ {
+  "slug": "r-sultats-du-tournoi-liminatoire-de-la-coupe-de-france-assau",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/COUPE-20DE-20FRANCE-20--20Resultats-202018.pdf-0b96ac7cbe.pdf",
+  "meta": {
+   "name": "Résultats du tournoi éliminatoire de la COUPE DE FRANCE ASSAUT les",
+   "year": "2020"
+  },
+  "_review": {
+   "label": "Résultats du tournoi éliminatoire de la COUPE DE FRANCE ASSAUT les",
+   "doc_name": "Résultats du tournoi éliminatoire de la COUPE DE FRANCE ASSAUT les",
+   "file_name": "COUPE 20DE 20FRANCE 20 20Resultats 202018.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 17,
+    "placings": 8,
+    "categories": 4,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 12
+  }
+ },
+ {
+  "slug": "spsr-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/SPSR.doc-39eabcf35a",
+  "meta": {
+   "name": "SPSR",
+   "year": "2010"
+  },
+  "_review": {
+   "label": "SPSR",
+   "doc_name": "",
+   "file_name": "SPSR",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 42,
+    "categories": 17,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 42
+  }
+ },
+ {
+  "slug": "savate-association-india-savate-french-boxing-in-india",
+  "adapter": "savate_jp",
+  "source": "raw_sources/page-c83454a92a",
+  "meta": {
+   "name": "Savate Association – India – Savate (French Boxing) in India",
+   "year": ""
+  },
+  "_review": {
+   "label": "Savate Association – India – Savate (French Boxing) in India",
+   "doc_name": "Savate Association – India – Savate (French Boxing) in India",
+   "file_name": "page",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 4,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 2
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2011-2011",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2011-79fc9cb232",
+  "meta": {
+   "name": "Savate Tokyo Open 2011",
+   "year": "2011",
+   "city": "Tokyo"
+  },
+  "_review": {
+   "label": "Savate Tokyo Open 2011",
+   "doc_name": "Savate Tokyo Open 2011",
+   "file_name": "2011",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 5,
+    "categories": 3,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2012-2012",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2012-9f0590b609",
+  "meta": {
+   "name": "Savate Tokyo Open 2012",
+   "year": "2012",
+   "city": "Tokyo"
+  },
+  "_review": {
+   "label": "Savate Tokyo Open 2012",
+   "doc_name": "Savate Tokyo Open 2012",
+   "file_name": "2012",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 9,
+    "categories": 4,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 2
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2013-2013",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2013-e0eda05bd6",
+  "meta": {
+   "name": "Savate Tokyo Open 2013",
+   "year": "2013",
+   "city": "Tokyo"
+  },
+  "_review": {
+   "label": "Savate Tokyo Open 2013",
+   "doc_name": "Savate Tokyo Open 2013",
+   "file_name": "2013",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 5,
+    "categories": 2,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 1
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2014-2014",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2014-fc745fff47",
+  "meta": {
+   "name": "Savate Tokyo Open 2014",
+   "year": "2014",
+   "city": "Tokyo"
+  },
+  "_review": {
+   "label": "Savate Tokyo Open 2014",
+   "doc_name": "Savate Tokyo Open 2014",
+   "file_name": "2014",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 10,
+    "categories": 5,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2016-2016",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2016-ceaf760147",
+  "meta": {
+   "name": "Savate Tokyo Open 2016",
+   "year": "2016",
+   "city": "Tokyo"
+  },
+  "_review": {
+   "label": "Savate Tokyo Open 2016",
+   "doc_name": "Savate Tokyo Open 2016",
+   "file_name": "2016",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 1,
+    "placings": 11,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 11
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2019-2019",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2019-30bf7d7612",
+  "meta": {
+   "name": "Savate Tokyo Open 2019",
+   "year": "2019",
+   "city": "Tokyo"
+  },
+  "_review": {
+   "label": "Savate Tokyo Open 2019",
+   "doc_name": "Savate Tokyo Open 2019",
+   "file_name": "2019",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 18,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 6
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2021-2021",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2021-009f014394",
+  "meta": {
+   "name": "Savate Tokyo Open 2021",
+   "year": "2021",
+   "city": "Tokyo"
+  },
+  "_review": {
+   "label": "Savate Tokyo Open 2021",
+   "doc_name": "Savate Tokyo Open 2021",
+   "file_name": "2021",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 1,
+    "placings": 8,
+    "categories": 4,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 1
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2022-2022",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2022-8ebfc883d7",
+  "meta": {
+   "name": "Savate Tokyo Open 2022",
+   "year": "2022",
+   "city": "Tokyo"
+  },
+  "_review": {
+   "label": "Savate Tokyo Open 2022",
+   "doc_name": "Savate Tokyo Open 2022",
+   "file_name": "2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 12,
+    "categories": 4,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 2
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2023-2023",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2023-01e6313cb2",
+  "meta": {
+   "name": "Savate Tokyo Open 2023",
+   "year": "2023",
+   "city": "Tokyo"
+  },
+  "_review": {
+   "label": "Savate Tokyo Open 2023",
+   "doc_name": "Savate Tokyo Open 2023",
+   "file_name": "2023",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 18,
+    "categories": 6,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 2
+  }
+ },
+ {
+  "slug": "savate-resultats-2006-2006",
+  "adapter": "universitaire",
+  "source": "raw_sources/Savate_resultats_2006.xls-8ea3d9379e",
+  "meta": {
+   "name": "Savate resultats 2006",
+   "year": "2006",
+   "city": "NANTES"
+  },
+  "_review": {
+   "label": "Savate resultats 2006",
+   "doc_name": "",
+   "file_name": "Savate resultats 2006",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 55,
+    "categories": 14,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 55
+  }
+ },
+ {
+  "slug": "wcjunior-pdf",
+  "adapter": "podium_pdf",
+  "source": "raw_sources/WCJUNIOR.pdf-5cdc5eb50f.pdf",
+  "meta": {
+   "name": "WCJUNIOR.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "WCJUNIOR.pdf",
+   "doc_name": "",
+   "file_name": "WCJUNIOR.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 22,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 22
+  }
+ },
+ {
+  "slug": "wcsenior-pdf",
+  "adapter": "podium_pdf",
+  "source": "raw_sources/WCSENIOR.pdf-8476fe643c.pdf",
+  "meta": {
+   "name": "WCSENIOR.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "WCSENIOR.pdf",
+   "doc_name": "",
+   "file_name": "WCSENIOR.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 24,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 24
+  }
+ },
+ {
+  "slug": "wcwomen-pdf",
+  "adapter": "podium_pdf",
+  "source": "raw_sources/WCWOMEN.pdf-e9be57dbc7.pdf",
+  "meta": {
+   "name": "WCWOMEN.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "WCWOMEN.pdf",
+   "doc_name": "",
+   "file_name": "WCWOMEN.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 22,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 22
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/809-m-85kg-pool-results-assaut-2022-525d11dfde",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "809 m 85kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/810-m85kg-pool-results-assaut-2022-775a460103",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "810 m85kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 5
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/811-m80kg-pool-results-assaut-2022-0917d944ad",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "811 m80kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/812-m75kg-pool-results-assaut-2022-f6bc0bab6c",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "812 m75kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 5
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/813-m70kg-pool-results-assaut-2022-afbd6ce426",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "813 m70kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/814-m65kg-pool-results-assaut-2022-d182461d9b",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "814 m65kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/815-m60kg-pool-results-assaut-2022-c37499037b.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "815 m60kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/816-m56kg-pool-results-assaut-2022-ab8932fd82.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "816 m56kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/818-f75kg-pool-results-assaut-2022-eebe029a91.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "818 f75kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/820-f65kg-pool-results-assaut-2022-731796864a.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "820 f65kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/821-f60kg-pool-results-assaut-2022-8e4ba964dc.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "821 f60kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/823-f52kg-pool-results-assaut-2022-05bc263206",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "823 f52kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 5,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 6
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/824-f48kg-pool-results-assaut-2022-cd212d1ee4.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  },
+  "_review": {
+   "label": "World Assaut Championship 2022",
+   "doc_name": "World Championship",
+   "file_name": "824 f48kg pool results assaut 2022",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "world-assaut-championships-2024-gb-results-2024",
+  "adapter": "british_champions",
+  "source": "raw_sources/world-assaut-championships-2024-gb-results-5303e90df6",
+  "meta": {
+   "name": "World Assaut Championships 2024 – GB results.",
+   "year": "2024",
+   "discipline": "assaut",
+   "level": "national"
+  },
+  "_review": {
+   "label": "World Assaut Championships 2024 – GB results.",
+   "doc_name": "World Assaut Championships 2024 – GB results.",
+   "file_name": "world assaut championships 2024 gb results",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 3,
+    "categories": 3,
+    "decided": 0,
+    "problems": 6
+   },
+   "names": 3
+  }
+ },
+ {
+  "slug": "african-championship-2025-dakar-senegal-424-2025",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/african-championship-2025-dakar-senegal-424-9e8bae22b3",
+  "meta": {
+   "name": "african championship 2025 dakar senegal 424",
+   "year": "2025"
+  },
+  "_review": {
+   "label": "african championship 2025 dakar senegal 424",
+   "doc_name": "",
+   "file_name": "african championship 2025 dakar senegal 424",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 25,
+    "categories": 14,
+    "decided": 0,
+    "problems": 4
+   },
+   "names": 23
+  }
+ },
+ {
+  "slug": "asorumas-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/asorumas.pdf-fa5259f5ff.pdf",
+  "meta": {
+   "name": "asorumas.pdf",
+   "year": "",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "asorumas.pdf",
+   "doc_name": "",
+   "file_name": "asorumas.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 36,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 57
+  }
+ },
+ {
+  "slug": "budim-pdf-2020",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/budim.pdf-a21a465884.pdf",
+  "meta": {
+   "name": "budim.pdf",
+   "year": "2020"
+  },
+  "_review": {
+   "label": "budim.pdf",
+   "doc_name": "",
+   "file_name": "budim.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 21,
+    "categories": 17,
+    "decided": 0,
+    "problems": 9
+   },
+   "names": 21
+  }
+ },
+ {
+  "slug": "budimrez-pdf-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/budimrez.pdf-f584371def.pdf",
+  "meta": {
+   "name": "budimrez.pdf",
+   "year": "2019"
+  },
+  "_review": {
+   "label": "budimrez.pdf",
+   "doc_name": "",
+   "file_name": "budimrez.pdf",
+   "copies": 2,
+   "others": [
+    "raw_sources/rezbudimp.doc-638ed99e9a"
+   ],
+   "stats": {
+    "bouts": 0,
+    "placings": 17,
+    "categories": 15,
+    "decided": 0,
+    "problems": 4
+   },
+   "names": 17
+  }
+ },
+ {
+  "slug": "challenge-dynamik-contact-2024",
+  "adapter": "misc_federations",
+  "source": "raw_sources/challenge-dynamik-contact-d268bab713",
+  "meta": {
+   "name": "challenge dynamik contact",
+   "year": "2024",
+   "discipline": "assaut"
+  },
+  "_review": {
+   "label": "challenge dynamik contact",
+   "doc_name": "",
+   "file_name": "challenge dynamik contact",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 7,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 13
+  }
+ },
+ {
+  "slug": "combatruma-pdf",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/combatruma.pdf-969ec8d7f7.pdf",
+  "meta": {
+   "name": "combatruma.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "combatruma.pdf",
+   "doc_name": "",
+   "file_name": "combatruma.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 51,
+    "categories": 12,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 51
+  }
+ },
+ {
+  "slug": "izvitalija-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/izvitalija.pdf-e28227cf05.pdf",
+  "meta": {
+   "name": "izvitalija.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "izvitalija.pdf",
+   "doc_name": "",
+   "file_name": "izvitalija.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 6,
+    "categories": 1,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 6
+  }
+ },
+ {
+  "slug": "izvslovenia-pdf-2024",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/izvslovenia.pdf-bbf8af4ddb.pdf",
+  "meta": {
+   "name": "izvslovenia.pdf",
+   "year": "2024"
+  },
+  "_review": {
+   "label": "izvslovenia.pdf",
+   "doc_name": "",
+   "file_name": "izvslovenia.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 7,
+    "categories": 7,
+    "decided": 0,
+    "problems": 4
+   },
+   "names": 7
+  }
+ },
+ {
+  "slug": "kupsrbije-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/kupsrbije.doc-32d9e2a24f",
+  "meta": {
+   "name": "kupsrbije",
+   "year": "2019"
+  },
+  "_review": {
+   "label": "kupsrbije",
+   "doc_name": "",
+   "file_name": "kupsrbije",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 77,
+    "categories": 38,
+    "decided": 0,
+    "problems": 3
+   },
+   "names": 77
+  }
+ },
+ {
+  "slug": "obrenovacr-2020",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/obrenovacr.doc-648656959e",
+  "meta": {
+   "name": "obrenovacr",
+   "year": "2020"
+  },
+  "_review": {
+   "label": "obrenovacr",
+   "doc_name": "",
+   "file_name": "obrenovacr",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 29,
+    "categories": 13,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 29
+  }
+ },
+ {
+  "slug": "palmares-2014-2014",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/palmares_2014.html-b8bea06bd7",
+  "meta": {
+   "name": "palmares 2014",
+   "year": "2014"
+  },
+  "_review": {
+   "label": "palmares 2014",
+   "doc_name": "",
+   "file_name": "palmares 2014",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 14,
+    "placings": 28,
+    "categories": 14,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 28
+  }
+ },
+ {
+  "slug": "pioniri2021-pdf-2021",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/pioniri2021.pdf-e1c9be7c34.pdf",
+  "meta": {
+   "name": "pioniri2021.pdf",
+   "year": "2021"
+  },
+  "_review": {
+   "label": "pioniri2021.pdf",
+   "doc_name": "",
+   "file_name": "pioniri2021.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 67,
+    "categories": 24,
+    "decided": 0,
+    "problems": 2
+   },
+   "names": 67
+  }
+ },
+ {
+  "slug": "pool-g1-r1-sc-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/pool_G1_R1_SC.pdf-419b56dd60.pdf",
+  "meta": {
+   "name": "pool G1 R1 SC.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "pool G1 R1 SC.pdf",
+   "doc_name": "",
+   "file_name": "pool G1 R1 SC.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 11,
+    "categories": 4,
+    "decided": 0,
+    "problems": 17
+   },
+   "names": 9
+  }
+ },
+ {
+  "slug": "pool-g1-t1-sdt-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/pool_G1_T1_SdT.pdf-509af636f1.pdf",
+  "meta": {
+   "name": "pool G1 T1 SdT.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "pool G1 T1 SdT.pdf",
+   "doc_name": "",
+   "file_name": "pool G1 T1 SdT.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 32,
+    "categories": 6,
+    "decided": 0,
+    "problems": 66
+   },
+   "names": 22
+  }
+ },
+ {
+  "slug": "resultats-1er-gant-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/resultats-1er-gant.pdf-30d2c9d91a.pdf",
+  "meta": {
+   "name": "resultats 1er gant.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "resultats 1er gant.pdf",
+   "doc_name": "",
+   "file_name": "resultats 1er gant.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 11,
+    "placings": 0,
+    "categories": 7,
+    "decided": 0,
+    "problems": 29
+   },
+   "names": 22
+  }
+ },
+ {
+  "slug": "resultats-savate-2005",
+  "adapter": "universitaire",
+  "source": "raw_sources/resultats-savate.xls-89aeeca7c6",
+  "meta": {
+   "name": "resultats savate",
+   "year": "2005",
+   "city": "DIJON"
+  },
+  "_review": {
+   "label": "resultats savate",
+   "doc_name": "",
+   "file_name": "resultats savate",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 54,
+    "categories": 14,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 54
+  }
+ },
+ {
+  "slug": "rezcomb-doc-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/rezcomb.doc-8af4d98512.doc",
+  "meta": {
+   "name": "rezcomb.doc",
+   "year": "2019"
+  },
+  "_review": {
+   "label": "rezcomb.doc",
+   "doc_name": "",
+   "file_name": "rezcomb.doc",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 37,
+    "categories": 16,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 37
+  }
+ },
+ {
+  "slug": "rezgenova-doc-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/rezgenova.doc-1b4973bab8.doc",
+  "meta": {
+   "name": "rezgenova.doc",
+   "year": "2019"
+  },
+  "_review": {
+   "label": "rezgenova.doc",
+   "doc_name": "",
+   "file_name": "rezgenova.doc",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 5,
+    "categories": 4,
+    "decided": 0,
+    "problems": 6
+   },
+   "names": 5
+  }
+ },
+ {
+  "slug": "rezkup-doc-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/rezkup.doc-07d45f379c.doc",
+  "meta": {
+   "name": "rezkup.doc",
+   "year": "2019"
+  },
+  "_review": {
+   "label": "rezkup.doc",
+   "doc_name": "",
+   "file_name": "rezkup.doc",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 5,
+    "categories": 4,
+    "decided": 0,
+    "problems": 5
+   },
+   "names": 5
+  }
+ },
+ {
+  "slug": "rezultati-ssv-2023-pdf-2023",
+  "adapter": "savate_misc",
+  "source": "raw_sources/rezultati-SSV-2023.pdf-c46ff26864.pdf",
+  "meta": {
+   "name": "rezultati SSV 2023.pdf",
+   "year": "2023",
+   "city": "Žabalj"
+  },
+  "_review": {
+   "label": "rezultati SSV 2023.pdf",
+   "doc_name": "",
+   "file_name": "rezultati SSV 2023.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 13
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "savate-bf-resultats-2008-2008",
+  "adapter": "universitaire",
+  "source": "raw_sources/savate_bf_resultats_2008.xls-1d7cba4c67",
+  "meta": {
+   "name": "savate bf resultats 2008",
+   "year": "2008",
+   "city": "Rennes"
+  },
+  "_review": {
+   "label": "savate bf resultats 2008",
+   "doc_name": "",
+   "file_name": "savate bf resultats 2008",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 58,
+    "categories": 14,
+    "decided": 0,
+    "problems": 1
+   },
+   "names": 58
+  }
+ },
+ {
+  "slug": "savate-tableaux-feminin-cfu-2015-pdf-2015",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/savate_tableaux_feminin_cfu_2015.pdf-41f6f5c974.pdf",
+  "meta": {
+   "name": "savate tableaux feminin cfu 2015.pdf",
+   "year": "2015"
+  },
+  "_review": {
+   "label": "savate tableaux feminin cfu 2015.pdf",
+   "doc_name": "",
+   "file_name": "savate tableaux feminin cfu 2015.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 4,
+    "categories": 2,
+    "decided": 0,
+    "problems": 40
+   },
+   "names": 4
+  }
+ },
+ {
+  "slug": "savate-tableaux-masculins-cfu-2015-pdf-2015",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/savate_tableaux_masculins_cfu_2015.pdf-ade2de9232.pdf",
+  "meta": {
+   "name": "savate tableaux masculins cfu 2015.pdf",
+   "year": "2015"
+  },
+  "_review": {
+   "label": "savate tableaux masculins cfu 2015.pdf",
+   "doc_name": "",
+   "file_name": "savate tableaux masculins cfu 2015.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 12,
+    "categories": 4,
+    "decided": 0,
+    "problems": 50
+   },
+   "names": 12
+  }
+ },
+ {
+  "slug": "sprezultati-pdf-2021",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/sprezultati.pdf-ad088a2ca6.pdf",
+  "meta": {
+   "name": "sprezultati.pdf",
+   "year": "2021"
+  },
+  "_review": {
+   "label": "sprezultati.pdf",
+   "doc_name": "",
+   "file_name": "sprezultati.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 90,
+    "categories": 12,
+    "decided": 0,
+    "problems": 11
+   },
+   "names": 90
+  }
+ },
+ {
+  "slug": "varazdin-pdf-2023",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/varazdin.pdf-f561eee653.pdf",
+  "meta": {
+   "name": "varazdin.pdf",
+   "year": "2023"
+  },
+  "_review": {
+   "label": "varazdin.pdf",
+   "doc_name": "",
+   "file_name": "varazdin.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 6,
+    "categories": 6,
+    "decided": 0,
+    "problems": 5
+   },
+   "names": 6
+  }
+ },
+ {
+  "slug": "varazdincombatwoman-pdf",
+  "adapter": "podium_pdf",
+  "source": "raw_sources/varazdincombatwoman.pdf-6a4a70a42b.pdf",
+  "meta": {
+   "name": "varazdincombatwoman.pdf",
+   "year": ""
+  },
+  "_review": {
+   "label": "varazdincombatwoman.pdf",
+   "doc_name": "",
+   "file_name": "varazdincombatwoman.pdf",
+   "copies": 1,
+   "others": [],
+   "stats": {
+    "bouts": 0,
+    "placings": 7,
+    "categories": 3,
+    "decided": 0,
+    "problems": 0
+   },
+   "names": 7
+  }
+ },
+ {
+  "slug": "finales-finales-2023",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Open-dAutomne-2023vf.pdf-9e1660c9af.pdf",
+  "meta": {
+   "name": "¼, - ½ Finales & Finales",
+   "year": "2023",
+   "city": "cette"
+  },
+  "_review": {
+   "label": "¼, - ½ Finales & Finales",
+   "doc_name": "¼, - ½ Finales & Finales",
+   "file_name": "Livret Open dAutomne 2023vf.pdf",
+   "copies": 3,
+   "others": [
+    "raw_sources/R-Open-dAutomne-2023-1.pdf-481a0d1e24.pdf",
+    "raw_sources/R-Open-dAutomne-2023.pdf-03634b6b43.pdf"
+   ],
+   "stats": {
+    "bouts": 15,
+    "placings": 16,
+    "categories": 7,
+    "decided": 0,
+    "problems": 7
+   },
+   "names": 23
+  }
+ }
+]

@@ -1,0 +1,5948 @@
+[
+ {
+  "slug": "world-assaut-2026",
+  "adapter": "assaut_qrcode",
+  "source": "data.json",
+  "meta": {
+   "name": "World Championship Savate Assaut 2026",
+   "discipline": "assaut",
+   "level": "world",
+   "year": "2026",
+   "start_date": "2026-09-10",
+   "end_date": "2026-09-12",
+   "country": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-2025",
+  "adapter": "fisav_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/928-world-youth-championship-2025-full-results",
+  "meta": {
+   "name": "World Youth Championship Savate Assaut 2025",
+   "discipline": "assaut",
+   "level": "world",
+   "year": "2025"
+  }
+ },
+ {
+  "slug": "fisav-european-assaut-championships-2025-pool-result",
+  "adapter": "fisav_pool_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/956-european-assaut-championships-2025-pool-results",
+  "meta": {
+   "name": "European Assaut Championships 2025 - pool results",
+   "year": "2025",
+   "level": "european",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-world-assaut-championships-2024-slovenia-pool-",
+  "adapter": "fisav_pool_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/76-2024/892-world-assaut-championships-2024-slovenia-pool-results",
+  "meta": {
+   "name": "World Assaut Championships 2024 - Slovenia - Pool results",
+   "year": "2024",
+   "level": "world",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-world-youth-2023-pool-results",
+  "adapter": "fisav_pool_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/837-world-youth-2023-pool-results",
+  "meta": {
+   "name": "World Youth 2023 - Pool Results",
+   "year": "2023",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-combat-championships-2023-pool-results",
+  "adapter": "fisav_pool_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/857-world-combat-championships-2023-pool-results",
+  "meta": {
+   "name": "World Combat Championships 2023 - pool results",
+   "year": "2023",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-european-championships-for-assaut-2009",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/10-2009/81-european-championships-for-assaut-2009",
+  "meta": {
+   "name": "European Championships for Assaut 2009",
+   "year": "2009",
+   "level": "european",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-european-combat-championship-2010-seniors",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/8-2010/84-european-combat-championship-2010-women765",
+  "meta": {
+   "name": "European Combat Championship 2010 - Seniors",
+   "year": "2010",
+   "level": "european",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-championnat-du-monde-combat-2011-senior-men",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/2-2011/104-results-senior-men",
+  "meta": {
+   "name": "Championnat du Monde Combat 2011 - Senior Men",
+   "year": "2011",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-championnat-du-monde-combat-2011-seniors-men",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/2-2011/70-championnat-du-monde-combat-2011-seniors-men",
+  "meta": {
+   "name": "Championnat du Monde Combat 2011 - Seniors Men",
+   "year": "2011",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-junior-championnat-du-monde-combat-2011",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/2-2011/68-junior-championnat-du-monde-combat-2011",
+  "meta": {
+   "name": "Junior Championnat du Monde Combat 2011",
+   "year": "2011",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-championships-2012-women",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/3-2012/86-world-championships-2012-women",
+  "meta": {
+   "name": "World Championships 2012 - Women",
+   "year": "2012",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-championships-savate-assaut-2012-men",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/3-2012/87-world-championships-savate-assaut-2012-men",
+  "meta": {
+   "name": "World Championships Savate Assaut 2012 - Men",
+   "year": "2012",
+   "level": "world",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-championships-2013-junior-men",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/4-2013/66-world-combat-championships-2013-junior-men",
+  "meta": {
+   "name": "World Combat Championships 2013 - Junior Men",
+   "year": "2013",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-championships-2013-senior-men",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/4-2013/64-world-combat-championships-2013-senior-men",
+  "meta": {
+   "name": "World Combat Championships 2013 - Senior Men",
+   "year": "2013",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-championships-2013-senior-women",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/4-2013/65-world-combat-championships-2013-senior-women",
+  "meta": {
+   "name": "World Combat Championships 2013 - Senior Women",
+   "year": "2013",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championships-2013-female-categories",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/4-2013/123-world-youth-championships-2013-female-categories",
+  "meta": {
+   "name": "World Youth Championships, 2013, female categories",
+   "year": "2013",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championships-2013-male-categories",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/4-2013/122-world-youth-championships-2013-male-categories",
+  "meta": {
+   "name": "World Youth Championships, 2013, male categories",
+   "year": "2013",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-assaut-2014-men-s-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/25-2014/156-world-assaut-2014-men-s-results",
+  "meta": {
+   "name": "World Assaut 2014 - Men's Results",
+   "year": "2014",
+   "level": "world",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-world-assaut-2014-women-s-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/25-2014/157-world-assaut-2014-women-s-results",
+  "meta": {
+   "name": "World Assaut 2014 - Women's Results",
+   "year": "2014",
+   "level": "world",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2015-junior-men-s-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/27-2015/172-world-combat-2015-junior-men-s-results",
+  "meta": {
+   "name": "World Combat 2015 - Junior Men's Results",
+   "year": "2015",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2015-senior-men-s-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/27-2015/173-world-combat-2015-senior-men-s-results",
+  "meta": {
+   "name": "World Combat 2015 - Senior Men's Results",
+   "year": "2015",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2015-senior-women-s-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/27-2015/174-world-combat-2015-senior-women-s-results",
+  "meta": {
+   "name": "World Combat 2015 - Senior Women's Results",
+   "year": "2015",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2015-male-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/27-2015/181-world-youth-championship-2015-male-results",
+  "meta": {
+   "name": "World Youth Championship 2015 Male Results",
+   "year": "2015",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2015-female-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/27-2015/182-world-youth-championship-2015-female-results",
+  "meta": {
+   "name": "World Youth Championship 2015, Female Results",
+   "year": "2015",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-championship-assaut-2016-men-s-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/35-2016/270-world-championship-assaut-2016-men-s-results",
+  "meta": {
+   "name": "World Championship Assaut 2016 - Men's Results",
+   "year": "2016",
+   "level": "world",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-world-championship-assaut-2016-women-s-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/35-2016/271-world-championship-assaut-2016-women-s-results",
+  "meta": {
+   "name": "World Championship Assaut 2016 - Women's Results",
+   "year": "2016",
+   "level": "world",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2017-senior-men",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/40-2017/303-world-combat-2017",
+  "meta": {
+   "name": "World Combat 2017 - Senior Men",
+   "year": "2017",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2017-senior-women",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/40-2017/304-world-combat-2017-senior-women",
+  "meta": {
+   "name": "World Combat 2017 - Senior Women",
+   "year": "2017",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2017-female-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/40-2017/313-world-youth-championship-2017-female-results",
+  "meta": {
+   "name": "World Youth Championship 2017 Female Results",
+   "year": "2017",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2017-male-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/40-2017/312-world-youth-championship-2017-male-results",
+  "meta": {
+   "name": "World Youth Championship 2017 Male Results",
+   "year": "2017",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-european-championships-2018",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/45-2018/444-european-championships-2018",
+  "meta": {
+   "name": "European Championships 2018",
+   "year": "2018",
+   "level": "european",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-results-chungju-masterships-2019",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/686-results-chungju-masterships-2019",
+  "meta": {
+   "name": "Results Chungju Masterships 2019",
+   "year": "2019",
+   "level": "",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-results-of-the-2019-african-savate-championships",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/688-results-of-the-2019-african-savate-championships",
+  "meta": {
+   "name": "Results of the 2019 African Savate Championships",
+   "year": "2019",
+   "level": "",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-results-of-the-2019-asian-savate-championships",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/689-results-of-the-2019-asian-savate-championships",
+  "meta": {
+   "name": "Results of the 2019 Asian Savate Championships",
+   "year": "2019",
+   "level": "",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-results-of-the-2019-european-savate-assaut-champio",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/691-results-of-the-2019-european-savate-assaut-championships",
+  "meta": {
+   "name": "Results of the 2019 European Savate Assaut Championships - men",
+   "year": "2019",
+   "level": "european",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-results-of-the-2019-european-savate-assaut-champio-2",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/692-results-of-the-2019-european-savate-assaut-championships-women",
+  "meta": {
+   "name": "Results of the 2019 European Savate Assaut Championships - women",
+   "year": "2019",
+   "level": "european",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-results-of-the-panamerican-savate-championships-20",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/690-results-of-the-panamerican-savate-championships-2019",
+  "meta": {
+   "name": "Results of the PanAmerican Savate Championships 2019",
+   "year": "2019",
+   "level": "",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-senior-men-world-combat-championships-2019",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/687-senior-men-world-combat-championships-2019",
+  "meta": {
+   "name": "Senior Men World Combat Championships 2019",
+   "year": "2019",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2019-senior-women-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/693-world-combat-2019-senior-women-results",
+  "meta": {
+   "name": "World Combat 2019 - Senior Women Results",
+   "year": "2019",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-cup-for-13-14-years",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/685-world-cup-for-13-14-years",
+  "meta": {
+   "name": "World Cup for 13 & 14 years",
+   "year": "2019",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2019-male-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/684-world-youth-championship-2019-male-results",
+  "meta": {
+   "name": "World Youth Championship 2019 Male Results",
+   "year": "2019",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-junior-world-combat-championships-2021",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/57-2021/748-junior-world-combat-championships-2021",
+  "meta": {
+   "name": "Junior World Combat Championships 2021",
+   "year": "2021",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-senior-men-world-combat-championships-2021",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/57-2021/747-senior-men-world-combat-championships-2021",
+  "meta": {
+   "name": "Senior Men World Combat Championships 2021",
+   "year": "2021",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-senior-women-world-combat-championships-2021",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/57-2021/746-senior-women-world-combat-championships-2021",
+  "meta": {
+   "name": "Senior Women World Combat Championships 2021",
+   "year": "2021",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-cup-for-13-14-years-2021-female-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/57-2021/738-world-cup-for-13-14-years-2021-female-results",
+  "meta": {
+   "name": "World Cup for 13 & 14 years, 2021 - Female Results",
+   "year": "2021",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-cup-for-13-14-years-2021-male-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/57-2021/737-world-cup-for-13-14-years-2021-male-results",
+  "meta": {
+   "name": "World Cup for 13 & 14 years, 2021 - Male Results",
+   "year": "2021",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2021-female-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/57-2021/736-world-youth-championship-2021-female-results",
+  "meta": {
+   "name": "World Youth Championship 2021 - Female Results",
+   "year": "2021",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2021-male-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/57-2021/735-world-youth-championship-2021-male-results",
+  "meta": {
+   "name": "World Youth Championship 2021 - Male Results",
+   "year": "2021",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-results-world-championships-savate-assaut-2022-men",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/70-2022/827-results-world-championships-savate-assaut-2022-men",
+  "meta": {
+   "name": "Results World Championships Savate Assaut 2022 Men",
+   "year": "2022",
+   "level": "world",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-results-world-championships-savate-assaut-2022-wom",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/70-2022/828-results-world-championships-savate-assaut-2022-women",
+  "meta": {
+   "name": "Results World Championships Savate Assaut 2022 Women",
+   "year": "2022",
+   "level": "world",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-championships-junior-men-2023",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/854-world-combat-championships-junior-men-2023",
+  "meta": {
+   "name": "World Combat Championships, Junior Men, 2023",
+   "year": "2023",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-championships-junior-women-2023",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/853-world-combat-championships-junior-women-2023",
+  "meta": {
+   "name": "World Combat Championships, Junior Women, 2023",
+   "year": "2023",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-championships-senior-men-2023",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/856-world-combat-championships-senior-men-2023",
+  "meta": {
+   "name": "World Combat Championships, Senior Men, 2023",
+   "year": "2023",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-championships-senior-women-2023",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/855-world-combat-championships-senior-women-2023",
+  "meta": {
+   "name": "World Combat Championships, Senior Women, 2023",
+   "year": "2023",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2023-female-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/841-world-youth-championship-2023-female-results",
+  "meta": {
+   "name": "World Youth Championship 2023 : Female Results",
+   "year": "2023",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2023-male-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/840-world-youth-championship-2023-male-results",
+  "meta": {
+   "name": "World Youth Championship 2023 : Male Results",
+   "year": "2023",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-cup-2023-for-13-and-14-years-boys",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/838-world-youth-cup-2023-for-13-and-14-years-boys",
+  "meta": {
+   "name": "World Youth Cup 2023 for 13 and 14 years - Boys",
+   "year": "2023",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-cup-2023-for-13-and-14-years-girls",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/839-world-youth-cup-2023-for-13-and-14-years-girls",
+  "meta": {
+   "name": "World Youth Cup 2023 for 13 and 14 years - girls",
+   "year": "2023",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-medalists-world-combat-championships-junior-men-20",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/925-medalists-world-combat-championships-junior-men-2025",
+  "meta": {
+   "name": "Medalists World Combat Championships - Junior Men - 2025",
+   "year": "2025",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-medalists-world-combat-championships-junior-women-",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/924-medalists-world-combat-championships-junior-women-2025",
+  "meta": {
+   "name": "Medalists World Combat Championships - Junior Women - 2025",
+   "year": "2025",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-medalists-world-combat-championships-senior-men-20",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/927-medalists-world-combat-championships-senior-men-2025",
+  "meta": {
+   "name": "Medalists World Combat Championships - Senior Men - 2025",
+   "year": "2025",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-medalists-world-combat-championships-senior-women-",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/926-medalists-world-combat-championships-senior-women-2025",
+  "meta": {
+   "name": "Medalists World Combat Championships - Senior Women - 2025",
+   "year": "2025",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-cup-tashkent-2025-medallists",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/931-world-cup-tashkent-2025-medallists",
+  "meta": {
+   "name": "World Cup - Tashkent 2025 - Medallists",
+   "year": "2025",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2025-medallist-female",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/930-world-youth-championship-2025-medallist-female",
+  "meta": {
+   "name": "World Youth Championship 2025 - Medallist - Female",
+   "year": "2025",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "fisav-world-youth-championship-2025-medallist-male",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/929-world-youth-championship-2025-medallist-male",
+  "meta": {
+   "name": "World Youth Championship 2025 - Medallist - Male",
+   "year": "2025",
+   "level": "world",
+   "discipline": ""
+  }
+ },
+ {
+  "slug": "ffsavate-results-seniors2011",
+  "adapter": "podium_pdf",
+  "source": "https://web.archive.org/web/20110710235755id_/http://www.ffsavate.com/uploads/177/Results-Seniors2011.pdf",
+  "meta": {
+   "name": "Results Seniors2011",
+   "year": "2011"
+  }
+ },
+ {
+  "slug": "ffsavate-resultats-20du-20championnat-20du-20monde-20de-",
+  "adapter": "podium_pdf",
+  "source": "https://web.archive.org/web/20121016065424id_/http://www.ffsavate.com/uploads/652/Resultats%20du%20Championnat%20du%20MONDE%20de%20SAVATE%20%20ASSAUT%202012.pdf",
+  "meta": {
+   "name": "Resultats%20du%20Championnat%20du%20MONDE%20de%20SAVATE%20%20ASSAUT%202012",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "ffsavate-resultats-20du-20championnat-20du-20monde-20de--2",
+  "adapter": "podium_pdf",
+  "source": "https://web.archive.org/web/20130626035453id_/http://www.ffsavate.com:80/viesportive/uploads/528/Resultats%20du%20Championnat%20du%20MONDE%20de%20SAVATE%20%20ASSAUT%202012.pdf",
+  "meta": {
+   "name": "Resultats%20du%20Championnat%20du%20MONDE%20de%20SAVATE%20%20ASSAUT%202012",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "ffsavate-resultats-des-finales-du-championnat-du-monde-c",
+  "adapter": "podium_pdf",
+  "source": "https://web.archive.org/web/20240718113925id_/https://www.ffsavate.com/content/uploads/2024/01/RESULTATS-DES-FINALES-DU-CHAMPIONNAT-DU-MONDE-COMBAT-2023.pdf",
+  "meta": {
+   "name": "RESULTATS DES FINALES DU CHAMPIONNAT DU MONDE COMBAT 2023",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "ffsavate-resultats-europe-assaut-2023-zagreb",
+  "adapter": "podium_pdf",
+  "source": "https://web.archive.org/web/20240718114258id_/https://www.ffsavate.com/content/uploads/2024/01/RESULTATS-EUROPE-ASSAUT-2023-ZAGREB.pdf",
+  "meta": {
+   "name": "RESULTATS EUROPE ASSAUT 2023 ZAGREB",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "ffsavate-results-world-youth-boys-2023",
+  "adapter": "podium_pdf",
+  "source": "https://web.archive.org/web/20240718113830id_/https://www.ffsavate.com/content/uploads/2024/01/Results_World_Youth_Boys_2023.pdf",
+  "meta": {
+   "name": "Results_World_Youth_Boys_2023",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "ffsavate-results-world-youth-girls-2023",
+  "adapter": "podium_pdf",
+  "source": "https://web.archive.org/web/20240718113859id_/https://www.ffsavate.com/content/uploads/2024/01/Results_World_Youth_Girls_2023.pdf",
+  "meta": {
+   "name": "Results_World_Youth_Girls_2023",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "fisav-51-pool-results-combat-2019-680-senior-women-75kg",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/680-senior-women-75kg",
+  "archived": true,
+  "meta": {
+   "name": "680 senior women 75kg",
+   "year": "2019",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-51-pool-results-combat-2019-679-senior-women-70kg",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/679-senior-women-70kg",
+  "archived": true,
+  "meta": {
+   "name": "679 senior women 70kg",
+   "year": "2019",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-51-pool-results-combat-2019-678-senior-women-65kg",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/678-senior-women-65kg",
+  "archived": true,
+  "meta": {
+   "name": "678 senior women 65kg",
+   "year": "2019",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-51-pool-results-combat-2019-675-senior-women-52kg",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/675-senior-women-52kg",
+  "archived": true,
+  "meta": {
+   "name": "675 senior women 52kg",
+   "year": "2019",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-51-pool-results-combat-2019-672-senior-men-85kg",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/672-senior-men-85kg",
+  "archived": true,
+  "meta": {
+   "name": "672 senior men 85kg",
+   "year": "2019",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-51-pool-results-combat-2019-671-sernior-men-85kg",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/671-sernior-men-85kg",
+  "archived": true,
+  "meta": {
+   "name": "671 sernior men 85kg",
+   "year": "2019",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-51-pool-results-combat-2019-670-senior-men-80kg",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/670-senior-men-80kg",
+  "archived": true,
+  "meta": {
+   "name": "670 senior men 80kg",
+   "year": "2019",
+   "level": "world",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "fisav-world-assaut-2026-boulogne",
+  "adapter": "fisav_pdf",
+  "source": "https://fisav.sport/download.php?id=61",
+  "meta": {
+   "name": "World Championship Savate Assaut 2026 - Boulogne",
+   "year": "2026",
+   "level": "world",
+   "discipline": "assaut",
+   "format": "championship"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2025-plovdiv",
+  "adapter": "fisav_pdf",
+  "source": "https://fisav.sport/download.php?id=11",
+  "meta": {
+   "name": "World Combat Championships 2025 - Plovdiv",
+   "year": "2025",
+   "level": "world",
+   "discipline": "combat",
+   "format": "championship"
+  }
+ },
+ {
+  "slug": "sportu-france-universitaire-2017",
+  "adapter": "podium_pdf",
+  "source": "https://web.archive.org/web/20170625031753id_/http://www.sport-u.com/uploads/2017/Balthazar/Resultats%20CFU%20SAVATE.pdf",
+  "meta": {
+   "name": "Championnat de France Universitaire Savate 2017 - Rennes",
+   "year": "2017",
+   "level": "national",
+   "discipline": "",
+   "format": "championship"
+  }
+ },
+ {
+  "slug": "ffsavate-finales-championnat-de-france-elite-a-2025-paris",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2025/01/Resultats-finales-ELITE-A.pdf",
+  "meta": {
+   "name": "Finales Championnat de France Elite A 2025, Paris",
+   "year": "2025",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "Senior",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-assaut-2025-finales-paris",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-championnat-ASSAUT-2025.pdf",
+  "meta": {
+   "name": "Championnat de France Assaut 2025 (finales), Paris",
+   "year": "2025",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Senior",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-v-t-rans-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-championnat-Veterans-2025.pdf",
+  "meta": {
+   "name": "Championnat de France Vétérans 2025",
+   "year": "2025",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Senior",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-finales-championnat-de-france-juniors-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-finales-JUNIORS-2025.pdf",
+  "meta": {
+   "name": "Finales Championnat de France Juniors 2025",
+   "year": "2025",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "Junior",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-finales-championnat-de-france-2e-s-rie-angoul-me-202",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/10/Resultats-Finales-2eme-Serie-Angouleme-V2.pdf",
+  "meta": {
+   "name": "Finales Championnat de France 2e Série, Angoulême 2024-25",
+   "year": "2025",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "Senior",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-elite-a-11-mars-2023",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/RESULTATS-11-MARS-2023-ELITE-A.pdf",
+  "meta": {
+   "name": "Championnat de France Elite A, 11 mars 2023",
+   "year": "2023",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "Senior",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-finales-nationales-2023-m-rignac",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/Resultats-Merignac-.pdf",
+  "meta": {
+   "name": "Finales nationales 2023, Mérignac",
+   "year": "2023",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "Senior",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "savate-vojvodina-all-ages-2021",
+  "adapter": "savate_weight_list",
+  "source": "https://www.savatevojvodina.com/wp-content/uploads/2021/04/REZULTATI_KIKINDA.pdf",
+  "meta": {
+   "name": "Prvenstvo Vojvodine za sve uzraste, Kikinda 2021",
+   "year": "2021",
+   "level": "regional",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "savate-srbija-assaut-juniors-seniors-2019",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva19/rezobren.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za juniore i seniore u assaut savateu, Obrenovac 2019",
+   "year": "2019",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "savate-srbija-assaut-pioneers-cadets-2019",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva19/rumaaso.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za pionire, kadete i mlađe juniore u assaut savateu, Ruma 2019",
+   "year": "2019",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "savate-srbija-assaut-cadets-juniors-2022",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva21/ruaso.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za kadete i juniore u assaut savateu, Ruma 2022",
+   "year": "2022",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "savate-srbija-combat-2022",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva21/rucombat.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za mlađe juniore, juniore i seniore u combat savateu, Ruma 2022",
+   "year": "2022",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "savate-srbija-combat-2024",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva22/rezcombat2024.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za mlađe juniore, juniore i seniore u combat savateu, Ruma 2024",
+   "year": "2024",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "savate-srbija-assaut-2024",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva22/ruma2024aso.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za kadete, juniore i seniore u assaut savateu, Ruma 2024",
+   "year": "2024",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "savate-hrvatska-precombat-2019",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20190922114948id_/http://hrvatski-savate-savez.hr/wp-content/izvjestaji/2019/IZVJE%C5%A0%C4%86E%20S%20PH%20Combat%20i%20Precombat.pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske precombat i eliminacije combat, Varaždin 2019",
+   "year": "2019",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "savate-hrvatska-combat-final-2019",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20201126062248id_/https://hrvatski-savate-savez.hr/wp-content/izvjestaji/2019/IZVJE%C5%A0TAJ%20SA%20FINALE%20COMBAT%2014.04.2019.pdf",
+  "meta": {
+   "name": "Finale combat, Varaždin 2019",
+   "year": "2019",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "savate-hrvatska-cup-assaut-2018",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20201126002230id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2018/12/IZVJE%C5%A0%C4%86E-S-KUPA-HRVATSKE.pdf",
+  "meta": {
+   "name": "Kup Hrvatske, Sveti Ivan Zelina 2018",
+   "year": "2018",
+   "level": "national",
+   "format": "cup",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "zagreb-savate-open-2018",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20210304063606id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2018/12/IZVJE%C5%A0%C4%86E-SA-OTVORENOG-PRVENSTVA-ZAGREBA.pdf",
+  "meta": {
+   "name": "Otvoreno prvenstvo Zagreba 2018",
+   "year": "2018",
+   "level": "regional",
+   "format": "open",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "crikvenica-savate-open-2018",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20210304024056id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2018/06/crikvenica-2018-izvje%C5%A1taj.pdf",
+  "meta": {
+   "name": "2. Crikvenica Savate Open 2018",
+   "year": "2018",
+   "level": "regional",
+   "format": "open",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "savate-hrvatska-assaut-juniors-seniors-2017",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20210922074212id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2017/04/PRVENSTVO-HRVATSKEASSAUT-ZELINA-2017..pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske assaut za juniore i seniore, Sv. Ivan Zelina 2017",
+   "year": "2017",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "savate-hrvatska-cup-assaut-2017",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20210304071223id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2017/10/%C4%8Cakovec-29.10.2017.-kup.pdf",
+  "meta": {
+   "name": "Kup Hrvatske, Čakovec 2017",
+   "year": "2017",
+   "level": "national",
+   "format": "cup",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "zagreb-savate-open-2017",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20240622165732id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2017/11/OTVORENO-PRVENSTVO-ZAGREBA-4.11.2017.pdf",
+  "meta": {
+   "name": "Otvoreno prvenstvo Zagreba 2017",
+   "year": "2017",
+   "level": "regional",
+   "format": "open",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "savate-world-cup-for-clubs-2017",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20200930093655id_/http://hrvatski-savate-savez.hr/wp-content/uploads/2017/10/IZVJE%C5%A0%C4%86E-SA-SAVATE-SVJETSKOG-KUPA-ZA-KLUBOVE-...pdf",
+  "meta": {
+   "name": "Savate svjetski kup za klubove, Varaždin 2017",
+   "year": "2017",
+   "level": "world",
+   "format": "cup",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "croatia-savate-open-2016",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20170215060612id_/http://hrvatski-savate-savez.hr/wp-content/uploads/2016/10/IZVJE%C5%A0%C4%86E-C.S.O.-2016.pdf",
+  "meta": {
+   "name": "Croatia Savate Open, Varaždin 2016",
+   "year": "2016",
+   "level": "regional",
+   "format": "open",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "zagreb-savate-open-2016",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20221202172948id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2016/11/OTVORENO-PRVENSTVO-ZAGREBA.pdf",
+  "meta": {
+   "name": "Otvoreno prvenstvo Zagreba 2016",
+   "year": "2016",
+   "level": "regional",
+   "format": "open",
+   "discipline": "",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "savate-hrvatska-assaut-cadets-2016",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20221202160505id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2016/03/Tuhelj-kadeti-2016...pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske u savate boksu assaut za djevojčice, dječake, kadetkinje i kadete, Tuhelj 2016",
+   "year": "2016",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "savate-srbija-cup-assaut-2021",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva20/kupaso21.pdf",
+  "meta": {
+   "name": "Kup Srbije za pionire, kadete, juniore i seniore u assaut savateu, Ruma 2021",
+   "year": "2021",
+   "level": "national",
+   "format": "cup",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "savate-srbija-assaut-pioneers-students-2022",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva21/pionirsko.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za pionire i studente u assaut savateu, Ruma 2022",
+   "year": "2022",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "world-combat-games-savate-2023",
+  "adapter": "savate_weight_list",
+  "source": "https://www.ffsavate.com/content/uploads/2024/01/WCG-RESULTATS-SAVATE.pdf",
+  "meta": {
+   "name": "World Combat Games Riyadh 2023 — savate official results",
+   "year": "2023",
+   "level": "world",
+   "format": "",
+   "discipline": "",
+   "age_class": "",
+   "country": ""
+  }
+ },
+ {
+  "slug": "france-university-savate-2012",
+  "adapter": "savate_weight_list",
+  "source": "https://web.archive.org/web/20120718223240id_/http://www.sport-u.com/cmsms/uploads/file/doc_2011/Sports_Ind_Cindy/Savate/12-Resultats_Savate_2012.pdf",
+  "meta": {
+   "name": "Championnat de France Universitaire Savate 2012",
+   "year": "2012",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "University",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "hr-ph-assaut-kadeti-2023-garesnica",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20230921122348id_/https://hrvatski-savate-savez.hr/wp-content/2023/Izvje%C5%A1taji%20s%20natjecanja/Izvje%C5%A1taj%20kadeti.pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske u disciplini assaut (kadeti), Garešnica 2023",
+   "year": "2023",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Garešnica"
+  }
+ },
+ {
+  "slug": "hr-kup-assaut-2023-krapina",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20231208134105id_/https://hrvatski-savate-savez.hr/wp-content/2023/Izvje%C5%A1taji%20s%20natjecanja/Kup%20Hrvatske.pdf",
+  "meta": {
+   "name": "Kup Hrvatske u disciplini assaut, Krapina 2023",
+   "year": "2023",
+   "level": "national",
+   "format": "cup",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Krapina"
+  }
+ },
+ {
+  "slug": "hr-kup-assaut-juniori-seniori-2023-sesvetski-kraljevec",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20231208115703id_/https://hrvatski-savate-savez.hr/wp-content/2023/Izvje%C5%A1taji%20s%20natjecanja/Kup%20Hrvatske%20juniori%2C%20seniori.pdf",
+  "meta": {
+   "name": "Kup Hrvatske u disciplini assaut (juniori, seniori), Sesvetski Kraljevec 2023",
+   "year": "2023",
+   "level": "national",
+   "format": "cup",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Sesvetski Kraljevec"
+  }
+ },
+ {
+  "slug": "hr-ph-assaut-kadeti-2022-garesnica",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20220517234218id_/https://hrvatski-savate-savez.hr/wp-content/2022/Izvje%C5%A1taji%20natjecanja/PH%20assaut%20kadetkinje%20i%20kadeti%2C%202.4.2022.%20Gare%C5%A1nica.pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske u disciplini assaut (kadetkinje i kadeti), Garešnica 2022",
+   "year": "2022",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Garešnica"
+  }
+ },
+ {
+  "slug": "hr-ph-combat-precombat-2022-varazdin",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20220518005440id_/https://hrvatski-savate-savez.hr/wp-content/2022/Izvje%C5%A1taji%20natjecanja/PH%20Combat%20i%20precombat%2027.3.2022..pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske u disciplini combat i precombat, Varaždin 2022",
+   "year": "2022",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Varaždin"
+  }
+ },
+ {
+  "slug": "hr-crikvenica-open-4-2022",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20220704142641id_/https://hrvatski-savate-savez.hr/wp-content/2022/Izvje%C5%A1taji%20natjecanja/Izvjestaj%20s%204.%20Crikvenica%20Open-a.pdf",
+  "meta": {
+   "name": "4. Crikvenica Savate Open 2022",
+   "year": "2022",
+   "level": "regional",
+   "format": "open",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Crikvenica"
+  }
+ },
+ {
+  "slug": "hr-cigra-open-2023-sveti-ivan-zelina",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20230921115525id_/https://hrvatski-savate-savez.hr/wp-content/2023/Izvje%C5%A1taji%20s%20natjecanja/%C4%8Cigra%20open_izvje%C5%A1taj.pdf",
+  "meta": {
+   "name": "1. International Savate Competition „Čigra Open\", Sv. I. Zelina 2023",
+   "year": "2023",
+   "level": "regional",
+   "format": "open",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Sveti Ivan Zelina"
+  }
+ },
+ {
+  "slug": "hr-garesnica-open-2023",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20230921121144id_/https://hrvatski-savate-savez.hr/wp-content/2023/Izvje%C5%A1taji%20s%20natjecanja/1.%20Gare%C5%A1nica%20Open%20%281%29.pdf",
+  "meta": {
+   "name": "Garešnica Savate Open 2023",
+   "year": "2023",
+   "level": "regional",
+   "format": "open",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Garešnica"
+  }
+ },
+ {
+  "slug": "hr-crikvenica-open-5-2023",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20230921115824id_/https://hrvatski-savate-savez.hr/wp-content/2023/Izvje%C5%A1taji%20s%20natjecanja/5.%20Crikvenica%20open.pdf",
+  "meta": {
+   "name": "5. Crikvenica Savate Open 2023",
+   "year": "2023",
+   "level": "regional",
+   "format": "open",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Crikvenica"
+  }
+ },
+ {
+  "slug": "hr-dragon-challenge-2022-novi-marof",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20221225152236id_/https://hrvatski-savate-savez.hr/wp-content/2022/Izvje%C5%A1taji%20natjecanja/Dragon%20Challenge.pdf",
+  "meta": {
+   "name": "Međunarodni turnir u savateu „Dragon Challenge\", Novi Marof 2022",
+   "year": "2022",
+   "level": "regional",
+   "format": "open",
+   "discipline": "",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Novi Marof"
+  }
+ },
+ {
+  "slug": "hr-opz-combat-precombat-2022-zagreb",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20220819135907id_/https://hrvatski-savate-savez.hr/wp-content/2022/Izvje%C5%A1taji%20natjecanja/12.%20OPZ.pdf",
+  "meta": {
+   "name": "12. Otvoreno prvenstvo Zagreba u disciplini combat i precombat 2022",
+   "year": "2022",
+   "level": "regional",
+   "format": "open",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Zagreb"
+  }
+ },
+ {
+  "slug": "hr-kup-assaut-2022-novi-marof",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20221009125154id_/https://hrvatski-savate-savez.hr/wp-content/2022/Izvje%C5%A1taji%20natjecanja/Izvje%C5%A1taj%20Kup%20Hrvatske%2008.10.2022..pdf",
+  "meta": {
+   "name": "Kup Hrvatske u disciplini assaut, Novi Marof 2022",
+   "year": "2022",
+   "level": "national",
+   "format": "cup",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Novi Marof"
+  }
+ },
+ {
+  "slug": "cesav-ec-assaut-2023-rugvica",
+  "adapter": "savate_medal_list",
+  "source": "http://www.savate-srbija.com/prvenstva22/epmed.pdf",
+  "meta": {
+   "name": "Championnat d'Europe assaut 2023, Rugvica",
+   "year": "2023",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Senior",
+   "country": "Croatia",
+   "city": "Rugvica"
+  }
+ },
+ {
+  "slug": "fisav-wc-assaut-2024-slovenia",
+  "adapter": "savate_medal_list",
+  "source": "http://www.savate-srbija.com/prvenstva22/assaut2024.pdf",
+  "meta": {
+   "name": "Assauts — World Championship 2024, Slovenia",
+   "year": "2024",
+   "level": "world",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Senior",
+   "country": "Slovenia",
+   "city": ""
+  }
+ },
+ {
+  "slug": "cesav-ec-assaut-2019-genes",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20210511171640id_/https://savate-europe.com/images/cesav_images/articels/2019-10/Poules_assaut_Gnes.pdf",
+  "meta": {
+   "name": "Championnat d'Europe assaut 2019, Gênes",
+   "year": "2019",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "Italy",
+   "city": "Gênes"
+  }
+ },
+ {
+  "slug": "fisav-world-cup-jeune-2021",
+  "adapter": "savate_medal_list",
+  "source": "http://www.savate-srbija.com/prvenstva20/kupmedal.pdf",
+  "meta": {
+   "name": "Coupe du Monde Jeune 13 et 14 ans 2021",
+   "year": "2021",
+   "level": "world",
+   "format": "cup",
+   "discipline": "assaut",
+   "age_class": "Young",
+   "country": "",
+   "city": "",
+   "corroborated_by": "https://fisavate.org/index.php/en/informations/championnats-results/send/58-world-cadet-cup-2021-pool-results/734-world-cadet-cup-2021-medals"
+  }
+ },
+ {
+  "slug": "wcg-savate-2013-saint-petersburg",
+  "adapter": "savate_medal_list",
+  "source": "https://web.archive.org/web/20131031id_/http://worldcombatgames2013.sportresult.com/Hide/ru/-240/Pdf/GetResultbookPdf?filename=Resultbook%2FSavate.pdf",
+  "meta": {
+   "name": "Savate at the SportAccord World Combat Games 2013, Saint Petersburg",
+   "year": "2013",
+   "level": "world",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "",
+   "country": "Russia",
+   "city": "Saint Petersburg"
+  }
+ },
+ {
+  "slug": "hrsavez-ph-assaut-2023-cakovec",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20230921132121id_/https://hrvatski-savate-savez.hr/wp-content/2023/Izvje%C5%A1taji%20s%20natjecanja/Izvje%C5%A1taj%20PH%20juniori%20i%20seniori.pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske assaut juniori/seniori, Čakovec 22.04.2023",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "Croatia",
+   "city": "Čakovec",
+   "start_date": "2023-04-22"
+  }
+ },
+ {
+  "slug": "hrsavez-ph-combat-precombat-2023-sesvetski-kraljevac",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20230327062247id_/https://hrvatski-savate-savez.hr/wp-content/2023/Izvje%C5%A1taji%20s%20natjecanja/PH%20Combat%2C%20Precombat%2025.3.2023..pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske combat i precombat, Sesvetski Kraljevac 25.03.2023",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "Croatia",
+   "city": "Sesvetski Kraljevac",
+   "start_date": "2023-03-25"
+  }
+ },
+ {
+  "slug": "hrsavez-ph-combat-2024-split",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20240513064419id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2024/04/PH-combat-i-precombat-2024.-Split.pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske combat, Split 07.04.2024",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2024",
+   "country": "Croatia",
+   "city": "Split",
+   "start_date": "2024-04-07"
+  }
+ },
+ {
+  "slug": "hrsavez-ph-assaut-2022-sveti-ivan-zelina",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20220517235305id_/https://hrvatski-savate-savez.hr/wp-content/2022/Izvje%C5%A1taji%20natjecanja/PH%20assaut%20Sv.%20I.%20Zelina%2024.4.2022..pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske assaut, Sveti Ivan Zelina 24.04.2022",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2022",
+   "country": "Croatia",
+   "city": "Sveti Ivan Zelina",
+   "start_date": "2022-04-24"
+  }
+ },
+ {
+  "slug": "hrsavez-ph-combat-precombat-2021-varazdin",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20211027075914id_/https://hrvatski-savate-savez.hr/wp-content/2021/Izvje%C5%A1taji%20natjecanja/PH%20Combat%20i%20Precombat%2C%2019.6.2021.%20Vara%C5%BEdin.pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske combat i precombat, Varaždin 19.06.2021",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2021",
+   "country": "Croatia",
+   "city": "Varaždin",
+   "start_date": "2021-06-19"
+  }
+ },
+ {
+  "slug": "hrsavez-kup-assaut-2021-garesnica",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20211027055626id_/https://hrvatski-savate-savez.hr/wp-content/2021/Izvje%C5%A1taji%20natjecanja/Kup%20Hrvatske%2C%20Gare%C5%A1nica%2025.9.2021..pdf",
+  "meta": {
+   "name": "Kup Hrvatske assaut, Garešnica 25.09.2021",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "cup",
+   "age_class": "",
+   "year": "2021",
+   "country": "Croatia",
+   "city": "Garešnica",
+   "start_date": "2021-09-25"
+  }
+ },
+ {
+  "slug": "hrsavez-kup-assaut-2021-novi-marof",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20211204160107id_/https://hrvatski-savate-savez.hr/wp-content/2021/Izvje%C5%A1taji%20natjecanja/Kup%20Hrvatske%20juniori%2C%20seniori%202021..pdf",
+  "meta": {
+   "name": "Kup Hrvatske assaut juniori/seniori, Novi Marof 16.10.2021",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "cup",
+   "age_class": "",
+   "year": "2021",
+   "country": "Croatia",
+   "city": "Novi Marof",
+   "start_date": "2021-10-16"
+  }
+ },
+ {
+  "slug": "hrsavez-ph-assaut-2021",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20210518034215id_/https://hrvatski-savate-savez.hr/wp-content/2021/Izvje%C5%A1taji%20natjecanja/PRVENSTVO%20HRVATSKE%20U%20DISCIPLINI%20ASSAUT_v4.pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske u disciplini assaut 2021",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2021",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "hrsavez-kup-assaut-2022-donja-stubica",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20221023204021id_/https://hrvatski-savate-savez.hr/wp-content/2022/Izvje%C5%A1taji%20natjecanja/Izvje%C5%A1taj%20Kup%20Hrvatske%20za%20juniore%20i%20seniore%202021..pdf",
+  "meta": {
+   "name": "Kup Hrvatske assaut juniori/seniori, Donja Stubica 23.10.2022",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "cup",
+   "age_class": "",
+   "year": "2022",
+   "country": "Croatia",
+   "city": "Donja Stubica",
+   "start_date": "2022-10-23"
+  }
+ },
+ {
+  "slug": "hrsavez-open-zagreb-combat-precombat-2021",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20210922082106id_/https://hrvatski-savate-savez.hr/wp-content/2021/Izvje%C5%A1taji%20natjecanja/OPZ-%2011.9.2021..pdf",
+  "meta": {
+   "name": "Otvoreno prvenstvo Zagreba combat i precombat, 11.09.2021",
+   "discipline": "combat",
+   "level": "regional",
+   "format": "open",
+   "age_class": "",
+   "year": "2021",
+   "country": "Croatia",
+   "city": "Zagreb",
+   "start_date": "2021-09-11"
+  }
+ },
+ {
+  "slug": "hrsavez-ph-assaut-cadets-2019",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20190922124632id_/http://hrvatski-savate-savez.hr/wp-content/izvjestaji/2019/Izvje%C5%A1taj%20PH%20Assaut%20kadeti%20i%20kadetkinje%20Gare%C5%A1nica%2028.04.2019..pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske assaut kadeti i kadetkinje 2019",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2019",
+   "country": "Croatia",
+   "start_date": "2019-04-28"
+  }
+ },
+ {
+  "slug": "hrsavez-ph-assaut-juniors-seniors-2019",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20201126060305id_/https://hrvatski-savate-savez.hr/wp-content/izvjestaji/2019/Prvenstvo%20Hrvatske%20u%20Assaut%20Donja%20Stubica%2004.05-converted.pdf",
+  "meta": {
+   "name": "Prvenstvo Hrvatske Assaut juniori i seniori 2019",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2019",
+   "country": "Croatia",
+   "start_date": "2019-05-04"
+  }
+ },
+ {
+  "slug": "hrsavez-kup-assaut-2019-slavonski-brod",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20201126005508id_/https://hrvatski-savate-savez.hr/wp-content/izvjestaji/2019/Izvje%C5%A1taj%20Kup%20Hrvatske%2C%20Slavonski%20Brod%2020.10.2019..pdf",
+  "meta": {
+   "name": "Kup Hrvatske assaut, Slavonski Brod 20.10.2019",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "cup",
+   "age_class": "",
+   "year": "2019",
+   "country": "Croatia",
+   "city": "Slavonski Brod",
+   "start_date": "2019-10-20"
+  }
+ },
+ {
+  "slug": "hrsavez-turnir-assaut-2019-vukovar",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20201126073745id_/https://hrvatski-savate-savez.hr/wp-content/izvjestaji/2019/Izvje%C5%A1taj%20Vukovar%2010.11.2019..pdf",
+  "meta": {
+   "name": "Savate assaut tournament Vukovar 10.11.2019",
+   "discipline": "assaut",
+   "level": "regional",
+   "format": "open",
+   "age_class": "",
+   "year": "2019",
+   "country": "Croatia",
+   "city": "Vukovar",
+   "start_date": "2019-11-10"
+  }
+ },
+ {
+  "slug": "hrsavez-turnir-assaut-2019-sveti-ivan-zelina",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20201126073807id_/https://hrvatski-savate-savez.hr/wp-content/izvjestaji/2019/Izvje%C5%A1taj%20zelina.pdf",
+  "meta": {
+   "name": "Savate assaut tournament Sv. Ivan Zelina 06.10.2019",
+   "discipline": "assaut",
+   "level": "regional",
+   "format": "open",
+   "age_class": "",
+   "year": "2019",
+   "country": "Croatia",
+   "city": "Sv. Ivan Zelina",
+   "start_date": "2019-10-06"
+  }
+ },
+ {
+  "slug": "fisav-world-assaut-2008-men-classement",
+  "adapter": "savate_tabular_pdf",
+  "source": "http://www.savate-srbija.com/tehpravila/RESULTATS%20HOMMES%20ASSAUT%202008.pdf",
+  "archived": true,
+  "meta": {
+   "name": "2008 World Savate Assaut Championship — men's full placings",
+   "discipline": "assaut",
+   "level": "world",
+   "format": "championship",
+   "age_class": "",
+   "year": "2008",
+   "country": ""
+  }
+ },
+ {
+  "slug": "fisav-world-assaut-2008-women-classement",
+  "adapter": "savate_tabular_pdf",
+  "source": "http://www.savate-srbija.com/tehpravila/RESULTS%20WOMEN%20ASSAUT%202008.pdf",
+  "archived": true,
+  "meta": {
+   "name": "2008 World Savate Assaut Championship — women's full placings",
+   "discipline": "assaut",
+   "level": "world",
+   "format": "championship",
+   "age_class": "",
+   "year": "2008",
+   "country": ""
+  }
+ },
+ {
+  "slug": "sportu-cfu-savate-2016-toulouse",
+  "adapter": "savate_tabular_pdf",
+  "source": "https://web.archive.org/web/20160805002326id_/http://www.sport-u.com/uploads/2016/Cindy/savate/16-SAVATE_resultats_CFU_Toulouse.pdf",
+  "meta": {
+   "name": "Championnat de France Universitaire Savate 2016, Toulouse",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2016",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Elite-B-Masc.pdf",
+  "meta": {
+   "name": "Championnat de France Combat Elite B Masculin 2022-2023",
+   "year": "2023",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-espoirs-masculin-2023",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Espoirs-Masc.pdf",
+  "meta": {
+   "name": "Championnat de France Combat Espoirs Masculin 2022-2023",
+   "year": "2023",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "Espoir",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Elite-B-Fem.pdf",
+  "meta": {
+   "name": "Championnat de France Combat Elite B Féminin 2022-2023",
+   "year": "2023",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Combat-2eme-serie-Fem.pdf",
+  "meta": {
+   "name": "Championnat de France Combat 2e Série Féminin 2022-2023",
+   "year": "2023",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-coupe-de-france-assaut-feminin-2023-paris",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/Resultats-Coupe-de-France-Assaut-2023.pdf",
+  "meta": {
+   "name": "Coupe de France Assaut Féminin 2023, Paris",
+   "year": "2023",
+   "level": "national",
+   "format": "cup",
+   "discipline": "assaut",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-veterans-masculin-2023-paris",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/Resultats-Veterans-M-2023.pdf",
+  "meta": {
+   "name": "Championnat de France Vétérans Masculin 2023, Paris",
+   "year": "2023",
+   "level": "national",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Veteran",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-premium-2024-verdun",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2024/03/Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-PREMIUM-mars-2024.pdf",
+  "meta": {
+   "name": "Championnat de France Premium 2024, Verdun",
+   "year": "2024",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-juniors-2024-verdun",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2024/03/Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-JUNIORS-FINALES-mars-2024.pdf",
+  "meta": {
+   "name": "Championnat de France Juniors 2024 (finales), Verdun",
+   "year": "2024",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "Junior",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-2e-serie-masculin-2024-verdun",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2024/03/Resultats-Verdun-CHAMPIONNAT-DE-FRANCE-2e-serie-M.pdf",
+  "meta": {
+   "name": "Championnat de France 2e Série Masculin 2024, Verdun",
+   "year": "2024",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-championnat-de-france-elite-a-2024-st-christol",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2024/03/RESULTATS-CHAMPIONNAT-DE-FRANCE-ELITE-A-St-Christol.pdf",
+  "meta": {
+   "name": "Championnat de France Elite A 2024, Saint-Christol-lez-Alès",
+   "year": "2024",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-finales-nationales-2024-barbezieux",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2024/04/Resultats-finales-Barbezieux.pdf",
+  "meta": {
+   "name": "Finales nationales 2024, Barbezieux",
+   "year": "2024",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2007-men",
+  "adapter": "savate_podium_words",
+  "source": "https://web.archive.org/web/20090417/http://fisavate.org/component/option,com_docman/task,doc_download/gid,21/Itemid,34/lang,fr/",
+  "meta": {
+   "name": "Championnat du Monde Combat Hommes 2007",
+   "year": "2007",
+   "level": "world",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": ""
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2007-women",
+  "adapter": "savate_podium_words",
+  "source": "https://web.archive.org/web/20090417/http://fisavate.org/index2.php?option=com_docman&task=doc_view&gid=18&Itemid=34",
+  "meta": {
+   "name": "Championnat du Monde Combat 2007 - Femmes",
+   "year": "2007",
+   "level": "world",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": ""
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2007-junior-men",
+  "adapter": "savate_podium_words",
+  "source": "https://web.archive.org/web/20090422/http://fisavate.org/index2.php?option=com_docman&task=doc_view&gid=17&Itemid=34",
+  "meta": {
+   "name": "Championnat du Monde Combat 2007 - Masculins Juniors",
+   "year": "2007",
+   "level": "world",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "Junior",
+   "country": ""
+  }
+ },
+ {
+  "slug": "ffsavate-european-youth-assaut-2026-podcetrtek",
+  "adapter": "savate_podium_words",
+  "source": "https://www.ffsavate.com/content/uploads/2026/05/Resultats-Championnat-dEurope-Jeunes-2026.pdf",
+  "meta": {
+   "name": "Championnat d'Europe Jeunes Assaut 2026 - Podcetrtek",
+   "year": "2026",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Youth",
+   "country": "Slovenia"
+  }
+ },
+ {
+  "slug": "ffsavate-france-jeunes-2024",
+  "adapter": "savate_podium_words",
+  "source": "https://www.ffsavate.com/content/uploads/2024/05/France-jeunes-2024-Resultats-2.pdf",
+  "meta": {
+   "name": "Championnat de France Jeunes 2024 - Guadeloupe",
+   "year": "2024",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-france-jeunes-2023",
+  "adapter": "savate_podium_words",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/France-Jeunes-2023-resultats-4.pdf",
+  "meta": {
+   "name": "Championnat de France Jeunes 2023",
+   "year": "2023",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-france-jeunes-2011",
+  "adapter": "savate_podium_words",
+  "source": "https://web.archive.org/web/20110710235959id_/http://www.ffsavate.com/uploads/175/Savate_Champ%20France%20CNJ%202011%20v11%20juin_resultats.pdf",
+  "meta": {
+   "name": "Championnat de France Jeunes 2011",
+   "year": "2011",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2023-amiens-final-60kg",
+  "adapter": "savate_podium_words",
+  "source": "https://fisav.sport/download.php?id=19",
+  "meta": {
+   "name": "World Combat Championships 2023 Amiens - Final 56-60 kg",
+   "year": "2023",
+   "level": "world",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ligue-paca-3e-tour-finales-2014",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://web.archive.org/web/20150215214738id_/http://liguepacaboxefrancaise.com/wa_files/Resultats_203eme_20tour_20PACA_20Combats_209_20NOV_202014.pdf",
+  "meta": {
+   "name": "3e tour et finales Espoirs / 2e Série / Elite B, Ligue PACA, 9 nov 2014",
+   "year": "2014",
+   "level": "regional",
+   "format": "",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "cesav-european-combat-championships-2024-varazze",
+  "adapter": "savate_poule_grid",
+  "source": "https://www.savate-europe.com/images/cesav_images/articels/2024-12/Europe%20Varazze.pdf",
+  "meta": {
+   "name": "Championnat d'Europe de Savate Combat 2024 - Varazze",
+   "year": "2024",
+   "level": "european",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "Italy"
+  }
+ },
+ {
+  "slug": "cesav-youth-european-championships-2026-therme-olimia",
+  "adapter": "savate_poule_grid",
+  "source": "https://www.savate-europe.com/images/cesav_images/articels/2026-06/Slovenia2026_Results.pdf",
+  "meta": {
+   "name": "YOUTH European Championship 2026",
+   "year": "2026",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Youth",
+   "country": "Slovenia"
+  }
+ },
+ {
+  "slug": "fisu-world-university-championship-savate-2010-nantes",
+  "adapter": "savate_ranked_list",
+  "source": "https://www.fisu.net/app/uploads/2023/10/2010_WUC_Savate_results.pdf",
+  "meta": {
+   "name": "1er Championnat du Monde Universitaire de Savate Boxe Française 2010",
+   "year": "2010",
+   "level": "world",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "",
+   "country": "",
+   "city": "Nantes",
+   "start_date": "2010-06-25",
+   "end_date": "2010-06-26"
+  }
+ },
+ {
+  "slug": "ffsu-championnat-de-france-universitaire-savate-bf-2024-meze",
+  "adapter": "savate_ranked_list",
+  "source": "https://sport-u.com/wp-content/uploads/sites/15/2024/03/2024-03-15_Resultats-CFU-Savate-BF-2024_A.pdf",
+  "meta": {
+   "name": "Championnat de France Universitaire de Savate Boxe Française 2024",
+   "year": "2024",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "",
+   "country": "France",
+   "city": "Mèze",
+   "start_date": "2024-03-13",
+   "end_date": "2024-03-14"
+  }
+ },
+ {
+  "slug": "ffsu-championnat-de-france-combat-2022",
+  "adapter": "savate_ranked_list",
+  "source": "https://sport-u.com/wp-content/uploads/sites/15/2023/12/RESULTATS-SAVATE-COMBATS.pdf",
+  "meta": {
+   "name": "Championnat de France Combat 2021-2022",
+   "year": "2022",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "France",
+   "start_date": "2022-03-19"
+  }
+ },
+ {
+  "slug": "ffsavate-open-de-france-assaut-2024",
+  "adapter": "savate_misc",
+  "source": "https://www.ffsavate.com/content/uploads/2024/05/Resultats-Open-de-France-assaut-2024.pdf",
+  "meta": {
+   "name": "Open de France Assaut 2024",
+   "year": "2024",
+   "level": "national",
+   "format": "open",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "savate-srbija-combat-championship-senta-2026",
+  "adapter": "savate_misc",
+  "source": "http://www.savate-srbija.com/prvenstva26/izvestaj_sa_takmicenja_senta.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije u combat savateu, Senta 2026",
+   "year": "2026",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "savate-srbija-championship-kikinda-2026",
+  "adapter": "savate_misc",
+  "source": "http://www.savate-srbija.com/prvenstva26/izvestaj_sa_takimcenja_kikinda.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije, Kikinda 2026",
+   "year": "2026",
+   "level": "national",
+   "format": "championship",
+   "discipline": "",
+   "age_class": "",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "hrvatska-combat-championship-finals-zelina-2016",
+  "adapter": "savate_misc",
+  "source": "https://web.archive.org/web/20240622135451id_/https://hrvatski-savate-savez.hr/wp-content/uploads/2016/05/zelina-finale-1.pdf",
+  "meta": {
+   "name": "Finale prvenstva Hrvatske u combat savateu, Zelina 2016",
+   "year": "2016",
+   "level": "national",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": "Croatia"
+  }
+ },
+ {
+  "slug": "memorijal-jean-michel-nicolier-vukovar-2015",
+  "adapter": "savate_misc",
+  "source": "https://web.archive.org/web/20160430031138id_/http://hrvatski-savate-savez.hr/wp-content/uploads/2015/11/VUKOVAR-rz.pdf",
+  "meta": {
+   "name": "1. memorijalni savate turnir \"Jean Michel Nicolier\", Vukovar 2015",
+   "year": "2015",
+   "level": "",
+   "format": "open",
+   "discipline": "",
+   "age_class": "",
+   "country": "Croatia",
+   "city": "Vukovar"
+  }
+ },
+ {
+  "slug": "cesav-european-youth-championship-assaut-2024",
+  "adapter": "cesav_ranking",
+  "source": "https://www.savate-europe.com/index.php/ranking",
+  "event": "European Youth Championship Assaut 2024",
+  "meta": {
+   "name": "European Youth Championship Assaut 2024",
+   "year": "2024",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Young",
+   "country": ""
+  }
+ },
+ {
+  "slug": "cesav-european-championship-assaut-2023",
+  "adapter": "cesav_ranking",
+  "source": "https://www.savate-europe.com/index.php/ranking",
+  "event": "European Championship Assaut 2023",
+  "meta": {
+   "name": "European Championship Assaut 2023",
+   "year": "2023",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": ""
+  }
+ },
+ {
+  "slug": "cesav-european-combat-championships-2022",
+  "adapter": "cesav_ranking",
+  "source": "https://www.savate-europe.com/index.php/ranking",
+  "event": "European combat championships 2022",
+  "meta": {
+   "name": "European combat championships 2022",
+   "year": "2022",
+   "level": "european",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": ""
+  }
+ },
+ {
+  "slug": "cesav-youth-european-championship-assaut-2022",
+  "adapter": "cesav_ranking",
+  "source": "https://www.savate-europe.com/index.php/ranking",
+  "event": "Youth European Championship Assaut 2022",
+  "meta": {
+   "name": "Youth European Championship Assaut 2022",
+   "year": "2022",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Young",
+   "country": ""
+  }
+ },
+ {
+  "slug": "cesav-european-championship-assaut-2021",
+  "adapter": "cesav_ranking",
+  "source": "https://www.savate-europe.com/index.php/ranking",
+  "event": "European Championship Assaut 2021",
+  "meta": {
+   "name": "European Championship Assaut 2021",
+   "year": "2021",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": ""
+  }
+ },
+ {
+  "slug": "cesav-european-championship-assaut-2019",
+  "adapter": "cesav_ranking",
+  "source": "https://www.savate-europe.com/index.php/ranking",
+  "event": "European Championship Assaut 2019",
+  "meta": {
+   "name": "European Championship Assaut 2019",
+   "year": "2019",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": ""
+  }
+ },
+ {
+  "slug": "cesav-european-youth-championship-2018",
+  "adapter": "cesav_ranking",
+  "source": "https://www.savate-europe.com/index.php/ranking",
+  "event": "European Youth Championship 2018",
+  "meta": {
+   "name": "European Youth Championship 2018",
+   "year": "2018",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "Young",
+   "country": ""
+  }
+ },
+ {
+  "slug": "cesav-european-assaut-championships-2017",
+  "adapter": "cesav_ranking",
+  "source": "https://www.savate-europe.com/index.php/ranking",
+  "event": "European assaut championships 2017",
+  "meta": {
+   "name": "European assaut championships 2017",
+   "year": "2017",
+   "level": "european",
+   "format": "championship",
+   "discipline": "assaut",
+   "age_class": "",
+   "country": ""
+  }
+ },
+ {
+  "slug": "cesav-european-combat-championships-2016",
+  "adapter": "cesav_ranking",
+  "source": "https://www.savate-europe.com/index.php/ranking",
+  "event": "European combat championships 2016",
+  "meta": {
+   "name": "European combat championships 2016",
+   "year": "2016",
+   "level": "european",
+   "format": "championship",
+   "discipline": "combat",
+   "age_class": "",
+   "country": ""
+  }
+ },
+ {
+  "slug": "fisav-european-combat-2010-juniors",
+  "adapter": "savate_weight_list",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/8-2010/85-european-combat-championships-2010-juniors",
+  "meta": {
+   "name": "Championnats d'Europe Combat 2010 - Juniors, Clermont-Ferrand",
+   "discipline": "combat",
+   "level": "european",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2010",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "fisav-world-assaut-2018-plovdiv-medallists",
+  "adapter": "savate_medal_list",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/45-2018/415-world-assaut-championships-2018-medallists",
+  "meta": {
+   "name": "Championnat du Monde Assaut 2018 - Plovdiv",
+   "discipline": "assaut",
+   "level": "world",
+   "format": "championship",
+   "age_class": "",
+   "year": "2018",
+   "country": "Bulgaria"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2021-weiz-f60",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/751-world-combat-senior-women-f60",
+  "meta": {
+   "name": "Championnat du Monde Combat 2021 - Weiz, F60 pool",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2021",
+   "country": "Austria"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2021-weiz-j75",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/752-world-combat-junior-j75",
+  "meta": {
+   "name": "Championnat du Monde Combat 2021 - Weiz, J75 pool",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2021",
+   "country": "Austria"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2021-weiz-m60",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/754-world-combat-senior-men-m60",
+  "meta": {
+   "name": "Championnat du Monde Combat 2021 - Weiz, M60 pool",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2021",
+   "country": "Austria"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2021-weiz-m70",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/756-world-combat-senior-men-m70",
+  "meta": {
+   "name": "Championnat du Monde Combat 2021 - Weiz, M70 pool",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2021",
+   "country": "Austria"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2021-weiz-m75",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/757-world-combat-senior-men-m75",
+  "meta": {
+   "name": "Championnat du Monde Combat 2021 - Weiz, M75 pool",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2021",
+   "country": "Austria"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2021-weiz-m80",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/758-world-combat-senior-men-m80",
+  "meta": {
+   "name": "Championnat du Monde Combat 2021 - Weiz, M80 pool",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2021",
+   "country": "Austria"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2021-weiz-m-plus-85",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/760-world-combat-senior-men-m-85",
+  "meta": {
+   "name": "Championnat du Monde Combat 2021 - Weiz, M+85 pool",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2021",
+   "country": "Austria"
+  }
+ },
+ {
+  "slug": "fisav-european-assaut-2025-weiz-medals",
+  "adapter": "savate_medal_list",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/955-european-assaut-championships-2025-medals",
+  "meta": {
+   "name": "European Championship Assaut 2025 - Weiz",
+   "discipline": "assaut",
+   "level": "european",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "Austria"
+  }
+ },
+ {
+  "slug": "srbija-assaut-mladji-juniori-2021-ruma",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva20/asorumas.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za mlađe juniore u assaut savateu - Ruma",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2021",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "srbija-combat-2021-ruma",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva20/combatruma.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije u combat savateu - Ruma",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2021",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "srbija-assaut-seniori-2022-obrenovac",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva21/obrenovac.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za seniore u assaut savateu - Obrenovac",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2022",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "srbija-assaut-2021-obrenovac",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva20/obrenovac.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za kadete, juniore i seniore u assaut savateu - Obrenovac",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2021",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "srbija-assaut-kadeti-juniori-2023-kikinda",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva22/kikinda.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za kadete i juniore u assaut savateu - Kikinda",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "srbija-assaut-seniori-2023-ruma",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva22/rezruma.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za seniore i seniorke u assaut savateu - Ruma",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2023",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "srbija-combat-2023-senta",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva22/rezsenta.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za mlađe juniore, juniore i seniore u combat savateu - Senta",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "srbija-assaut-pioniri-kadeti-2023-grocka",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva22/grocka.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za pionire i kadete u assaut savateu - Grocka",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "srbija-assaut-2025",
+  "adapter": "savate_misc",
+  "source": "http://www.savate-srbija.com/prvenstva25/izvestaj_aso_2025.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije u assaut savateu 2025",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "srbija-combat-2025-senta",
+  "adapter": "savate_misc",
+  "source": "http://www.savate-srbija.com/prvenstva25/izvestaj_kombat_2025.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije u combat savateu - Senta",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "ffsbf-premium-demi-finales-11-mars-2023",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/RESULTATS-11-MARS-2023-PREMIUM.pdf",
+  "meta": {
+   "name": "Championnat de France Premium - 1/2 finales, 11 mars 2023",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-elite-a-demi-finales-calais-2023",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/Resulats-Demi-Finales-Elite-A-Samedi-18-mars-2023-CALAIS.pdf",
+  "meta": {
+   "name": "Championnat de France Elite A - demi-finales, Calais",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-premium-demi-finales-calais-2023",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/Resulats-Demi-Finales-PREMIUM-Samedi-18-mars-2023-CALAIS.pdf",
+  "meta": {
+   "name": "Championnat de France Premium - demi-finales, Calais",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-2e-serie-juniors-toreilles-2023",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/CR_Toreilles_.pdf",
+  "meta": {
+   "name": "Tournoi Championnat de France 2e Séries Masculins et Juniors 2023 - Toreilles",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-open-de-france-assaut-2023",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2023/05/Compte-Rendu-Open-de-France-Assaut-2023-.pdf",
+  "meta": {
+   "name": "Open de France Assaut 2023 - individuels et par équipe",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "open",
+   "age_class": "",
+   "year": "2023",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-elite-a-livret-2024",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-ELITE-A-RESULTAT.pdf",
+  "meta": {
+   "name": "Championnat de France Elite A 2024 - huitièmes et quarts, Albertville",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2024",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-elite-a-armentieres-2024",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-ELITE-A-RESULTAT-Armentieres.pdf",
+  "meta": {
+   "name": "Championnat de France Elite A - Armentières, 16 mars 2024",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2024",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-premium-livret-2024",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-PREMIUM-RESULTAT.pdf",
+  "meta": {
+   "name": "Championnat de France Premium 2024 - livret des résultats",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2024",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-elite-a-finales-vandoeuvre-2024",
+  "adapter": "ffsavate_bouts",
+  "source": "https://www.ffsavate.com/content/uploads/2024/03/Resultats-ELITE-A-Vandoeuvre-mars-2024.pdf",
+  "meta": {
+   "name": "Championnat de France Elite A - finales, Vandoeuvre",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2024",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-assaut-finales-calais-2024",
+  "adapter": "savate_misc",
+  "source": "https://www.ffsavate.com/content/uploads/2024/04/Resultats-championnats-de-France-Assaut-Calais-2024.pdf",
+  "meta": {
+   "name": "Championnat de France Assaut - finales, Calais",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2024",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-savate-pro-la-motte-servolex-2024",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/11/Resultat-gala-La-Motte-Servolex-2024.pdf",
+  "meta": {
+   "name": "Savate Pro - La Motte Servolex, 30/11/2024",
+   "discipline": "combat",
+   "level": "national",
+   "format": "pro",
+   "age_class": "",
+   "year": "2024",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-cadets-albertville-2025",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultat-du-championnat-cadet-2025.pdf",
+  "meta": {
+   "name": "Championnat de France Cadets - Albertville, 18/05/2025",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "Cadet",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-open-national-le-puy-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultat-OPEN-DE-FRANCE-INDIVIDUEL-EQUIPE-2025.pdf",
+  "meta": {
+   "name": "Open National Individuel & par Équipe - Le Puy en Velay, 25/05/2025",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "open",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-elite-b-finales-rousies-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-FINALES-ELITE-B-2025.pdf",
+  "meta": {
+   "name": "Championnat de France Elite B - finales, Rousies, 01/02/2025",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-espoirs-m-finales-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-FINALES-ESPOIRS-M-2025.pdf",
+  "meta": {
+   "name": "Championnat de France Espoirs M - finales, La Côte Saint André, 25/01/2025",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "Espoir",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-open-automne-calais-2024",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-open-dautomne-2024.pdf",
+  "meta": {
+   "name": "Open d'Automne - Calais, 16-17/11/2024",
+   "discipline": "combat",
+   "level": "national",
+   "format": "open",
+   "age_class": "",
+   "year": "2024",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-tour-eliminatoire-biancotto-2025",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-tour-eliminatoire-Paris-2012-2025-_-Biancotto.pdf",
+  "meta": {
+   "name": "Tour éliminatoire 2e série - Paris (Biancotto), 20/12/2025",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-open-automne-merignac-2025",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-open-dautomne-2025-_-Merignac.pdf",
+  "meta": {
+   "name": "Open d'Automne - Mérignac, 15-16/11/2025",
+   "discipline": "combat",
+   "level": "national",
+   "format": "open",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-2e-serie-finales-rousies-2026",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2025/06/ROUSIES-resultats-finales-FR-2eS-24-01-2026.pdf",
+  "meta": {
+   "name": "Finales France 2ème série M/F - Rousies, 24/01/2026",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2026",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-juniors-finales-lanester-2026",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-finales-juniors-2026-.pdf",
+  "meta": {
+   "name": "Championnat de France Juniors - finales, Lanester, 04/04/2026",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2026",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-open-assaut-calais-2026",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-open-assaut-mai-2026.pdf",
+  "meta": {
+   "name": "Open de France Assaut - Calais, 11/05/2026",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "open",
+   "age_class": "",
+   "year": "2026",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsbf-veterans-merignac-2026",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-Championnat-Veteran-2026.pdf",
+  "meta": {
+   "name": "Championnat de France Vétérans - Mérignac, 31/05/2026",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "Vétéran",
+   "year": "2026",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "savate-srbija-assaut-all-ages-2020",
+  "adapter": "savate_weight_list",
+  "source": "http://www.savate-srbija.com/prvenstva20/rezrumaaso.pdf",
+  "meta": {
+   "name": "Prvenstvo Srbije za pionire, kadete, juniore i seniore u assaut savateu, Ruma 2020",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2020",
+   "country": "Serbia"
+  }
+ },
+ {
+  "slug": "ffsu-cfu-savate-bf-2023-individuel-masculin",
+  "adapter": "savate_ranked_list",
+  "source": "https://sport-u.com/wp-content/uploads/sites/15/2023/12/2023-03-24_Resultats-indiv-assaut-masculin_A1.pdf",
+  "meta": {
+   "name": "Comp. Universitaire Individuelle Masculins - Savate Boxe Francaise 2023",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsu-cfu-savate-bf-2023-individuel-feminin",
+  "adapter": "savate_ranked_list",
+  "source": "https://sport-u.com/wp-content/uploads/sites/15/2023/12/2023-03-24_-Resultats-indiv-assaut-feminin_A1.pdf",
+  "meta": {
+   "name": "Comp. Universitaire Individuelle Feminins - Savate Boxe Francaise 2023",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsu-cfu-savate-bf-2025-montlucon",
+  "adapter": "savate_ranked_list",
+  "source": "https://sport-u.com/wp-content/uploads/sites/15/2025/03/2025-03-13_Resultats-CFU-Savate-BF-2025_A.pdf",
+  "meta": {
+   "name": "Championnat de France universitaire de Savate Boxe Francaise 2025",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France",
+   "city": "Montlucon",
+   "start_date": "2025-03-12",
+   "end_date": "2025-03-13"
+  }
+ },
+ {
+  "slug": "ffsavate-world-assaut-2018-plovdiv-classement",
+  "adapter": "podium_pdf",
+  "source": "https://web.archive.org/web/20220306102453id_/https://f2.quomodo.com/BBAAE99C/uploads/1380/Resultats%20CMA%202018.pdf",
+  "meta": {
+   "name": "Resultats du Championnat du Monde Assaut 2018, Plovdiv - classement par categories",
+   "discipline": "assaut",
+   "level": "world",
+   "format": "championship",
+   "age_class": "",
+   "year": "2018",
+   "country": "Bulgaria"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2019-hammamet-junior-men-medallists",
+  "adapter": "savate_medal_list",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/664-world-combat-championship-junior-men-medalists-2019",
+  "meta": {
+   "name": "Championnat du Monde Combat 2019, Hammamet - Junior Men medallists",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2019",
+   "country": "Tunisia"
+  }
+ },
+ {
+  "slug": "fisav-world-youth-2019-budapest-female-results",
+  "adapter": "podium_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/50-2019/683-world-youth-championship-2019-female-results",
+  "meta": {
+   "name": "Championnat du Monde des Jeunes Savate Assaut 2019, Budapest - feminines",
+   "discipline": "assaut",
+   "level": "world",
+   "format": "championship",
+   "age_class": "",
+   "year": "2019",
+   "country": "Hungary"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-56",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/658-junior-men-56kg",
+  "meta": {
+   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J56",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2019",
+   "country": "Tunisia"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-60",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/659-junior-men-60kg",
+  "meta": {
+   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J60",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2019",
+   "country": "Tunisia"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-65",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/660-junior-men-65kg",
+  "meta": {
+   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J65",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2019",
+   "country": "Tunisia"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-70",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/661-junior-men-70kg",
+  "meta": {
+   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J70",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2019",
+   "country": "Tunisia"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-80",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/663-junior-men-80kg",
+  "meta": {
+   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J80",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2019",
+   "country": "Tunisia"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2021-weiz-pool-senior-women-52",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/749-world-combat-senior-women-f52",
+  "meta": {
+   "name": "Championnat du Monde Combat 2021, Weiz - pool results F52",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2021",
+   "country": "Austria"
+  }
+ },
+ {
+  "slug": "fisav-world-assaut-2022-milano-medallists",
+  "adapter": "savate_medal_list",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/70-2022/825-medallists-world-savate-assaut-championships-2022",
+  "meta": {
+   "name": "Championnat du Monde Assaut 2022, Milano - medallists",
+   "discipline": "assaut",
+   "level": "world",
+   "format": "championship",
+   "age_class": "",
+   "year": "2022",
+   "country": "Italy"
+  }
+ },
+ {
+  "slug": "fisav-world-combat-2025-qualifying-pool-results",
+  "adapter": "fisav_pdf",
+  "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/923-world-combat-2025-qualifying-tournament-pool-results",
+  "meta": {
+   "name": "World Combat Championships 2025 - qualifying tournament pool results",
+   "discipline": "combat",
+   "level": "world",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": ""
+  }
+ },
+ {
+  "slug": "paca-gant-de-bronze-14-marseille-2014",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://web.archive.org/web/20150215234345id_/http://liguepacaboxefrancaise.com/wa_files/RESULTATS_20_20GB14_20du_2011_20Octobre_202014.pdf",
+  "meta": {
+   "name": "Gant de Bronze 14 - Espoirs, 2eme serie et Elite B, Ligue PACA, Salle Vallier",
+   "discipline": "",
+   "level": "regional",
+   "format": "cup",
+   "age_class": "",
+   "year": "2014",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "paca-2eme-tour-susini-2014",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://web.archive.org/web/20150216022815id_/http://liguepacaboxefrancaise.com/wa_files/Resultats_20LIGUE_20PACA_20Combats_2025_20OCT_202014.pdf",
+  "meta": {
+   "name": "2eme Tour - Espoirs, 2eme serie et Elite B, Ligue PACA, Salle Susini",
+   "discipline": "combat",
+   "level": "regional",
+   "format": "championship",
+   "age_class": "",
+   "year": "2014",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "europe-jeunes-kranevo-2024",
+  "adapter": "savate_medal_list",
+  "source": "https://www.ffsavate.com/content/uploads/2024/06/Resultats.pdf",
+  "meta": {
+   "name": "Championnat d'Europe Jeunes, Kranevo",
+   "discipline": "",
+   "level": "european",
+   "format": "championship",
+   "age_class": "",
+   "year": "2024",
+   "country": "Bulgaria"
+  }
+ },
+ {
+  "slug": "ffsavate-elite-a-merignac-2025-03-01",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultat-ELITE-A-Merignac-2025.pdf",
+  "meta": {
+   "name": "Elite A, Merignac",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-premium-merignac-2025-03-01",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultas-PREMIUM-Merignac.pdf",
+  "meta": {
+   "name": "Premium, Merignac",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-elite-a-ruy-montceau-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultat-ELITE-A-Ruy-2025.pdf",
+  "meta": {
+   "name": "Elite A, Ruy-Montceau",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-premium-ruy-montceau-2025",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-PREMIUM-Ruy-2025.pdf",
+  "meta": {
+   "name": "Premium, Ruy-Montceau",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-elite-a-beaumont-les-valence-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-ELITE-A-Beaumont-26.pdf",
+  "meta": {
+   "name": "1/2 finales Elite A, Beaumont-les-Valence",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-premium-beaumont-les-valence-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-PREMIUM-Beaumont-26.pdf",
+  "meta": {
+   "name": "1/2 finales Premium, Beaumont-les-Valence",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-elite-b-la-cote-saint-andre-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-ELITE-B-a-La-Cote-St-Andre.pdf",
+  "meta": {
+   "name": "Finale Espoir et 1/2 finale Elite B, La Cote Saint-Andre",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-elite-a-donzere-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-Elite-A-Donzere.pdf",
+  "meta": {
+   "name": "1/2 finales Elite A, Donzere",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-premium-donzere-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-Premium-Donzere.pdf",
+  "meta": {
+   "name": "1/2 finales Premium, Donzere",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-premium-viuz-en-sallaz-2025",
+  "adapter": "ffsavate_finals",
+  "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-PREMIUM-Viuz-en-Sallaz.pdf",
+  "meta": {
+   "name": "Finale Premium et juniors, Viuz-en-Sallaz",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-demi-finales-espoirs-premium-calais-2026",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-Calais-.pdf",
+  "meta": {
+   "name": "1/2 finales Espoirs et 1/2 finales Premium, Calais",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2026",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-Dieppe-10.01.2026-1-1.pdf",
+  "meta": {
+   "name": "1/2 finales 2eme serie, Dieppe",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2026",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-elite-a-b-juniors-draveil-2026",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-Draveil-EA-EB-JUNIORS-fevrier-2026.pdf",
+  "meta": {
+   "name": "Elite A, Elite B, Juniors, Draveil",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2026",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "ffsavate-finales-assaut-melun-2026",
+  "adapter": "ffsavate_finals_wide",
+  "source": "https://www.ffsavate.com/content/uploads/2026/05/Resultats-finales-assaut-2026.pdf",
+  "meta": {
+   "name": "Finales du championnat de France assaut, Melun",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2026",
+   "country": "France"
+  }
+ },
+ {
+  "slug": "canada-2013",
+  "adapter": "misc_federations",
+  "source": "http://web.archive.org/web/20160804151151/http://www.savatecanada.com/les-champions--the-champions.html",
+  "event": "2013",
+  "meta": {
+   "name": "Canadian National Savate Assaut Champions 2013",
+   "year": "2013",
+   "level": "national",
+   "discipline": "assaut",
+   "home_country": "Canada"
+  }
+ },
+ {
+  "slug": "canada-2014",
+  "adapter": "misc_federations",
+  "source": "http://web.archive.org/web/20160804151151/http://www.savatecanada.com/les-champions--the-champions.html",
+  "event": "2014",
+  "meta": {
+   "name": "Canadian National Savate Assaut Champions 2014",
+   "year": "2014",
+   "level": "national",
+   "discipline": "assaut",
+   "home_country": "Canada"
+  }
+ },
+ {
+  "slug": "canada-2015",
+  "adapter": "misc_federations",
+  "source": "http://web.archive.org/web/20160804151151/http://www.savatecanada.com/les-champions--the-champions.html",
+  "event": "2015",
+  "meta": {
+   "name": "Canadian National Savate Assaut Champions 2015",
+   "year": "2015",
+   "level": "national",
+   "discipline": "assaut",
+   "home_country": "Canada"
+  }
+ },
+ {
+  "slug": "junior-combat-european-championship-2008",
+  "adapter": "fisav_sheets",
+  "source": "https://web.archive.org/web/20090612/http://fisavate.org/component/option,com_docman/task,doc_download/gid,118/Itemid,34/lang,english/",
+  "meta": {
+   "name": "Junior Combat European Championship 2008",
+   "year": "2008",
+   "level": "european",
+   "discipline": "combat",
+   "age_class": "Junior"
+  }
+ },
+ {
+  "slug": "11-savate-resultats-jeunes-filles-2011-2011",
+  "adapter": "universitaire",
+  "source": "raw_sources/11-Savate_Resultats_jeunes_filles_2011.xls-f71a75592e",
+  "meta": {
+   "name": "11 Savate Resultats jeunes filles 2011",
+   "year": "2011",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "11-savate-resultats-jeunes-gens-2011-2011",
+  "adapter": "universitaire",
+  "source": "raw_sources/11-Savate_Resultats_jeunes_gens_2011.xls-367bd94843",
+  "meta": {
+   "name": "11 Savate Resultats jeunes gens 2011",
+   "year": "2011",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "238-european-youth-championships-2016-2016",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/238-european-youth-championships-2016-abc32529c9",
+  "meta": {
+   "name": "238 european youth championships 2016",
+   "year": "2016"
+  }
+ },
+ {
+  "slug": "322-ring-1-pool-results-2017-2017",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/322-ring-1-pool-results-2017-3fb9722d55.pdf",
+  "meta": {
+   "name": "322 ring 1 pool results 2017",
+   "year": "2017"
+  }
+ },
+ {
+  "slug": "323-combat-ring-2-pool-results-2017-2017",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/323-combat-ring-2-pool-results-2017-fe1453bbc4.pdf",
+  "meta": {
+   "name": "323 combat ring 2 pool results 2017",
+   "year": "2017"
+  }
+ },
+ {
+  "slug": "324-combat-ring-3-pool-results-2017-2017",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/324-combat-ring-3-pool-results-2017-da2a56c705.pdf",
+  "meta": {
+   "name": "324 combat ring 3 pool results 2017",
+   "year": "2017"
+  }
+ },
+ {
+  "slug": "326-jeunes-pool-results-girls-2017-2017",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/326-jeunes-pool-results-girls-2017-c607e769f6.pdf",
+  "meta": {
+   "name": "326 jeunes pool results girls 2017",
+   "year": "2017"
+  }
+ },
+ {
+  "slug": "349-european-youth-championships-june-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/349-european-youth-championships-june-2018-49a2d1758f",
+  "meta": {
+   "name": "349 european youth championships june 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "412-f-52kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/412-f-52kg-pool-results-2018-f9913ef2b6",
+  "meta": {
+   "name": "412 f 52kg pool results 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "413-f-56kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/413-f-56kg-pool-results-2018-60fc83b669",
+  "meta": {
+   "name": "413 f 56kg pool results 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "414-f-60kg-pool-results-2018-2018",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/414-f-60kg-pool-results-2018-446e6dd293",
+  "meta": {
+   "name": "414 f 60kg pool results 2018",
+   "year": "2018",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "417-f-70kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/417-f-70kg-pool-results-2018-b3e4bbf978",
+  "meta": {
+   "name": "417 f 70kg pool results 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "428-m-75kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/428-m-75kg-pool-results-2018-f7bac9562b.pdf",
+  "meta": {
+   "name": "428 m 75kg pool results 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "429-m-70kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/429-m-70kg-pool-results-2018-966979424a",
+  "meta": {
+   "name": "429 m 70kg pool results 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "430-m-65kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/430-m-65kg-pool-results-2018-4afacadee8.pdf",
+  "meta": {
+   "name": "430 m 65kg pool results 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "432-m-85kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/432-m-85kg-pool-results-2018-a9ca56d378.pdf",
+  "meta": {
+   "name": "432 m 85kg pool results 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "433-m-80kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/433-m-80kg-pool-results-2018-1ceb592170.pdf",
+  "meta": {
+   "name": "433 m 80kg pool results 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "434-m-56kg-pool-results-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/434-m-56kg-pool-results-2018-edbff61dd8.pdf",
+  "meta": {
+   "name": "434 m 56kg pool results 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "435-m-85kg-pool-results-2018960-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/435-m-85kg-pool-results-2018960-70c2fa5b24.pdf",
+  "meta": {
+   "name": "435 m 85kg pool results 2018960",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "442-championship-of-africa-savate-combat-2018-2018",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/442-championship-of-africa-savate-combat-2018-90632c362f",
+  "meta": {
+   "name": "442 championship of africa savate combat 2018",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "59-wyc-results-2011-2011",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/59-wyc-results-2011-b8c434ea1d.pdf",
+  "meta": {
+   "name": "59 wyc results 2011",
+   "year": "2011"
+  }
+ },
+ {
+  "slug": "60-world-assaut-championship-2008-results-2008",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/60-world-assaut-championship-2008-results-15c74a6c38.pdf",
+  "meta": {
+   "name": "60 world assaut championship 2008 results",
+   "year": "2008"
+  }
+ },
+ {
+  "slug": "62-results-world-championship-combat-2009-2009",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/62-results-world-championship-combat-2009-aaaaf2a698",
+  "meta": {
+   "name": "62 results world championship combat 2009",
+   "year": "2009"
+  }
+ },
+ {
+  "slug": "666-senior-men-60kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/666-senior-men-60kg-89855ad939",
+  "meta": {
+   "name": "666 senior men 60kg",
+   "year": ""
+  }
+ },
+ {
+  "slug": "667-senior-men-65kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/667-senior-men-65kg-488ab46980",
+  "meta": {
+   "name": "667 senior men 65kg",
+   "year": ""
+  }
+ },
+ {
+  "slug": "668-senior-men-70kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/668-senior-men-70kg-374d9bb68c",
+  "meta": {
+   "name": "668 senior men 70kg",
+   "year": ""
+  }
+ },
+ {
+  "slug": "669-senior-men-75kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/669-senior-men-75kg-84ae0fed79",
+  "meta": {
+   "name": "669 senior men 75kg",
+   "year": ""
+  }
+ },
+ {
+  "slug": "674-senior-women-48kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/674-senior-women-48kg-16e63cfd41",
+  "meta": {
+   "name": "674 senior women 48kg",
+   "year": ""
+  }
+ },
+ {
+  "slug": "676-senior-women-56kg",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/676-senior-women-56kg-1d4a35fe1f.pdf",
+  "meta": {
+   "name": "676 senior women 56kg",
+   "year": ""
+  }
+ },
+ {
+  "slug": "694-results-budapest-open-2020-2020",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/694-results-budapest-open-2020-ac1d307696",
+  "meta": {
+   "name": "694 results budapest open 2020",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "71-championnat-d-europe-assaut-femmes-2007-2007",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/71-championnat-d-europe-assaut-femmes-2007-4a92eac3cd.pdf",
+  "meta": {
+   "name": "71 championnat d europe assaut femmes 2007",
+   "year": "2007"
+  }
+ },
+ {
+  "slug": "72-championnat-d-europe-assaut-hommes-2007-2007",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/72-championnat-d-europe-assaut-hommes-2007-ca86746927",
+  "meta": {
+   "name": "72 championnat d europe assaut hommes 2007",
+   "year": "2007"
+  }
+ },
+ {
+  "slug": "724-world-cadet-cup-2021-f60-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/724-world-cadet-cup-2021-f60-bd0eb30fe4.pdf",
+  "meta": {
+   "name": "724 world cadet cup 2021 f60",
+   "year": "2021"
+  }
+ },
+ {
+  "slug": "733-world-youth-championship-2021-medals-2021",
+  "adapter": "savate_medal_list",
+  "source": "raw_sources/733-world-youth-championship-2021-medals-a446c318e9.pdf",
+  "meta": {
+   "name": "733 world youth championship 2021 medals",
+   "year": "2021"
+  }
+ },
+ {
+  "slug": "739-world-cup-assaut-2021-senior-results-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/739-world-cup-assaut-2021-senior-results-2e1fe64bfd.pdf",
+  "meta": {
+   "name": "739 world cup assaut 2021 senior results",
+   "year": "2021"
+  }
+ },
+ {
+  "slug": "741-world-cup-assaut-2021-senior-f52-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/741-world-cup-assaut-2021-senior-f52-0f29999dc0.pdf",
+  "meta": {
+   "name": "741 world cup assaut 2021 senior f52",
+   "year": "2021"
+  }
+ },
+ {
+  "slug": "743-world-cup-assaut-2021-senior-m80-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/743-world-cup-assaut-2021-senior-m80-b99418208d",
+  "meta": {
+   "name": "743 world cup assaut 2021 senior m80",
+   "year": "2021"
+  }
+ },
+ {
+  "slug": "744-world-cup-assaut-2021-senior-m-85-2021",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/744-world-cup-assaut-2021-senior-m-85-86320d80c5",
+  "meta": {
+   "name": "744 world cup assaut 2021 senior m 85",
+   "year": "2021",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "745-world-cup-assaut-2021-senior-m85-2021",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/745-world-cup-assaut-2021-senior-m85-0eee719df4.pdf",
+  "meta": {
+   "name": "745 world cup assaut 2021 senior m85",
+   "year": "2021"
+  }
+ },
+ {
+  "slug": "750-world-combat-senior-women-f56",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/750-world-combat-senior-women-f56-8f13cd1786",
+  "meta": {
+   "name": "750 world combat senior women f56",
+   "year": ""
+  }
+ },
+ {
+  "slug": "751-world-combat-senior-women-f60",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "raw_sources/751-world-combat-senior-women-f60-090a3eb236.pdf",
+  "meta": {
+   "name": "751 world combat senior women f60",
+   "year": ""
+  }
+ },
+ {
+  "slug": "752-world-combat-junior-j75",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "raw_sources/752-world-combat-junior-j75-cb44af8db6.pdf",
+  "meta": {
+   "name": "752 world combat junior j75",
+   "year": ""
+  }
+ },
+ {
+  "slug": "753-world-combat-senior-men-m56",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/753-world-combat-senior-men-m56-56089dae2d",
+  "meta": {
+   "name": "753 world combat senior men m56",
+   "year": ""
+  }
+ },
+ {
+  "slug": "754-world-combat-senior-men-m60",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/754-world-combat-senior-men-m60-258edb9f80.pdf",
+  "meta": {
+   "name": "754 world combat senior men m60",
+   "year": ""
+  }
+ },
+ {
+  "slug": "755-world-combat-senior-men-m65",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/755-world-combat-senior-men-m65-a2ab0fe6d2",
+  "meta": {
+   "name": "755 world combat senior men m65",
+   "year": ""
+  }
+ },
+ {
+  "slug": "756-world-combat-senior-men-m70",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/756-world-combat-senior-men-m70-9c929d4e1f.pdf",
+  "meta": {
+   "name": "756 world combat senior men m70",
+   "year": ""
+  }
+ },
+ {
+  "slug": "757-world-combat-senior-men-m75",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "raw_sources/757-world-combat-senior-men-m75-f7c58c5dda.pdf",
+  "meta": {
+   "name": "757 world combat senior men m75",
+   "year": ""
+  }
+ },
+ {
+  "slug": "758-world-combat-senior-men-m80",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/758-world-combat-senior-men-m80-cd60501f8f.pdf",
+  "meta": {
+   "name": "758 world combat senior men m80",
+   "year": ""
+  }
+ },
+ {
+  "slug": "759-world-combat-senior-men-m85",
+  "adapter": "fisav_worksheet_pdf",
+  "source": "raw_sources/759-world-combat-senior-men-m85-731d94b6b2.pdf",
+  "meta": {
+   "name": "759 world combat senior men m85",
+   "year": ""
+  }
+ },
+ {
+  "slug": "760-world-combat-senior-men-m-85",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/760-world-combat-senior-men-m-85-9218f5c06e.pdf",
+  "meta": {
+   "name": "760 world combat senior men m 85",
+   "year": ""
+  }
+ },
+ {
+  "slug": "80-european-championships-assaut-2009-2009",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/80-european-championships-assaut-2009-5555ad2ac0.pdf",
+  "meta": {
+   "name": "80 european championships assaut 2009",
+   "year": "2009"
+  }
+ },
+ {
+  "slug": "807-results-of-european-youth-championships-2022-2022",
+  "adapter": "savate_medal_list",
+  "source": "raw_sources/807-results-of-european-youth-championships-2022-58f002e460",
+  "meta": {
+   "name": "807 results of european youth championships 2022",
+   "year": "2022"
+  }
+ },
+ {
+  "slug": "808-results-of-the-european-combat-championships-2022-2022",
+  "adapter": "savate_medal_list",
+  "source": "raw_sources/808-results-of-the-european-combat-championships-2022-816ee0f39d.pdf",
+  "meta": {
+   "name": "808 results of the european combat championships 2022",
+   "year": "2022"
+  }
+ },
+ {
+  "slug": "82-championnat-du-monde-assaut-2010-2010",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/82-championnat-du-monde-assaut-2010-d4d7b3905c",
+  "meta": {
+   "name": "82 championnat du monde assaut 2010",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "83-european-combat-championship-2010-women-2010",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/83-european-combat-championship-2010-women-335f4f05dc",
+  "meta": {
+   "name": "83 european combat championship 2010 women",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "av-mer-brest2006-resultats-pdf-2006",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/AV_mer_brest2006_Resultats.pdf-2b33c71675.pdf",
+  "meta": {
+   "name": "AV mer brest2006 Resultats.pdf",
+   "year": "2006"
+  }
+ },
+ {
+  "slug": "boxe-samedi-20-fevrier-2016-resultats-2016",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/258-boxe-samedi-20-fevrier-2016-resultats-db3de67b88",
+  "meta": {
+   "name": "BOXE SAMEDI 20 FEVRIER 2016 RESULTATS",
+   "year": "2016"
+  }
+ },
+ {
+  "slug": "british-savate-assaut-champions-2015-2015",
+  "adapter": "british_champions",
+  "source": "raw_sources/champions2015-5313aec76a",
+  "meta": {
+   "name": "British Savate Assaut Champions 2015",
+   "year": "2015",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "british-savate-assaut-champions-2016-2016",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-2a867c7fe9",
+  "meta": {
+   "name": "British Savate Assaut Champions 2016",
+   "year": "2016",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "british-savate-assaut-champions-2017-2017",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-19a83a41cb",
+  "meta": {
+   "name": "British Savate Assaut Champions 2017",
+   "year": "2017",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "british-savate-champions-2024-2024",
+  "adapter": "british_champions",
+  "source": "raw_sources/british-savate-champions-2024-77f84dac63",
+  "meta": {
+   "name": "British Savate Champions 2024",
+   "year": "2024",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "british-savate-champions-2025-2025",
+  "adapter": "british_champions",
+  "source": "raw_sources/british-savate-champions-2025-1941a7ce95",
+  "meta": {
+   "name": "British Savate Champions 2025",
+   "year": "2025",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "british-savate-championships-2012-8th-july-results-2012",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-606f6a58be",
+  "meta": {
+   "name": "British Savate Championships 2012: 8th July, Results",
+   "year": "2012",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "campionati-assoluti-savate-2021",
+  "adapter": "federkombat",
+  "source": "raw_sources/Risultati.pdf-b9f98bf5d9.pdf",
+  "meta": {
+   "name": "CAMPIONATI ASSOLUTI SAVATE",
+   "year": "2021"
+  }
+ },
+ {
+  "slug": "campionati-assoluti-savate-2022-2022",
+  "adapter": "federkombat",
+  "source": "raw_sources/Risultati_Assoluti_Savate.pdf-6aeeb8e9ae.pdf",
+  "meta": {
+   "name": "CAMPIONATI ASSOLUTI SAVATE 2022",
+   "year": "2022"
+  }
+ },
+ {
+  "slug": "campionati-italiani-savate-2019",
+  "adapter": "federkombat",
+  "source": "raw_sources/828_Nazionali_ItalianiSavate_Risultati.pdf-0bc569ac3b.pdf",
+  "meta": {
+   "name": "CAMPIONATI ITALIANI SAVATE",
+   "year": "2019",
+   "city": "Genzano"
+  }
+ },
+ {
+  "slug": "challenge-gant-de-bronze-international-2019",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/353-challenge-gant-de-bronze-international-f45091a776",
+  "meta": {
+   "name": "CHALLENGE /GANT DE BRONZE INTERNATIONAL",
+   "year": "2019"
+  }
+ },
+ {
+  "slug": "challenge-23-novembre-2013-2013",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/140-challenge-23-novembre-2013-4ed2a41f51",
+  "meta": {
+   "name": "CHALLENGE 23 NOVEMBRE 2013",
+   "year": "2013",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "challenge-3-rivieres-2018-2018",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/313-challenge-3-rivieres-2018-f56973070b",
+  "meta": {
+   "name": "CHALLENGE 3 RIVIERES 2018",
+   "year": "2018",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "challenge-de-goyave-22-11-2019-2019",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/363-challenge-de-goyave-22-11-2019-0a6706b1e6",
+  "meta": {
+   "name": "CHALLENGE DE GOYAVE 22/11/2019",
+   "year": "2019",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "challenge-du-16-juin-2018-2018",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/323-challenge-du-16-juin-2018-d2cf6bd963",
+  "meta": {
+   "name": "CHALLENGE DU 16 JUIN 2018",
+   "year": "2018",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "challenge-gant-de-bronze-a-goyave-2015",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/247-challenge-gant-de-bronze-a-goyave-18f9a84ca8",
+  "meta": {
+   "name": "CHALLENGE GANT DE BRONZE A GOYAVE",
+   "year": "2015"
+  }
+ },
+ {
+  "slug": "challenge-ti-moun-palais-des-sports-du-gosier-2016",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/254-challenge-ti-moun-palais-des-sports-du-gosier-4be127e18d",
+  "meta": {
+   "name": "CHALLENGE TI-MOUN PALAIS DES SPORTS DU GOSIER",
+   "year": "2016"
+  }
+ },
+ {
+  "slug": "challenge-timoun-st-felix-gosier-04-06-20416",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/272-challenge-timoun-st-felix-gosier-04-06-20416-a6d0299c42",
+  "meta": {
+   "name": "CHALLENGE TIMOUN ST FELIX GOSIER 04/06/20416",
+   "year": "",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "championnat-de-2023",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Combat-F-V5.pdf-175e45d6c3.pdf",
+  "meta": {
+   "name": "CHAMPIONNAT DE",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "championnat-de-2024",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-ELITE-A-2024-1.pdf-5ff9984d2d.pdf",
+  "meta": {
+   "name": "CHAMPIONNAT DE",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "championnat-de-2024-2",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Finales-RESULTAT-ELITE-B-v2.pdf-f4407f3ea2.pdf",
+  "meta": {
+   "name": "CHAMPIONNAT DE",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "championnat-de-france-cadets-f-m-2025",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-de-competition-Championnat-de-France-Cadet-2025-1.pdf-08c768a570.pdf",
+  "meta": {
+   "name": "CHAMPIONNAT DE FRANCE CADETS F/M",
+   "year": "2025",
+   "city": "21h00"
+  }
+ },
+ {
+  "slug": "combat-european-championship-2016-results-2016",
+  "adapter": "cesav_sheets",
+  "source": "raw_sources/12-combat-european-championship-2016-results-715d14bdee",
+  "meta": {
+   "name": "COMBAT EUROPEAN CHAMPIONSHIP 2016 -RESULTS",
+   "year": "2016",
+   "discipline": "combat"
+  }
+ },
+ {
+  "slug": "championnat-de-assaut-m-f",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Assaut-V4.pdf-6a76ccb00d.pdf",
+  "meta": {
+   "name": "Championnat de ASSAUT (M&F)",
+   "year": ""
+  }
+ },
+ {
+  "slug": "championnat-de-france-avenir-mai-2026-resultats-benjamin-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Championnat-de-France-Avenir-mai-2026-Resultats-Benjamin.pdf-0fe2d29cb3.pdf",
+  "meta": {
+   "name": "Championnat de France Avenir mai 2026 Resultats Benjamin.pdf",
+   "year": "2026"
+  }
+ },
+ {
+  "slug": "championnat-de-france-elite-a-m-f-2023",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-ELITE-A-MF-2023-v9.pdf-160978fff5.pdf",
+  "meta": {
+   "name": "Championnat de France ELITE A (M/F)",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "championnat-de-france-veteran-m-2023",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Veterans-M-2023.pdf-61f5d7408c.pdf",
+  "meta": {
+   "name": "Championnat de France VETERAN (M)",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "championnats-2011",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/DEROULT-ELITE-MF-1ERE-PHASEV5.pdf-97ecee51f8.pdf",
+  "meta": {
+   "name": "Championnats",
+   "year": "2011"
+  }
+ },
+ {
+  "slug": "championnats-de-2010",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/DEROULT-20ELITE-20B.pdf-3211062a4a.pdf",
+  "meta": {
+   "name": "Championnats de",
+   "year": "2010",
+   "city": "partir de rencontres éliminatoires formé"
+  }
+ },
+ {
+  "slug": "copie-de-academiques-8-02-24-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Copie-de-ACADEMIQUES-8-02-24.pdf-461aa874b1.pdf",
+  "meta": {
+   "name": "Copie de ACADEMIQUES 8 02 24.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "de-beaux-assauts-sur-la-plage-2015",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/231-de-beaux-assauts-sur-la-plage-b7af297f99",
+  "meta": {
+   "name": "DE BEAUX ASSAUTS SUR LA PLAGE",
+   "year": "2015",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "deplacement-martinique",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/225-deplacement-martinique-718be9589c",
+  "meta": {
+   "name": "DEPLACEMENT MARTINIQUE",
+   "year": "",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "derniere-competition-de-2017-2017",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/311-derniere-competition-de-2017-825567eb34",
+  "meta": {
+   "name": "DERNIERE COMPETITION DE 2017",
+   "year": "2017"
+  }
+ },
+ {
+  "slug": "dossier-20competition-20v9-20-20livret-20open-20v3-pdf",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Dossier-20Competition-20v9-20--20Livret-20Open-20v3.pdf-077fffdb58.pdf",
+  "meta": {
+   "name": "Dossier 20Competition 20v9 20 20Livret 20Open 20v3.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "escalade-resultats-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/ESCALADE_RESULTATS.pdf-1d82eee56d.pdf",
+  "meta": {
+   "name": "ESCALADE RESULTATS.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "finales-des-championnats-de-france-elite-a-m-f-2019",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20Finales-20ELITE-20A.pdf-93b19e7eb2.pdf",
+  "meta": {
+   "name": "Finales des Championnats de France ELITE A M&F",
+   "year": "2019",
+   "city": "Paris"
+  }
+ },
+ {
+  "slug": "finales-du-championnat-de-france-combat-f-minin-2-me-s-rie-2",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20Finales-20COMBAT-20FEM-202019.pdf-56fcfc3780.pdf",
+  "meta": {
+   "name": "Finales du Championnat de France Combat Féminin 2ème série",
+   "year": "2020",
+   "city": "Ille-Sur-Tet"
+  }
+ },
+ {
+  "slug": "finales-du-championnat-de-france-espoirs-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20Finales-20ESPOIRS-202019.pdf-1d10501df9.pdf",
+  "meta": {
+   "name": "Finales du Championnat de France Espoirs",
+   "year": "2020",
+   "city": "Ille-Sur-Tet"
+  }
+ },
+ {
+  "slug": "finales-du-championnat-de-france-juniors-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20Finales-20JUNIORS-202019.pdf-660807d930.pdf",
+  "meta": {
+   "name": "Finales du Championnat de France JUNIORS",
+   "year": "2020",
+   "city": "Marseille"
+  }
+ },
+ {
+  "slug": "france-jeunes-2023-resultats-1-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/France-Jeunes-2023-resultats-1.pdf-95d6db7f45.pdf",
+  "meta": {
+   "name": "France Jeunes 2023 resultats 1.pdf",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "gala-de-boxe-goyave-2017",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/300-gala-de-boxe-goyave-d96f0b9da6",
+  "meta": {
+   "name": "GALA DE BOXE GOYAVE",
+   "year": "2017"
+  }
+ },
+ {
+  "slug": "huiti-mes-quarts-de-finales-2024",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-PREMIUM-2024-1.pdf-b59eba8c93.pdf",
+  "meta": {
+   "name": "Huitièmes & Quarts de Finales",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "izvgrcka-2016",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/IZVGRCKA.doc-e15c734093",
+  "meta": {
+   "name": "IZVGRCKA",
+   "year": "2016"
+  }
+ },
+ {
+  "slug": "izvsp-pdf-2016",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/IZVSP.pdf-e296e57568.pdf",
+  "meta": {
+   "name": "IZVSP.pdf",
+   "year": "2016"
+  }
+ },
+ {
+  "slug": "july-2013-british-savate-assaut-championships-2013-results-2",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-f2e96d29f8",
+  "meta": {
+   "name": "July 2013 – British Savate Assaut Championships 2013: Results",
+   "year": "2013",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "le-championnat-de-france-assaut-2024-2024",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Assaut-Calais-2024-1.pdf-b85ba8573a.pdf",
+  "meta": {
+   "name": "LE CHAMPIONNAT DE FRANCE ASSAUT 2024",
+   "year": "2024",
+   "city": "20h30"
+  }
+ },
+ {
+  "slug": "livret-2f-v1-plescop-resultat-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-2F-V1-PLESCOP-RESULTAT-.pdf-8e3e3a1b49.pdf",
+  "meta": {
+   "name": "Livret 2F V1 PLESCOP RESULTAT .pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "livret-2eme-serie-m-resultat-brunoy-pdf",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/Livret-2eme-serie-M-Resultat-BRUNOY.pdf-1b38fac31f.pdf",
+  "meta": {
+   "name": "Livret 2eme serie M Resultat BRUNOY.pdf",
+   "year": "",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "livret-elite-a-st-christol-les-ales-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-ELITE-A-St-Christol-les-Ales.pdf-d4bd91170c.pdf",
+  "meta": {
+   "name": "Livret ELITE A St Christol les Ales.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "livret-elite-a-vandoeuvre-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-ELITE-A-Vandoeuvre.pdf-9ab16e71a4.pdf",
+  "meta": {
+   "name": "Livret ELITE A Vandoeuvre.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "livret-finales-2eme-serie-angouleme-v1-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-Finales-2eme-Serie-Angouleme-V1.pdf-45a2de3983.pdf",
+  "meta": {
+   "name": "Livret Finales 2eme Serie Angouleme V1.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "livret-finales-elite-b-v2-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-Finales-ELITE-B-v2.pdf-eba038ed28.pdf",
+  "meta": {
+   "name": "Livret Finales ELITE B v2.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "livret-finales-verdun-23-mars-2024-1-pdf-2024",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-Finales-Verdun-23-mars-2024-1.pdf-22bd0f3eba.pdf",
+  "meta": {
+   "name": "Livret Finales Verdun 23 mars 2024 1.pdf",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "livret-juniors-maj-pdf",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-Juniors-MAJ.pdf-4cc8289676.pdf",
+  "meta": {
+   "name": "Livret Juniors MAJ.pdf",
+   "year": "",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "livret-open-de-francev2-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-Open-de-Francev2.pdf-66a129849d.pdf",
+  "meta": {
+   "name": "Livret Open de Francev2.pdf",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "livret-premium-resultat-armentieres-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-PREMIUM-RESULTAT-Armentieres.pdf-4163b2e3b9.pdf",
+  "meta": {
+   "name": "Livret PREMIUM RESULTAT Armentieres.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-de-competition-Championnat-Assaut-2025-1.pdf-3ecbafc5f3.pdf",
+  "meta": {
+   "name": "Livret de competition Championnat Assaut 2025 1.pdf",
+   "year": "2025",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "livret-de-competition-championnat-veteran-2026-pdf-2026",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-de-competition-Championnat-Veteran-2026.pdf-1bbcf1dda0.pdf",
+  "meta": {
+   "name": "Livret de competition Championnat Veteran 2026.pdf",
+   "year": "2026",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "livret-de-competition-finale-elite-b-maubeuge-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-Finale-ELITE-B-Maubeuge.pdf-e4581eb579.pdf",
+  "meta": {
+   "name": "Livret de competition Finale ELITE B Maubeuge.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-2e-series-rousies-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-Finales-2e-series-Rousies.pdf-2b74a885ab.pdf",
+  "meta": {
+   "name": "Livret de competition Finales 2e series Rousies.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "livret-de-competition-open-assaut-a-merignac-pdf-2024",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-de-competition-Open-assaut-a-Merignac.pdf-47b7c33bcb.pdf",
+  "meta": {
+   "name": "Livret de competition Open assaut a Merignac.pdf",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "livret-de-competition-open-dautomne-2025-v5-pdf-2025",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-de-competition_Open-dAutomne-2025-v5.pdf-5701a10538.pdf",
+  "meta": {
+   "name": "Livret de competition Open dAutomne 2025 v5.pdf",
+   "year": "2025",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "livret-de-competition-championnat-avenir-2026-v4-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-de-competition-championnat-Avenir-2026-v4.pdf-c1e59980e8.pdf",
+  "meta": {
+   "name": "Livret de competition championnat Avenir 2026 v4.pdf",
+   "year": "2026"
+  }
+ },
+ {
+  "slug": "livret-de-competition-finale-riaille-v2-pdf-2025",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-de-competition-finale-Riaille-v2.pdf-3c85590f6e.pdf",
+  "meta": {
+   "name": "Livret de competition finale Riaille v2.pdf",
+   "year": "2025"
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-ea-eb-marseille-avril-2026-v2",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-finales-EA-EB-Marseille-avril-2026-v2.-2c33f992b2.pdf",
+  "meta": {
+   "name": "Livret de competition finales EA EB Marseille avril 2026 v2.",
+   "year": "2026"
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-finales-ESPOIR-M-2025-V2.pdf-f5dabce92a.pdf",
+  "meta": {
+   "name": "Livret de competition finales ESPOIR M 2025 V2.pdf",
+   "year": "2025"
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-finales-Juniors-avril-2026.pdf-9a8374bcec.pdf",
+  "meta": {
+   "name": "Livret de competition finales Juniors avril 2026.pdf",
+   "year": "2026"
+  }
+ },
+ {
+  "slug": "livret-de-competition-finales-assaut-2026-pdf-2026",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-de-competition-finales-assaut-2026.pdf-5467a6f250.pdf",
+  "meta": {
+   "name": "Livret de competition finales assaut 2026.pdf",
+   "year": "2026"
+  }
+ },
+ {
+  "slug": "livret-de-competition-open-assaut-individuel-calais-v2-pdf",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-de-competition-open-assaut-individuel-Calais-v2.pdf-604bf620bb.pdf",
+  "meta": {
+   "name": "Livret de competition open assaut individuel Calais v2.pdf",
+   "year": "",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "livret-de-competition-open-assaut-individuel-calais-pdf-2025",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Livret-de-competition-open-assaut-individuel-Calais.pdf-e14b6b64c0.pdf",
+  "meta": {
+   "name": "Livret de competition open assaut individuel Calais.pdf",
+   "year": "2025"
+  }
+ },
+ {
+  "slug": "livret-des-competitions-v1-open-dautomne-pdf",
+  "adapter": "ffsavate_bouts",
+  "source": "raw_sources/Livret-des-competitions-v1-Open-dautomne.pdf-6ad853ae8e.pdf",
+  "meta": {
+   "name": "Livret des competitions v1 Open dautomne.pdf",
+   "year": "",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "livret-espoir-resultat-v1-plescop-v2-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Livret-espoir-RESULTAT-V1-PLESCOP-V2.pdf-d8b2895419.pdf",
+  "meta": {
+   "name": "Livret espoir RESULTAT V1 PLESCOP V2.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "livret2henpluscollege-savate-v3-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/Livret2HenplusCollege-SAVATE-V3.pdf-26f3414a79.pdf",
+  "meta": {
+   "name": "Livret2HenplusCollege SAVATE V3.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "open-de-france-individuel-par-equipe-2025",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-de-competition-OPEN-DE-FRANCE-2025-v190525.pdf-3fa6df381d.pdf",
+  "meta": {
+   "name": "OPEN DE FRANCE INDIVIDUEL & PAR EQUIPE",
+   "year": "2025",
+   "city": "20h30"
+  }
+ },
+ {
+  "slug": "opsom5-doc",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/OPSOM5.doc-2de7aeddad.doc",
+  "meta": {
+   "name": "OPSOM5.doc",
+   "year": ""
+  }
+ },
+ {
+  "slug": "opvru3-doc-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/OPVRU3.doc-bfb351b553.doc",
+  "meta": {
+   "name": "OPVRU3.doc",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "opvru4-doc-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/OPVRU4.doc-b8376de64a.doc",
+  "meta": {
+   "name": "OPVRU4.doc",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "p-20elite-20a-208-12-20japy-pdf-2013",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/P.-20ELITE-20A-208-12-20JAPY.pdf-7310e10853.pdf",
+  "meta": {
+   "name": "P. 20ELITE 20A 208 12 20JAPY.pdf",
+   "year": "2013"
+  }
+ },
+ {
+  "slug": "p-finales-elite-a-dunkerque-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/P.FINALES-ELITE-A-DUNKERQUE.pdf-29f1e49114.pdf",
+  "meta": {
+   "name": "P.FINALES ELITE A DUNKERQUE.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "prvru-doc-2011",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvRU.doc-41bb449d6c.doc",
+  "meta": {
+   "name": "PrvRU.doc",
+   "year": "2011"
+  }
+ },
+ {
+  "slug": "prvru1-doc-2011",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvRU1.doc-9cbe4cd202.doc",
+  "meta": {
+   "name": "PrvRU1.doc",
+   "year": "2011"
+  }
+ },
+ {
+  "slug": "prvru4-doc",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvRU4.doc-31b6a39e4e.doc",
+  "meta": {
+   "name": "PrvRU4.doc",
+   "year": ""
+  }
+ },
+ {
+  "slug": "prvsbg-doc-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvSBG.doc-0a0b1f21a6.doc",
+  "meta": {
+   "name": "PrvSBG.doc",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "prvsbg1-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvSBG1.doc-51bca62115",
+  "meta": {
+   "name": "PrvSBG1",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "prvvru-doc-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/PrvVRU.doc-dd5e026494.doc",
+  "meta": {
+   "name": "PrvVRU.doc",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "qualifying-tournament-of-the-european-savate-combat-champion",
+  "adapter": "cesav_sheets",
+  "source": "raw_sources/20-qualifying-tournament-of-the-european-savate-combat-champ-ae8a38adee",
+  "meta": {
+   "name": "Qualifying Tournament of the European Savate Combat Championships 2016",
+   "year": "2016",
+   "discipline": "combat",
+   "level": "european"
+  }
+ },
+ {
+  "slug": "r-20-20open-20automne-202021-pdf-2020",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R-20--20OPEN-20AUTOMNE-202021.pdf-6f72448e13.pdf",
+  "meta": {
+   "name": "R 20 20OPEN 20AUTOMNE 202021.pdf",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "r-20finales-20elite-20a-20mf-20-20longwy-pdf-2016",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R-20FINALES-20ELITE-20A-20MF-20--20LONGWY.pdf-0cdf3c4b28.pdf",
+  "meta": {
+   "name": "R 20FINALES 20ELITE 20A 20MF 20 20LONGWY.pdf",
+   "year": "2016"
+  }
+ },
+ {
+  "slug": "r-20finales-20chpt-20de-20france-20elite-20b-pdf-2015",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R--20Finales-20CHPT-20DE-20FRANCE-20ELITE-20B.pdf-25577ed45c.pdf",
+  "meta": {
+   "name": "R 20Finales 20CHPT 20DE 20FRANCE 20ELITE 20B.pdf",
+   "year": "2015"
+  }
+ },
+ {
+  "slug": "r-20finales-20espoirs-20mf-20-2013-20fevrier-202016-20billo",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R-20finales-20ESPOIRS-20MF-20--2013-20FEVRIER-202016-20BILLO-a9d1bd4c19.pdf",
+  "meta": {
+   "name": "R 20finales 20ESPOIRS 20MF 20 2013 20FEVRIER 202016 20BILLO",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "r-tq-elite-b-2023-1-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R-TQ-Elite-B-2023-1.pdf-76438f659e.pdf",
+  "meta": {
+   "name": "R TQ Elite B 2023 1.pdf",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "r-20finales-20elite-20a-20f-20cambrai-pdf-2013",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.-20FINALES-20ELITE-20A-20F-20CAMBRAI.pdf-5fb6180eef.pdf",
+  "meta": {
+   "name": "R. 20FINALES 20ELITE 20A 20F 20CAMBRAI.pdf",
+   "year": "2013"
+  }
+ },
+ {
+  "slug": "r-agen-pdf-2010",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.AGEN.pdf-9ade6a7b69.pdf",
+  "meta": {
+   "name": "R.AGEN.pdf",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "r-elite-a-marseille-pdf-2012",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.ELITE-A-MARSEILLE.pdf-e6fb859465.pdf",
+  "meta": {
+   "name": "R.ELITE A MARSEILLE.pdf",
+   "year": "2012"
+  }
+ },
+ {
+  "slug": "r-elite-a-mf-wignehies-pdf-2012",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.ELITE-A-MF-WIGNEHIES.pdf-3b0a907db2.pdf",
+  "meta": {
+   "name": "R.ELITE A MF WIGNEHIES.pdf",
+   "year": "2012"
+  }
+ },
+ {
+  "slug": "r-elitea-vandoeuvre-pdf-2012",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.ELITEA-VANDOEUVRE.pdf-ad955f5971.pdf",
+  "meta": {
+   "name": "R.ELITEA VANDOEUVRE.pdf",
+   "year": "2012"
+  }
+ },
+ {
+  "slug": "r-espoirs-2019-20janv-20japy-pdf-2019",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.ESPOIRS-2019-20JANV-20JAPY.pdf-a05a242978.pdf",
+  "meta": {
+   "name": "R.ESPOIRS 2019 20JANV 20JAPY.pdf",
+   "year": "2019"
+  }
+ },
+ {
+  "slug": "r-vannes-pdf-2010",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.VANNES.pdf-69e5f9d686.pdf",
+  "meta": {
+   "name": "R.VANNES.pdf",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "r-pouchet-5nov2011-pdf-2011",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/R.pouchet-5nov2011.pdf-d2a2ec3d53.pdf",
+  "meta": {
+   "name": "R.pouchet 5nov2011.pdf",
+   "year": "2011"
+  }
+ },
+ {
+  "slug": "result-20tq-20-20jun-20europe-202018-compressed-pdf-2020",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/RESULT-20TQ-20-20JUN-20europe-202018.compressed.pdf-ce15abb21d.pdf",
+  "meta": {
+   "name": "RESULT 20TQ 20 20JUN 20europe 202018.compressed.pdf",
+   "year": "2020",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "resultats-11-mars-2023-premium-pdf-2023",
+  "adapter": "ffsavate_finals",
+  "source": "raw_sources/RESULTATS-11-MARS-2023-PREMIUM.pdf-e687054b1f.pdf",
+  "meta": {
+   "name": "RESULTATS 11 MARS 2023 PREMIUM.pdf",
+   "year": "2023",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "resultats-20espoirs-20mf-pdf-2013",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/RESULTATS-20ESPOIRS-20MF.pdf-64ebda4218.pdf",
+  "meta": {
+   "name": "RESULTATS 20ESPOIRS 20MF.pdf",
+   "year": "2013"
+  }
+ },
+ {
+  "slug": "resultats-assauts-phenix-club-22-fevrier-2014-2014",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/154-resultats-assauts-phenix-club-22-fevrier-2014-79fc2b7149",
+  "meta": {
+   "name": "RESULTATS ASSAUTS PHENIX CLUB 22 FEVRIER 2014",
+   "year": "2014",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "resultats-challenge-25-novembre-2017-2017",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/310-resultats-challenge-25-novembre-2017-e6e54ac585",
+  "meta": {
+   "name": "RESULTATS CHALLENGE 25 NOVEMBRE 2017",
+   "year": "2017",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "resultats-challenge-creps-5-avril-2014-2014",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/168-resultats-challenge-creps-5-avril-2014-f3ab7d5dab",
+  "meta": {
+   "name": "RESULTATS CHALLENGE CREPS 5 AVRIL 2014",
+   "year": "2014",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "resultats-challenge-goyave-16-avril-2016-2016",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/264-resultats-challenge-goyave-16-avril-2016-652cc6ed15",
+  "meta": {
+   "name": "RESULTATS CHALLENGE GOYAVE 16 AVRIL 2016",
+   "year": "2016",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "resultats-challenge-goyave-20-06-2015-2015",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/235-resultats-challenge-goyave-20-06-2015-40df28c2e8",
+  "meta": {
+   "name": "RESULTATS CHALLENGE GOYAVE 20/06/2015",
+   "year": "2015",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "resultats-challenge-mjc-du-gosier-2014",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/208-resultats-challenge-mjc-du-gosier-4cfcc19a55",
+  "meta": {
+   "name": "RESULTATS CHALLENGE MJC DU GOSIER",
+   "year": "2014",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "resultats-championnat-universitaire-2022-pdf-2022",
+  "adapter": "universitaire",
+  "source": "raw_sources/RESULTATS-Championnat-Universitaire-2022.pdf-68ad8b23c5.pdf",
+  "meta": {
+   "name": "RESULTATS Championnat Universitaire 2022.pdf",
+   "year": "2022"
+  }
+ },
+ {
+  "slug": "resultats-des-finales-du-championnat-de-france-elite-b-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R--20FINALES-20ELITE-20B-20--2027-20JANV-202018-20MARSEILLE-0ff7fd34c8.pdf",
+  "meta": {
+   "name": "RESULTATS DES FINALES DU CHAMPIONNAT DE FRANCE ELITE B",
+   "year": "2020",
+   "city": "Marseille"
+  }
+ },
+ {
+  "slug": "resultats-des-tournois-qualificatifs-assaut-m-f-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20--20ASSAUT-202021.pdf-14c2853310.pdf",
+  "meta": {
+   "name": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "resultats-des-tournois-qualificatifs-assaut-m-f-2020-2",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Resultats-20ASSAUT-202018.pdf-8ea4ca6a22.pdf",
+  "meta": {
+   "name": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "resultats-gala-des-abymes-01-mars-2014-2014",
+  "adapter": "antilles_bouts",
+  "source": "raw_sources/159-resultats-gala-des-abymes-01-mars-2014-b8f621b46e",
+  "meta": {
+   "name": "RESULTATS GALA DES ABYMES 01 MARS 2014",
+   "year": "2014"
+  }
+ },
+ {
+  "slug": "rezsofija-2016",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/REZSOFIJA.doc-d647cb85c7",
+  "meta": {
+   "name": "REZSOFIJA",
+   "year": "2016"
+  }
+ },
+ {
+  "slug": "rezultati-kikinda-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/REZULTATI_KIKINDA_.pdf-070ed0f164.pdf",
+  "meta": {
+   "name": "REZULTATI KIKINDA .pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "rezultati-senta-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/REZULTATI_SENTA.pdf-53c306a7a9.pdf",
+  "meta": {
+   "name": "REZULTATI SENTA.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "rezultati-zabalj-28-04-2024-pdf-2024",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/REZULTATI_ZABALJ_28.04.2024.pdf-405ecf0bdd.pdf",
+  "meta": {
+   "name": "REZULTATI ZABALJ 28.04.2024.pdf",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "risultati-campionati-assoluti-2018-settore-savate-2018",
+  "adapter": "federkombat",
+  "source": "raw_sources/Risultati_Assoluti_2018_Savate.pdf-77ec14ce46.pdf",
+  "meta": {
+   "name": "RISULTATI CAMPIONATI ASSOLUTI 2018 - SETTORE SAVATE",
+   "year": "2018"
+  }
+ },
+ {
+  "slug": "resultat-albertville-premium-elite-a-2024-1-pdf-2024",
+  "adapter": "ffsavate_finals_wide",
+  "source": "raw_sources/Resultat-Albertville-PREMIUM-Elite-A-2024-1.pdf-6c1879a983.pdf",
+  "meta": {
+   "name": "Resultat Albertville PREMIUM Elite A 2024 1.pdf",
+   "year": "2024",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "resultat-albertville-premium-elite-a-2024-pdf-2024",
+  "adapter": "savate_misc",
+  "source": "raw_sources/Resultat-Albertville-PREMIUM-Elite-A-2024.pdf-0fd81d6fff.pdf",
+  "meta": {
+   "name": "Resultat Albertville PREMIUM Elite A 2024.pdf",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "resultat-championnat-avenir-juin-205-pdf-2025",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultat-Championnat-Avenir-juin-205.pdf-b8487abab4.pdf",
+  "meta": {
+   "name": "Resultat Championnat Avenir juin 205.pdf",
+   "year": "2025",
+   "city": "Melun"
+  }
+ },
+ {
+  "slug": "resultat-donzere-premium-elite-a-2024-pdf-2024",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultat-DONZERE-PREMIUM-Elite-A-2024.pdf-2f7460d9bb.pdf",
+  "meta": {
+   "name": "Resultat DONZERE PREMIUM Elite A 2024.pdf",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "resultat-cadets-2026-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultat-cadets-2026.pdf-0a8df444bb.pdf",
+  "meta": {
+   "name": "Resultat cadets 2026.pdf",
+   "year": "2026",
+   "city": "Chilly-Mazarin"
+  }
+ },
+ {
+  "slug": "resultats-20-2022-23-12-2012-20ffsbf-20et-20da-pdf-2012",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-20-2022_23-12-2012-20FFSBF-20et-20DA.pdf-748e5a5f3f.pdf",
+  "meta": {
+   "name": "Resultats 20 2022 23 12 2012 20FFSBF 20et 20DA.pdf",
+   "year": "2012"
+  }
+ },
+ {
+  "slug": "resultats-20veterans-pdf",
+  "adapter": "ffsavate_finals_wide",
+  "source": "raw_sources/Resultats-20Veterans.pdf-c8cd338021.pdf",
+  "meta": {
+   "name": "Resultats 20Veterans.pdf",
+   "year": "",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "resultats-2s-fm-torreilles-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-2S-FM-Torreilles.pdf-f8e4852319.pdf",
+  "meta": {
+   "name": "Resultats 2S FM Torreilles.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "resultats-c2m-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-C2M.pdf-6b2e412952.pdf",
+  "meta": {
+   "name": "Resultats C2M.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "resultats-merignac-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-Merignac.pdf-c209142798.pdf",
+  "meta": {
+   "name": "Resultats Merignac.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "resultats-minimes-championnats-de-france-2026-compil-podiums",
+  "adapter": "ffsavate_finals_wide",
+  "source": "raw_sources/Resultats-Minimes-Championnats-de-France-2026-Compil-Podiums-5a9ad8e93c.pdf",
+  "meta": {
+   "name": "Resultats Minimes Championnats de France 2026 Compil Podiums",
+   "year": "2026",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "resultats-montelimar-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-Montelimar.pdf-7ae8f38e2e.pdf",
+  "meta": {
+   "name": "Resultats Montelimar.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "resultats-premium-clermont-ferrand-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-PREMIUM-Clermont-Ferrand.pdf-27427d8621.pdf",
+  "meta": {
+   "name": "Resultats PREMIUM Clermont Ferrand.pdf",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "resultats-premium-maubeuge-pdf-2023",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-PREMIUM-Maubeuge.pdf-ca3cff1505.pdf",
+  "meta": {
+   "name": "Resultats PREMIUM Maubeuge.pdf",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "resultats-riaille-31-01-26-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-RIAILLE-31-01-26.pdf-8c200fb84f.pdf",
+  "meta": {
+   "name": "Resultats RIAILLE 31 01 26.pdf",
+   "year": "2026",
+   "city": "Riaillé"
+  }
+ },
+ {
+  "slug": "resultats-st-yrieix-sur-charente-mars-2026-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-St-Yrieix-sur-charente-mars-2026-.pdf-67c808fa07.pdf",
+  "meta": {
+   "name": "Resultats St Yrieix sur charente mars 2026 .pdf",
+   "year": "2026",
+   "city": "St Yrieix Sur Charente"
+  }
+ },
+ {
+  "slug": "resultats-tq-espoirs-merignac-pdf-2024",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-TQ-Espoirs-Merignac.pdf-6665c14de2.pdf",
+  "meta": {
+   "name": "Resultats TQ Espoirs Merignac.pdf",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "resultats-tq-juniors-merignac-1-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-TQ-JUNIORS-Merignac-1.pdf-24bce66413.pdf",
+  "meta": {
+   "name": "Resultats TQ JUNIORS Merignac 1.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "resultats-verdun-07-03-26-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-Verdun-07.03.26.pdf-81263c76ef.pdf",
+  "meta": {
+   "name": "Resultats Verdun 07.03.26.pdf",
+   "year": "2026",
+   "city": "Verdun"
+  }
+ },
+ {
+  "slug": "resultats-finales-elite-a-et-elite-b-vandoeuvre-2026-pdf-202",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-finales-ELITE-A-et-ELITE-B-Vandoeuvre-2026.pdf-d7dfc5455e.pdf",
+  "meta": {
+   "name": "Resultats finales ELITE A et ELITE B Vandoeuvre 2026.pdf",
+   "year": "2026",
+   "city": "Vandoeuvre Les Nancy"
+  }
+ },
+ {
+  "slug": "resultats-finales-plescop-avril-2026-pdf-2026",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/Resultats-finales-Plescop-avril-2026.pdf-2c077453bc.pdf",
+  "meta": {
+   "name": "Resultats finales Plescop avril 2026.pdf",
+   "year": "2026",
+   "city": "Plescop"
+  }
+ },
+ {
+  "slug": "results-of-the-junior-savate-assaut-championships-2019-2019",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-3e6408c062",
+  "meta": {
+   "name": "Results of the Junior Savate Assaut Championships 2019",
+   "year": "2019",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "results-of-the-senior-and-junior-savate-assaut-championships",
+  "adapter": "british_champions",
+  "source": "raw_sources/page-129251eab4",
+  "meta": {
+   "name": "Results of the Senior and Junior Savate Assaut Championships 2018",
+   "year": "2018",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "r-sultats-des-finales-des-championnats-de-france-espoirs-m-f",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/RESULTATS-20FINALES-20ESPOIRS-20M-F-202015-2021-2002-202015.-e9648e7b06.pdf",
+  "meta": {
+   "name": "Résultats des Finales des Championnats de France ESPOIRS M/F",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "r-sultats-des-tournois-de-france-seniors-m-f-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R--20TOURNOIS-20DE-20FRANCE-20SENIORS-20M-F-202015.pdf-10aef757de.pdf",
+  "meta": {
+   "name": "Résultats des TOURNOIS DE FRANCE SENIORS M/F",
+   "year": "2020",
+   "city": "Ille sur Têt"
+  }
+ },
+ {
+  "slug": "r-sultats-des-championnats-de-france-jeunes-narbonne-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Resultats-20JEUNES-202018.pdf-3bd3475903.pdf",
+  "meta": {
+   "name": "Résultats des championnats de France JEUNES à Narbonne",
+   "year": "2020",
+   "city": "Narbonne"
+  }
+ },
+ {
+  "slug": "r-sultats-des-finales-des-championnats-de-france-jeunes-mini",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/resultats-20JEUNES-202015-20ET-20TROPHEE-20Denise-20AVEDIGUI-799a24167b.pdf",
+  "meta": {
+   "name": "Résultats des finales des CHAMPIONNATS DE FRANCE JEUNES MINIMES G/F",
+   "year": "2020",
+   "city": "Tulle"
+  }
+ },
+ {
+  "slug": "r-sultats-des-finales-du-championnat-de-france-juniors-2020",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/R-20FRANCE-20JUNIORS-202015.pdf-4e0cc81709.pdf",
+  "meta": {
+   "name": "Résultats des finales du CHAMPIONNAT DE FRANCE JUNIORS",
+   "year": "2020",
+   "city": "Servian"
+  }
+ },
+ {
+  "slug": "r-sultats-du-tournoi-liminatoire-de-la-coupe-de-france-assau",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/COUPE-20DE-20FRANCE-20--20Resultats-202018.pdf-0b96ac7cbe.pdf",
+  "meta": {
+   "name": "Résultats du tournoi éliminatoire de la COUPE DE FRANCE ASSAUT les",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "spsr-2010",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/SPSR.doc-39eabcf35a",
+  "meta": {
+   "name": "SPSR",
+   "year": "2010"
+  }
+ },
+ {
+  "slug": "savate-association-india-savate-french-boxing-in-india",
+  "adapter": "savate_jp",
+  "source": "raw_sources/page-c83454a92a",
+  "meta": {
+   "name": "Savate Association – India – Savate (French Boxing) in India",
+   "year": ""
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2011-2011",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2011-79fc9cb232",
+  "meta": {
+   "name": "Savate Tokyo Open 2011",
+   "year": "2011",
+   "city": "Tokyo"
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2012-2012",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2012-9f0590b609",
+  "meta": {
+   "name": "Savate Tokyo Open 2012",
+   "year": "2012",
+   "city": "Tokyo"
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2013-2013",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2013-e0eda05bd6",
+  "meta": {
+   "name": "Savate Tokyo Open 2013",
+   "year": "2013",
+   "city": "Tokyo"
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2014-2014",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2014-fc745fff47",
+  "meta": {
+   "name": "Savate Tokyo Open 2014",
+   "year": "2014",
+   "city": "Tokyo"
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2016-2016",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2016-ceaf760147",
+  "meta": {
+   "name": "Savate Tokyo Open 2016",
+   "year": "2016",
+   "city": "Tokyo"
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2019-2019",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2019-30bf7d7612",
+  "meta": {
+   "name": "Savate Tokyo Open 2019",
+   "year": "2019",
+   "city": "Tokyo"
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2021-2021",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2021-009f014394",
+  "meta": {
+   "name": "Savate Tokyo Open 2021",
+   "year": "2021",
+   "city": "Tokyo"
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2022-2022",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2022-8ebfc883d7",
+  "meta": {
+   "name": "Savate Tokyo Open 2022",
+   "year": "2022",
+   "city": "Tokyo"
+  }
+ },
+ {
+  "slug": "savate-tokyo-open-2023-2023",
+  "adapter": "savate_jp",
+  "source": "raw_sources/2023-01e6313cb2",
+  "meta": {
+   "name": "Savate Tokyo Open 2023",
+   "year": "2023",
+   "city": "Tokyo"
+  }
+ },
+ {
+  "slug": "savate-resultats-2006-2006",
+  "adapter": "universitaire",
+  "source": "raw_sources/Savate_resultats_2006.xls-8ea3d9379e",
+  "meta": {
+   "name": "Savate resultats 2006",
+   "year": "2006",
+   "city": "NANTES"
+  }
+ },
+ {
+  "slug": "wcjunior-pdf",
+  "adapter": "podium_pdf",
+  "source": "raw_sources/WCJUNIOR.pdf-5cdc5eb50f.pdf",
+  "meta": {
+   "name": "WCJUNIOR.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "wcsenior-pdf",
+  "adapter": "podium_pdf",
+  "source": "raw_sources/WCSENIOR.pdf-8476fe643c.pdf",
+  "meta": {
+   "name": "WCSENIOR.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "wcwomen-pdf",
+  "adapter": "podium_pdf",
+  "source": "raw_sources/WCWOMEN.pdf-e9be57dbc7.pdf",
+  "meta": {
+   "name": "WCWOMEN.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/809-m-85kg-pool-results-assaut-2022-525d11dfde",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/810-m85kg-pool-results-assaut-2022-775a460103",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/811-m80kg-pool-results-assaut-2022-0917d944ad",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/812-m75kg-pool-results-assaut-2022-f6bc0bab6c",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/813-m70kg-pool-results-assaut-2022-afbd6ce426",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/814-m65kg-pool-results-assaut-2022-d182461d9b",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/815-m60kg-pool-results-assaut-2022-c37499037b.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/816-m56kg-pool-results-assaut-2022-ab8932fd82.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/818-f75kg-pool-results-assaut-2022-eebe029a91.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/820-f65kg-pool-results-assaut-2022-731796864a.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/821-f60kg-pool-results-assaut-2022-8e4ba964dc.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/823-f52kg-pool-results-assaut-2022-05bc263206",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championship-2022-2022-2-2-2-2-2-2-2-2-2-2-2-2",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/824-f48kg-pool-results-assaut-2022-cd212d1ee4.pdf",
+  "meta": {
+   "name": "World Assaut Championship 2022",
+   "year": "2022",
+   "city": "Milan"
+  }
+ },
+ {
+  "slug": "world-assaut-championships-2024-gb-results-2024",
+  "adapter": "british_champions",
+  "source": "raw_sources/world-assaut-championships-2024-gb-results-5303e90df6",
+  "meta": {
+   "name": "World Assaut Championships 2024 – GB results.",
+   "year": "2024",
+   "discipline": "assaut",
+   "level": "national"
+  }
+ },
+ {
+  "slug": "african-championship-2025-dakar-senegal-424-2025",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/african-championship-2025-dakar-senegal-424-9e8bae22b3",
+  "meta": {
+   "name": "african championship 2025 dakar senegal 424",
+   "year": "2025"
+  }
+ },
+ {
+  "slug": "asorumas-pdf",
+  "adapter": "savate_misc",
+  "source": "raw_sources/asorumas.pdf-fa5259f5ff.pdf",
+  "meta": {
+   "name": "asorumas.pdf",
+   "year": "",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "budim-pdf-2020",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/budim.pdf-a21a465884.pdf",
+  "meta": {
+   "name": "budim.pdf",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "budimrez-pdf-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/budimrez.pdf-f584371def.pdf",
+  "meta": {
+   "name": "budimrez.pdf",
+   "year": "2019"
+  }
+ },
+ {
+  "slug": "challenge-dynamik-contact-2024",
+  "adapter": "misc_federations",
+  "source": "raw_sources/challenge-dynamik-contact-d268bab713",
+  "meta": {
+   "name": "challenge dynamik contact",
+   "year": "2024",
+   "discipline": "assaut"
+  }
+ },
+ {
+  "slug": "combatruma-pdf",
+  "adapter": "fisav_sheets",
+  "source": "raw_sources/combatruma.pdf-969ec8d7f7.pdf",
+  "meta": {
+   "name": "combatruma.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "izvitalija-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/izvitalija.pdf-e28227cf05.pdf",
+  "meta": {
+   "name": "izvitalija.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "izvslovenia-pdf-2024",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/izvslovenia.pdf-bbf8af4ddb.pdf",
+  "meta": {
+   "name": "izvslovenia.pdf",
+   "year": "2024"
+  }
+ },
+ {
+  "slug": "kupsrbije-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/kupsrbije.doc-32d9e2a24f",
+  "meta": {
+   "name": "kupsrbije",
+   "year": "2019"
+  }
+ },
+ {
+  "slug": "obrenovacr-2020",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/obrenovacr.doc-648656959e",
+  "meta": {
+   "name": "obrenovacr",
+   "year": "2020"
+  }
+ },
+ {
+  "slug": "palmares-2014-2014",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/palmares_2014.html-b8bea06bd7",
+  "meta": {
+   "name": "palmares 2014",
+   "year": "2014"
+  }
+ },
+ {
+  "slug": "pioniri2021-pdf-2021",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/pioniri2021.pdf-e1c9be7c34.pdf",
+  "meta": {
+   "name": "pioniri2021.pdf",
+   "year": "2021"
+  }
+ },
+ {
+  "slug": "pool-g1-r1-sc-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/pool_G1_R1_SC.pdf-419b56dd60.pdf",
+  "meta": {
+   "name": "pool G1 R1 SC.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "pool-g1-t1-sdt-pdf",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/pool_G1_T1_SdT.pdf-509af636f1.pdf",
+  "meta": {
+   "name": "pool G1 T1 SdT.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "resultats-1er-gant-pdf",
+  "adapter": "ffsavate_sheets",
+  "source": "raw_sources/resultats-1er-gant.pdf-30d2c9d91a.pdf",
+  "meta": {
+   "name": "resultats 1er gant.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "resultats-savate-2005",
+  "adapter": "universitaire",
+  "source": "raw_sources/resultats-savate.xls-89aeeca7c6",
+  "meta": {
+   "name": "resultats savate",
+   "year": "2005",
+   "city": "DIJON"
+  }
+ },
+ {
+  "slug": "rezcomb-doc-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/rezcomb.doc-8af4d98512.doc",
+  "meta": {
+   "name": "rezcomb.doc",
+   "year": "2019"
+  }
+ },
+ {
+  "slug": "rezgenova-doc-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/rezgenova.doc-1b4973bab8.doc",
+  "meta": {
+   "name": "rezgenova.doc",
+   "year": "2019"
+  }
+ },
+ {
+  "slug": "rezkup-doc-2019",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/rezkup.doc-07d45f379c.doc",
+  "meta": {
+   "name": "rezkup.doc",
+   "year": "2019"
+  }
+ },
+ {
+  "slug": "rezultati-ssv-2023-pdf-2023",
+  "adapter": "savate_misc",
+  "source": "raw_sources/rezultati-SSV-2023.pdf-c46ff26864.pdf",
+  "meta": {
+   "name": "rezultati SSV 2023.pdf",
+   "year": "2023",
+   "city": "Žabalj"
+  }
+ },
+ {
+  "slug": "savate-bf-resultats-2008-2008",
+  "adapter": "universitaire",
+  "source": "raw_sources/savate_bf_resultats_2008.xls-1d7cba4c67",
+  "meta": {
+   "name": "savate bf resultats 2008",
+   "year": "2008",
+   "city": "Rennes"
+  }
+ },
+ {
+  "slug": "savate-tableaux-feminin-cfu-2015-pdf-2015",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/savate_tableaux_feminin_cfu_2015.pdf-41f6f5c974.pdf",
+  "meta": {
+   "name": "savate tableaux feminin cfu 2015.pdf",
+   "year": "2015"
+  }
+ },
+ {
+  "slug": "savate-tableaux-masculins-cfu-2015-pdf-2015",
+  "adapter": "savate_weight_list",
+  "source": "raw_sources/savate_tableaux_masculins_cfu_2015.pdf-ade2de9232.pdf",
+  "meta": {
+   "name": "savate tableaux masculins cfu 2015.pdf",
+   "year": "2015"
+  }
+ },
+ {
+  "slug": "sprezultati-pdf-2021",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/sprezultati.pdf-ad088a2ca6.pdf",
+  "meta": {
+   "name": "sprezultati.pdf",
+   "year": "2021"
+  }
+ },
+ {
+  "slug": "varazdin-pdf-2023",
+  "adapter": "srbija_sheets",
+  "source": "raw_sources/varazdin.pdf-f561eee653.pdf",
+  "meta": {
+   "name": "varazdin.pdf",
+   "year": "2023"
+  }
+ },
+ {
+  "slug": "varazdincombatwoman-pdf",
+  "adapter": "podium_pdf",
+  "source": "raw_sources/varazdincombatwoman.pdf-6a4a70a42b.pdf",
+  "meta": {
+   "name": "varazdincombatwoman.pdf",
+   "year": ""
+  }
+ },
+ {
+  "slug": "finales-finales-2023",
+  "adapter": "quomodo_club",
+  "source": "raw_sources/Livret-Open-dAutomne-2023vf.pdf-9e1660c9af.pdf",
+  "meta": {
+   "name": "¼, - ½ Finales & Finales",
+   "year": "2023",
+   "city": "cette"
+  }
+ }
+]

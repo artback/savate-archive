@@ -1,0 +1,1662 @@
+{
+ "proposed": 259,
+ "rejected": [
+  {
+   "file": "raw_sources/2014.-SAVATE-Croatia-Open-CRO.pdf-bd3a3e49d5.pdf",
+   "label": "2014. SAVATE Croatia Open CRO.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/2015SAVATE-Croatia-open1.pdf-755b2ee963.pdf",
+   "label": "2015SAVATE Croatia open1.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/2019-20Classement-20Internationale-20Savate-20Assaut-20homme-928736f6ce.pdf",
+   "label": "2019 20Classement 20Internationale 20Savate 20Assaut 20homme",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 24,
+    "categories": 8,
+    "decided": 0,
+    "problems": 3
+   }
+  },
+  {
+   "file": "raw_sources/2022-2023-Resultats-Combat-2eme-serie-Fem.pdf-ac5725256f.pdf",
+   "label": "2022 2023 Resultats Combat 2eme serie Fem.pdf",
+   "why": "archived: ffsavate-championnat-de-france-2e-serie-feminin-2023 (same 48 row(s) (100%))",
+   "stats": {
+    "bouts": 52,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/2022-2023-Resultats-Elite-B-Masc.pdf-6a4bd34841.pdf",
+   "label": "2022 2023 Resultats Elite B Masc.pdf",
+   "why": "archived: ffsavate-championnat-de-france-elite-b-masculin-2023 (same 41 row(s) (100%))",
+   "stats": {
+    "bouts": 47,
+    "placings": 12,
+    "categories": 6,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/2022-2023-Resultats-Espoirs-Masc.pdf-1dd28bc427.pdf",
+   "label": "2022 2023 Resultats Espoirs Masc.pdf",
+   "why": "archived: ffsavate-championnat-de-france-espoirs-masculin-2023 (same 46 row(s) (100%))",
+   "stats": {
+    "bouts": 52,
+    "placings": 12,
+    "categories": 6,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Plateau-Merignac.pdf-1370b75785.pdf",
+   "label": "Plateau Merignac.pdf",
+   "why": "cluster of archived ffsavate-championnat-de-france-espoirs-masculin-2023",
+   "stats": {
+    "bouts": 22,
+    "placings": 44,
+    "categories": 13,
+    "decided": 0,
+    "problems": 23
+   }
+  },
+  {
+   "file": "raw_sources/Resultats-Merignac-.pdf-f79c2491dc.pdf",
+   "label": "Resultats Merignac .pdf",
+   "why": "cluster of archived ffsavate-championnat-de-france-espoirs-masculin-2023",
+   "stats": {
+    "bouts": 22,
+    "placings": 44,
+    "categories": 22,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/Livret-Juniors-v-Finale.pdf-32843a5a72.pdf",
+   "label": "Livret Juniors v Finale.pdf",
+   "why": "cluster of archived ffsavate-championnat-de-france-espoirs-masculin-2023",
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/Resulats-Demi-Finales-PREMIUM-Samedi-18-mars-2023-CALAIS.pdf-04746dceaa.pdf",
+   "label": "Resulats Demi Finales PREMIUM Samedi 18 mars 2023 CALAIS.pdf",
+   "why": "cluster of archived ffsavate-championnat-de-france-espoirs-masculin-2023",
+   "stats": {
+    "bouts": 4,
+    "placings": 8,
+    "categories": 3,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/268-resultats-challenge-martinique-24-avril-2016-20542b6593",
+   "label": "RESULTATS CHALLENGE MARTINIQUE 24 AVRIL 2016",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 2,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/272-world-championship-canne-de-combat-2016-results-5b2df67c9a",
+   "label": "272 world championship canne de combat 2016 results",
+   "why": "canne de combat / chauss'fight - another sport",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/285-world-combat-championships-inscriptions-2015-sennior-wom-32dfeca56f",
+   "label": "Championnat du Monde Combat 2015",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/download.php-id-15-b1cdb65b8b",
+   "label": "download.php id 15",
+   "why": "archived: fisav-medalists-world-combat-championships-senior-men-20 (same 33 row(s) (91%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 33,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/319-international-ranking-in-savate-combat-seniors-hommes-f13569ea65",
+   "label": "319 international ranking in savate combat seniors hommes",
+   "why": "cluster of archived fisav-medalists-world-combat-championships-senior-men-20",
+   "stats": {
+    "bouts": 0,
+    "placings": 24,
+    "categories": 8,
+    "decided": 0,
+    "problems": 3
+   }
+  },
+  {
+   "file": "raw_sources/download.php-id-14-61d02da984.pdf",
+   "label": "download.php id 14",
+   "why": "archived: fisav-medalists-world-combat-championships-senior-women- (same 25 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 25,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/320-international-ranking-in-savate-combat-seniors-feminines-f6b5bc8a5b",
+   "label": "320 international ranking in savate combat seniors feminines",
+   "why": "cluster of archived fisav-medalists-world-combat-championships-senior-women-",
+   "stats": {
+    "bouts": 0,
+    "placings": 24,
+    "categories": 8,
+    "decided": 0,
+    "problems": 3
+   }
+  },
+  {
+   "file": "raw_sources/325-youth-pool-results-boys-2017-b9776f3afd",
+   "label": "325 youth pool results boys 2017",
+   "why": "archived: fisav-world-youth-championship-2017-male-results (100% of names, re-capture)",
+   "stats": {
+    "bouts": 14,
+    "placings": 0,
+    "categories": 8,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/394-petit-challenge-du-mois-d-avril-57758698d4",
+   "label": "PETIT CHALLENGE DU MOIS D'AVRIL",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 2,
+    "decided": 0,
+    "problems": 4
+   }
+  },
+  {
+   "file": "raw_sources/3rd-asian-savate-championships-380-bafcebe2a9",
+   "label": "News - FISav",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 1,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/415-world-assaut-championships-2018-medallists-669572a369.pdf",
+   "label": "415 world assaut championships 2018 medallists",
+   "why": "archived: fisav-world-assaut-2018-plovdiv-medallists (100% of names, re-capture)",
+   "stats": {
+    "bouts": 0,
+    "placings": 64,
+    "categories": 16,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/427-f-75kg-pool-results-2018794-f64b5e5a7b.pdf",
+   "label": "427 f 75kg pool results 2018794",
+   "why": "cluster of archived fisav-world-assaut-2018-plovdiv-medallists",
+   "stats": {
+    "bouts": 11,
+    "placings": 0,
+    "categories": 1,
+    "decided": 10,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/426-f-75kg-pool-results-2018-fb770b051f",
+   "label": "426 f 75kg pool results 2018",
+   "why": "cluster of archived fisav-world-assaut-2018-plovdiv-medallists",
+   "stats": {
+    "bouts": 10,
+    "placings": 0,
+    "categories": 1,
+    "decided": 10,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/411-f-48kg-pool-results-2018-7fa52f3a66",
+   "label": "411 f 48kg pool results 2018",
+   "why": "cluster of archived fisav-world-assaut-2018-plovdiv-medallists",
+   "stats": {
+    "bouts": 9,
+    "placings": 0,
+    "categories": 1,
+    "decided": 6,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/4th-asian-savate-championship-may-2023-tashkent-uzbekistan-4-5864b151d5",
+   "label": "News - FISav 2023",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 2,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/57-results-of-the-2024-ceintures-europeennes-savate-pro-fda2e09ad0",
+   "label": "Results of the 2024 Ceintures Européennes Savate Pro",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 2,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/5th-asian-savate-championship-honour-and-pride-of-asia-420-07db84f586",
+   "label": "News - FISav",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 1,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/662-junior-men-75kg-389c13ccb6",
+   "label": "662 junior men 75kg",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 1,
+    "decided": 1,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/665-senior-men-56kg-774a1bd499",
+   "label": "665 senior men 56kg",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/67-world-combat-games-2013-full-results-73275e5f9b.pdf",
+   "label": "67 world combat games 2013 full results",
+   "why": "archived: wcg-savate-2013-saint-petersburg (same 40 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 40,
+    "categories": 10,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/677-senior-women-60kg-b004cee7ab.pdf",
+   "label": "677 senior women 60kg",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/893-world-assaut-championships-2024-slovenia-medallists-05c144232d.pdf",
+   "label": "893 world assaut championships 2024 slovenia medallists",
+   "why": "archived: fisav-wc-assaut-2024-slovenia (98% of names, re-capture)",
+   "stats": {
+    "bouts": 0,
+    "placings": 64,
+    "categories": 16,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/assaut2024.pdf-c5ed396ce1.pdf",
+   "label": "assaut2024.pdf",
+   "why": "cluster of archived fisav-wc-assaut-2024-slovenia",
+   "stats": {
+    "bouts": 0,
+    "placings": 64,
+    "categories": 16,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/681-international-ranking-in-savate-assaut-seniors-feminines-cf6a9b5ccb",
+   "label": "681 international ranking in savate assaut seniors feminines",
+   "why": "cluster of archived fisav-wc-assaut-2024-slovenia",
+   "stats": {
+    "bouts": 0,
+    "placings": 24,
+    "categories": 8,
+    "decided": 0,
+    "problems": 3
+   }
+  },
+  {
+   "file": "raw_sources/682-international-ranking-in-savate-assaut-seniors-hommes-d0737f45a7",
+   "label": "682 international ranking in savate assaut seniors hommes",
+   "why": "cluster of archived fisav-wc-assaut-2024-slovenia",
+   "stats": {
+    "bouts": 0,
+    "placings": 24,
+    "categories": 8,
+    "decided": 0,
+    "problems": 3
+   }
+  },
+  {
+   "file": "raw_sources/689-results-of-the-2019-asian-savate-championships-6dd8e6f647",
+   "label": "689 results of the 2019 asian savate championships",
+   "why": "archived: fisav-results-of-the-2019-asian-savate-championships (same 30 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 30,
+    "categories": 9,
+    "decided": 0,
+    "problems": 3
+   }
+  },
+  {
+   "file": "raw_sources/6th-asian-savate-championship-2025-new-delhi-422-1a6c02e260",
+   "label": "News - FISav 2025",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 1,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/705-world-youth-championship-2021-f48-678ea2f9b9",
+   "label": "705 world youth championship 2021 f48",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/706-world-youth-championship-2021-f52-0784146cce",
+   "label": "706 world youth championship 2021 f52",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/707-world-youth-championship-2021-f56-73db148488",
+   "label": "707 world youth championship 2021 f56",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/709-world-youth-championship-2021-f65-26388599ba",
+   "label": "709 world youth championship 2021 f65",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/720-world-youth-championship-2021-g85-111a354a41.pdf",
+   "label": "720 world youth championship 2021 g85",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/729-world-cadet-cup-2021-g56-e5158e3efd.pdf",
+   "label": "729 world cadet cup 2021 g56",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/73-championnat-du-monde-combat-2007-masc-juniors-32badcc37f.pdf",
+   "label": "73 championnat du monde combat 2007 masc juniors",
+   "why": "archived: fisav-world-combat-2007-junior-men (same 16 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 16,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/730-world-cadet-cup-2021-g60-cd65e13b98.pdf",
+   "label": "730 world cadet cup 2021 g60",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/734-world-cadet-cup-2021-medals-179599b02a",
+   "label": "734 world cadet cup 2021 medals",
+   "why": "archived: fisav-world-cup-jeune-2021 (100% of names, re-capture)",
+   "stats": {
+    "bouts": 0,
+    "placings": 37,
+    "categories": 11,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/kupmedal.pdf-96b0813fb0.pdf",
+   "label": "kupmedal.pdf",
+   "why": "cluster of archived fisav-world-cup-jeune-2021",
+   "stats": {
+    "bouts": 0,
+    "placings": 37,
+    "categories": 11,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/74-championnat-du-monde-combat-2007-femmes-a9fe1aa3ae",
+   "label": "74 championnat du monde combat 2007 femmes",
+   "why": "archived: fisav-world-combat-2007-women (same 14 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/76-championnat-du-monde-combat-hommes-2007-ddf2dee9fc.pdf",
+   "label": "76 championnat du monde combat hommes 2007",
+   "why": "archived: fisav-world-combat-2007-men (same 16 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 16,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/77-junior-combat-european-championship-2008-6b71a8df1c.pdf",
+   "label": "77 junior combat european championship 2008",
+   "why": "archived: junior-combat-european-championship-2008 (same 97 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 97,
+    "categories": 22,
+    "decided": 0,
+    "problems": 5
+   }
+  },
+  {
+   "file": "raw_sources/index2.php-option-com_docman-task-doc_view-gid-94-Itemid-34-b9148ab453",
+   "label": "index2.php option com docman task doc view gid 94 Itemid 34",
+   "why": "cluster of archived junior-combat-european-championship-2008",
+   "stats": {
+    "bouts": 0,
+    "placings": 95,
+    "categories": 21,
+    "decided": 0,
+    "problems": 7
+   }
+  },
+  {
+   "file": "raw_sources/817-f-75kg-pool-results-assaut-2022-4ee4653c2f",
+   "label": "World Championship",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/819-f70kg-pool-results-assaut-2022-c191d9e029",
+   "label": "World Championship",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 1,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/825-medallists-world-savate-assaut-championships-2022-80310297d1.pdf",
+   "label": "825 medallists world savate assaut championships 2022",
+   "why": "archived: fisav-world-assaut-2022-milano-medallists (98% of names, re-capture)",
+   "stats": {
+    "bouts": 0,
+    "placings": 63,
+    "categories": 16,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/85-european-combat-championships-2010-juniors-2939ce6020.pdf",
+   "label": "85 european combat championships 2010 juniors",
+   "why": "archived: fisav-european-combat-2010-juniors (same 18 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 18,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/868-pool-results-world-canne-2024-b92d874d1e.pdf",
+   "label": "868 pool results world canne 2024",
+   "why": "canne de combat / chauss'fight - another sport",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/870-world-cup-canne-de-combat-2024-prague-results-ec1063f58d.pdf",
+   "label": "870 world cup canne de combat 2024 prague results",
+   "why": "canne de combat / chauss'fight - another sport",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/955-european-assaut-championships-2025-medals-920439aac0.pdf",
+   "label": "955 european assaut championships 2025 medals",
+   "why": "archived: fisav-european-assaut-2025-weiz-medals (100% of names, re-capture)",
+   "stats": {
+    "bouts": 0,
+    "placings": 61,
+    "categories": 16,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/CLASSEMENT-DES-OFFICIELS-PAR-LIGUE-2023-2024.pdf-0a4223e4fa.pdf",
+   "label": "CLASSEMENT DES OFFICIELS PAR LIGUE 2023 2024.pdf",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/CLASSEMENTS-SBF-IDF-24-25.pdf-a58a72c078.pdf",
+   "label": "CLASSEMENTS SBF IDF 24 25.pdf",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 26,
+    "categories": 12,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Championnat-de-France-JEUNES-2024-GUADELOUPE.pdf-790ab28aea.pdf",
+   "label": "Championnat de France JEUNES 2024 GUADELOUPE.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Classement-des-officiels-internationaux-par-ligue-2022_2023.-e99ce6715e.pdf",
+   "label": "Classement des officiels internationaux par ligue 2022 2023.",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 14,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/Classement-des-officiels-internationaux-par-ligue-2023_2024.-f005de544f.pdf",
+   "label": "Classement des officiels internationaux par ligue 2023 2024.",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 15,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/Classement-des-officiels-internationaux-par-ligue-2024_2025-0f47a29ffa.pdf",
+   "label": "Classement des officiels internationaux par ligue 2024 2025",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 12,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/Classement-des-officiels-nationaux-par-Ligue-2022_2023.pdf-9c77da7f1a.pdf",
+   "label": "Classement des officiels nationaux par Ligue 2022 2023.pdf",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/DEROULT_ELITE_2_phase.pdf-78fbf244a7.pdf",
+   "label": "DEROULT ELITE 2 phase.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 0,
+    "placings": 1,
+    "categories": 1,
+    "decided": 0,
+    "problems": 8
+   }
+  },
+  {
+   "file": "raw_sources/Directives-Techniques-2022-2023_FINAL-1.pdf-f30c878b70.pdf",
+   "label": "Directives Techniques 2022 2023 FINAL 1.pdf",
+   "why": "names carry control characters - binary file misread",
+   "stats": {
+    "bouts": 25,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Evidencija-natjecanja-i-rezultata.pdf-c9f5ae5e75.pdf",
+   "label": "Evidencija natjecanja i rezultata.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/FINALES-CHAMPIONNAT-DE-FRANCE-PREMIUM-ET-JUNIOR-SAVATE-BOXE-41dd212245.pdf",
+   "label": "FINALES CHAMPIONNAT DE FRANCE PREMIUM ET JUNIOR SAVATE BOXE",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Fascicule-debut-saison-2022-2023v14_-_Resultats.pdf-156fa59951.pdf",
+   "label": "Fascicule debut saison 2022 2023v14 Resultats.pdf",
+   "why": "names carry control characters - binary file misread",
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/France-jeunes-2024-Resultats-1.pdf-ee831c18d4.pdf",
+   "label": "France jeunes 2024 Resultats 1.pdf",
+   "why": "archived: ffsavate-france-jeunes-2024 (same 111 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 111,
+    "categories": 37,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/France-jeunes-2024-Resultats-2.pdf-b4ec138b7c.pdf",
+   "label": "France jeunes 2024 Resultats 2.pdf",
+   "why": "cluster of archived ffsavate-france-jeunes-2024",
+   "stats": {
+    "bouts": 0,
+    "placings": 111,
+    "categories": 37,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/France-jeunes-2024-Resultats.pdf-b4582b9eb5.pdf",
+   "label": "France jeunes 2024 Resultats.pdf",
+   "why": "cluster of archived ffsavate-france-jeunes-2024",
+   "stats": {
+    "bouts": 0,
+    "placings": 111,
+    "categories": 37,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/International-Savate-Tournament.pdf-42ec3f3af5.pdf",
+   "label": "International Savate Tournament.pdf",
+   "why": "names carry control characters - binary file misread",
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/KONA-NA-RANG-LISTA-KANDIDATA-2015..pdf-bc142abe74.pdf",
+   "label": "KONA NA RANG LISTA KANDIDATA 2015..pdf",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Livret-de-competitions-25-26-v19.09.25.pdf-9261ca0bd4.pdf",
+   "label": "Livret de competitions 25 26 v19.09.25.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/OTChET-ChR-komba-1.pdf-a99b10953b.pdf",
+   "label": "OTChET ChR komba 1.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/PH-combat-i-precombat-2024.-Split.pdf-7e5ed99537.pdf",
+   "label": "PH combat i precombat 2024. Split.pdf",
+   "why": "archived: hrsavez-ph-combat-2024-split (100% of names, re-capture)",
+   "stats": {
+    "bouts": 0,
+    "placings": 22,
+    "categories": 10,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Preliminarna-Rang-lista-2018.-2019..pdf-de983cfb4f.pdf",
+   "label": "Preliminarna Rang lista 2018. 2019..pdf",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/RESULTATS-11-MARS-2023-ELITE-A.pdf-ab7d4a4c8d.pdf",
+   "label": "RESULTATS 11 MARS 2023 ELITE A.pdf",
+   "why": "archived: ffsavate-championnat-de-france-elite-a-11-mars-2023 (same 22 row(s) (95%))",
+   "stats": {
+    "bouts": 11,
+    "placings": 22,
+    "categories": 9,
+    "decided": 0,
+    "problems": 8
+   }
+  },
+  {
+   "file": "raw_sources/RESULTATS-20HOMMES-20ASSAUT-202008.pdf-258875108f.pdf",
+   "label": "RESULTATS 20HOMMES 20ASSAUT 202008.pdf",
+   "why": "archived: fisav-world-assaut-2008-men-classement (same 32 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 32,
+    "categories": 8,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/RESULTS-20WOMEN-20ASSAUT-202008.pdf-d4e266519a.pdf",
+   "label": "RESULTS 20WOMEN 20ASSAUT 202008.pdf",
+   "why": "archived: fisav-world-assaut-2008-women-classement (same 27 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 27,
+    "categories": 7,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/REVRED.pdf-22d52c826f.pdf",
+   "label": "REVRED.pdf",
+   "why": "names carry control characters - binary file misread",
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-JUNIORS-FINALES-mars-2-87c5e05a77.pdf",
+   "label": "Resulats Verdun CHAMPIONNAT DE FRANCE JUNIORS FINALES mars 2",
+   "why": "archived: ffsavate-championnat-de-france-juniors-2024-verdun (same 7 row(s) (100%))",
+   "stats": {
+    "bouts": 7,
+    "placings": 14,
+    "categories": 7,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/Resultat-du-championnat-cadet-F-M-2025.pdf-3bd23854c0.pdf",
+   "label": "Resultat du championnat cadet F M 2025.pdf",
+   "why": "archived: ffsbf-cadets-albertville-2025 (same 17 row(s) (100%))",
+   "stats": {
+    "bouts": 17,
+    "placings": 34,
+    "categories": 17,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/Resultats-Dieppe-10.01.2026-.pdf-697a9e8cc2.pdf",
+   "label": "Resultats Dieppe 10.01.2026 .pdf",
+   "why": "archived: ffsavate-demi-finales-2eme-serie-dieppe-2026 (same 8 row(s) (100%))",
+   "stats": {
+    "bouts": 8,
+    "placings": 16,
+    "categories": 4,
+    "decided": 0,
+    "problems": 5
+   }
+  },
+  {
+   "file": "raw_sources/Resultats-Open-de-France-assaut-2024.pdf-4bf50931a8.pdf",
+   "label": "Resultats Open de France assaut 2024.pdf",
+   "why": "archived: ffsavate-open-de-france-assaut-2024 (same 16 row(s) (100%))",
+   "stats": {
+    "bouts": 16,
+    "placings": 32,
+    "categories": 16,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/Resultats-Open-de-France-savate-forme-2026.pdf-c2d24fe203.pdf",
+   "label": "Resultats Open de France savate forme 2026.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Resultats-Open-par-equipe-2026.pdf-b2fa33110f.pdf",
+   "label": "Resultats Open par equipe 2026.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Resultats-finales-ELITE-A.pdf-45e9ea7f1b.pdf",
+   "label": "Resultats finales ELITE A.pdf",
+   "why": "archived: ffsavate-finales-championnat-de-france-elite-a-2025-paris (same 15 row(s) (100%))",
+   "stats": {
+    "bouts": 15,
+    "placings": 30,
+    "categories": 15,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/Resultats_Challenge_Aviron-20de-20Mer-2005-20a-20Brest.pdf-24035ef5b5.pdf",
+   "label": "Resultats Challenge Aviron 20de 20Mer 2005 20a 20Brest.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Soli_Campionati_Italiani_Assoluti_Savate_2025.pdf-fe94b45d02.pdf",
+   "label": "Soli Campionati Italiani Assoluti Savate 2025.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/WCADET.pdf-3a7f477437.pdf",
+   "label": "WCADET.pdf",
+   "why": "archived: fisav-world-youth-championship-2015-female-results (same 23 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 23,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/WCG-RESULTATS-SAVATE.pdf-00ba6e9fc6.pdf",
+   "label": "WCG RESULTATS SAVATE.pdf",
+   "why": "archived: world-combat-games-savate-2023 (same 40 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 40,
+    "categories": 10,
+    "decided": 0,
+    "problems": 4
+   }
+  },
+  {
+   "file": "raw_sources/austrijacomb.pdf-f639b4a82e.pdf",
+   "label": "austrijacomb.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/blog-start-12-afe97ce877",
+   "label": "News",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 5,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/blog-start-4-c3a2d07141",
+   "label": "Here you can find the results of the 202 4 Ceintures Européennes Savate Pro",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 0,
+    "placings": 2,
+    "categories": 2,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/boxe_francaise_resultats.pdf-208cafeafc.pdf",
+   "label": "boxe francaise resultats.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 0,
+    "placings": 1,
+    "categories": 1,
+    "decided": 0,
+    "problems": 33
+   }
+  },
+  {
+   "file": "raw_sources/dopuna-precombat.pdf-5d05fabd98.pdf",
+   "label": "dopuna precombat.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/download.php-id-12-baf0532d02",
+   "label": "download.php id 12",
+   "why": "archived: fisav-medalists-world-combat-championships-junior-women- (same 15 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 15,
+    "categories": 5,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/download.php-id-22-711fa24638",
+   "label": "download.php id 22",
+   "why": "names carry control characters - binary file misread",
+   "stats": {
+    "bouts": 4,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/epizv2023.pdf-192f7d1742.pdf",
+   "label": "epizv2023.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 0,
+    "placings": 1,
+    "categories": 1,
+    "decided": 0,
+    "problems": 4
+   }
+  },
+  {
+   "file": "raw_sources/epmed.pdf-f53269942e.pdf",
+   "label": "epmed.pdf",
+   "why": "archived: cesav-ec-assaut-2023-rugvica (100% of names, re-capture)",
+   "stats": {
+    "bouts": 0,
+    "placings": 61,
+    "categories": 16,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/fismember.pdf-8fad8cc9de.pdf",
+   "label": "fismember.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/haberdetay-43-321-savate-bransi-millilerimizden-buyuk-basari-95a565f898",
+   "label": "haberdetay 43 321 savate bransi millilerimizden buyuk basari",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 12,
+    "categories": 10,
+    "decided": 0,
+    "problems": 3
+   }
+  },
+  {
+   "file": "raw_sources/index-D-2hwmAF.js-2f167b3bf6",
+   "label": "index D 2hwmAF.js",
+   "why": "not a results document (asset or page shell)",
+   "stats": {
+    "bouts": 3,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/jap_nouvelle.html-97531411c9",
+   "label": "Acutualites -�j���[�X-",
+   "why": "names carry control characters - binary file misread",
+   "stats": {
+    "bouts": 1,
+    "placings": 8,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/koreja.doc-1536badd33",
+   "label": "koreja",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 0,
+    "placings": 2,
+    "categories": 2,
+    "decided": 0,
+    "problems": 4
+   }
+  },
+  {
+   "file": "raw_sources/kupboy.pdf-c80a9e2873.pdf",
+   "label": "kupboy.pdf",
+   "why": "archived: fisav-world-cup-for-13-14-years-2021-male-results (same 25 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 25,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/kupgirls.pdf-0ed623efaa.pdf",
+   "label": "kupgirls.pdf",
+   "why": "archived: fisav-world-cup-for-13-14-years-2021-female-results (same 12 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 12,
+    "categories": 4,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/lang-french-9e3e049a6f",
+   "label": "lang french",
+   "why": "not a results document (asset or page shell)",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 2,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/lovervale.xlsx-fc415403ba.xlsx",
+   "label": "lovervale.xlsx",
+   "why": "archived: cesav-european-championship-assaut-2021 (same 55 row(s) (73%))",
+   "stats": {
+    "bouts": 135,
+    "placings": 55,
+    "categories": 15,
+    "decided": 135,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/news-category-3-9ee8b640b5",
+   "label": "News - FISav",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 5,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/varazdincombat.pdf-8d81d29ebf.pdf",
+   "label": "varazdincombat.pdf",
+   "why": "archived: fisav-world-combat-championships-2023-pool-results (same 130 row(s) (95%))",
+   "stats": {
+    "bouts": 149,
+    "placings": 0,
+    "categories": 21,
+    "decided": 0,
+    "problems": 39
+   }
+  },
+  {
+   "file": "raw_sources/page-185b6a6db7",
+   "label": "page",
+   "why": "cluster of archived fisav-world-combat-championships-2023-pool-results",
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/page-f8cc87e701",
+   "label": "page",
+   "why": "cluster of archived fisav-world-combat-championships-2023-pool-results",
+   "stats": {
+    "bouts": 6,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/page-2c34fd897e",
+   "label": "page",
+   "why": "not a results document (asset or page shell)",
+   "stats": {
+    "bouts": 0,
+    "placings": 4,
+    "categories": 3,
+    "decided": 0,
+    "problems": 4
+   }
+  },
+  {
+   "file": "raw_sources/page-6af0836ee5",
+   "label": "Results of the Savate Assaut and Canne de Combat Senior Championships 2019",
+   "why": "canne de combat / chauss'fight - another sport",
+   "stats": {
+    "bouts": 0,
+    "placings": 12,
+    "categories": 6,
+    "decided": 0,
+    "problems": 3
+   }
+  },
+  {
+   "file": "raw_sources/page-7c60832f28",
+   "label": "Vieilles Savates et Vieilles Cannes - FF SAVATE",
+   "why": "canne de combat / chauss'fight - another sport",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/page-ddcdc2708e",
+   "label": "page",
+   "why": "not a results document (asset or page shell)",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/plasman2020.pdf-83ad5dabb3.pdf",
+   "label": "plasman2020.pdf",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/plasman2024.pdf-862aafae95.pdf",
+   "label": "plasman2024.pdf",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 1,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/rezultatrijad.pdf-deaa7b2ed2.pdf",
+   "label": "rezultatrijad.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 0,
+    "placings": 1,
+    "categories": 1,
+    "decided": 0,
+    "problems": 2
+   }
+  },
+  {
+   "file": "raw_sources/savate_resultats_equipes_2015.pdf-82f63c71d5.pdf",
+   "label": "savate resultats equipes 2015.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 0,
+    "placings": 2,
+    "categories": 2,
+    "decided": 0,
+    "problems": 4
+   }
+  },
+  {
+   "file": "raw_sources/sloveniaman.pdf-6a9edf2676.pdf",
+   "label": "sloveniaman.pdf",
+   "why": "archived: fisav-world-youth-championship-2023-male-results (same 35 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 35,
+    "categories": 10,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/sloveniapool.pdf-7b9f6e637b.pdf",
+   "label": "sloveniapool.pdf",
+   "why": "archived: fisav-world-youth-2023-pool-results (same 107 row(s) (76%))",
+   "stats": {
+    "bouts": 117,
+    "placings": 0,
+    "categories": 12,
+    "decided": 0,
+    "problems": 30
+   }
+  },
+  {
+   "file": "raw_sources/sloveniawoman.pdf-396da0df44.pdf",
+   "label": "sloveniawoman.pdf",
+   "why": "archived: fisav-world-youth-championship-2023-female-results (same 19 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 19,
+    "categories": 6,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/spboy.pdf-b8be01e65e.pdf",
+   "label": "spboy.pdf",
+   "why": "archived: fisav-world-youth-championship-2021-male-results (same 34 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 34,
+    "categories": 10,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/spgirl.pdf-d202bb453c.pdf",
+   "label": "spgirl.pdf",
+   "why": "archived: fisav-world-youth-championship-2021-female-results (same 19 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 19,
+    "categories": 7,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/team-gb-medals-3-for-3-e0c480f82b",
+   "label": "team gb medals 3 for 3",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 0,
+    "placings": 2,
+    "categories": 2,
+    "decided": 0,
+    "problems": 3
+   }
+  },
+  {
+   "file": "raw_sources/varazdincombatjunior.pdf-5cb8b30447.pdf",
+   "label": "varazdincombatjunior.pdf",
+   "why": "archived: fisav-world-combat-championships-junior-men-2023 (same 24 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 24,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/varazdincombatman.pdf-b849b0bf7a.pdf",
+   "label": "varazdincombatman.pdf",
+   "why": "archived: fisav-world-combat-championships-senior-men-2023 (same 31 row(s) (100%))",
+   "stats": {
+    "bouts": 0,
+    "placings": 31,
+    "categories": 8,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/wcup.pdf-4d5ccdf3f5.pdf",
+   "label": "wcup.pdf",
+   "why": "fewer than 3 rows - review by hand",
+   "stats": {
+    "bouts": 2,
+    "placings": 0,
+    "categories": 0,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/world-championship-combat-2025-428-6c1861b561",
+   "label": "News - FISav 2025",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 1,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/world-youth-championship-2025-tashkent-430-9f2f4077e2",
+   "label": "News - FISav 2025",
+   "why": "aggregate ranking, officials list or news page",
+   "stats": {
+    "bouts": 0,
+    "placings": 1,
+    "categories": 1,
+    "decided": 0,
+    "problems": 0
+   }
+  },
+  {
+   "file": "raw_sources/Livret-Open-dAutomne-2023.pdf-94d8a3765a.pdf",
+   "label": "Livret Open dAutomne 2023.pdf",
+   "why": "same event as finales-finales-2023 via another adapter (savate_misc vs quomodo_club)",
+   "stats": {
+    "bouts": 6,
+    "placings": 12,
+    "categories": 6,
+    "decided": 0,
+    "problems": 12
+   }
+  },
+  {
+   "file": "raw_sources/Repartition-20Finales-20Europe-202018.pdf-22fb944d6e.pdf",
+   "label": "FINALES du CHAMPIONNAT D’EUROPE COMBAT 2018",
+   "why": "same event as result-20tq-20-20jun-20europe-202018-compressed-pdf-2020 via another adapter (quomodo_club vs ffsavate_finals)",
+   "stats": {
+    "bouts": 15,
+    "placings": 2,
+    "categories": 15,
+    "decided": 0,
+    "problems": 1
+   }
+  },
+  {
+   "file": "raw_sources/Livret-Open-Automne-2025-v3.pdf-14bbc19adf.pdf",
+   "label": "Livret Open Automne 2025 v3.pdf",
+   "why": "same event as livret-de-competition-open-dautomne-2025-v5-pdf-2025 via another adapter (ffsavate_sheets vs ffsavate_bouts)",
+   "stats": {
+    "bouts": 16,
+    "placings": 0,
+    "categories": 10,
+    "decided": 0,
+    "problems": 16
+   }
+  }
+ ],
+ "errors": []
+}

@@ -1,0 +1,303 @@
+date,time,ring,category,phase,red,blue,result,pending,winner_corner,red_points,blue_points,decision,agecat,weightcat,poule,seen_under
+2026-09-10,09:00,1,Senior Men Assaut -75 kg,poule,Farkas Botond,Mohamed Sidiki GUISSE,3-1,False,red,3,1,points,5,7,A,Guinea Conakry
+2026-09-10,09:00,2,Senior Men Assaut -80 kg,poule,AmirReza Zarghani,KOSTIUK NAZARII,3-1,False,red,3,1,points,5,9,F,Iran
+2026-09-10,09:00,3,Senior Men Assaut +85 kg,poule,Pharelle Wilson AKOUAN,Balla TRAORÉ,1-3,False,blue,1,3,points,5,11,D,Cameroon
+2026-09-10,09:13,1,Senior Men Assaut -75 kg,poule,VOINOV VITALII,GAREL Florian,1-3,False,blue,1,3,points,5,7,B,Chinese Taipei
+2026-09-10,09:13,2,Senior Men Assaut -80 kg,poule,TOGNOCCHI JULIEN,BIENVENU Jovan,1-3,False,blue,1,3,points,5,9,F,Belgium
+2026-09-10,09:13,3,Senior Men Assaut +85 kg,poule,Gabriele Fioravanti,Keivan Zarghani,3-1,False,red,3,1,points,5,11,D,Iran
+2026-09-10,09:26,1,Senior Men Assaut -75 kg,poule,Kevin Truesdale,Bartol Pavičić,1-3,False,blue,1,3,points,5,7,C,Croatia
+2026-09-10,09:26,2,Senior Men Assaut -70 kg,poule,HÜSEYİN KARAAĞAÇ,Yonier Mauricio Cruz Salamanca,1-3,False,blue,1,3,points,5,6,A,Colombia
+2026-09-10,09:26,3,Senior Men Assaut -60kg,poule,Andrei KOTOCHIGOV,Gregory THOMASOO,1-3,False,blue,1,3,points,5,4,A,Mauritius
+2026-09-10,09:39,1,Senior Men Assaut -75 kg,poule,NYAMA André,NG KWAI LAP,3-1,False,red,3,1,points,5,7,D,Cameroon
+2026-09-10,09:39,2,Senior Men Assaut -70 kg,poule,Yordan Yordanov,Mihajlo Dodić,3-1,False,red,3,1,points,5,6,B,Bulgaria
+2026-09-10,09:39,3,Senior Men Assaut -60kg,poule,Kais Garayalde,Robin Drigues,3-1,False,red,3,1,points,5,4,B,Algeria
+2026-09-10,09:52,1,Senior Men Assaut -75 kg,poule,Johannes Stindt,Farzam Fallah,1-3,False,blue,1,3,points,5,7,E,Germany
+2026-09-10,09:52,2,Senior Men Assaut -70 kg,poule,Narek BABADZHANIAN,Robert Rijetković,1-3,False,blue,1,3,points,5,6,C,Croatia
+2026-09-10,09:52,3,Senior Men Assaut -60kg,poule,TONG SIU WANG VINCENT,Yasin IBRAHIMOV,1-3,False,blue,1,3,points,5,4,C,Azerbaijan
+2026-09-10,10:05,1,Senior Men Assaut -75 kg,poule,D'ERRICO JULIEN,CAMARA Mohamadou,3-1,False,red,3,1,points,5,7,F,Belgium
+2026-09-10,10:05,2,Senior Men Assaut -70 kg,poule,Tommaso Mari,Sergey Drobinsky,3-1,False,red,3,1,points,5,6,D,Germany
+2026-09-10,10:05,3,Senior Men Assaut -60kg,poule,Kenta FUNAYAMA,LAURENT Medhi,1-3,False,blue,1,3,points,5,4,D,France
+2026-09-10,10:18,1,Senior Men Assaut -80 kg,poule,IDRISSA SAGNA,Aditya Amol Khandizod,3-1,False,red,3,1,points,5,9,A,India
+2026-09-10,10:18,2,Senior Men Assaut -70 kg,poule,CHAN WAI YIP,MohammadHossein Fallah,1-3,False,blue,1,3,points,5,6,D,"Hong Kong, China"
+2026-09-10,10:18,3,Senior Men Assaut -60kg,poule,Sajjad Dareini,Howard Ríos,3-1,False,red,3,1,points,5,4,D,Colombia
+2026-09-10,10:31,1,Senior Men Assaut -75 kg,poule,Chant HOVHANNISYAN,Mohamed Sidiki GUISSE,forfait,False,blue,,3,forfait,5,7,A,Armenia
+2026-09-10,10:31,2,Senior Men Assaut -70 kg,poule,GHASSIRI Johan,BRANTSYRA ARTEM,3-1,False,red,3,1,points,5,6,E,France
+2026-09-10,10:31,3,Senior Women Assaut -56 kg,poule,Bukovinszky Luca,Esther Yamina Noelle OTMANI,3-1,False,red,3,1,points,6,3,A,Algeria
+2026-09-10,10:44,1,Senior Men Assaut -75 kg,poule,Mehmet Emin ERTUĞRUL,GAREL Florian,3-1,False,red,3,1,points,5,7,B,Chinese Taipei
+2026-09-10,10:44,2,Senior Men Assaut +85 kg,poule,NAROU Yoann,Mutéba Orphée Francis FWAMBA,3-1,False,red,3,1,points,5,11,A,Democratic Republic of Congo
+2026-09-10,10:44,3,Senior Women Assaut -56 kg,poule,Viivi Hirvonen,Asia Carducci,3-1,False,red,3,1,points,6,3,B,Finland
+2026-09-10,10:57,1,Senior Men Assaut -75 kg,poule,Radoje Stevanović,Bartol Pavičić,1-3,False,blue,1,3,points,5,7,C,Croatia
+2026-09-10,10:57,2,Senior Men Assaut -70 kg,poule,DIRICQ ENZO,ATTOUGBRE Yves Alain,3-1,False,red,3,1,points,5,6,E,Belgium
+2026-09-10,10:57,3,Senior Women Assaut -56 kg,poule,Anja Lukić,Katarina Klarić,1-3,False,blue,1,3,points,6,3,B,Croatia
+2026-09-10,11:10,1,Senior Men Assaut -75 kg,poule,Simone Cogrossi,NG KWAI LAP,3-1,False,red,3,1,points,5,7,D,"Hong Kong, China"
+2026-09-10,11:10,2,Senior Men Assaut +85 kg,poule,Sabri Sahraoui,Anthony Colli,3-1,False,red,3,1,points,5,11,B,Algeria
+2026-09-10,11:10,3,Senior Women Assaut -56 kg,poule,Rumi UMEDA,KERRINCKX ELISABETH,1-3,False,blue,1,3,points,6,3,C,Belgium
+2026-09-10,11:23,1,Senior Men Assaut -75 kg,poule,Yoshinori HASHIMOTO,Farzam Fallah,1-3,False,blue,1,3,points,5,7,E,Iran
+2026-09-10,11:23,2,Senior Men Assaut -70 kg,poule,Gadir BARKHUDARLI,Robert Rijetković,1-3,False,blue,1,3,points,5,6,C,Azerbaijan
+2026-09-10,11:23,3,Senior Women Assaut -56 kg,poule,LOBJEOIS Gwendoline,SAPONOVA ALISA,3-1,False,red,3,1,points,6,3,C,France
+2026-09-10,11:36,1,Senior Men Assaut -75 kg,poule,GARCIA Iden,Omidullah Alizadah,3-1,False,red,3,1,points,5,7,F,France
+2026-09-10,11:36,2,Senior Men Assaut +85 kg,poule,Nikola Vukčević,Egor GOLOVCHENKO,3-1,False,red,3,1,points,5,11,C,Neutral Athlete
+2026-09-10,11:36,3,Senior Men Assaut -56 kg,poule,Cheikh THIAM,SALDIRAY KALKAN,disqualification,False,red,3,,disqualification,5,3,A,Senegal
+2026-09-10,11:49,1,Senior Men Assaut -80 kg,poule,IDRISSA SAGNA,KEREM ALTAY,3-1,False,red,3,1,points,5,9,A,Senegal
+2026-09-10,11:49,2,Senior Men Assaut -70 kg,poule,Sergey Drobinsky,MohammadHossein Fallah,1-3,False,blue,1,3,points,5,6,D,Germany
+2026-09-10,11:49,3,Senior Men Assaut -56 kg,poule,Li Yu Hung,Anthony Ghassiri,1-3,False,blue,1,3,points,5,3,B,Algeria
+2026-09-10,12:02,1,Senior Men Assaut -80 kg,poule,James Antill,Georgi Dimitrov,3-1,False,red,3,1,points,5,9,B,Bulgaria
+2026-09-10,12:02,2,Senior Men Assaut +85 kg,poule,Sanan BABAZADE,Luka Sakač,1-3,False,blue,1,3,points,5,11,C,Azerbaijan
+2026-09-10,12:02,3,Senior Women Assaut -56 kg,poule,ELİF YALIM,Esther Yamina Noelle OTMANI,3-1,False,red,3,1,points,6,3,A,Algeria
+2026-09-10,13:15,1,Senior Men Assaut -80 kg,poule,GHARRAS Amor,LACHENAL Edouard,1-3,False,blue,1,3,points,5,9,C,Switzerland
+2026-09-10,13:15,2,Senior Men Assaut -70 kg,poule,DIRICQ ENZO,GHASSIRI Johan,1-3,False,blue,1,3,points,5,6,E,Belgium
+2026-09-10,13:15,3,Senior Women Assaut -56 kg,poule,Anja Lukić,Viivi Hirvonen,3-1,False,red,3,1,points,6,3,B,Finland
+2026-09-10,13:28,1,Senior Men Assaut -75 kg,poule,D'ERRICO JULIEN,Omidullah Alizadah,3-1,False,red,3,1,points,5,7,F,Belgium
+2026-09-10,13:28,2,Senior Men Assaut -70 kg,poule,ATTOUGBRE Yves Alain,BRANTSYRA ARTEM,3-1,False,red,3,1,points,5,6,E,Ivory Coast
+2026-09-10,13:28,3,Senior Women Assaut -56 kg,poule,Katarina Klarić,Asia Carducci,1-3,False,blue,1,3,points,6,3,B,Croatia
+2026-09-10,13:41,1,Senior Men Assaut -75 kg,poule,GARCIA Iden,CAMARA Mohamadou,3-1,False,red,3,1,points,5,7,F,France
+2026-09-10,13:41,2,Senior Men Assaut -70 kg,poule,CHAN WAI YIP,Sergey Drobinsky,1-3,False,blue,1,3,points,5,6,D,Germany
+2026-09-10,13:41,3,Senior Men Assaut -60kg,poule,Sajjad Dareini,LAURENT Medhi,1-3,False,blue,1,3,points,5,4,D,France
+2026-09-10,13:54,1,Senior Men Assaut -80 kg,poule,KEREM ALTAY,Aditya Amol Khandizod,disqualification,False,red,3,,disqualification,5,9,A,India
+2026-09-10,13:54,2,Senior Men Assaut +85 kg,poule,NAROU Yoann,Olivier Lafleur,3-1,False,red,3,1,points,5,11,A,France
+2026-09-10,13:54,3,Senior Men Assaut -56 kg,poule,Cheikh THIAM,Stephane Jonkeer,3-1,False,red,3,1,points,5,3,A,Mauritius
+2026-09-10,14:07,1,Senior Men Assaut -80 kg,poule,James Antill,Jovan Stevanović,1-3,False,blue,1,3,points,5,9,B,Great Britain
+2026-09-10,14:07,2,Senior Men Assaut +85 kg,poule,Sabri Sahraoui,Zan ŠUBELJ,1-3,False,blue,1,3,points,5,11,B,Algeria
+2026-09-10,14:07,3,Senior Men Assaut -56 kg,poule,Li Yu Hung,ALAKBAR KHANMAMMADOV,1-3,False,blue,1,3,points,5,3,B,Azerbaijan
+2026-09-10,14:20,1,Senior Men Assaut -80 kg,poule,Beyrak BAGHIROV,Valentino Florjanić,1-3,False,blue,1,3,points,5,9,D,Azerbaijan
+2026-09-10,14:20,2,Senior Men Assaut +85 kg,poule,Pharelle Wilson AKOUAN,Gabriele Fioravanti,3-1,False,red,3,1,points,5,11,D,Cameroon
+2026-09-10,14:20,3,Senior Men Assaut -56 kg,poule,Anthony Ghassiri,Liu KUBOTA,3-1,False,red,3,1,points,5,3,B,Algeria
+2026-09-10,14:33,1,Senior Men Assaut -80 kg,poule,Silvio Fortunato,Jonathan Artback,3-1,False,red,3,1,points,5,9,E,Italy
+2026-09-10,14:33,2,Senior Men Assaut +85 kg,poule,Keivan Zarghani,Balla TRAORÉ,1-3,False,blue,1,3,points,5,11,D,Iran
+2026-09-10,14:33,3,Senior Men Assaut -56 kg,poule,Abolfazl Dowlat Abadi,PECQUET BAPTISTE,3-1,False,red,3,1,points,5,3,C,Belgium
+2026-09-10,14:46,1,Senior Men Assaut -80 kg,poule,GHARRAS Amor,Grigorii DROGIN,1-3,False,blue,1,3,points,5,9,C,Neutral Athlete
+2026-09-10,14:46,2,Senior Men Assaut -60kg,poule,Sajti Benjamin,Andrei KOTOCHIGOV,1-3,False,blue,1,3,points,5,4,A,Hungary
+2026-09-10,14:46,3,Senior Men Assaut -56 kg,poule,CAVROT-WESTERLINCK Ethan,Johan Felipe Caballos Peña,3-1,False,red,3,1,points,5,3,C,Colombia
+2026-09-10,14:59,1,Senior Men Assaut -80 kg,poule,AmirReza Zarghani,TOGNOCCHI JULIEN,3-1,False,red,3,1,points,5,9,F,Belgium
+2026-09-10,14:59,2,Senior Men Assaut -60kg,poule,Sim Cong Yu,Kais Garayalde,1-3,False,blue,1,3,points,5,4,B,Algeria
+2026-09-10,14:59,3,Senior Women Assaut -48 kg,poule,Mariama CISSE,Aicha Ouennas,3-1,False,red,3,1,points,6,1,A,Algeria
+2026-09-10,15:12,1,Senior Men Assaut -80 kg,poule,BIENVENU Jovan,KOSTIUK NAZARII,3-1,False,red,3,1,points,5,9,F,France
+2026-09-10,15:12,2,Senior Men Assaut -60kg,poule,Alen Nokaj,TONG SIU WANG VINCENT,3-1,False,red,3,1,points,5,4,C,Croatia
+2026-09-10,15:12,3,Senior Women Assaut -48 kg,poule,Helena Beljak,Taeko SESHITA,3-1,False,red,3,1,points,6,1,B,Croatia
+2026-09-10,15:25,1,Senior Men Assaut -70 kg,poule,LOPEZ Ousmane,HÜSEYİN KARAAĞAÇ,1-3,False,blue,1,3,points,5,6,A,Senegal
+2026-09-10,15:25,2,Senior Men Assaut -70 kg,poule,DIRICQ ENZO,BRANTSYRA ARTEM,3-1,False,red,3,1,points,5,6,E,Belgium
+2026-09-10,15:25,3,Senior Women Assaut -56 kg,poule,Anja Lukić,Asia Carducci,1-3,False,blue,1,3,points,6,3,B,Italy
+2026-09-10,15:38,1,Senior Men Assaut -70 kg,poule,Kamel Mayouf,Yordan Yordanov,3-1,False,red,3,1,points,5,6,B,Algeria
+2026-09-10,15:38,2,Senior Men Assaut -70 kg,poule,ATTOUGBRE Yves Alain,GHASSIRI Johan,1-3,False,blue,1,3,points,5,6,E,France
+2026-09-10,15:38,3,Senior Women Assaut -56 kg,poule,Katarina Klarić,Viivi Hirvonen,3-1,False,red,3,1,points,6,3,B,Croatia
+2026-09-10,15:51,1,Senior Men Assaut -80 kg,poule,Georgi Dimitrov,Jovan Stevanović,3-1,False,red,3,1,points,5,9,B,Bulgaria
+2026-09-10,15:51,2,Senior Men Assaut +85 kg,poule,Mutéba Orphée Francis FWAMBA,Olivier Lafleur,3-1,False,red,3,1,points,5,11,A,Democratic Republic of Congo
+2026-09-10,15:51,3,Senior Men Assaut -56 kg,poule,SALDIRAY KALKAN,Stephane Jonkeer,disqualification,False,blue,,3,disqualification,5,3,A,Mauritius
+2026-09-10,16:04,1,Senior Men Assaut -80 kg,poule,Beyrak BAGHIROV,Lauri Ilves,3-1,False,red,3,1,points,5,9,D,Azerbaijan
+2026-09-10,16:04,2,Senior Men Assaut +85 kg,poule,Anthony Colli,Zan ŠUBELJ,1-3,False,blue,1,3,points,5,11,B,Canada
+2026-09-10,16:04,3,Senior Men Assaut -56 kg,poule,ALAKBAR KHANMAMMADOV,Liu KUBOTA,3-1,False,red,3,1,points,5,3,B,Azerbaijan
+2026-09-10,16:17,1,Senior Men Assaut -80 kg,poule,LACHENAL Edouard,Grigorii DROGIN,1-3,False,blue,1,3,points,5,9,C,Neutral Athlete
+2026-09-10,16:17,2,Senior Men Assaut +85 kg,poule,Pharelle Wilson AKOUAN,Keivan Zarghani,forfait,False,red,3,,forfait,5,11,D,Cameroon
+2026-09-10,16:17,3,Senior Women Assaut -56 kg,poule,Rumi UMEDA,SAPONOVA ALISA,1-3,False,blue,1,3,points,6,3,C,Japan
+2026-09-10,16:30,1,Senior Men Assaut -80 kg,poule,Silvio Fortunato,Alexander Kaltenbacher,3-1,False,red,3,1,points,5,9,E,Germany
+2026-09-10,16:30,2,Senior Men Assaut +85 kg,poule,Nikola Vukčević,Luka Sakač,3-1,False,red,3,1,points,5,11,C,Croatia
+2026-09-10,16:30,3,Senior Women Assaut -48 kg,poule,Mariama CISSE,Lidia Abazovski,1-3,False,blue,1,3,points,6,1,A,Senegal
+2026-09-10,16:43,1,Senior Men Assaut -80 kg,poule,AmirReza Zarghani,BIENVENU Jovan,1-3,False,blue,1,3,points,5,9,F,France
+2026-09-10,16:43,2,Senior Men Assaut +85 kg,poule,Gabriele Fioravanti,Balla TRAORÉ,1-3,False,blue,1,3,points,5,11,D,Italy
+2026-09-10,16:43,3,Senior Women Assaut -48 kg,poule,Helena Beljak,Mahdis Delghandi,3-1,False,red,3,1,points,6,1,B,Croatia
+2026-09-10,16:56,1,Senior Men Assaut -80 kg,poule,TOGNOCCHI JULIEN,KOSTIUK NAZARII,1-3,False,blue,1,3,points,5,9,F,Belgium
+2026-09-10,16:56,2,Senior Men Assaut -60kg,poule,Sajti Benjamin,Gregory THOMASOO,1-3,False,blue,1,3,points,5,4,A,Hungary
+2026-09-10,16:56,3,Senior Women Assaut -48 kg,poule,Viktoria Vogel,LAPAUW CLOE,3-1,False,red,3,1,points,6,1,C,Austria
+2026-09-10,17:09,1,Senior Men Assaut -70 kg,poule,LOPEZ Ousmane,Yonier Mauricio Cruz Salamanca,3-1,False,red,3,1,points,5,6,A,Colombia
+2026-09-10,17:09,2,Senior Men Assaut -60kg,poule,Sim Cong Yu,Robin Drigues,1-3,False,blue,1,3,points,5,4,B,Canada
+2026-09-10,17:09,3,Senior Women Assaut -48 kg,poule,NANDI Chloe,Sarah Pierre,3-1,False,red,3,1,points,6,1,C,France
+2026-09-10,17:22,1,Senior Men Assaut -70 kg,poule,Kamel Mayouf,Mihajlo Dodić,3-1,False,red,3,1,points,5,6,B,Algeria
+2026-09-10,17:22,2,Senior Men Assaut +85 kg,poule,Egor GOLOVCHENKO,Sanan BABAZADE,disqualification,False,red,3,,disqualification,5,11,C,Azerbaijan
+2026-09-10,17:22,3,Senior Women Assaut -70 kg,poule,BUGADA Marine,MINET GWENAËLLE,3-1,False,red,3,1,points,6,6,A,Belgium
+2026-09-10,17:35,1,Senior Men Assaut -70 kg,poule,Narek BABADZHANIAN,Gadir BARKHUDARLI,disqualification,False,red,3,,disqualification,5,6,C,Azerbaijan
+2026-09-10,17:35,2,Senior Men Assaut -60kg,poule,Alen Nokaj,Yasin IBRAHIMOV,1-3,False,blue,1,3,points,5,4,C,Azerbaijan
+2026-09-10,17:35,3,Senior Women Assaut -56 kg,poule,KERRINCKX ELISABETH,LOBJEOIS Gwendoline,1-3,False,blue,1,3,points,6,3,C,Belgium
+2026-09-10,17:48,1,Senior Men Assaut -80 kg,poule,Valentino Florjanić,Lauri Ilves,3-1,False,red,3,1,points,5,9,D,Croatia
+2026-09-10,17:48,2,Senior Men Assaut -60kg,poule,Kenta FUNAYAMA,Sajjad Dareini,1-3,False,blue,1,3,points,5,4,D,Iran
+2026-09-10,17:48,3,Senior Women Assaut -70 kg,poule,HALILOU Haoua,KAABI Elissa,1-3,False,blue,1,3,points,6,6,A,Cameroon
+2026-09-10,18:01,1,Senior Men Assaut -80 kg,poule,Jonathan Artback,Alexander Kaltenbacher,3-1,False,red,3,1,points,5,9,E,Germany
+2026-09-10,18:01,2,Senior Men Assaut -60kg,poule,LAURENT Medhi,Howard Ríos,3-1,False,red,3,1,points,5,4,D,Colombia
+2026-09-10,18:01,3,Senior Women Assaut -48 kg,poule,Aicha Ouennas,Lidia Abazovski,1-3,False,blue,1,3,points,6,1,A,Algeria
+2026-09-10,18:14,1,Senior Men Assaut -70 kg,poule,Tommaso Mari,CHAN WAI YIP,3-1,False,red,3,1,points,5,6,D,"Hong Kong, China"
+2026-09-10,18:14,2,Senior Women Assaut -56 kg,poule,Bukovinszky Luca,ELİF YALIM,3-1,False,red,3,1,points,6,3,A,Hungary
+2026-09-10,18:14,3,Senior Women Assaut -48 kg,poule,Taeko SESHITA,Mahdis Delghandi,1-3,False,blue,1,3,points,6,1,B,Iran
+2026-09-11,08:30,1,Senior Women Assaut -56 kg,poule,Rumi UMEDA,LOBJEOIS Gwendoline,1-3,False,blue,1,3,points,6,3,C,France
+2026-09-11,08:30,2,Senior Women Assaut -70 kg,poule,Soraya Bouzidi,Selvi Aleyna GILO,3-1,False,red,3,1,points,6,6,B,Canada
+2026-09-11,08:30,3,Senior Women Assaut -65 kg,poule,KURNOSENKO SOFIIA,ZÜMRA KERİM,3-1,False,red,3,1,points,6,5,A,Turkey
+2026-09-11,08:43,1,Senior Men Assaut -56 kg,poule,Li Yu Hung,Liu KUBOTA,3-1,False,red,3,1,points,5,3,B,Chinese Taipei
+2026-09-11,08:43,2,Senior Women Assaut +75 kg,poule,POCHET Lohane,ASYA DİLA AKSOY,3-1,False,red,3,1,points,6,8,A,France
+2026-09-11,08:43,3,Senior Women Assaut -65 kg,poule,Anna Bosc,Gabriela Tsenkova,1-3,False,blue,1,3,points,6,5,B,Algeria
+2026-09-11,08:56,1,Senior Men Assaut -56 kg,poule,Anthony Ghassiri,ALAKBAR KHANMAMMADOV,1-3,False,blue,1,3,points,5,3,B,Algeria
+2026-09-11,08:56,2,Senior Women Assaut +75 kg,poule,TOUSSAINT MARGUERITE,Giada VITRANI,3-1,False,red,3,1,points,6,8,A,Belgium
+2026-09-11,08:56,3,Senior Women Assaut -65 kg,poule,Riikka Holopainen,Jessica Diethold,3-1,False,red,3,1,points,6,5,C,Finland
+2026-09-11,09:09,1,Senior Men Assaut -56 kg,poule,Abolfazl Dowlat Abadi,CAVROT-WESTERLINCK Ethan,disqualification,False,blue,,3,disqualification,5,3,C,France
+2026-09-11,09:09,2,Senior Men Assaut -65 kg,poule,Rishav Sharma,Nour-Eddine Behhdadi,1-3,False,blue,1,3,points,5,5,C,Canada
+2026-09-11,09:09,3,Senior Women Assaut -65 kg,poule,Mahdiyeh Alizadeh,LEMAIRE EMMA,1-3,False,blue,1,3,points,6,5,D,Belgium
+2026-09-11,09:22,1,Senior Women Assaut -60kg,poule,ROUSSY Noa,Mirta Obelić,3-1,False,red,3,1,points,6,4,A,Croatia
+2026-09-11,09:22,2,Senior Men Assaut -65 kg,poule,Nihat GULIYEV,Rony BAABAN A,3-1,False,red,3,1,points,5,5,D,Azerbaijan
+2026-09-11,09:22,3,Senior Women Assaut -75 kg,poule,DJONDO Sara,Anastasiia GAVRICHENKO,3-1,False,red,3,1,points,6,7,A,France
+2026-09-11,09:35,1,Senior Women Assaut -60kg,poule,Arijana Otašević,Maria BEN MOUSSA,1-3,False,blue,1,3,points,6,4,B,Algeria
+2026-09-11,09:35,2,Senior Men Assaut -65 kg,poule,Hamzeh Moradian,DEL GIUDICE YANIS,3-1,False,red,3,1,points,5,5,E,Belgium
+2026-09-11,09:35,3,Senior Women Assaut -75 kg,poule,Emily COLAUTTI,Chanistha JOSHI,1-3,False,blue,1,3,points,6,7,B,Mauritius
+2026-09-11,09:48,1,Senior Women Assaut -60kg,poule,EYLÜL KORKMAZ,HEUNG TSZ YING,3-1,False,red,3,1,points,6,4,B,"Hong Kong, China"
+2026-09-11,09:48,2,Senior Men Assaut -65 kg,poule,DESARME Pierre-Ley,SERIGNE FALLOU MBOUP,3-1,False,red,3,1,points,5,5,F,France
+2026-09-11,10:01,1,Senior Women Assaut -70 kg,poule,BUGADA Marine,HALILOU Haoua,3-1,False,red,3,1,points,6,6,A,Cameroon
+2026-09-11,10:01,2,Senior Women Assaut -52 kg,poule,Tóth-Csáki Fruzsina,Zarha Slimani,forfait,False,red,3,,forfait,6,2,A,Algeria
+2026-09-11,10:14,1,Senior Women Assaut -70 kg,poule,Sofia MATNANE,Soraya Bouzidi,forfait,False,blue,,3,forfait,6,6,B,Canada
+2026-09-11,10:14,2,Senior Women Assaut -52 kg,poule,Louisa Furniss,Stefania Aleksandrova,1-3,False,blue,1,3,points,6,2,B,Bulgaria
+2026-09-11,10:14,3,Senior Women Assaut -65 kg,poule,Giulia RUDEZ,Gabriela Tsenkova,1-3,False,blue,1,3,points,6,5,B,Bulgaria
+2026-09-11,10:27,1,Senior Women Assaut -70 kg,poule,Jessica NOMBREUSE,Selvi Aleyna GILO,3-1,False,red,3,1,points,6,6,B,Mauritius
+2026-09-11,10:27,2,Senior Women Assaut -52 kg,poule,Kira TOROPOVA,Tajana Koščak,3-1,False,red,3,1,points,6,2,C,Croatia
+2026-09-11,10:27,3,Senior Women Assaut -65 kg,poule,Giulia Triolo,Jessica Diethold,3-1,False,red,3,1,points,6,5,C,Germany
+2026-09-11,10:40,1,Senior Men Assaut -56 kg,poule,Abolfazl Dowlat Abadi,Johan Felipe Caballos Peña,1-3,False,blue,1,3,points,5,3,C,Colombia
+2026-09-11,10:40,2,Senior Women Assaut -52 kg,poule,Georlice Kelia Lollos,Mariko HARA,3-1,False,red,3,1,points,6,2,D,Italy
+2026-09-11,10:40,3,Senior Women Assaut -65 kg,poule,Mahdiyeh Alizadeh,Elena ANTIPOVA,1-3,False,blue,1,3,points,6,5,D,Iran
+2026-09-11,10:53,1,Senior Men Assaut -56 kg,poule,PECQUET BAPTISTE,CAVROT-WESTERLINCK Ethan,1-3,False,blue,1,3,points,5,3,C,Belgium
+2026-09-11,10:53,2,Senior Women Assaut -52 kg,poule,LEMAYLLEUX NATHALIE,DELAPLESSE Arwen,1-3,False,blue,1,3,points,6,2,E,Belgium
+2026-09-11,10:53,3,Senior Women Assaut -75 kg,poule,DJONDO Sara,Jelena Sedoglavić,1-3,False,blue,1,3,points,6,7,A,France
+2026-09-11,11:06,1,Senior Women Assaut -60kg,poule,ROUSSY Noa,Anastasiia TSVETKOVA,3-1,False,red,3,1,points,6,4,A,France
+2026-09-11,11:06,2,Senior Men Assaut -85 kg,poule,MASSAMBA MAR,BERKE YILMAZ,3-1,False,red,3,1,points,5,10,A,Senegal
+2026-09-11,11:06,3,Senior Women Assaut -75 kg,poule,Emily COLAUTTI,AYBÜKE SUÇIKAR,1-3,False,blue,1,3,points,6,7,B,Slovenia
+2026-09-11,11:19,1,Senior Women Assaut -60kg,poule,Arijana Otašević,EYLÜL KORKMAZ,3-1,False,red,3,1,points,6,4,B,Serbia
+2026-09-11,11:19,2,Senior Men Assaut -65 kg,poule,DESARME Pierre-Ley,Matei Stefan,3-1,False,red,3,1,points,5,5,F,France
+2026-09-11,11:19,3,Senior Men Assaut -80 kg,1/4,Grigorii DROGIN,Valentino Florjanić,3-1,False,red,3,1,points,,,,Croatia
+2026-09-11,11:32,1,Senior Women Assaut -70 kg,poule,BUGADA Marine,KAABI Elissa,3-1,False,red,3,1,points,6,6,A,France
+2026-09-11,11:32,2,Senior Women Assaut -52 kg,poule,Tóth-Csáki Fruzsina,Marianna ZACCARO,1-3,False,blue,1,3,points,6,2,A,Hungary
+2026-09-11,11:32,3,Senior Men Assaut -80 kg,1/4,Silvio Fortunato,LACHENAL Edouard,1-3,False,blue,1,3,points,,,,Italy
+2026-09-11,11:45,1,Senior Women Assaut -48 kg,poule,LAPAUW CLOE,Sarah Pierre,3-1,False,red,3,1,points,6,1,C,Belgium
+2026-09-11,11:45,2,Senior Women Assaut -52 kg,poule,Louisa Furniss,Nadja Begojev,3-1,False,red,3,1,points,6,2,B,Great Britain
+2026-09-11,11:45,3,Senior Men Assaut -80 kg,1/4,IDRISSA SAGNA,AmirReza Zarghani,3-1,False,red,3,1,points,,,,Iran
+2026-09-11,11:58,1,Senior Women Assaut -70 kg,poule,MINET GWENAËLLE,HALILOU Haoua,3-1,False,red,3,1,points,6,6,A,Belgium
+2026-09-11,11:58,2,Senior Women Assaut -52 kg,poule,Kira TOROPOVA,Salla Nordman,3-1,False,red,3,1,points,6,2,C,Finland
+2026-09-11,11:58,3,Senior Men Assaut -80 kg,1/4,BIENVENU Jovan,James Antill,3-1,False,red,3,1,points,,,,France
+2026-09-11,13:15,1,Senior Women Assaut -70 kg,poule,Sofia MATNANE,Jessica NOMBREUSE,forfait,False,blue,,3,forfait,6,6,B,Mauritius
+2026-09-11,13:15,2,Senior Men Assaut -65 kg,poule,SERIGNE FALLOU MBOUP,Matei Stefan,3-1,False,red,3,1,points,5,5,F,Romania
+2026-09-11,13:15,3,Senior Women Assaut -65 kg,poule,LEMAIRE EMMA,Elena ANTIPOVA,3-1,False,red,3,1,points,6,5,D,Belgium
+2026-09-11,13:28,1,Senior Women Assaut -48 kg,poule,Viktoria Vogel,Sarah Pierre,3-1,False,red,3,1,points,6,1,C,Austria
+2026-09-11,13:28,2,Senior Women Assaut -52 kg,poule,Zarha Slimani,Marianna ZACCARO,forfait,False,blue,,3,forfait,6,2,A,Algeria
+2026-09-11,13:28,3,Senior Women Assaut -75 kg,poule,Anastasiia GAVRICHENKO,Jelena Sedoglavić,1-3,False,blue,1,3,points,6,7,A,Neutral Athlete
+2026-09-11,13:41,1,Senior Women Assaut -48 kg,poule,LAPAUW CLOE,NANDI Chloe,1-3,False,blue,1,3,points,6,1,C,Belgium
+2026-09-11,13:41,2,Senior Women Assaut -52 kg,poule,Stefania Aleksandrova,Nadja Begojev,3-1,False,red,3,1,points,6,2,B,Bulgaria
+2026-09-11,13:41,3,Senior Women Assaut -75 kg,poule,Chanistha JOSHI,AYBÜKE SUÇIKAR,1-3,False,blue,1,3,points,6,7,B,Mauritius
+2026-09-11,13:54,1,Senior Women Assaut -70 kg,poule,MINET GWENAËLLE,KAABI Elissa,3-1,False,red,3,1,points,6,6,A,Belgium
+2026-09-11,13:54,2,Senior Women Assaut -52 kg,poule,Tajana Koščak,Salla Nordman,3-1,False,red,3,1,points,6,2,C,Croatia
+2026-09-11,14:07,1,Senior Women Assaut -60kg,poule,Mirta Obelić,Anastasiia TSVETKOVA,1-3,False,blue,1,3,points,6,4,A,Croatia
+2026-09-11,14:07,2,Senior Women Assaut -52 kg,poule,Georlice Kelia Lollos,Nargol Rafiee,3-1,False,red,3,1,points,6,2,D,Iran
+2026-09-11,14:20,1,Senior Women Assaut -60kg,poule,Arijana Otašević,HEUNG TSZ YING,3-1,False,red,3,1,points,6,4,B,"Hong Kong, China"
+2026-09-11,14:20,2,Senior Women Assaut -52 kg,poule,LEMAYLLEUX NATHALIE,KONOVALCHUK ANASTASIIA,1-3,False,blue,1,3,points,6,2,E,Belgium
+2026-09-11,14:33,1,Senior Women Assaut -60kg,poule,Maria BEN MOUSSA,EYLÜL KORKMAZ,3-1,False,red,3,1,points,6,4,B,Algeria
+2026-09-11,14:33,2,Senior Men Assaut -85 kg,poule,MASSAMBA MAR,Riad Idjellidaine,3-1,False,red,3,1,points,5,10,A,Algeria
+2026-09-11,14:46,1,Senior Women Assaut +75 kg,poule,POCHET Lohane,TOUSSAINT MARGUERITE,3-1,False,red,3,1,points,6,8,A,Belgium
+2026-09-11,14:46,2,Senior Men Assaut -85 kg,poule,Olivier Foult,James Southwood,1-3,False,blue,1,3,points,5,10,B,Canada
+2026-09-11,14:46,3,Senior Men Assaut -75 kg,poule,Farkas Botond,Chant HOVHANNISYAN,forfait,False,red,3,,forfait,5,7,A,Armenia
+2026-09-11,14:59,1,Senior Women Assaut +75 kg,poule,Giada VITRANI,ASYA DİLA AKSOY,1-3,False,blue,1,3,points,6,8,A,Slovenia
+2026-09-11,14:59,2,Senior Men Assaut -85 kg,poule,Nikolai IARANTSEV,Vugar EYYUBOV,forfait,False,red,3,,forfait,5,10,C,Azerbaijan
+2026-09-11,14:59,3,Senior Men Assaut -75 kg,poule,VOINOV VITALII,Mehmet Emin ERTUĞRUL,3-1,False,red,3,1,points,5,7,B,Turkey
+2026-09-11,15:12,1,Senior Men Assaut -65 kg,poule,Szabára Dávid,SAYT ESMIT OZUNA CEBALLOS,3-1,False,red,3,1,points,5,5,A,Colombia
+2026-09-11,15:12,2,Senior Men Assaut -85 kg,poule,Basil Twayana,Noah Kaergel,1-3,False,blue,1,3,points,5,10,D,Germany
+2026-09-11,15:12,3,Senior Men Assaut -75 kg,poule,Kevin Truesdale,Radoje Stevanović,1-3,False,blue,1,3,points,5,7,C,New Zealand
+2026-09-11,15:25,1,Senior Men Assaut -65 kg,poule,POSKOCHIN OLEKSANDR,FATİH ÖREN,1-3,False,blue,1,3,points,5,5,B,Turkey
+2026-09-11,15:25,2,Senior Men Assaut -85 kg,poule,VAN HOECKE CHRIS,DEMOUGEOT Franck,1-3,False,blue,1,3,points,5,10,E,Belgium
+2026-09-11,15:25,3,Senior Men Assaut -75 kg,poule,NYAMA André,Simone Cogrossi,1-3,False,blue,1,3,points,5,7,D,Cameroon
+2026-09-11,15:38,1,Senior Men Assaut -65 kg,poule,Smael Mayouf,Rishav Sharma,3-1,False,red,3,1,points,5,5,C,Algeria
+2026-09-11,15:38,2,Senior Women Assaut -65 kg,poule,SERENA Fanny,KURNOSENKO SOFIIA,3-1,False,red,3,1,points,6,5,A,France
+2026-09-11,15:51,1,Senior Men Assaut -65 kg,poule,Kirill KURILKO,Nihat GULIYEV,1-3,False,blue,1,3,points,5,5,D,Azerbaijan
+2026-09-11,15:51,2,Senior Women Assaut -52 kg,poule,Mariko HARA,Nargol Rafiee,3-1,False,red,3,1,points,6,2,D,Iran
+2026-09-11,16:04,1,Senior Women Assaut -60kg,poule,Maria BEN MOUSSA,HEUNG TSZ YING,3-1,False,red,3,1,points,6,4,B,Algeria
+2026-09-11,16:04,2,Senior Women Assaut -52 kg,poule,DELAPLESSE Arwen,KONOVALCHUK ANASTASIIA,3-1,False,red,3,1,points,6,2,E,France
+2026-09-11,16:17,1,Senior Women Assaut -70 kg,poule,Sofia MATNANE,Selvi Aleyna GILO,forfait,False,blue,,3,forfait,6,6,B,Slovenia
+2026-09-11,16:17,2,Senior Men Assaut -85 kg,poule,BERKE YILMAZ,Riad Idjellidaine,1-3,False,blue,1,3,points,5,10,A,Algeria
+2026-09-11,16:17,3,Senior Men Assaut -75 kg,poule,Johannes Stindt,Yoshinori HASHIMOTO,3-1,False,red,3,1,points,5,7,E,Germany
+2026-09-11,16:30,1,Senior Men Assaut -65 kg,poule,HEUNG TSZ HEI,Hamzeh Moradian,1-3,False,blue,1,3,points,5,5,E,"Hong Kong, China"
+2026-09-11,16:30,2,Senior Men Assaut -85 kg,poule,Olivier Foult,Luka Babić,3-1,False,red,3,1,points,5,10,B,Canada
+2026-09-11,16:30,3,Senior Men Assaut -75 kg,poule,D'ERRICO JULIEN,GARCIA Iden,1-3,False,blue,1,3,points,5,7,F,Belgium
+2026-09-11,16:43,1,Senior Men Assaut -65 kg,poule,Szabára Dávid,Mamadou Marrif SOW,3-1,False,red,3,1,points,5,5,A,Guinea Conakry
+2026-09-11,16:43,2,Senior Men Assaut -85 kg,poule,Nikolai IARANTSEV,Emanuel Šprem,1-3,False,blue,1,3,points,5,10,C,Croatia
+2026-09-11,16:43,3,Senior Men Assaut -75 kg,poule,CAMARA Mohamadou,Omidullah Alizadah,3-1,False,red,3,1,points,5,7,F,Refugee
+2026-09-11,16:56,1,Senior Men Assaut -65 kg,poule,POSKOCHIN OLEKSANDR,Florian SUBDURALLY,1-3,False,blue,1,3,points,5,5,B,Mauritius
+2026-09-11,16:56,2,Senior Men Assaut -85 kg,poule,Basil Twayana,Masoud Askari,1-3,False,blue,1,3,points,5,10,D,Iran
+2026-09-11,16:56,3,Senior Men Assaut -70 kg,poule,Tommaso Mari,MohammadHossein Fallah,1-3,False,blue,1,3,points,5,6,D,Iran
+2026-09-11,17:09,1,Senior Women Assaut +75 kg,poule,TOUSSAINT MARGUERITE,ASYA DİLA AKSOY,3-1,False,red,3,1,points,6,8,A,Belgium
+2026-09-11,17:09,2,Senior Men Assaut -85 kg,poule,VAN HOECKE CHRIS,CHEKH PAVLO,3-1,False,red,3,1,points,5,10,E,Belgium
+2026-09-11,17:09,3,Senior Men Assaut +85 kg,poule,Nikola Vukčević,Sanan BABAZADE,forfait,False,red,3,,forfait,5,11,C,Azerbaijan
+2026-09-11,17:22,1,Senior Men Assaut -65 kg,poule,Smael Mayouf,Nour-Eddine Behhdadi,3-1,False,red,3,1,points,5,5,C,Algeria
+2026-09-11,17:22,2,Senior Women Assaut -65 kg,poule,SERENA Fanny,ZÜMRA KERİM,3-1,False,red,3,1,points,6,5,A,France
+2026-09-11,17:22,3,Senior Men Assaut +85 kg,poule,Egor GOLOVCHENKO,Luka Sakač,1-3,False,blue,1,3,points,5,11,C,Croatia
+2026-09-11,17:35,1,Senior Women Assaut -70 kg,poule,Soraya Bouzidi,Jessica NOMBREUSE,1-3,False,blue,1,3,points,6,6,B,Canada
+2026-09-11,17:35,2,Senior Women Assaut -65 kg,poule,Anna Bosc,Giulia RUDEZ,3-1,False,red,3,1,points,6,5,B,Algeria
+2026-09-11,17:48,1,Senior Women Assaut +75 kg,poule,POCHET Lohane,Giada VITRANI,forfait,False,red,3,,forfait,6,8,A,France
+2026-09-11,17:48,2,Senior Women Assaut -65 kg,poule,Riikka Holopainen,Giulia Triolo,1-3,False,blue,1,3,points,6,5,C,Finland
+2026-09-11,17:48,3,Senior Men Assaut -60kg,poule,Kenta FUNAYAMA,Howard Ríos,1-3,False,blue,1,3,points,5,4,D,Colombia
+2026-09-11,18:01,1,Senior Men Assaut -65 kg,poule,Kirill KURILKO,Rony BAABAN A,1-3,False,blue,1,3,points,5,5,D,Cameroon
+2026-09-11,18:01,2,Senior Men Assaut -85 kg,poule,James Southwood,Luka Babić,1-3,False,blue,1,3,points,5,10,B,Great Britain
+2026-09-11,18:01,3,Senior Women Assaut -56 kg,poule,KERRINCKX ELISABETH,SAPONOVA ALISA,1-3,False,blue,1,3,points,6,3,C,Belgium
+2026-09-11,18:14,1,Senior Men Assaut -65 kg,poule,SAYT ESMIT OZUNA CEBALLOS,Mamadou Marrif SOW,1-3,False,blue,1,3,points,5,5,A,Colombia
+2026-09-11,18:14,2,Senior Men Assaut -85 kg,poule,Vugar EYYUBOV,Emanuel Šprem,forfait,False,blue,,3,forfait,5,10,C,Azerbaijan
+2026-09-11,18:14,3,Senior Men Assaut -56 kg,poule,PECQUET BAPTISTE,Johan Felipe Caballos Peña,3-1,False,red,3,1,points,5,3,C,Belgium
+2026-09-11,18:27,1,Senior Men Assaut -65 kg,poule,FATİH ÖREN,Florian SUBDURALLY,1-3,False,blue,1,3,points,5,5,B,Mauritius
+2026-09-11,18:27,2,Senior Men Assaut -85 kg,poule,Noah Kaergel,Masoud Askari,1-3,False,blue,1,3,points,5,10,D,Germany
+2026-09-11,18:27,3,Senior Women Assaut -48 kg,poule,Viktoria Vogel,NANDI Chloe,1-3,False,blue,1,3,points,6,1,C,Austria
+2026-09-11,18:40,1,Senior Men Assaut -65 kg,poule,HEUNG TSZ HEI,DEL GIUDICE YANIS,disqualification,False,blue,,3,disqualification,5,5,E,Belgium
+2026-09-11,18:40,2,Senior Men Assaut -85 kg,poule,DEMOUGEOT Franck,CHEKH PAVLO,3-1,False,red,3,1,points,5,10,E,France
+2026-09-12,08:30,1,Senior Men Assaut -75 kg,poule,GAREL Florian,Oscar Mauricio Calderón Ramírez,,True,,,,,,,,Chinese Taipei
+2026-09-12,08:40,1,Senior Men Assaut -65 kg,1/4,Nihat GULIYEV,Nour-Eddine Behhdadi,3-1,False,red,3,1,points,,,,Azerbaijan
+2026-09-12,08:40,2,Senior Men Assaut -65 kg,1/4,DESARME Pierre-Ley,Hamzeh Moradian,3-1,False,red,3,1,points,,,,France
+2026-09-12,08:40,3,Senior Men Assaut -65 kg,1/4,Florian SUBDURALLY,Mamadou Marrif SOW,3-1,False,red,3,1,points,,,,Guinea Conakry
+2026-09-12,08:53,1,Senior Men Assaut -65 kg,1/4,Szabára Dávid,Smael Mayouf,3-1,False,red,3,1,points,,,,Algeria
+2026-09-12,08:53,2,Senior Men Assaut -70 kg,1/4,GHASSIRI Johan,Narek BABADZHANIAN,3-1,False,red,3,1,points,,,,France
+2026-09-12,08:53,3,Senior Men Assaut -70 kg,1/4,MohammadHossein Fallah,LOPEZ Ousmane,3-1,False,red,3,1,points,,,,Iran
+2026-09-12,09:06,1,Senior Men Assaut -70 kg,1/4,Kamel Mayouf,DIRICQ ENZO,1-3,False,blue,1,3,points,,,,Algeria
+2026-09-12,09:06,2,Senior Men Assaut -70 kg,1/4,Robert Rijetković,Tommaso Mari,3-1,False,red,3,1,points,,,,Croatia
+2026-09-12,09:06,3,Senior Men Assaut -75 kg,1/4,Farzam Fallah,Farkas Botond,3-1,False,red,3,1,points,,,,Hungary
+2026-09-12,09:19,1,Senior Men Assaut -75 kg,1/4,GARCIA Iden,Johannes Stindt,3-1,False,red,3,1,points,,,,France
+2026-09-12,09:19,2,Senior Men Assaut -75 kg,1/4,Bartol Pavičić,D'ERRICO JULIEN,3-1,False,red,3,1,points,,,,Belgium
+2026-09-12,09:19,3,Senior Men Assaut -75 kg,1/4,Simone Cogrossi,Mehmet Emin ERTUĞRUL,3-1,False,red,3,1,points,,,,Italy
+2026-09-12,09:32,1,Senior Men Assaut -85 kg,1/4,DEMOUGEOT Franck,James Southwood,3-1,False,red,3,1,points,,,,France
+2026-09-12,09:32,2,Senior Men Assaut -85 kg,1/4,MASSAMBA MAR,VAN HOECKE CHRIS,3-1,False,red,3,1,points,,,,Belgium
+2026-09-12,09:32,3,Senior Men Assaut -85 kg,1/4,Emanuel Šprem,Olivier Foult,1-3,False,blue,1,3,points,,,,Canada
+2026-09-12,09:45,1,Senior Men Assaut -85 kg,1/4,Masoud Askari,Riad Idjellidaine,1-3,False,blue,1,3,points,,,,Algeria
+2026-09-12,09:45,2,Senior Women Assaut -52 kg,1/4,DELAPLESSE Arwen,Mariko HARA,3-1,False,red,3,1,points,,,,France
+2026-09-12,09:45,3,Senior Women Assaut -52 kg,1/4,Kira TOROPOVA,KONOVALCHUK ANASTASIIA,1-3,False,blue,1,3,points,,,,Neutral Athlete
+2026-09-12,09:58,1,Senior Women Assaut -52 kg,1/4,Georlice Kelia Lollos,Stefania Aleksandrova,1-3,False,blue,1,3,points,,,,Bulgaria
+2026-09-12,09:58,2,Senior Women Assaut -52 kg,1/4,Marianna ZACCARO,Louisa Furniss,1-3,False,blue,1,3,points,,,,Great Britain
+2026-09-12,11:15,1,Senior Men Assaut -56 kg,1/2,Cheikh THIAM,Anthony Ghassiri,3-1,False,red,3,1,points,,,,Algeria
+2026-09-12,11:15,2,Senior Men Assaut -56 kg,1/2,CAVROT-WESTERLINCK Ethan,ALAKBAR KHANMAMMADOV,3-1,False,red,3,1,points,,,,Azerbaijan
+2026-09-12,11:15,3,Senior Men Assaut -60kg,1/2,LAURENT Medhi,Yasin IBRAHIMOV,3-1,False,red,3,1,points,,,,Azerbaijan
+2026-09-12,11:28,1,Senior Men Assaut -60kg,1/2,Gregory THOMASOO,Kais Garayalde,3-1,False,red,3,1,points,,,,Algeria
+2026-09-12,11:28,2,Senior Men Assaut -65 kg,1/2,Nihat GULIYEV,DESARME Pierre-Ley,1-3,False,blue,1,3,points,,,,Azerbaijan
+2026-09-12,11:28,3,Senior Men Assaut -65 kg,1/2,Florian SUBDURALLY,Szabára Dávid,1-3,False,blue,1,3,points,,,,Hungary
+2026-09-12,11:41,1,Senior Men Assaut -70 kg,1/2,GHASSIRI Johan,MohammadHossein Fallah,3-1,False,red,3,1,points,,,,France
+2026-09-12,11:41,2,Senior Men Assaut -70 kg,1/2,DIRICQ ENZO,Robert Rijetković,1-3,False,blue,1,3,points,,,,Belgium
+2026-09-12,11:41,3,Senior Men Assaut -75 kg,1/2,Farzam Fallah,GARCIA Iden,1-3,False,blue,1,3,points,,,,France
+2026-09-12,11:54,1,Senior Men Assaut -75 kg,1/2,Bartol Pavičić,Simone Cogrossi,3-1,False,red,3,1,points,,,,Croatia
+2026-09-12,11:54,2,Senior Men Assaut -80 kg,1/2,Grigorii DROGIN,LACHENAL Edouard,1-3,False,blue,1,3,points,,,,Neutral Athlete
+2026-09-12,11:54,3,Senior Men Assaut -80 kg,1/2,IDRISSA SAGNA,BIENVENU Jovan,1-3,False,blue,1,3,points,,,,France
+2026-09-12,13:15,1,Senior Men Assaut -85 kg,1/2,DEMOUGEOT Franck,MASSAMBA MAR,3-1,False,red,3,1,points,,,,France
+2026-09-12,13:15,2,Senior Women Assaut -65 kg,1/2,SERENA Fanny,Giulia Triolo,3-1,False,red,3,1,points,,,,France
+2026-09-12,13:15,3,Senior Men Assaut +85 kg,1/2,Zan ŠUBELJ,NAROU Yoann,1-3,False,blue,1,3,points,,,,France
+2026-09-12,13:28,1,Senior Men Assaut +85 kg,1/2,Balla TRAORÉ,Nikola Vukčević,1-3,False,blue,1,3,points,,,,Mali
+2026-09-12,13:28,2,Senior Women Assaut -60kg,1/2,ROUSSY Noa,Arijana Otašević,3-1,False,red,3,1,points,,,,France
+2026-09-12,13:28,3,Senior Women Assaut -48 kg,1/2,Lidia Abazovski,Viktoria Vogel,3-1,False,red,3,1,points,,,,Austria
+2026-09-12,13:41,1,Senior Women Assaut -52 kg,1/2,DELAPLESSE Arwen,KONOVALCHUK ANASTASIIA,3-1,False,red,3,1,points,,,,France
+2026-09-12,13:41,2,Senior Women Assaut -75 kg,1/2,AYBÜKE SUÇIKAR,DJONDO Sara,disqualification,False,blue,,3,disqualification,,,,France
+2026-09-12,13:41,3,Senior Women Assaut -56 kg,1/2,Bukovinszky Luca,Katarina Klarić,1-3,False,blue,1,3,points,,,,Croatia
+2026-09-12,13:54,1,Senior Women Assaut -56 kg,1/2,LOBJEOIS Gwendoline,Asia Carducci,3-1,False,red,3,1,points,,,,France
+2026-09-12,13:54,2,Senior Women Assaut -52 kg,1/2,Stefania Aleksandrova,Louisa Furniss,3-1,False,red,3,1,points,,,,Bulgaria
+2026-09-12,13:54,3,Senior Women Assaut -60kg,1/2,Maria BEN MOUSSA,Anastasiia TSVETKOVA,3-1,False,red,3,1,points,,,,Algeria
+2026-09-12,14:07,1,Senior Women Assaut -65 kg,1/2,LEMAIRE EMMA,Gabriela Tsenkova,3-1,False,red,3,1,points,,,,Belgium
+2026-09-12,14:07,2,Senior Men Assaut -85 kg,1/2,Olivier Foult,Riad Idjellidaine,1-3,False,blue,1,3,points,,,,Algeria
+2026-09-12,14:07,3,Senior Women Assaut -70 kg,1/2,BUGADA Marine,Soraya Bouzidi,3-1,False,red,3,1,points,,,,Canada
+2026-09-12,14:20,1,Senior Women Assaut -70 kg,1/2,Jessica NOMBREUSE,MINET GWENAËLLE,1-3,False,blue,1,3,points,,,,Belgium
+2026-09-12,14:20,2,Senior Women Assaut -48 kg,1/2,NANDI Chloe,Helena Beljak,3-1,False,red,3,1,points,,,,Croatia
+2026-09-12,14:20,3,Senior Women Assaut -75 kg,1/2,Jelena Sedoglavić,Chanistha JOSHI,disqualification,False,red,3,,disqualification,,,,Mauritius
+2026-09-12,14:45,2,Senior Men Assaut -60kg,final,LAURENT Medhi,Gregory THOMASOO,3-1,False,red,3,1,points,,,,France
+2026-09-12,15:00,2,Senior Women Assaut -75 kg,final,DJONDO Sara,Jelena Sedoglavić,3-1,False,red,3,1,points,,,,France
+2026-09-12,15:45,2,Senior Women Assaut -65 kg,final,LEMAIRE EMMA,SERENA Fanny,1-3,False,blue,1,3,points,,,,Belgium
+2026-09-12,16:00,2,Senior Women Assaut -60kg,final,ROUSSY Noa,Maria BEN MOUSSA,3-1,False,red,3,1,points,,,,Algeria
+2026-09-12,16:30,2,Senior Men Assaut +85 kg,final,NAROU Yoann,Nikola Vukčević,1-3,False,blue,1,3,points,,,,France
+2026-09-12,18:30,2,Senior Men Assaut -70 kg,final,GHASSIRI Johan,Robert Rijetković,3-1,False,red,3,1,points,,,,Croatia
+2026-09-12,18:45,2,Senior Women Assaut -52 kg,final,DELAPLESSE Arwen,Stefania Aleksandrova,3-1,False,red,3,1,points,,,,Bulgaria
+2026-09-12,19:00,2,Senior Men Assaut -65 kg,final,DESARME Pierre-Ley,Szabára Dávid,3-1,False,red,3,1,points,,,,France
+2026-09-12,19:15,2,Senior Women Assaut -70 kg,final,BUGADA Marine,MINET GWENAËLLE,3-1,False,red,3,1,points,,,,Belgium
+2026-09-12,19:30,2,Senior Women Assaut -48 kg,final,NANDI Chloe,Lidia Abazovski,3-1,False,red,3,1,points,,,,France
+2026-09-12,20:30,2,Senior Men Assaut -85 kg,final,DEMOUGEOT Franck,Riad Idjellidaine,1-3,False,blue,1,3,points,,,,Algeria
+2026-09-12,20:45,2,Senior Women Assaut +75 kg,final,POCHET Lohane,TOUSSAINT MARGUERITE,3-1,False,red,3,1,points,,,,Belgium
+2026-09-12,21:00,2,Senior Men Assaut -56 kg,final,Cheikh THIAM,CAVROT-WESTERLINCK Ethan,3-1,False,red,3,1,points,,,,France
+2026-09-12,21:15,2,Senior Men Assaut -80 kg,final,LACHENAL Edouard,BIENVENU Jovan,1-3,False,blue,1,3,points,,,,France
+2026-09-12,21:30,2,Senior Women Assaut -56 kg,final,Katarina Klarić,LOBJEOIS Gwendoline,1-3,False,blue,1,3,points,,,,Croatia
+2026-09-12,21:45,2,Senior Men Assaut -75 kg,final,GARCIA Iden,Bartol Pavičić,1-3,False,blue,1,3,points,,,,Croatia
