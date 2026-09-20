@@ -1305,25 +1305,76 @@
 
     /* Podiums read well for a whole championship at once, so they are not
        hidden behind the filter unless one is chosen. */
+    function podiumCard(c, rows, derived) {
+      return '<div class="card pad"><div class="micro">' + esc(catFR(c)) +
+        (derived ? ' <span class="note" style="opacity:.6">' + esc(t("ev.fromBracket")) + "</span>" : "") +
+        "</div>" +
+        '<div style="margin-top:10px;display:grid;gap:8px">' +
+        rows.map(function (l) {
+          var p = person[l.who];
+          var colour = l.rank === 1 ? "var(--or)" :
+            l.rank === 2 ? "var(--argent)" : "var(--bronze)";
+          return '<div style="display:flex;gap:9px;align-items:center">' +
+            '<span class="fig" style="color:' + colour + ';font-weight:600;width:22px">' +
+            esc(RANK_SHORT[l.rank]) + "</span>" +
+            '<span style="font-weight:600">' + (p ? pLink(p) : croix("pays")) + "</span>" +
+            natHTML(l.nat, { name: false }) + "</div>";
+        }).join("") + "</div></div>";
+    }
+
     var pod = shown.filter(function (c) { return info[c].places.length; })
       .map(function (c) {
         var list = info[c].places.slice().sort(function (a, b) {
           return PLACINGS[a][L_RANK] - PLACINGS[b][L_RANK];
+        }).map(function (x) {
+          var l = PLACINGS[x];
+          return { rank: l[L_RANK], who: l[L_WHO], nat: l[L_NAT] };
         });
-        return '<div class="card pad"><div class="micro">' + esc(catFR(c)) + "</div>" +
-          '<div style="margin-top:10px;display:grid;gap:8px">' +
-          list.map(function (x) {
-            var l = PLACINGS[x], p = person[l[L_WHO]];
-            var colour = l[L_RANK] === 1 ? "var(--or)" :
-              l[L_RANK] === 2 ? "var(--argent)" : "var(--bronze)";
-            return '<div style="display:flex;gap:9px;align-items:center">' +
-              '<span class="fig" style="color:' + colour + ';font-weight:600;width:22px">' +
-              esc(RANK_SHORT[l[L_RANK]]) + "</span>" +
-              '<span style="font-weight:600">' + (p ? pLink(p) : croix("pays")) + "</span>" +
-              natHTML(l[L_NAT], { name: false }) + "</div>";
-          }).join("") + "</div></div>";
+        return podiumCard(c, list, false);
       }).join("");
     if (pod) out += section(t("ev.podiums"), '<div class="grid g2">' + pod + "</div>");
+
+    /* A bracket crowns someone too. Where the sheets print the finals but no
+       podium, the final and the petite finales say who stood there: the
+       winner of the single final is the champion, the man he beat is second,
+       and the winners of the bronze bouts share third. Only a single final
+       with a named winner is read - several finals or no winner stay in the
+       bracket, which still shows them. */
+    var finals = {}, bronzes = {};
+    e.bouts.forEach(function (bi) {
+      var b = BOUTS[bi], ph = PHASES[b[B_PHASE]];
+      if (ph === "final") (finals[b[B_CAT]] = finals[b[B_CAT]] || []).push(b);
+      else if (ph === "bronze") (bronzes[b[B_CAT]] = bronzes[b[B_CAT]] || []).push(b);
+    });
+    var derivedRows = {};
+    Object.keys(finals).forEach(function (c) {
+      if (info[c].places.length) return;   /* the printed podium already stands */
+      var fs = finals[c];
+      if (fs.length !== 1) return;
+      var f = fs[0], w = winnerOf(f);
+      if (w !== f[B_RED] && w !== f[B_BLUE]) return;
+      var rows = [
+        { rank: 1, who: w, nat: w === f[B_RED] ? f[B_RNAT] : f[B_BNAT] },
+        { rank: 2, who: w === f[B_RED] ? f[B_BLUE] : f[B_RED],
+          nat: w === f[B_RED] ? f[B_BNAT] : f[B_RNAT] }
+      ];
+      var bs = bronzes[c] || [];
+      if (bs.length && bs.length <= 2 && bs.every(function (b) {
+        var bw = winnerOf(b); return bw === b[B_RED] || bw === b[B_BLUE];
+      })) {
+        bs.forEach(function (b) {
+          var bw = winnerOf(b);
+          rows.push({ rank: 3, who: bw,
+                      nat: bw === b[B_RED] ? b[B_RNAT] : b[B_BNAT] });
+        });
+      }
+      derivedRows[c] = rows;
+    });
+    var recon = shown.filter(function (c) { return derivedRows[c]; })
+      .map(function (c) { return podiumCard(c, derivedRows[c], true); }).join("");
+    if (recon) out += section(t("ev.podiumsDerived"),
+      '<div class="grid g2">' + recon + "</div>",
+      esc(t("ev.podiumsDerivedNote")));
 
     if (!openCat && cats.length > 1) {
       var withSheets = cats.filter(function (c) {
