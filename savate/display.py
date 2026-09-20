@@ -174,7 +174,30 @@ def wordforms(names):
     # count matters: a damaged spelling is in the corpus too, and without
     # knowing which of two forms the archive prefers there is no way to tell
     # the repair from the damage.
-    return {k: (max(v, key=v.get), sum(v.values())) for k, v in counts.items()}
+    #
+    # A tie is decided, not left to luck. The corpus arrives from a set, so a
+    # plain max() crowns whichever spelling Python happened to iterate first -
+    # one build would repair Babid to Babić and the next to BABIC. Prefer the
+    # accented form: a text layer can lose or misread a diacritic, never invent
+    # one, so its being written at all marks the real name. Then the folded
+    # spelling, so the choice is the same on every machine.
+    def _preferred(v):
+        # A tie is decided, not left to luck: the corpus arrives from a set, so
+        # a plain max() crowns whichever spelling Python happened to iterate
+        # first - one build repairs Babid to Babić and the next to BABIC.
+        # Prefer the accented form (a text layer can lose or misread a
+        # diacritic, never invent one, so its being written at all marks the
+        # real name), then the title-cased form over an all-caps one, and
+        # finally the spelling itself, so the choice is a total order that is
+        # the same on every machine.
+        def rank(item):
+            spelling, n = item
+            lower = spelling.lower()
+            accented = any(c in "ćčšžđ" for c in lower)
+            allcaps = spelling == spelling.upper() and any(c.isalpha() for c in spelling)
+            return (-n, 1 if accented else 0, 0 if allcaps else 1, spelling)
+        return max(v.items(), key=rank)[0], sum(v.values())
+    return {k: _preferred(v) for k, v in counts.items()}
 
 
 # One generator used by the Croatian and Serbian federations reads ć as d:
