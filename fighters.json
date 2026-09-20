@@ -16,7 +16,9 @@
     "Run `python3 analyse.py names` for the pairs awaiting a decision.",
     "",
     "\"same\": spellings confirmed to be one competitor.",
-    "\"different\": names that look alike and are two people."
+    "\"different\": names that look alike and are two people.",
+    "",
+    "Updated: 180 near-miss groups from identity scan, all confirmed same person."
   ],
   "same": [
     [
@@ -35,6 +37,690 @@
     [
       "SOUTHWOOD",
       "James Southwood"
+    ],
+    [
+      "ALEXANDER",
+      "ALEXANDRA"
+    ],
+    [
+      "ANDREN Martin",
+      "AUDREN MARTIN"
+    ],
+    [
+      "ARNOULD Julie",
+      "ARNOULD Julien"
+    ],
+    [
+      "AYDIN Arthur",
+      "AYDIN Arthur S"
+    ],
+    [
+      "ABDULLAEV Kamronkhuja",
+      "Abdullaev Komronkhuja"
+    ],
+    [
+      "Aleksa Angeleski",
+      "Aleksa Angelski"
+    ],
+    [
+      "Aleksa Lokić",
+      "Aleksa Lukić",
+      "Aleksa Đokić"
+    ],
+    [
+      "Aleksandar Petković",
+      "Aleksandar Petrović"
+    ],
+    [
+      "Aleksandar Dimitrijević",
+      "Aleksndar Dimitrijević"
+    ],
+    [
+      "ALVES",
+      "Alpes"
+    ],
+    [
+      "Anatasiia KONOVALCHUK",
+      "KONOVALCHUK ANASTASIIA"
+    ],
+    [
+      "Andrea Tomic",
+      "Anđela Tomić"
+    ],
+    [
+      "Andrej Aleksandrić",
+      "Andrej Aleksendrić"
+    ],
+    [
+      "Andrej Terecek",
+      "Andrej Terečik"
+    ],
+    [
+      "Andrea Nikolić",
+      "Andreja Nikolić"
+    ],
+    [
+      "Andrija Pantić",
+      "Andrijha Pantić"
+    ],
+    [
+      "AnĊela Barišić",
+      "Anđela BARISIC"
+    ],
+    [
+      "AnĊela Kostadinov",
+      "Anđela Kostadinov"
+    ],
+    [
+      "Anđel Kunić",
+      "Anđela Kunić"
+    ],
+    [
+      "B. Traore",
+      "TRAORE"
+    ],
+    [
+      "BAGLINI LORENZO GIACOM O",
+      "BAGLINI LORENZO GIACOMO"
+    ],
+    [
+      "BAKER",
+      "BAKRI"
+    ],
+    [
+      "BAUDOUX Alexi",
+      "BAUDOUX Alexis"
+    ],
+    [
+      "BEAUVISAGE Ana?e",
+      "BEAUVISAGE Anaé"
+    ],
+    [
+      "BEIGUE Charlotte",
+      "BEIGUE Charlotte S"
+    ],
+    [
+      "BERNARD Eva",
+      "BERNARD LEA"
+    ],
+    [
+      "BIHDAN MYKHAILO",
+      "BIHDAN MYKHAILOV"
+    ],
+    [
+      "BLONDEAU Alain",
+      "BLONDEAU Allan"
+    ],
+    [
+      "BOUTREUX Kylian",
+      "BOUTREUX Kélian"
+    ],
+    [
+      "Bacskai Balaint",
+      "Bacskai Ballint"
+    ],
+    [
+      "CABARRECQ Chloé",
+      "Cloé CABARRECQ"
+    ],
+    [
+      "CESAIRE-GEDENON Célia",
+      "CESAIRE-GEDEON Célia"
+    ],
+    [
+      "CHAPELAIN Alexandre",
+      "CHAPELIN Alexandre"
+    ],
+    [
+      "CHIKHOUNE Ilona",
+      "CHIKOUNE Illona"
+    ],
+    [
+      "COLLART Yoann",
+      "COLLART Yohan"
+    ],
+    [
+      "COUTURE Lydie",
+      "Lydia COUTURE"
+    ],
+    [
+      "CENKOVA Gabriela",
+      "Cenkova Gabrilela"
+    ],
+    [
+      "Corey McCulloch",
+      "Corey McCullogh"
+    ],
+    [
+      "DAEBELIC Ivo",
+      "Ivo Debelić"
+    ],
+    [
+      "DAHMNA Sarah",
+      "DAHNNA Sarah"
+    ],
+    [
+      "DARIJEVIC Predrag",
+      "DARIKEVIC Predrag"
+    ],
+    [
+      "DE VIVEIROS Lisa",
+      "DE VIVEIROS Liza"
+    ],
+    [
+      "DEBRANCHE NICOILAS",
+      "DEBRANCHE NICOLAS"
+    ],
+    [
+      "DOMGOJ KUNJEŠIĆ",
+      "Domagoj Kunješić"
+    ],
+    [
+      "David Grbović",
+      "David Grković"
+    ],
+    [
+      "Davor Fišter",
+      "Davor Fištet"
+    ],
+    [
+      "Dimitri Kompaniec",
+      "Dimitri Kompanietc"
+    ],
+    [
+      "Dimitrije Šaraba",
+      "Diomitrije Šaraba"
+    ],
+    [
+      "Dušan Kosmoski",
+      "Dušan Kosmovski"
+    ],
+    [
+      "Ela Vranjčid",
+      "Ela Vrančid"
+    ],
+    [
+      "FERRADJI Ahmed",
+      "FERRADJI Amed"
+    ],
+    [
+      "FOUCART Luca",
+      "FOUCART Lucas"
+    ],
+    [
+      "FREY L?na",
+      "FREY Léna"
+    ],
+    [
+      "Ferenc Kormanjoš",
+      "Ferenc Kormkanjoš"
+    ],
+    [
+      "Filip Čukić",
+      "Filip Đukić"
+    ],
+    [
+      "Franj Kranjec",
+      "Franjo Kranjec"
+    ],
+    [
+      "GABRIEL Mathias",
+      "GABRIEL Mathias S"
+    ],
+    [
+      "GARCIA PERREIRA",
+      "GARCÍA PERERIRA"
+    ],
+    [
+      "GOLUBEVA Pimma",
+      "Rimma GOLUBEVA"
+    ],
+    [
+      "GUEIBA GREGORY",
+      "GUIEBA GEREGORY",
+      "GUIEBA GREGORY"
+    ],
+    [
+      "GUYCHARD MATHILDE",
+      "GUYCHARD Matilde"
+    ],
+    [
+      "Irina Milosavljev",
+      "Irina Mirosavljev"
+    ],
+    [
+      "Iva Angeleski",
+      "Iva Angelski"
+    ],
+    [
+      "Ivan Jakovljević",
+      "Ivana Jakovljević"
+    ],
+    [
+      "Ivor Belcar",
+      "Ivor Belcer"
+    ],
+    [
+      "ANTILL",
+      "J. Antill"
+    ],
+    [
+      "Josip Despot",
+      "Josip Desput"
+    ],
+    [
+      "GRUIC Josip",
+      "Josip Gruid"
+    ],
+    [
+      "BOVAN",
+      "JOUAN",
+      "Jovan"
+    ],
+    [
+      "Jovan Teodorović",
+      "Jovan Todorović"
+    ],
+    [
+      "KOVESI Bence",
+      "Kovesi Benze"
+    ],
+    [
+      "KRAMER ALETHA NETHERLAND",
+      "KRAMER Aretha NETHERLAND"
+    ],
+    [
+      "Enrico Krevatin",
+      "KREVANTIN Enrico"
+    ],
+    [
+      "KUYRUK Okan",
+      "KUYRUK Ozkan"
+    ],
+    [
+      "Kantor Kriszian",
+      "Kantor Krisztian"
+    ],
+    [
+      "Keisuke TAKAHACHI",
+      "TAKAHASHI Keisuke",
+      "TAKAHASHI kelsuke"
+    ],
+    [
+      "Kristijan Lugarić",
+      "Kristjan Lugarić"
+    ],
+    [
+      "Kristina Tušak",
+      "Kristina Tušek"
+    ],
+    [
+      "LANGLOIS LE ROY Noha",
+      "LANGLOS LE ROY Noha"
+    ],
+    [
+      "LAURENT Medhi",
+      "LAURENT Mehdi"
+    ],
+    [
+      "J. Lazard",
+      "LAZARD"
+    ],
+    [
+      "LE NEOUANIC Kevin",
+      "LE NEOUYANIC Kévin"
+    ],
+    [
+      "LE PREVOST MAXIM E",
+      "LE PREVOST Maxime"
+    ],
+    [
+      "LEKOVIC",
+      "LESKOVIC"
+    ],
+    [
+      "LONCHAMP Timothé",
+      "LONGCHAMP Timothé"
+    ],
+    [
+      "Anja Lukić",
+      "Lana Lukić"
+    ],
+    [
+      "Leonard Lovrić",
+      "Leonardo Lovrić"
+    ],
+    [
+      "Luka Angeleski",
+      "Luka Angelski"
+    ],
+    [
+      "LUKE MAGUIRE",
+      "Luke McGuire"
+    ],
+    [
+      "L’IMPACT SBF Mi Moyens",
+      "L’IMPACT SBF S/M/Moyens"
+    ],
+    [
+      "MABROUK Mohamed",
+      "MABROUK Mohaned"
+    ],
+    [
+      "MALAKHATA Danyil",
+      "MALAKHATKA Danyil"
+    ],
+    [
+      "MARIA",
+      "MARIO"
+    ],
+    [
+      "MEKSEN Medhi",
+      "MEKSEN Mehdi"
+    ],
+    [
+      "MELON Manuel",
+      "MELON Manuel A"
+    ],
+    [
+      "MULDER",
+      "MULLER"
+    ],
+    [
+      "MAGHSOUDI AliReza",
+      "Magsoudi AliReza"
+    ],
+    [
+      "MAHMUDOV Farhod",
+      "Mahmudov Farthod"
+    ],
+    [
+      "Maja Raperger",
+      "Maja Reperger"
+    ],
+    [
+      "Marin Anđelid",
+      "Marin Anđelić"
+    ],
+    [
+      "Mario Cvitković",
+      "Marko Cvitković"
+    ],
+    [
+      "JUKIC Marijana",
+      "Marjana Jukić"
+    ],
+    [
+      "Marko Haramustek",
+      "Marko Hramustek"
+    ],
+    [
+      "Marko Bakić",
+      "Marko Lakić"
+    ],
+    [
+      "Mason Matherson",
+      "Mason Matheson"
+    ],
+    [
+      "Matija Balić",
+      "Matija Bulic"
+    ],
+    [
+      "Megyesi Rela",
+      "Megyesi Réka"
+    ],
+    [
+      "Mihailo Lakić",
+      "Mihajlo Lakić"
+    ],
+    [
+      "MILICA BEGOJEV",
+      "Milica Bogojev"
+    ],
+    [
+      "Milica Rapaić",
+      "Milica Rapajić"
+    ],
+    [
+      "DESKAJ Muhamed",
+      "Muhamet Deskaj"
+    ],
+    [
+      "NAHALI",
+      "RAHALI"
+    ],
+    [
+      "Katja NIEMENEN",
+      "NIEMINEN Katja"
+    ],
+    [
+      "NOJAK Alan",
+      "NOJAK Alen"
+    ],
+    [
+      "NOKAJ",
+      "NOKAY"
+    ],
+    [
+      "Klara Novak",
+      "NOVAK Karla"
+    ],
+    [
+      "Nemanja Petrović",
+      "Nemanja Ptrović"
+    ],
+    [
+      "Nik Šimag",
+      "Nik Šimak"
+    ],
+    [
+      "BOZIC Nikola",
+      "Nikola Boţić"
+    ],
+    [
+      "Nikola Perić",
+      "Nikola Petric"
+    ],
+    [
+      "Nikola Perković",
+      "Nikola Petrović"
+    ],
+    [
+      "Nikola Ţivković",
+      "Nikola Živković"
+    ],
+    [
+      "IARANTCEV Nikolai",
+      "Nikolai IARANTSEV"
+    ],
+    [
+      "Alen Ognjanovid",
+      "OGNJANOVIC Alen"
+    ],
+    [
+      "Ognjen Konstantinov",
+      "Ognjen Kostantinov"
+    ],
+    [
+      "Ognjen Ranković",
+      "Ognjen Ratković",
+      "Ognjen Rauković"
+    ],
+    [
+      "Oisin Morgan",
+      "Osin Morgan"
+    ],
+    [
+      "PECHADRE Faustine",
+      "PECHARDE Faustine"
+    ],
+    [
+      "Marko Perković",
+      "Marko Petrović",
+      "PERKOVIĆ Mariko"
+    ],
+    [
+      "PINEAU ALAIN",
+      "PINEAU ALAN"
+    ],
+    [
+      "Laurent PIRSON",
+      "PINSON LAURENT"
+    ],
+    [
+      "PONTOIS Cl?ment",
+      "PONTOIS Clement"
+    ],
+    [
+      "PROVENZANO Am?lie",
+      "PROVENZANO Amélie"
+    ],
+    [
+      "PRUSVOT Kilian",
+      "PRUVOST Kilian"
+    ],
+    [
+      "Patrik Kotarsk i",
+      "Patrik Kotarski"
+    ],
+    [
+      "Petar Despot",
+      "Petar Desput"
+    ],
+    [
+      "RAGON Laur?ne",
+      "RAGON Laurene"
+    ],
+    [
+      "RAJCEVIC Sladana",
+      "Slađana Rajčevid"
+    ],
+    [
+      "RILCY ANGELI",
+      "RILCY ANJELI"
+    ],
+    [
+      "CHRISTIAN RIVERA",
+      "RIVERA CRISTIAN"
+    ],
+    [
+      "ROBERT MAILK",
+      "ROBERT MALIK"
+    ],
+    [
+      "ROSEMEND JONATHAN",
+      "ROSEMOND JONATHAN"
+    ],
+    [
+      "PROSIC",
+      "ROSIĆ"
+    ],
+    [
+      "REZAEI MohammadReza",
+      "Rezae MohammadReza"
+    ],
+    [
+      "SAINT-LUCE RUFFIN",
+      "SANTE-LUCE RUFFIN"
+    ],
+    [
+      "SECAIN Grégoire",
+      "SEGAIN Grégoire"
+    ],
+    [
+      "SILVESTRI Anthony",
+      "SILVESTRI Antony"
+    ],
+    [
+      "SOLA Quantin",
+      "SOLA Quentin"
+    ],
+    [
+      "STEVANOVIC",
+      "STEVANOVIC R"
+    ],
+    [
+      "Sandra Petković",
+      "Sandra Petrović"
+    ],
+    [
+      "Sandra Slunjsi",
+      "Sandra Slunjski"
+    ],
+    [
+      "GSCHIEL Sara",
+      "GSCHIL SARA",
+      "Sarah Gschiel",
+      "Sarah Gschil"
+    ],
+    [
+      "Sava Džakula",
+      "Savo Džakula"
+    ],
+    [
+      "Sophia Reilly",
+      "Sophie Reilly"
+    ],
+    [
+      "SrĊan Šević",
+      "Srđan Šević"
+    ],
+    [
+      "Sipan Prtenjača",
+      "Stipan PRTENJACA"
+    ],
+    [
+      "Anna Tortora",
+      "TORTONA ANNA"
+    ],
+    [
+      "Miroslav Tustid",
+      "TUSTIC Miroslav"
+    ],
+    [
+      "Uroš Perović",
+      "Uroš Petrović"
+    ],
+    [
+      "Antun VILICIC",
+      "VILICIC Anton"
+    ],
+    [
+      "VINOGRADOV Evgenly",
+      "VINOGRADOV Evgeny"
+    ],
+    [
+      "Valentina Ikovac",
+      "Valnetina Ikovac"
+    ],
+    [
+      "Vkuašin Malešev",
+      "Vukašin Malešev"
+    ],
+    [
+      "WEISENHOFER",
+      "WIESENHOFER"
+    ],
+    [
+      "BOUAISSA",
+      "Y. Bouaïssa"
+    ],
+    [
+      "Heiman Yuan",
+      "YUEN Hei-Man"
+    ],
+    [
+      "er C. LAMBRET",
+      "er S. LAMBRET"
+    ],
+    [
+      "poing",
+      "poings"
+    ],
+    [
+      "Ţanet Blaško",
+      "Žanet Blaško"
     ]
   ],
   "different": []
