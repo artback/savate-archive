@@ -325,6 +325,12 @@ def deduplicate(bouts, placings, tournaments, who):
         for b in slugs[i + 1:]:
             if order.get(a) != order.get(b) or not order.get(a):
                 continue
+            ta, tb = meta.get(a), meta.get(b)
+            if ta and tb:
+                if ta.age_class and tb.age_class and ta.age_class != tb.age_class:
+                    continue
+                if ta.level and tb.level and ta.level != tb.level:
+                    continue
             shared = facts[a] & facts[b]
             if not shared:
                 continue
@@ -352,6 +358,66 @@ def deduplicate(bouts, placings, tournaments, who):
     for drop, keep in sorted(twins.items()):
         notes.append(f"    {drop} duplicates {keep}")
     return kept, kept_p, notes
+
+
+def split_by_age_class(tournaments, bouts, placings):
+    """(tournaments, notes): one event per age class a multi-championship
+    document states.
+
+    One document often publishes several championships - the junior title and
+    the senior title of one meeting - and a row says which of them it belongs
+    to only through the age class it states. Left in one event, that event
+    would hand out a junior champion and a senior champion at once, a title no
+    federation awards, so the event splits on what its rows state: each
+    distinct age class becomes one event named "<age class> <name>", and the
+    rows carry it to that event. Rows that state no age class stay where they
+    were, because nothing in the source assigns them elsewhere.
+    """
+    import re
+    from dataclasses import replace
+
+    classes = {}
+    for b in bouts:
+        if b.age_class:
+            classes.setdefault(b.tournament, set()).add(b.age_class)
+    for p in placings:
+        if p.age_class:
+            classes.setdefault(p.tournament, set()).add(p.age_class)
+
+    used = {t.slug for t in tournaments}
+    out, notes = [], []
+    for t in tournaments:
+        acs = sorted(classes.get(t.slug, ()))
+        if len(acs) < 2:
+            out.append(t)
+            continue
+        unclassed = any(b.tournament == t.slug and not b.age_class for b in bouts) \
+            or any(p.tournament == t.slug and not p.age_class for p in placings)
+        remap = {}
+        for ac in acs:
+            base = re.sub(r"[^a-z0-9]+", "-", ac.lower()).strip("-")
+            slug = f"{t.slug}-{base}"
+            n = 2
+            while slug in used:
+                slug = f"{t.slug}-{base}-{n}"
+                n += 1
+            used.add(slug)
+            remap[ac] = slug
+            out.append(replace(t, slug=slug,
+                               name=f"{ac} {t.name}".strip(), age_class=ac))
+        if unclassed:
+            out.append(t)
+        for b in bouts:
+            if b.tournament == t.slug and b.age_class in remap:
+                b.tournament = remap[b.age_class]
+        for p in placings:
+            if p.tournament == t.slug and p.age_class in remap:
+                p.tournament = remap[p.age_class]
+        kept = " (the event itself keeps its rows with no stated age class)" \
+            if unclassed else ""
+        notes.append(f"split: {t.slug} -> {len(acs)} events by age class "
+                     f"({', '.join(acs)}){kept}")
+    return out, notes
 
 
 def inspect(source, mapping=None):
@@ -443,6 +509,13 @@ def main():
         print(f"{len(conflicts)} title(s) read or in conflict with the manifest:")
         for line in conflicts:
             print(line)
+
+    # Several championships in one document split on what their rows state:
+    # the junior title and the senior title are two events, not one event with
+    # two champions.
+    tournaments, split_notes = split_by_age_class(tournaments, bouts, placings)
+    for line in split_notes:
+        print(line)
 
     bouts, placings, repairs = normalise(bouts, placings)
     for line in repairs:
