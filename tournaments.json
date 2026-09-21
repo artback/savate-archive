@@ -25,50 +25,6 @@
     }
   },
   {
-    "slug": "fisav-european-assaut-championships-2025-pool-result",
-    "adapter": "fisav_pool_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/956-european-assaut-championships-2025-pool-results",
-    "meta": {
-      "name": "FISAV European Assaut Championships 2025",
-      "year": "2025",
-      "level": "european",
-      "discipline": "assaut"
-    }
-  },
-  {
-    "slug": "fisav-world-assaut-championships-2024-slovenia-pool-",
-    "adapter": "fisav_pool_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/76-2024/892-world-assaut-championships-2024-slovenia-pool-results",
-    "meta": {
-      "name": "FISAV World Assaut Championships 2024 Slovenia",
-      "year": "2024",
-      "level": "world",
-      "discipline": "assaut"
-    }
-  },
-  {
-    "slug": "fisav-world-youth-2023-pool-results",
-    "adapter": "fisav_pool_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/837-world-youth-2023-pool-results",
-    "meta": {
-      "name": "FISAV World Youth Championships 2023",
-      "year": "2023",
-      "level": "world",
-      "discipline": ""
-    }
-  },
-  {
-    "slug": "fisav-world-combat-championships-2023-pool-results",
-    "adapter": "fisav_pool_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/857-world-combat-championships-2023-pool-results",
-    "meta": {
-      "name": "FISAV World Combat Championships 2023",
-      "year": "2023",
-      "level": "world",
-      "discipline": "combat"
-    }
-  },
-  {
     "slug": "fisav-european-championships-for-assaut-2009",
     "adapter": "podium_pdf",
     "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/10-2009/81-european-championships-for-assaut-2009",
@@ -789,90 +745,6 @@
     "meta": {
       "name": "Results_World_Youth_Girls_2023",
       "year": "2023"
-    }
-  },
-  {
-    "slug": "fisav-51-pool-results-combat-2019-680-senior-women-75kg",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/680-senior-women-75kg",
-    "archived": true,
-    "meta": {
-      "name": "Championnat du Monde Combat 2019 - Senior Women -75 kg",
-      "year": "2019",
-      "level": "world",
-      "discipline": "combat"
-    }
-  },
-  {
-    "slug": "fisav-51-pool-results-combat-2019-679-senior-women-70kg",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/679-senior-women-70kg",
-    "archived": true,
-    "meta": {
-      "name": "Championnat du Monde Combat 2019 - Senior Women -70 kg",
-      "year": "2019",
-      "level": "world",
-      "discipline": "combat"
-    }
-  },
-  {
-    "slug": "fisav-51-pool-results-combat-2019-678-senior-women-65kg",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/678-senior-women-65kg",
-    "archived": true,
-    "meta": {
-      "name": "Championnat du Monde Combat 2019 - Senior Women -65 kg",
-      "year": "2019",
-      "level": "world",
-      "discipline": "combat"
-    }
-  },
-  {
-    "slug": "fisav-51-pool-results-combat-2019-675-senior-women-52kg",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/675-senior-women-52kg",
-    "archived": true,
-    "meta": {
-      "name": "Championnat du Monde Combat 2019 - Senior Women -52 kg",
-      "year": "2019",
-      "level": "world",
-      "discipline": "combat"
-    }
-  },
-  {
-    "slug": "fisav-51-pool-results-combat-2019-672-senior-men-85kg",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/672-senior-men-85kg",
-    "archived": true,
-    "meta": {
-      "name": "Championnat du Monde Combat 2019 - Senior Men +85 kg",
-      "year": "2019",
-      "level": "world",
-      "discipline": "combat"
-    }
-  },
-  {
-    "slug": "fisav-51-pool-results-combat-2019-671-sernior-men-85kg",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/671-sernior-men-85kg",
-    "archived": true,
-    "meta": {
-      "name": "Championnat du Monde Combat 2019 - Senior Men +85 kg",
-      "year": "2019",
-      "level": "world",
-      "discipline": "combat"
-    }
-  },
-  {
-    "slug": "fisav-51-pool-results-combat-2019-670-senior-men-80kg",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/670-senior-men-80kg",
-    "archived": true,
-    "meta": {
-      "name": "Championnat du Monde Combat 2019 - Senior Men -80 kg",
-      "year": "2019",
-      "level": "world",
-      "discipline": "combat"
     }
   },
   {
@@ -2451,104 +2323,6 @@
     }
   },
   {
-    "slug": "fisav-world-combat-2021-weiz-f60",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/751-world-combat-senior-women-f60",
-    "meta": {
-      "name": "Championnat du Monde Combat 2021 - Weiz, F60 pool",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Senior",
-      "year": "2021",
-      "country": "Austria"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2021-weiz-j75",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/752-world-combat-junior-j75",
-    "meta": {
-      "name": "Championnat du Monde Combat 2021 - Weiz, J75 pool",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Junior",
-      "year": "2021",
-      "country": "Austria"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2021-weiz-m60",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/754-world-combat-senior-men-m60",
-    "meta": {
-      "name": "Championnat du Monde Combat 2021 - Weiz, M60 pool",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Senior",
-      "year": "2021",
-      "country": "Austria"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2021-weiz-m70",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/756-world-combat-senior-men-m70",
-    "meta": {
-      "name": "Championnat du Monde Combat 2021 - Weiz, M70 pool",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Senior",
-      "year": "2021",
-      "country": "Austria"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2021-weiz-m75",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/757-world-combat-senior-men-m75",
-    "meta": {
-      "name": "Championnat du Monde Combat 2021 - Weiz, M75 pool",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Senior",
-      "year": "2021",
-      "country": "Austria"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2021-weiz-m80",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/758-world-combat-senior-men-m80",
-    "meta": {
-      "name": "Championnat du Monde Combat 2021 - Weiz, M80 pool",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Senior",
-      "year": "2021",
-      "country": "Austria"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2021-weiz-m-plus-85",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/760-world-combat-senior-men-m-85",
-    "meta": {
-      "name": "Championnat du Monde Combat 2021 - Weiz, M+85 pool",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Senior",
-      "year": "2021",
-      "country": "Austria"
-    }
-  },
-  {
     "slug": "fisav-european-assaut-2025-weiz-medals",
     "adapter": "savate_medal_list",
     "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/955-european-assaut-championships-2025-medals",
@@ -3134,90 +2908,6 @@
     }
   },
   {
-    "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-56",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/658-junior-men-56kg",
-    "meta": {
-      "name": "FISAV World Combat Championships 2019 Hammamet",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Junior",
-      "year": "2019",
-      "country": "Tunisia"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-60",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/659-junior-men-60kg",
-    "meta": {
-      "name": "FISAV World Combat Championships 2019 Hammamet",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Junior",
-      "year": "2019",
-      "country": "Tunisia"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-65",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/660-junior-men-65kg",
-    "meta": {
-      "name": "FISAV World Combat Championships 2019 Hammamet",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Junior",
-      "year": "2019",
-      "country": "Tunisia"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-70",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/661-junior-men-70kg",
-    "meta": {
-      "name": "FISAV World Combat Championships 2019 Hammamet",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Junior",
-      "year": "2019",
-      "country": "Tunisia"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2019-hammamet-pool-junior-men-80",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/663-junior-men-80kg",
-    "meta": {
-      "name": "FISAV World Combat Championships 2019 Hammamet",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Junior",
-      "year": "2019",
-      "country": "Tunisia"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2021-weiz-pool-senior-women-52",
-    "adapter": "fisav_worksheet_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/749-world-combat-senior-women-f52",
-    "meta": {
-      "name": "FISAV World Combat Championships 2021 Weiz",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "Senior",
-      "year": "2021",
-      "country": "Austria"
-    }
-  },
-  {
     "slug": "fisav-world-assaut-2022-milano-medallists",
     "adapter": "savate_medal_list",
     "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/70-2022/825-medallists-world-savate-assaut-championships-2022",
@@ -3229,20 +2919,6 @@
       "age_class": "",
       "year": "2022",
       "country": "Italy"
-    }
-  },
-  {
-    "slug": "fisav-world-combat-2025-qualifying-pool-results",
-    "adapter": "fisav_pdf",
-    "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/923-world-combat-2025-qualifying-tournament-pool-results",
-    "meta": {
-      "name": "World Combat Championships 2025 - Qualifying",
-      "discipline": "combat",
-      "level": "world",
-      "format": "championship",
-      "age_class": "",
-      "year": "2025",
-      "country": ""
     }
   },
   {
@@ -3582,147 +3258,11 @@
     }
   },
   {
-    "slug": "322-ring-1-pool-results-2017-2017",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/322-ring-1-pool-results-2017-3fb9722d55.pdf",
-    "meta": {
-      "name": "322 ring 1 2017",
-      "year": "2017"
-    }
-  },
-  {
-    "slug": "323-combat-ring-2-pool-results-2017-2017",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/323-combat-ring-2-pool-results-2017-fe1453bbc4.pdf",
-    "meta": {
-      "name": "323 combat ring 2 2017",
-      "year": "2017"
-    }
-  },
-  {
-    "slug": "324-combat-ring-3-pool-results-2017-2017",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/324-combat-ring-3-pool-results-2017-da2a56c705.pdf",
-    "meta": {
-      "name": "324 combat ring 3 2017",
-      "year": "2017"
-    }
-  },
-  {
-    "slug": "326-jeunes-pool-results-girls-2017-2017",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/326-jeunes-pool-results-girls-2017-c607e769f6.pdf",
-    "meta": {
-      "name": "326 jeunes 2017",
-      "year": "2017"
-    }
-  },
-  {
     "slug": "349-european-youth-championships-june-2018-2018",
     "adapter": "fisav_sheets",
     "source": "raw_sources/349-european-youth-championships-june-2018-49a2d1758f",
     "meta": {
       "name": "349 european youth championships june 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "412-f-52kg-pool-results-2018-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/412-f-52kg-pool-results-2018-f9913ef2b6",
-    "meta": {
-      "name": "412 F -52 kg 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "413-f-56kg-pool-results-2018-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/413-f-56kg-pool-results-2018-60fc83b669",
-    "meta": {
-      "name": "413 F -56 kg 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "414-f-60kg-pool-results-2018-2018",
-    "adapter": "ffsavate_finals",
-    "source": "raw_sources/414-f-60kg-pool-results-2018-446e6dd293",
-    "meta": {
-      "name": "414 F -60 kg 2018",
-      "year": "2018",
-      "level": "national"
-    }
-  },
-  {
-    "slug": "417-f-70kg-pool-results-2018-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/417-f-70kg-pool-results-2018-b3e4bbf978",
-    "meta": {
-      "name": "417 F -70 kg 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "428-m-75kg-pool-results-2018-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/428-m-75kg-pool-results-2018-f7bac9562b.pdf",
-    "meta": {
-      "name": "428 M -75 kg 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "429-m-70kg-pool-results-2018-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/429-m-70kg-pool-results-2018-966979424a",
-    "meta": {
-      "name": "429 M -70 kg 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "430-m-65kg-pool-results-2018-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/430-m-65kg-pool-results-2018-4afacadee8.pdf",
-    "meta": {
-      "name": "430 M -65 kg 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "432-m-85kg-pool-results-2018-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/432-m-85kg-pool-results-2018-a9ca56d378.pdf",
-    "meta": {
-      "name": "432 M +85 kg 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "433-m-80kg-pool-results-2018-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/433-m-80kg-pool-results-2018-1ceb592170.pdf",
-    "meta": {
-      "name": "433 M -80 kg 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "434-m-56kg-pool-results-2018-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/434-m-56kg-pool-results-2018-edbff61dd8.pdf",
-    "meta": {
-      "name": "434 M -56 kg 2018",
-      "year": "2018"
-    }
-  },
-  {
-    "slug": "435-m-85kg-pool-results-2018960-2018",
-    "adapter": "fisav_sheets",
-    "source": "raw_sources/435-m-85kg-pool-results-2018960-70c2fa5b24.pdf",
-    "meta": {
-      "name": "435 M +85 kg 2018",
       "year": "2018"
     }
   },
@@ -5840,24 +5380,6 @@
     "meta": {
       "name": "Pioniri 2021",
       "year": "2021"
-    }
-  },
-  {
-    "slug": "pool-g1-r1-sc-pdf",
-    "adapter": "savate_weight_list",
-    "source": "raw_sources/pool_G1_R1_SC.pdf-419b56dd60.pdf",
-    "meta": {
-      "name": "Pool G1 Round 1",
-      "year": ""
-    }
-  },
-  {
-    "slug": "pool-g1-t1-sdt-pdf",
-    "adapter": "savate_weight_list",
-    "source": "raw_sources/pool_G1_T1_SdT.pdf-509af636f1.pdf",
-    "meta": {
-      "name": "Pool G1 Table 1",
-      "year": ""
     }
   },
   {
