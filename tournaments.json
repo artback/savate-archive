@@ -3137,7 +3137,7 @@
     "adapter": "ffsavate_finals_wide",
     "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-Dieppe-10.01.2026-1-1.pdf",
     "meta": {
-      "name": "1/2 finales 2eme serie, Dieppe",
+      "name": "Demi-finales 2e Série 2026",
       "discipline": "",
       "level": "national",
       "format": "championship",
@@ -4049,8 +4049,9 @@
     "adapter": "savate_misc",
     "source": "raw_sources/Livret-2F-V1-PLESCOP-RESULTAT-.pdf-8e3e3a1b49.pdf",
     "meta": {
-      "name": "Plescop 2026",
-      "year": ""
+      "name": "Finale 2e Séries Filles 2026",
+      "year": "",
+      "competition": "championnat-de-france-2eme-serie-2025-26"
     }
   },
   {
@@ -4161,7 +4162,7 @@
     "adapter": "savate_misc",
     "source": "raw_sources/Livret-de-competition-Finales-2e-series-Rousies.pdf-2b74a885ab.pdf",
     "meta": {
-      "name": "Rousies 2e Série",
+      "name": "Finales 2e Séries Rousies 2026",
       "year": "",
       "competition": "championnat-de-france-2eme-serie-2025-26",
       "start_date": "2026-01-24"
@@ -4277,8 +4278,9 @@
     "adapter": "savate_misc",
     "source": "raw_sources/Livret-espoir-RESULTAT-V1-PLESCOP-V2.pdf-d8b2895419.pdf",
     "meta": {
-      "name": "Plescop Espoir",
-      "year": ""
+      "name": "Finale Espoirs 2026",
+      "year": "",
+      "competition": "championnat-de-france-espoirs-2025-26"
     }
   },
   {
@@ -4901,9 +4903,10 @@
     "adapter": "ffsavate_sheets",
     "source": "raw_sources/Resultats-finales-Plescop-avril-2026.pdf-2c077453bc.pdf",
     "meta": {
-      "name": "Plescop Avril 2026",
+      "name": "Finale Elite A/B 2026",
       "year": "2026",
-      "city": "Plescop"
+      "city": "Plescop",
+      "competition": "championnat-de-france-elite-2025-26"
     }
   },
   {

@@ -6292,7 +6292,7 @@
   },
   {
    "slug": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
-   "name": "1/2 finales 2eme serie, Dieppe",
+   "name": "Demi-finales 2e Série 2026",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -8264,7 +8264,7 @@
   },
   {
    "slug": "livret-2f-v1-plescop-resultat-pdf",
-   "name": "Plescop 2026",
+   "name": "Finale 2e Séries Filles 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -8277,7 +8277,7 @@
    "source": "raw_sources/Livret-2F-V1-PLESCOP-RESULTAT-.pdf-8e3e3a1b49.pdf",
    "adapter": "savate_misc",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-2eme-serie-2025-26"
   },
   {
    "slug": "livret-2eme-serie-m-resultat-brunoy-pdf",
@@ -8468,7 +8468,7 @@
   },
   {
    "slug": "livret-de-competition-finales-2e-series-rousies-pdf",
-   "name": "Rousies 2e Série",
+   "name": "Finales 2e Séries Rousies 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -8689,7 +8689,7 @@
   },
   {
    "slug": "livret-espoir-resultat-v1-plescop-v2-pdf",
-   "name": "Plescop Espoir",
+   "name": "Finale Espoirs 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -8702,7 +8702,7 @@
    "source": "raw_sources/Livret-espoir-RESULTAT-V1-PLESCOP-V2.pdf-d8b2895419.pdf",
    "adapter": "savate_misc",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-espoirs-2025-26"
   },
   {
    "slug": "livret2henpluscollege-savate-v3-pdf",
@@ -10389,7 +10389,7 @@
   },
   {
    "slug": "resultats-finales-plescop-avril-2026-pdf-2026",
-   "name": "Plescop Avril 2026",
+   "name": "Finale Elite A/B 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10402,7 +10402,7 @@
    "source": "raw_sources/Resultats-finales-Plescop-avril-2026.pdf-2c077453bc.pdf",
    "adapter": "ffsavate_sheets",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-elite-2025-26"
   },
   {
    "slug": "results-of-the-junior-savate-assaut-championships-2019-2019",
