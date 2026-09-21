@@ -29,7 +29,7 @@
   "adapter": "fisav_pool_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/81-2025/956-european-assaut-championships-2025-pool-results",
   "meta": {
-   "name": "European Assaut Championships 2025 - pool results",
+   "name": "FISAV European Assaut Championships 2025",
    "year": "2025",
    "level": "european",
    "discipline": "assaut"
@@ -40,7 +40,7 @@
   "adapter": "fisav_pool_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/76-2024/892-world-assaut-championships-2024-slovenia-pool-results",
   "meta": {
-   "name": "World Assaut Championships 2024 - Slovenia - Pool results",
+   "name": "FISAV World Assaut Championships 2024 Slovenia",
    "year": "2024",
    "level": "world",
    "discipline": "assaut"
@@ -51,7 +51,7 @@
   "adapter": "fisav_pool_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/837-world-youth-2023-pool-results",
   "meta": {
-   "name": "World Youth 2023 - Pool Results",
+   "name": "FISAV World Youth Championships 2023",
    "year": "2023",
    "level": "world",
    "discipline": ""
@@ -62,7 +62,7 @@
   "adapter": "fisav_pool_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/73-2023/857-world-combat-championships-2023-pool-results",
   "meta": {
-   "name": "World Combat Championships 2023 - pool results",
+   "name": "FISAV World Combat Championships 2023",
    "year": "2023",
    "level": "world",
    "discipline": "combat"
@@ -3138,7 +3138,7 @@
   "adapter": "fisav_worksheet_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/658-junior-men-56kg",
   "meta": {
-   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J56",
+   "name": "FISAV World Combat Championships 2019 Hammamet",
    "discipline": "combat",
    "level": "world",
    "format": "championship",
@@ -3152,7 +3152,7 @@
   "adapter": "fisav_worksheet_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/659-junior-men-60kg",
   "meta": {
-   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J60",
+   "name": "FISAV World Combat Championships 2019 Hammamet",
    "discipline": "combat",
    "level": "world",
    "format": "championship",
@@ -3166,7 +3166,7 @@
   "adapter": "fisav_worksheet_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/660-junior-men-65kg",
   "meta": {
-   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J65",
+   "name": "FISAV World Combat Championships 2019 Hammamet",
    "discipline": "combat",
    "level": "world",
    "format": "championship",
@@ -3180,7 +3180,7 @@
   "adapter": "fisav_worksheet_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/661-junior-men-70kg",
   "meta": {
-   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J70",
+   "name": "FISAV World Combat Championships 2019 Hammamet",
    "discipline": "combat",
    "level": "world",
    "format": "championship",
@@ -3194,7 +3194,7 @@
   "adapter": "fisav_worksheet_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/51-pool-results-combat-2019/663-junior-men-80kg",
   "meta": {
-   "name": "Championnat du Monde Combat 2019, Hammamet - pool results J80",
+   "name": "FISAV World Combat Championships 2019 Hammamet",
    "discipline": "combat",
    "level": "world",
    "format": "championship",
@@ -3208,7 +3208,7 @@
   "adapter": "fisav_worksheet_pdf",
   "source": "https://fisavate.org/index.php/en/informations/championnats-results/send/60-world-combat-championship-2021-pool-results/749-world-combat-senior-women-f52",
   "meta": {
-   "name": "Championnat du Monde Combat 2021, Weiz - pool results F52",
+   "name": "FISAV World Combat Championships 2021 Weiz",
    "discipline": "combat",
    "level": "world",
    "format": "championship",
@@ -4282,7 +4282,7 @@
   "adapter": "cesav_sheets",
   "source": "raw_sources/12-combat-european-championship-2016-results-715d14bdee",
   "meta": {
-   "name": "COMBAT EUROPEAN CHAMPIONSHIP 2016 -RESULTS",
+   "name": "FISAV Combat European Championship 2016",
    "year": "2016",
    "discipline": "combat"
   }
