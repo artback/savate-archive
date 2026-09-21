@@ -496,4 +496,5 @@ def _tournament(slug, meta, source):
         city=meta.get("city", ""),
         country=meta.get("country", "France"),
         source=str(source), adapter=NAME,
+        competition=meta.get("competition", ""),
     )

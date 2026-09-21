@@ -369,6 +369,7 @@ def read(source, slug, meta=None, **options):
                                   else ""),
         country=meta.get("country", ""),
         source=source, adapter=NAME,
+        competition=meta.get("competition", ""),
     )
 
     rows, single_bouts, seen_categories, awards = _rows(lines, slug, report)

@@ -463,6 +463,7 @@ def _tournament(source, slug, meta, page, body, report):
         city=meta.get("city", ""),
         country=country,
         source=str(source), adapter=NAME,
+        competition=meta.get("competition", ""),
     ), heading
 
 
@@ -540,7 +541,8 @@ def read(source, slug, meta=None, **options):
     if not re.search(r"</(p|div|td|tr|li|table|body|h[1-6])>", page, re.I):
         report.problem("this source is not an HTML page, so it was not read")
         return Tournament(slug=slug, name=meta.get("name", slug),
-                          source=str(source), adapter=NAME), [], report
+                          source=str(source), adapter=NAME,
+                          competition=meta.get("competition", "")), [], report
     body = _plain(_entry(page))
     stated_age, tournament, heading = _tournament(source, slug, meta, page,
                                                   body, report)

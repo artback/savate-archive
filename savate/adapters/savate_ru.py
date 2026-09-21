@@ -431,6 +431,7 @@ def read(source, slug, meta=None, **options):
         format=meta.get("format", ""), age_class=meta.get("age_class", ""),
         year=meta.get("year", ""), country=meta.get("country", ""),
         source=source, adapter=NAME,
+        competition=meta.get("competition", ""),
     )
 
     people = athletes(page)

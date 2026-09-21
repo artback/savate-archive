@@ -396,7 +396,8 @@ def read(source, slug, meta=None, **options):
         discipline=meta.get("discipline", ""), level=meta.get("level", ""),
         format=meta.get("format", ""), age_class=meta.get("age_class", ""),
         year=meta.get("year", ""), country=meta.get("country", ""),
-        city=meta.get("city", ""), source=str(source), adapter=NAME)
+        city=meta.get("city", ""), source=str(source), adapter=NAME,
+        competition=meta.get("competition", ""))
 
     try:
         path = sources.fetch_archived(str(source)) if options.get("archived") \

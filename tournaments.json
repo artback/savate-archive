@@ -876,18 +876,6 @@
   }
  },
  {
-  "slug": "fisav-world-assaut-2026-boulogne",
-  "adapter": "fisav_pdf",
-  "source": "https://fisav.sport/download.php?id=61",
-  "meta": {
-   "name": "World Championship Savate Assaut 2026 - Boulogne",
-   "year": "2026",
-   "level": "world",
-   "discipline": "assaut",
-   "format": "championship"
-  }
- },
- {
   "slug": "fisav-world-combat-2025-plovdiv",
   "adapter": "fisav_pdf",
   "source": "https://fisav.sport/download.php?id=11",
@@ -978,7 +966,8 @@
    "format": "championship",
    "discipline": "combat",
    "age_class": "Senior",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-2eme-serie-2024"
   }
  },
  {
@@ -1917,7 +1906,8 @@
    "level": "national",
    "format": "championship",
    "discipline": "combat",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-2eme-serie-2023"
   }
  },
  {
@@ -2755,7 +2745,8 @@
    "format": "championship",
    "age_class": "",
    "year": "2023",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-2eme-serie-2023"
   }
  },
  {
@@ -2937,7 +2928,8 @@
    "format": "championship",
    "age_class": "",
    "year": "2025",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-2eme-serie-2025-26"
   }
  },
  {
@@ -2965,7 +2957,8 @@
    "format": "championship",
    "age_class": "",
    "year": "2026",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-2eme-serie-2025-26"
   }
  },
  {
@@ -3430,7 +3423,8 @@
    "format": "championship",
    "age_class": "",
    "year": "2026",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-2eme-serie-2025-26"
   }
  },
  {
@@ -4567,16 +4561,6 @@
   }
  },
  {
-  "slug": "livret-de-competition-championnat-veteran-2026-pdf-2026",
-  "adapter": "ffsavate_bouts",
-  "source": "raw_sources/Livret-de-competition-Championnat-Veteran-2026.pdf-1bbcf1dda0.pdf",
-  "meta": {
-   "name": "Livret de competition Championnat Veteran 2026.pdf",
-   "year": "2026",
-   "level": "national"
-  }
- },
- {
   "slug": "livret-de-competition-finale-elite-b-maubeuge-pdf",
   "adapter": "savate_misc",
   "source": "raw_sources/Livret-de-competition-Finale-ELITE-B-Maubeuge.pdf-e4581eb579.pdf",
@@ -4591,7 +4575,8 @@
   "source": "raw_sources/Livret-de-competition-Finales-2e-series-Rousies.pdf-2b74a885ab.pdf",
   "meta": {
    "name": "Livret de competition Finales 2e series Rousies.pdf",
-   "year": ""
+   "year": "",
+   "competition": "championnat-de-france-2eme-serie-2025-26"
   }
  },
  {

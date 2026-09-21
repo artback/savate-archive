@@ -181,6 +181,7 @@ def _tournament(slug, meta, source):
         start_date=meta.get("start_date", ""), end_date=meta.get("end_date", ""),
         city=meta.get("city", ""), country=meta.get("country", ""),
         source=str(source), adapter=NAME,
+        competition=meta.get("competition", ""),
     )
 
 

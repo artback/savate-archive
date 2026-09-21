@@ -597,6 +597,7 @@ def read(source, slug, meta=None, **options):
         year=year,
         country=meta.get("country", ""),
         source=source, adapter=NAME,
+        competition=meta.get("competition", ""),
     )
 
     bouts, placings = [], []

@@ -86,6 +86,12 @@ class Tournament:
     source: str = ""          # URL, file path, sheet id - whatever it came from
     adapter: str = ""         # which adapter read it
     fetched_at: str = ""
+    # competition groups multiple stage documents (qualifying, semi-finals,
+    # finals) under one championship heading in the UI.  Empty means the
+    # tournament is its own competition.  Non-empty means it shares a
+    # competition slug with other stages; the *primary* document (usually
+    # the finals) carries the championship name in its slug / meta.
+    competition: str = ""
 
     def as_dict(self):
         return asdict(self)

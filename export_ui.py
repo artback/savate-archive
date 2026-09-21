@@ -121,10 +121,22 @@ def main():
         return nation_ix[key]
 
     # ---- events ----------------------------------------------------------
+    # Event list: year newest first, within each year world → european →
+    # national (the scope ladder from competition.py), name alphabetical
+    # as a tie-break.
+    _SCOPE_ORDER = {s: i for i, s in enumerate(competition.SCOPES)}
+
+    raw_rows = rows(db, "SELECT slug, name, year, level, format, age_class,"
+                        " discipline, country, city, start_date, end_date, source,"
+                        " competition"
+                        " FROM tournaments")
+    raw_rows.sort(key=lambda r: (
+        -(int(r["year"]) if r["year"] and r["year"].isdigit() else 0),
+        _SCOPE_ORDER.get(r["level"], len(competition.SCOPES)),
+        r["name"] or "",
+    ))
     events, event_ix = [], {}
-    for r in rows(db, "SELECT slug, name, year, level, format, age_class,"
-                      " discipline, country, city, start_date, end_date, source"
-                      " FROM tournaments ORDER BY year DESC, name"):
+    for r in raw_rows:
         event_ix[r["slug"]] = len(events)
         events.append([
             r["name"], r["year"], r["level"], r["discipline"],
@@ -135,6 +147,7 @@ def main():
             # Where this event came from: the document it was read from. An
             # archive that cannot show its source for a line is a rumour.
             r["source"] or "",
+            r["competition"] or "",
         ])
 
     # ---- people ----------------------------------------------------------
