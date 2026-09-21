@@ -1242,23 +1242,6 @@
    "competition": ""
   },
   {
-   "slug": "ffsavate-championnat-de-france-assaut-2025-finales-paris",
-   "name": "Championnat de France Assaut 2025 (finales), Paris",
-   "discipline": "assaut",
-   "level": "national",
-   "format": "championship",
-   "age_class": "Senior",
-   "year": "2025",
-   "start_date": "2025-04-27",
-   "end_date": "",
-   "city": "Paris",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-championnat-ASSAUT-2025.pdf",
-   "adapter": "ffsavate_finals",
-   "fetched_at": "",
-   "competition": "championnat-de-france-assaut-2025"
-  },
-  {
    "slug": "ffsavate-championnat-de-france-v-t-rans-2025",
    "name": "Championnat de France Vétérans 2025",
    "discipline": "assaut",
@@ -4285,23 +4268,6 @@
    "competition": ""
   },
   {
-   "slug": "ffsavate-championnat-de-france-elite-b-masculin-2023",
-   "name": "Championnat de France Combat Elite B Masculin 2022-2023",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2023",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Elite-B-Masc.pdf",
-   "adapter": "ffsavate_bouts",
-   "fetched_at": "",
-   "competition": "championnat-de-france-elite-b-2023"
-  },
-  {
    "slug": "ffsavate-championnat-de-france-espoirs-masculin-2023",
    "name": "Championnat de France Combat Espoirs Masculin 2022-2023",
    "discipline": "combat",
@@ -4317,40 +4283,6 @@
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "ffsavate-championnat-de-france-elite-b-feminin-2023",
-   "name": "Championnat de France Combat Elite B Féminin 2022-2023",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2023",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Elite-B-Fem.pdf",
-   "adapter": "ffsavate_bouts",
-   "fetched_at": "",
-   "competition": "championnat-de-france-elite-b-2023"
-  },
-  {
-   "slug": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
-   "name": "Championnat de France Combat 2e Série Féminin 2022-2023",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2023",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Combat-2eme-serie-Fem.pdf",
-   "adapter": "ffsavate_bouts",
-   "fetched_at": "",
-   "competition": "championnat-de-france-2eme-serie-2023"
   },
   {
    "slug": "ffsavate-coupe-de-france-assaut-feminin-2023-paris",
@@ -4387,23 +4319,6 @@
    "competition": ""
   },
   {
-   "slug": "ffsavate-championnat-de-france-premium-2024-verdun",
-   "name": "Championnat de France Premium 2024, Verdun",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2024",
-   "start_date": "2024-03-23",
-   "end_date": "",
-   "city": "Verdun",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/03/Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-PREMIUM-mars-2024.pdf",
-   "adapter": "ffsavate_bouts",
-   "fetched_at": "",
-   "competition": "championnat-de-france-premium-2024"
-  },
-  {
    "slug": "ffsavate-championnat-de-france-juniors-2024-verdun",
    "name": "Championnat de France Juniors 2024 (finales), Verdun",
    "discipline": "",
@@ -4436,23 +4351,6 @@
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "ffsavate-championnat-de-france-elite-a-2024-st-christol",
-   "name": "Championnat de France Elite A 2024, Saint-Christol-lez-Alès",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2024",
-   "start_date": "2024-04-06",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/03/RESULTATS-CHAMPIONNAT-DE-FRANCE-ELITE-A-St-Christol.pdf",
-   "adapter": "ffsavate_bouts",
-   "fetched_at": "",
-   "competition": "championnat-de-france-elite-a-2024"
   },
   {
    "slug": "ffsavate-finales-nationales-2024-barbezieux",
@@ -5526,23 +5424,6 @@
    "competition": ""
   },
   {
-   "slug": "ffsbf-2e-serie-juniors-toreilles-2023",
-   "name": "Tournoi Championnat de France 2e Séries Masculins et Juniors 2023 - Toreilles",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2023",
-   "start_date": "2023-04-01",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2023/05/CR_Toreilles_.pdf",
-   "adapter": "ffsavate_finals_wide",
-   "fetched_at": "",
-   "competition": "championnat-de-france-2eme-serie-2023"
-  },
-  {
    "slug": "ffsbf-open-de-france-assaut-2023",
    "name": "Open de France Assaut 2023 - individuels et par équipe",
    "discipline": "assaut",
@@ -5558,57 +5439,6 @@
    "adapter": "ffsavate_finals_wide",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "ffsbf-elite-a-livret-2024",
-   "name": "Championnat de France Elite A 2024 - huitièmes et quarts, Albertville",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2024",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-ELITE-A-RESULTAT.pdf",
-   "adapter": "ffsavate_bouts",
-   "fetched_at": "",
-   "competition": "championnat-de-france-elite-a-2024"
-  },
-  {
-   "slug": "ffsbf-elite-a-armentieres-2024",
-   "name": "Championnat de France Elite A - Armentières, 16 mars 2024",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2024",
-   "start_date": "2024-03-16",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-ELITE-A-RESULTAT-Armentieres.pdf",
-   "adapter": "ffsavate_bouts",
-   "fetched_at": "",
-   "competition": "championnat-de-france-elite-a-2024"
-  },
-  {
-   "slug": "ffsbf-premium-livret-2024",
-   "name": "Championnat de France Premium 2024",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2024",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-PREMIUM-RESULTAT.pdf",
-   "adapter": "ffsavate_bouts",
-   "fetched_at": "",
-   "competition": "championnat-de-france-premium-2024"
   },
   {
    "slug": "ffsbf-elite-a-finales-vandoeuvre-2024",
@@ -5713,23 +5543,6 @@
    "competition": ""
   },
   {
-   "slug": "ffsbf-espoirs-m-finales-2025",
-   "name": "Championnat de France Espoirs M - finales, La Côte Saint André, 25/01/2025",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "Espoir",
-   "year": "2025",
-   "start_date": "2025-01-25",
-   "end_date": "",
-   "city": "La Côte Saint André",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-FINALES-ESPOIRS-M-2025.pdf",
-   "adapter": "ffsavate_finals",
-   "fetched_at": "",
-   "competition": "championnat-de-france-espoirs-2025"
-  },
-  {
    "slug": "ffsbf-open-automne-calais-2024",
    "name": "Open d'Automne - Calais, 16-17/11/2024",
    "discipline": "combat",
@@ -5762,23 +5575,6 @@
    "adapter": "ffsavate_finals_wide",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "ffsbf-juniors-finales-lanester-2026",
-   "name": "Championnat de France Juniors - finales, Lanester, 04/04/2026",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "Junior",
-   "year": "2026",
-   "start_date": "2026-04-04",
-   "end_date": "",
-   "city": "Lanester",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-finales-juniors-2026-.pdf",
-   "adapter": "ffsavate_finals_wide",
-   "fetched_at": "",
-   "competition": "championnat-de-france-juniors-2026"
   },
   {
    "slug": "ffsbf-open-assaut-calais-2026",
@@ -6138,40 +5934,6 @@
    "competition": ""
   },
   {
-   "slug": "ffsavate-elite-a-beaumont-les-valence-2025",
-   "name": "1/2 finales Elite A, Beaumont-les-Valence",
-   "discipline": "",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2025",
-   "start_date": "2025-03-22",
-   "end_date": "",
-   "city": "Beaumont Les Valence",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-ELITE-A-Beaumont-26.pdf",
-   "adapter": "ffsavate_finals",
-   "fetched_at": "",
-   "competition": "championnat-de-france-elite-a-2025"
-  },
-  {
-   "slug": "ffsavate-premium-beaumont-les-valence-2025",
-   "name": "1/2 finales Premium, Beaumont-les-Valence",
-   "discipline": "",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2025",
-   "start_date": "2025-03-22",
-   "end_date": "",
-   "city": "Beaumont Les Valence",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-PREMIUM-Beaumont-26.pdf",
-   "adapter": "ffsavate_finals",
-   "fetched_at": "",
-   "competition": "championnat-de-france-premium-2025"
-  },
-  {
    "slug": "ffsavate-elite-b-la-cote-saint-andre-2025",
    "name": "Finale Espoir et 1/2 finale Elite B, La Cote Saint-Andre",
    "discipline": "",
@@ -6187,57 +5949,6 @@
    "adapter": "ffsavate_finals",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "ffsavate-elite-a-donzere-2025",
-   "name": "1/2 finales Elite A, Donzere",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2025",
-   "start_date": "2025-03-15",
-   "end_date": "",
-   "city": "Donzère",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-Elite-A-Donzere.pdf",
-   "adapter": "ffsavate_finals",
-   "fetched_at": "",
-   "competition": "championnat-de-france-elite-a-2025"
-  },
-  {
-   "slug": "ffsavate-premium-donzere-2025",
-   "name": "1/2 finales Premium, Donzere",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2025",
-   "start_date": "2025-03-15",
-   "end_date": "",
-   "city": "Donzère",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-Premium-Donzere.pdf",
-   "adapter": "ffsavate_finals",
-   "fetched_at": "",
-   "competition": "championnat-de-france-premium-2025"
-  },
-  {
-   "slug": "ffsavate-premium-viuz-en-sallaz-2025",
-   "name": "Finale Premium et juniors, Viuz-en-Sallaz",
-   "discipline": "",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2025",
-   "start_date": "2025-03-29",
-   "end_date": "",
-   "city": "Viuz En Sallaz",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-PREMIUM-Viuz-en-Sallaz.pdf",
-   "adapter": "ffsavate_finals",
-   "fetched_at": "",
-   "competition": "championnat-de-france-premium-2025"
   },
   {
    "slug": "ffsavate-demi-finales-espoirs-premium-calais-2026",
@@ -6272,23 +5983,6 @@
    "adapter": "ffsavate_finals_wide",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "ffsavate-finales-assaut-melun-2026",
-   "name": "Finales du championnat de France assaut, Melun",
-   "discipline": "assaut",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2026",
-   "start_date": "2026-05-23",
-   "end_date": "",
-   "city": "Melun",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2026/05/Resultats-finales-assaut-2026.pdf",
-   "adapter": "ffsavate_finals_wide",
-   "fetched_at": "",
-   "competition": "championnat-de-france-assaut-2026"
   },
   {
    "slug": "canada-2013",
@@ -8365,23 +8059,6 @@
    "competition": ""
   },
   {
-   "slug": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
-   "name": "Championnat Assaut 2025",
-   "discipline": "assaut",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2025",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "raw_sources/Livret-de-competition-Championnat-Assaut-2025-1.pdf-3ecbafc5f3.pdf",
-   "adapter": "ffsavate_bouts",
-   "fetched_at": "",
-   "competition": "championnat-de-france-assaut-2025"
-  },
-  {
    "slug": "livret-de-competition-finale-elite-b-maubeuge-pdf",
    "name": "Maubeuge Finales Elite B",
    "discipline": "",
@@ -8397,23 +8074,6 @@
    "adapter": "savate_misc",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "livret-de-competition-finales-2e-series-rousies-pdf",
-   "name": "Finales 2e Séries Rousies 2026",
-   "discipline": "",
-   "level": "",
-   "format": "",
-   "age_class": "",
-   "year": "",
-   "start_date": "2026-01-24",
-   "end_date": "",
-   "city": "",
-   "country": "",
-   "source": "raw_sources/Livret-de-competition-Finales-2e-series-Rousies.pdf-2b74a885ab.pdf",
-   "adapter": "savate_misc",
-   "fetched_at": "",
-   "competition": "championnat-de-france-2eme-serie-2025-26"
   },
   {
    "slug": "livret-de-competition-open-assaut-a-merignac-pdf-2024",
@@ -8516,57 +8176,6 @@
    "adapter": "savate_misc",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
-   "name": "Finales Espoir 2025",
-   "discipline": "",
-   "level": "",
-   "format": "",
-   "age_class": "",
-   "year": "2025",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "",
-   "source": "raw_sources/Livret-de-competition-finales-ESPOIR-M-2025-V2.pdf-f5dabce92a.pdf",
-   "adapter": "savate_misc",
-   "fetched_at": "",
-   "competition": "championnat-de-france-espoirs-2025"
-  },
-  {
-   "slug": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
-   "name": "Finales Juniors Avril 2026",
-   "discipline": "",
-   "level": "",
-   "format": "",
-   "age_class": "",
-   "year": "2026",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "",
-   "source": "raw_sources/Livret-de-competition-finales-Juniors-avril-2026.pdf-9a8374bcec.pdf",
-   "adapter": "savate_misc",
-   "fetched_at": "",
-   "competition": "championnat-de-france-juniors-2026"
-  },
-  {
-   "slug": "livret-de-competition-finales-assaut-2026-pdf-2026",
-   "name": "Finales Assaut 2026",
-   "discipline": "assaut",
-   "level": "",
-   "format": "",
-   "age_class": "",
-   "year": "2026",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "",
-   "source": "raw_sources/Livret-de-competition-finales-assaut-2026.pdf-5467a6f250.pdf",
-   "adapter": "savate_misc",
-   "fetched_at": "",
-   "competition": "championnat-de-france-assaut-2026"
   },
   {
    "slug": "livret-de-competition-open-assaut-individuel-calais-v2-pdf",
@@ -12547,21 +12156,191 @@
    "competition": ""
   },
   {
+   "slug": "championnat-de-france-assaut-2025",
+   "name": "Championnat de France Assaut 2025",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "Senior",
+   "year": "2025",
+   "start_date": "2025-04-27",
+   "end_date": "",
+   "city": "Paris",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-championnat-ASSAUT-2025.pdf",
+   "adapter": "ffsavate_finals",
+   "fetched_at": "",
+   "competition": "championnat-de-france-assaut-2025"
+  },
+  {
+   "slug": "championnat-de-france-elite-b-2023",
+   "name": "Championnat de France Elite b 2023",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "start_date": "",
+   "end_date": "",
+   "city": "",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Elite-B-Masc.pdf",
+   "adapter": "ffsavate_bouts",
+   "fetched_at": "",
+   "competition": "championnat-de-france-elite-b-2023"
+  },
+  {
+   "slug": "championnat-de-france-2eme-serie-2023",
+   "name": "Championnat de France 2eme Serie 2023",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2023",
+   "start_date": "",
+   "end_date": "",
+   "city": "",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Combat-2eme-serie-Fem.pdf",
+   "adapter": "ffsavate_bouts",
+   "fetched_at": "",
+   "competition": "championnat-de-france-2eme-serie-2023"
+  },
+  {
+   "slug": "championnat-de-france-premium-2024",
+   "name": "Championnat de France Premium 2024",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2024",
+   "start_date": "2024-03-23",
+   "end_date": "",
+   "city": "Verdun",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2024/03/Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-PREMIUM-mars-2024.pdf",
+   "adapter": "ffsavate_bouts",
+   "fetched_at": "",
+   "competition": "championnat-de-france-premium-2024"
+  },
+  {
+   "slug": "championnat-de-france-elite-a-2024",
+   "name": "Championnat de France Elite a 2024",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2024",
+   "start_date": "2024-04-06",
+   "end_date": "",
+   "city": "",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2024/03/RESULTATS-CHAMPIONNAT-DE-FRANCE-ELITE-A-St-Christol.pdf",
+   "adapter": "ffsavate_bouts",
+   "fetched_at": "",
+   "competition": "championnat-de-france-elite-a-2024"
+  },
+  {
+   "slug": "championnat-de-france-espoirs-2025",
+   "name": "Championnat de France Espoirs 2025",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "Espoir",
+   "year": "2025",
+   "start_date": "2025-01-25",
+   "end_date": "",
+   "city": "La Côte Saint André",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-FINALES-ESPOIRS-M-2025.pdf",
+   "adapter": "ffsavate_finals",
+   "fetched_at": "",
+   "competition": "championnat-de-france-espoirs-2025"
+  },
+  {
    "slug": "championnat-de-france-2eme-serie-2025-26",
-   "name": "Championnat de France 2e Série 2025/26",
+   "name": "Championnat de France 2eme Serie 2025 26",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "start_date": "2025-12-20",
+   "end_date": "",
+   "city": "Paris",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-tour-eliminatoire-Paris-2012-2025-_-Biancotto.pdf",
+   "adapter": "ffsavate_finals_wide",
+   "fetched_at": "",
+   "competition": "championnat-de-france-2eme-serie-2025-26"
+  },
+  {
+   "slug": "championnat-de-france-juniors-2026",
+   "name": "Championnat de France Juniors 2026",
+   "discipline": "combat",
+   "level": "national",
+   "format": "championship",
+   "age_class": "Junior",
+   "year": "2026",
+   "start_date": "2026-04-04",
+   "end_date": "",
+   "city": "Lanester",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-finales-juniors-2026-.pdf",
+   "adapter": "ffsavate_finals_wide",
+   "fetched_at": "",
+   "competition": "championnat-de-france-juniors-2026"
+  },
+  {
+   "slug": "championnat-de-france-elite-a-2025",
+   "name": "Championnat de France Elite a 2025",
    "discipline": "",
    "level": "national",
    "format": "championship",
    "age_class": "",
-   "year": "2026",
-   "start_date": "2025-12-20",
+   "year": "2025",
+   "start_date": "2025-03-22",
    "end_date": "",
-   "city": "",
-   "country": "",
-   "source": "https://www.ffsavate.com",
-   "adapter": "",
+   "city": "Beaumont Les Valence",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-ELITE-A-Beaumont-26.pdf",
+   "adapter": "ffsavate_finals",
    "fetched_at": "",
-   "competition": "championnat-de-france-2eme-serie-2025-26"
+   "competition": "championnat-de-france-elite-a-2025"
+  },
+  {
+   "slug": "championnat-de-france-premium-2025",
+   "name": "Championnat de France Premium 2025",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2025",
+   "start_date": "2025-03-22",
+   "end_date": "",
+   "city": "Beaumont Les Valence",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-PREMIUM-Beaumont-26.pdf",
+   "adapter": "ffsavate_finals",
+   "fetched_at": "",
+   "competition": "championnat-de-france-premium-2025"
+  },
+  {
+   "slug": "championnat-de-france-assaut-2026",
+   "name": "Championnat de France Assaut 2026",
+   "discipline": "assaut",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2026",
+   "start_date": "2026-05-23",
+   "end_date": "",
+   "city": "Melun",
+   "country": "France",
+   "source": "https://www.ffsavate.com/content/uploads/2026/05/Resultats-finales-assaut-2026.pdf",
+   "adapter": "ffsavate_finals_wide",
+   "fetched_at": "",
+   "competition": "championnat-de-france-assaut-2026"
   }
  ],
  "bouts": [
@@ -33290,7 +33069,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-assaut-2025-finales-paris",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "ffsavate-championnat-de-france-assaut-2025-finales-paris-01-final",
    "date": "",
    "time": "",
@@ -33320,10 +33099,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-assaut-2025-finales-paris"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-assaut-2025-finales-paris",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "ffsavate-championnat-de-france-assaut-2025-finales-paris-02-final",
    "date": "",
    "time": "",
@@ -33353,10 +33132,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-assaut-2025-finales-paris"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-assaut-2025-finales-paris",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "ffsavate-championnat-de-france-assaut-2025-finales-paris-03-final",
    "date": "",
    "time": "",
@@ -33386,10 +33165,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-assaut-2025-finales-paris"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-assaut-2025-finales-paris",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "ffsavate-championnat-de-france-assaut-2025-finales-paris-04-final",
    "date": "",
    "time": "",
@@ -33419,10 +33198,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-assaut-2025-finales-paris"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-assaut-2025-finales-paris",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "ffsavate-championnat-de-france-assaut-2025-finales-paris-05-final",
    "date": "",
    "time": "",
@@ -33452,7 +33231,7 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-assaut-2025-finales-paris"
   },
   {
    "tournament": "ffsavate-championnat-de-france-v-t-rans-2025",
@@ -33686,7 +33465,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-001",
    "date": "",
    "time": "",
@@ -33716,10 +33495,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-002",
    "date": "",
    "time": "",
@@ -33749,10 +33528,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-003",
    "date": "",
    "time": "",
@@ -33782,10 +33561,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-004",
    "date": "",
    "time": "",
@@ -33815,10 +33594,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-005",
    "date": "",
    "time": "",
@@ -33848,10 +33627,10 @@
    "decision": "disqualification",
    "decision_detail": "Par disqualification",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-006",
    "date": "",
    "time": "",
@@ -33881,10 +33660,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-007",
    "date": "",
    "time": "",
@@ -33914,10 +33693,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-008",
    "date": "",
    "time": "",
@@ -33947,10 +33726,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-009",
    "date": "",
    "time": "",
@@ -33980,10 +33759,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-010",
    "date": "",
    "time": "",
@@ -34013,10 +33792,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-011",
    "date": "",
    "time": "",
@@ -34046,10 +33825,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-012",
    "date": "",
    "time": "",
@@ -34079,10 +33858,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-013",
    "date": "",
    "time": "",
@@ -34112,10 +33891,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-014",
    "date": "",
    "time": "",
@@ -34145,10 +33924,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-016",
    "date": "",
    "time": "",
@@ -34178,10 +33957,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-017",
    "date": "",
    "time": "",
@@ -34211,10 +33990,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-018",
    "date": "",
    "time": "",
@@ -34244,10 +34023,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-019",
    "date": "",
    "time": "",
@@ -34277,10 +34056,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-020",
    "date": "",
    "time": "",
@@ -34310,10 +34089,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-021",
    "date": "",
    "time": "",
@@ -34343,10 +34122,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-022",
    "date": "",
    "time": "",
@@ -34376,10 +34155,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-023",
    "date": "",
    "time": "",
@@ -34409,10 +34188,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-024",
    "date": "",
    "time": "",
@@ -34442,10 +34221,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-025",
    "date": "",
    "time": "",
@@ -34475,10 +34254,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-026",
    "date": "",
    "time": "",
@@ -34508,10 +34287,10 @@
    "decision": "disqualification",
    "decision_detail": "Par disqualification",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-027",
    "date": "",
    "time": "",
@@ -34541,10 +34320,10 @@
    "decision": "disqualification",
    "decision_detail": "Par disqualification",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-028",
    "date": "",
    "time": "",
@@ -34574,10 +34353,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-029",
    "date": "",
    "time": "",
@@ -34607,10 +34386,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-032",
    "date": "",
    "time": "",
@@ -34640,10 +34419,10 @@
    "decision": "forfait",
    "decision_detail": "Par Forfait",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-033",
    "date": "",
    "time": "",
@@ -34673,10 +34452,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-034",
    "date": "",
    "time": "",
@@ -34706,10 +34485,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-035",
    "date": "",
    "time": "",
@@ -34739,10 +34518,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-036",
    "date": "",
    "time": "",
@@ -34772,10 +34551,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-037",
    "date": "",
    "time": "",
@@ -34805,10 +34584,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-038",
    "date": "",
    "time": "",
@@ -34838,10 +34617,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-039",
    "date": "",
    "time": "",
@@ -34871,10 +34650,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-040",
    "date": "",
    "time": "",
@@ -34904,10 +34683,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-041",
    "date": "",
    "time": "",
@@ -34937,10 +34716,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-042",
    "date": "",
    "time": "",
@@ -34970,10 +34749,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-043",
    "date": "",
    "time": "",
@@ -35003,10 +34782,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-044",
    "date": "",
    "time": "",
@@ -35036,10 +34815,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-045",
    "date": "",
    "time": "",
@@ -35069,10 +34848,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-046",
    "date": "",
    "time": "",
@@ -35102,10 +34881,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-masculin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-masculin-2023-047",
    "date": "",
    "time": "",
@@ -35135,7 +34914,7 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-masculin-2023"
   },
   {
    "tournament": "ffsavate-championnat-de-france-espoirs-masculin-2023",
@@ -36854,7 +36633,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-feminin-2023-001",
    "date": "",
    "time": "",
@@ -36884,10 +36663,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-feminin-2023-002",
    "date": "",
    "time": "",
@@ -36917,10 +36696,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-feminin-2023-003",
    "date": "",
    "time": "",
@@ -36950,10 +36729,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-feminin-2023-004",
    "date": "",
    "time": "",
@@ -36983,10 +36762,10 @@
    "decision": "forfait",
    "decision_detail": "Par Forfait",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-feminin-2023-005",
    "date": "",
    "time": "",
@@ -37016,10 +36795,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-feminin-2023-006",
    "date": "",
    "time": "",
@@ -37049,10 +36828,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-feminin-2023-007",
    "date": "",
    "time": "",
@@ -37082,10 +36861,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-feminin-2023-008",
    "date": "",
    "time": "",
@@ -37115,10 +36894,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-b-feminin-2023",
+   "tournament": "championnat-de-france-elite-b-2023",
    "bout_id": "ffsavate-championnat-de-france-elite-b-feminin-2023-009",
    "date": "",
    "time": "",
@@ -37148,10 +36927,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-b-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-001",
    "date": "",
    "time": "",
@@ -37181,10 +36960,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-002",
    "date": "",
    "time": "",
@@ -37214,10 +36993,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-003",
    "date": "",
    "time": "",
@@ -37247,10 +37026,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-004",
    "date": "",
    "time": "",
@@ -37280,10 +37059,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-005",
    "date": "",
    "time": "",
@@ -37313,10 +37092,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-006",
    "date": "",
    "time": "",
@@ -37346,10 +37125,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-007",
    "date": "",
    "time": "",
@@ -37379,10 +37158,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-008",
    "date": "",
    "time": "",
@@ -37412,10 +37191,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-009",
    "date": "",
    "time": "",
@@ -37445,10 +37224,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-010",
    "date": "",
    "time": "",
@@ -37478,10 +37257,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-011",
    "date": "",
    "time": "",
@@ -37511,10 +37290,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-012",
    "date": "",
    "time": "",
@@ -37544,10 +37323,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-013",
    "date": "",
    "time": "",
@@ -37577,10 +37356,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-014",
    "date": "",
    "time": "",
@@ -37610,10 +37389,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-015",
    "date": "",
    "time": "",
@@ -37643,10 +37422,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-016",
    "date": "",
    "time": "",
@@ -37676,10 +37455,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-017",
    "date": "",
    "time": "",
@@ -37709,10 +37488,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-018",
    "date": "",
    "time": "",
@@ -37742,10 +37521,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-019",
    "date": "",
    "time": "",
@@ -37775,10 +37554,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-020",
    "date": "",
    "time": "",
@@ -37808,10 +37587,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-021",
    "date": "",
    "time": "",
@@ -37841,10 +37620,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-022",
    "date": "",
    "time": "",
@@ -37874,10 +37653,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-023",
    "date": "",
    "time": "",
@@ -37907,10 +37686,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-024",
    "date": "",
    "time": "",
@@ -37940,10 +37719,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-025",
    "date": "",
    "time": "",
@@ -37973,10 +37752,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-026",
    "date": "",
    "time": "",
@@ -38006,10 +37785,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-027",
    "date": "",
    "time": "",
@@ -38039,10 +37818,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-028",
    "date": "",
    "time": "",
@@ -38072,10 +37851,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-029",
    "date": "",
    "time": "",
@@ -38105,10 +37884,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-030",
    "date": "",
    "time": "",
@@ -38138,10 +37917,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-031",
    "date": "",
    "time": "",
@@ -38171,10 +37950,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-032",
    "date": "",
    "time": "",
@@ -38204,10 +37983,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-033",
    "date": "",
    "time": "",
@@ -38237,10 +38016,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-034",
    "date": "",
    "time": "",
@@ -38270,10 +38049,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-035",
    "date": "",
    "time": "",
@@ -38303,10 +38082,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-036",
    "date": "",
    "time": "",
@@ -38336,10 +38115,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-037",
    "date": "",
    "time": "",
@@ -38369,10 +38148,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-038",
    "date": "",
    "time": "",
@@ -38402,10 +38181,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-039",
    "date": "",
    "time": "",
@@ -38435,10 +38214,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-040",
    "date": "",
    "time": "",
@@ -38468,10 +38247,10 @@
    "decision": "disqualification",
    "decision_detail": "Par disqualification",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-041",
    "date": "",
    "time": "",
@@ -38501,10 +38280,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-042",
    "date": "",
    "time": "",
@@ -38534,10 +38313,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-043",
    "date": "",
    "time": "",
@@ -38567,10 +38346,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-044",
    "date": "",
    "time": "",
@@ -38600,10 +38379,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-045",
    "date": "",
    "time": "",
@@ -38633,10 +38412,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-046",
    "date": "",
    "time": "",
@@ -38666,10 +38445,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-047",
    "date": "",
    "time": "",
@@ -38699,10 +38478,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-048",
    "date": "",
    "time": "",
@@ -38732,10 +38511,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-049",
    "date": "",
    "time": "",
@@ -38765,10 +38544,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-050",
    "date": "",
    "time": "",
@@ -38798,10 +38577,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-051",
    "date": "",
    "time": "",
@@ -38831,10 +38610,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsavate-championnat-de-france-2e-serie-feminin-2023-052",
    "date": "",
    "time": "",
@@ -38864,7 +38643,7 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-2e-serie-feminin-2023"
   },
   {
    "tournament": "ffsavate-coupe-de-france-assaut-feminin-2023-paris",
@@ -42266,7 +42045,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-001",
    "date": "",
    "time": "",
@@ -42296,10 +42075,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-002",
    "date": "",
    "time": "",
@@ -42329,10 +42108,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-003",
    "date": "",
    "time": "",
@@ -42362,10 +42141,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-004",
    "date": "",
    "time": "",
@@ -42395,10 +42174,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-005",
    "date": "",
    "time": "",
@@ -42428,10 +42207,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-006",
    "date": "",
    "time": "",
@@ -42461,10 +42240,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-007",
    "date": "",
    "time": "",
@@ -42494,10 +42273,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-008",
    "date": "",
    "time": "",
@@ -42527,10 +42306,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-009",
    "date": "",
    "time": "",
@@ -42560,10 +42339,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-010",
    "date": "",
    "time": "",
@@ -42593,10 +42372,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-011",
    "date": "",
    "time": "",
@@ -42626,10 +42405,10 @@
    "decision": "disqualification",
    "decision_detail": "Disq 3ème rep",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-premium-2024-verdun",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsavate-championnat-de-france-premium-2024-verdun-012",
    "date": "",
    "time": "",
@@ -42659,7 +42438,7 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-premium-2024-verdun"
   },
   {
    "tournament": "ffsavate-championnat-de-france-juniors-2024-verdun",
@@ -43157,7 +42936,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-a-2024-st-christol",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsavate-championnat-de-france-elite-a-2024-st-christol-001",
    "date": "",
    "time": "",
@@ -43187,10 +42966,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-a-2024-st-christol"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-a-2024-st-christol",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsavate-championnat-de-france-elite-a-2024-st-christol-002",
    "date": "",
    "time": "",
@@ -43220,10 +42999,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-a-2024-st-christol"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-a-2024-st-christol",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsavate-championnat-de-france-elite-a-2024-st-christol-003",
    "date": "",
    "time": "",
@@ -43253,10 +43032,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-a-2024-st-christol"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-a-2024-st-christol",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsavate-championnat-de-france-elite-a-2024-st-christol-004",
    "date": "",
    "time": "",
@@ -43286,10 +43065,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-a-2024-st-christol"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-a-2024-st-christol",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsavate-championnat-de-france-elite-a-2024-st-christol-005",
    "date": "",
    "time": "",
@@ -43319,10 +43098,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-a-2024-st-christol"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-a-2024-st-christol",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsavate-championnat-de-france-elite-a-2024-st-christol-006",
    "date": "",
    "time": "",
@@ -43352,10 +43131,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-a-2024-st-christol"
   },
   {
-   "tournament": "ffsavate-championnat-de-france-elite-a-2024-st-christol",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsavate-championnat-de-france-elite-a-2024-st-christol-007",
    "date": "",
    "time": "",
@@ -43385,7 +43164,7 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-championnat-de-france-elite-a-2024-st-christol"
   },
   {
    "tournament": "ffsavate-finales-nationales-2024-barbezieux",
@@ -58337,7 +58116,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-01-final",
    "date": "",
    "time": "",
@@ -58367,10 +58146,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-02-final",
    "date": "",
    "time": "",
@@ -58400,10 +58179,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-03-final",
    "date": "",
    "time": "",
@@ -58433,10 +58212,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-04-final",
    "date": "",
    "time": "",
@@ -58466,10 +58245,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-05-final",
    "date": "",
    "time": "",
@@ -58499,10 +58278,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-06-final",
    "date": "",
    "time": "",
@@ -58532,10 +58311,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-07-final",
    "date": "",
    "time": "",
@@ -58565,10 +58344,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-08-final",
    "date": "",
    "time": "",
@@ -58598,10 +58377,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-09-final",
    "date": "",
    "time": "",
@@ -58631,10 +58410,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-10-final",
    "date": "",
    "time": "",
@@ -58664,10 +58443,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-11-final",
    "date": "",
    "time": "",
@@ -58697,10 +58476,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-12-final",
    "date": "",
    "time": "",
@@ -58730,10 +58509,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
-   "tournament": "ffsbf-2e-serie-juniors-toreilles-2023",
+   "tournament": "championnat-de-france-2eme-serie-2023",
    "bout_id": "ffsbf-2e-serie-juniors-toreilles-2023-13-final",
    "date": "",
    "time": "",
@@ -58763,7 +58542,7 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-juniors-toreilles-2023"
   },
   {
    "tournament": "ffsbf-open-de-france-assaut-2023",
@@ -59294,7 +59073,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-001",
    "date": "",
    "time": "",
@@ -59324,10 +59103,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-002",
    "date": "",
    "time": "",
@@ -59357,10 +59136,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-003",
    "date": "",
    "time": "",
@@ -59390,10 +59169,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-004",
    "date": "",
    "time": "",
@@ -59423,10 +59202,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-006",
    "date": "",
    "time": "",
@@ -59456,10 +59235,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-007",
    "date": "",
    "time": "",
@@ -59489,10 +59268,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-008",
    "date": "",
    "time": "",
@@ -59522,10 +59301,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-011",
    "date": "",
    "time": "",
@@ -59555,10 +59334,10 @@
    "decision": "points",
    "decision_detail": "UNANIMITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-014",
    "date": "",
    "time": "",
@@ -59588,10 +59367,10 @@
    "decision": "points",
    "decision_detail": "MAJORITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-015",
    "date": "",
    "time": "",
@@ -59621,10 +59400,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-016",
    "date": "",
    "time": "",
@@ -59654,10 +59433,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-017",
    "date": "",
    "time": "",
@@ -59687,10 +59466,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-019",
    "date": "",
    "time": "",
@@ -59720,10 +59499,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-020",
    "date": "",
    "time": "",
@@ -59753,10 +59532,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-021",
    "date": "",
    "time": "",
@@ -59786,10 +59565,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-022",
    "date": "",
    "time": "",
@@ -59819,10 +59598,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-024",
    "date": "",
    "time": "",
@@ -59852,10 +59631,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-025",
    "date": "",
    "time": "",
@@ -59885,10 +59664,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-026",
    "date": "",
    "time": "",
@@ -59918,10 +59697,10 @@
    "decision": "points",
    "decision_detail": "UNANIMITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-027",
    "date": "",
    "time": "",
@@ -59951,10 +59730,10 @@
    "decision": "points",
    "decision_detail": "MAJORITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-028",
    "date": "",
    "time": "",
@@ -59984,10 +59763,10 @@
    "decision": "points",
    "decision_detail": "UNANIMITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-livret-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-livret-2024-029",
    "date": "",
    "time": "",
@@ -60017,10 +59796,10 @@
    "decision": "points",
    "decision_detail": "UNANIMITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-livret-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-armentieres-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-armentieres-2024-001",
    "date": "",
    "time": "",
@@ -60050,10 +59829,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-armentieres-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-armentieres-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-armentieres-2024-002",
    "date": "",
    "time": "",
@@ -60083,10 +59862,10 @@
    "decision": "forfait",
    "decision_detail": "Par forfait",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-armentieres-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-armentieres-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-armentieres-2024-004",
    "date": "",
    "time": "",
@@ -60116,10 +59895,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-armentieres-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-armentieres-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-armentieres-2024-005",
    "date": "",
    "time": "",
@@ -60149,10 +59928,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-armentieres-2024"
   },
   {
-   "tournament": "ffsbf-elite-a-armentieres-2024",
+   "tournament": "championnat-de-france-elite-a-2024",
    "bout_id": "ffsbf-elite-a-armentieres-2024-006",
    "date": "",
    "time": "",
@@ -60182,10 +59961,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-elite-a-armentieres-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-001",
    "date": "",
    "time": "",
@@ -60215,10 +59994,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-002",
    "date": "",
    "time": "",
@@ -60248,10 +60027,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-003",
    "date": "",
    "time": "",
@@ -60281,10 +60060,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-004",
    "date": "",
    "time": "",
@@ -60314,10 +60093,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-005",
    "date": "",
    "time": "",
@@ -60347,10 +60126,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-006",
    "date": "",
    "time": "",
@@ -60380,10 +60159,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-007",
    "date": "",
    "time": "",
@@ -60413,10 +60192,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-008",
    "date": "",
    "time": "",
@@ -60446,10 +60225,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-009",
    "date": "",
    "time": "",
@@ -60479,10 +60258,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-010",
    "date": "",
    "time": "",
@@ -60512,10 +60291,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-011",
    "date": "",
    "time": "",
@@ -60545,10 +60324,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-012",
    "date": "",
    "time": "",
@@ -60578,10 +60357,10 @@
    "decision": "points",
    "decision_detail": "UNANIMITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-013",
    "date": "",
    "time": "",
@@ -60611,10 +60390,10 @@
    "decision": "points",
    "decision_detail": "MAJORITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-015",
    "date": "",
    "time": "",
@@ -60644,10 +60423,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-016",
    "date": "",
    "time": "",
@@ -60677,10 +60456,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-017",
    "date": "",
    "time": "",
@@ -60710,10 +60489,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-018",
    "date": "",
    "time": "",
@@ -60743,10 +60522,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-019",
    "date": "",
    "time": "",
@@ -60776,10 +60555,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-020",
    "date": "",
    "time": "",
@@ -60809,10 +60588,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-021",
    "date": "",
    "time": "",
@@ -60842,10 +60621,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-022",
    "date": "",
    "time": "",
@@ -60875,10 +60654,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-023",
    "date": "",
    "time": "",
@@ -60908,10 +60687,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-025",
    "date": "",
    "time": "",
@@ -60941,10 +60720,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-026",
    "date": "",
    "time": "",
@@ -60974,10 +60753,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-027",
    "date": "",
    "time": "",
@@ -61007,10 +60786,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-028",
    "date": "",
    "time": "",
@@ -61040,10 +60819,10 @@
    "decision": "points",
    "decision_detail": "UNANIMITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
-   "tournament": "ffsbf-premium-livret-2024",
+   "tournament": "championnat-de-france-premium-2024",
    "bout_id": "ffsbf-premium-livret-2024-029",
    "date": "",
    "time": "",
@@ -61073,7 +60852,7 @@
    "decision": "points",
    "decision_detail": "UNANIMITE",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-premium-livret-2024"
   },
   {
    "tournament": "ffsbf-elite-a-finales-vandoeuvre-2024",
@@ -62660,7 +62439,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsbf-espoirs-m-finales-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "ffsbf-espoirs-m-finales-2025-01-final",
    "date": "",
    "time": "",
@@ -62690,10 +62469,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-espoirs-m-finales-2025"
   },
   {
-   "tournament": "ffsbf-espoirs-m-finales-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "ffsbf-espoirs-m-finales-2025-02-final",
    "date": "",
    "time": "",
@@ -62723,10 +62502,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-espoirs-m-finales-2025"
   },
   {
-   "tournament": "ffsbf-espoirs-m-finales-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "ffsbf-espoirs-m-finales-2025-03-final",
    "date": "",
    "time": "",
@@ -62756,7 +62535,7 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-espoirs-m-finales-2025"
   },
   {
    "tournament": "ffsbf-open-automne-calais-2024",
@@ -63231,7 +63010,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "LOBJEOIS Gwendoline",
    "red_country": "",
@@ -63264,7 +63043,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "RICHARD Laurie",
    "red_country": "",
@@ -63297,7 +63076,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "BERCHE Emma",
    "red_country": "",
@@ -63330,7 +63109,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "FATOL Mathias",
    "red_country": "",
@@ -63363,7 +63142,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "EL GHARIB Achraf",
    "red_country": "",
@@ -63396,7 +63175,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "SPINAT Benoit",
    "red_country": "",
@@ -63429,7 +63208,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "BRONDEX Tanguy",
    "red_country": "",
@@ -63462,7 +63241,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "MASSOL Nicolas",
    "red_country": "",
@@ -63495,7 +63274,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "MOISELET Christophe",
    "red_country": "",
@@ -63528,7 +63307,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "CARMONA Nicolas",
    "red_country": "",
@@ -63561,7 +63340,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "HUDRY Antonin",
    "red_country": "",
@@ -63594,7 +63373,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "CHAPON Samuel",
    "red_country": "",
@@ -63627,7 +63406,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "GAUTIER Lucien",
    "red_country": "",
@@ -63660,7 +63439,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "BOULAL Anwar",
    "red_country": "",
@@ -63693,7 +63472,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "QUIGNON Gael",
    "red_country": "",
@@ -63726,7 +63505,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "MARINHO-GONCALVES Thomas",
    "red_country": "",
@@ -63759,7 +63538,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "BAILLE Frederic",
    "red_country": "",
@@ -63792,7 +63571,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "ROUY Thomas",
    "red_country": "",
@@ -63825,7 +63604,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "TARTARIN Yanis",
    "red_country": "",
@@ -63858,7 +63637,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "NOUAR GRECH Léa",
    "red_country": "",
@@ -63891,7 +63670,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "PATEREK Romane",
    "red_country": "",
@@ -63924,7 +63703,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "CACCIATORE Hugo",
    "red_country": "",
@@ -63957,7 +63736,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "POIDEVIN Loic",
    "red_country": "",
@@ -63990,7 +63769,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "SKALECKI Achille",
    "red_country": "",
@@ -64023,7 +63802,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "BALLIGAND Louis",
    "red_country": "",
@@ -64056,7 +63835,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "RIMASSON Jeff",
    "red_country": "",
@@ -64089,7 +63868,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "ERIN-ROUX Ma’Eli",
    "red_country": "",
@@ -64122,7 +63901,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "CUESTA-BRU Camille",
    "red_country": "",
@@ -64155,7 +63934,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "SALAMA Anaïs",
    "red_country": "",
@@ -64188,7 +63967,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "BABACI Melissa",
    "red_country": "",
@@ -64221,7 +64000,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "ERUAM Lucie",
    "red_country": "",
@@ -64254,7 +64033,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "EL KHARRAZI Mohamed",
    "red_country": "",
@@ -64287,7 +64066,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "ANANDY Kylian",
    "red_country": "",
@@ -64320,7 +64099,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "DO PEREIRA Ilyan",
    "red_country": "",
@@ -64353,7 +64132,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "CAVROT Noha",
    "red_country": "",
@@ -64386,7 +64165,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "GIZZI Alessandro",
    "red_country": "",
@@ -64419,7 +64198,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "MEMEDOV Marcelo",
    "red_country": "",
@@ -64452,7 +64231,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "quarter",
+   "phase": "final",
    "poule": "",
    "red": "CASSAT Leo",
    "red_country": "",
@@ -64815,7 +64594,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "EL GHARIB Achraf",
    "red_country": "",
@@ -64848,7 +64627,7 @@
    "age_class": "",
    "weight_kg": "48",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "GAUCI Zoé",
    "red_country": "",
@@ -64881,7 +64660,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "BOULAL Anwar",
    "red_country": "",
@@ -64914,7 +64693,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "CHASTEL Margot",
    "red_country": "",
@@ -64947,7 +64726,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "BRONDEX Tanguy",
    "red_country": "",
@@ -64980,7 +64759,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "LENNUYEUX-DE-TAUZIA Alix",
    "red_country": "",
@@ -65013,7 +64792,7 @@
    "age_class": "",
    "weight_kg": "",
    "weight_bound": "over",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "BERNE Léo",
    "red_country": "",
@@ -65046,7 +64825,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "ROUY Thomas",
    "red_country": "",
@@ -65079,7 +64858,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "LOBJEOIS Gwendoline",
    "red_country": "",
@@ -65112,7 +64891,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "FATOL Mathias",
    "red_country": "",
@@ -65145,7 +64924,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "VILLEGAS Alexia",
    "red_country": "",
@@ -65178,7 +64957,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "GAUTIER Lucien",
    "red_country": "",
@@ -65211,7 +64990,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "BERCHE Emma",
    "red_country": "",
@@ -65244,7 +65023,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "",
    "poule": "",
    "red": "KHEDIMI Ilyes",
    "red_country": "",
@@ -65267,7 +65046,7 @@
    "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-juniors-finales-lanester-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "ffsbf-juniors-finales-lanester-2026-01-final",
    "date": "",
    "time": "",
@@ -65297,10 +65076,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-juniors-finales-lanester-2026"
   },
   {
-   "tournament": "ffsbf-juniors-finales-lanester-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "ffsbf-juniors-finales-lanester-2026-02-final",
    "date": "",
    "time": "",
@@ -65330,10 +65109,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-juniors-finales-lanester-2026"
   },
   {
-   "tournament": "ffsbf-juniors-finales-lanester-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "ffsbf-juniors-finales-lanester-2026-03-final",
    "date": "",
    "time": "",
@@ -65363,10 +65142,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-juniors-finales-lanester-2026"
   },
   {
-   "tournament": "ffsbf-juniors-finales-lanester-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "ffsbf-juniors-finales-lanester-2026-04-final",
    "date": "",
    "time": "",
@@ -65396,10 +65175,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-juniors-finales-lanester-2026"
   },
   {
-   "tournament": "ffsbf-juniors-finales-lanester-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "ffsbf-juniors-finales-lanester-2026-05-final",
    "date": "",
    "time": "",
@@ -65429,10 +65208,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-juniors-finales-lanester-2026"
   },
   {
-   "tournament": "ffsbf-juniors-finales-lanester-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "ffsbf-juniors-finales-lanester-2026-06-final",
    "date": "",
    "time": "",
@@ -65462,10 +65241,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-juniors-finales-lanester-2026"
   },
   {
-   "tournament": "ffsbf-juniors-finales-lanester-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "ffsbf-juniors-finales-lanester-2026-07-final",
    "date": "",
    "time": "",
@@ -65495,10 +65274,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-juniors-finales-lanester-2026"
   },
   {
-   "tournament": "ffsbf-juniors-finales-lanester-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "ffsbf-juniors-finales-lanester-2026-08-final",
    "date": "",
    "time": "",
@@ -65528,7 +65307,7 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-juniors-finales-lanester-2026"
   },
   {
    "tournament": "ffsbf-open-assaut-calais-2026",
@@ -74474,7 +74253,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsavate-elite-a-beaumont-les-valence-2025",
+   "tournament": "championnat-de-france-elite-a-2025",
    "bout_id": "ffsavate-elite-a-beaumont-les-valence-2025-01-final",
    "date": "",
    "time": "",
@@ -74504,10 +74283,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-elite-a-beaumont-les-valence-2025"
   },
   {
-   "tournament": "ffsavate-premium-beaumont-les-valence-2025",
+   "tournament": "championnat-de-france-premium-2025",
    "bout_id": "ffsavate-premium-beaumont-les-valence-2025-01-final",
    "date": "",
    "time": "",
@@ -74537,7 +74316,7 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-premium-beaumont-les-valence-2025"
   },
   {
    "tournament": "ffsavate-elite-b-la-cote-saint-andre-2025",
@@ -74573,7 +74352,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsavate-elite-a-donzere-2025",
+   "tournament": "championnat-de-france-elite-a-2025",
    "bout_id": "ffsavate-elite-a-donzere-2025-01-final",
    "date": "",
    "time": "",
@@ -74603,10 +74382,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-elite-a-donzere-2025"
   },
   {
-   "tournament": "ffsavate-elite-a-donzere-2025",
+   "tournament": "championnat-de-france-elite-a-2025",
    "bout_id": "ffsavate-elite-a-donzere-2025-02-final",
    "date": "",
    "time": "",
@@ -74636,10 +74415,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-elite-a-donzere-2025"
   },
   {
-   "tournament": "ffsavate-premium-donzere-2025",
+   "tournament": "championnat-de-france-premium-2025",
    "bout_id": "ffsavate-premium-donzere-2025-01-final",
    "date": "",
    "time": "",
@@ -74669,10 +74448,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-premium-donzere-2025"
   },
   {
-   "tournament": "ffsavate-premium-donzere-2025",
+   "tournament": "championnat-de-france-premium-2025",
    "bout_id": "ffsavate-premium-donzere-2025-04-final",
    "date": "",
    "time": "",
@@ -74702,10 +74481,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-premium-donzere-2025"
   },
   {
-   "tournament": "ffsavate-premium-donzere-2025",
+   "tournament": "championnat-de-france-premium-2025",
    "bout_id": "ffsavate-premium-donzere-2025-05-final",
    "date": "",
    "time": "",
@@ -74735,10 +74514,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-premium-donzere-2025"
   },
   {
-   "tournament": "ffsavate-premium-viuz-en-sallaz-2025",
+   "tournament": "championnat-de-france-premium-2025",
    "bout_id": "ffsavate-premium-viuz-en-sallaz-2025-01-final",
    "date": "",
    "time": "",
@@ -74768,10 +74547,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-premium-viuz-en-sallaz-2025"
   },
   {
-   "tournament": "ffsavate-premium-viuz-en-sallaz-2025",
+   "tournament": "championnat-de-france-premium-2025",
    "bout_id": "ffsavate-premium-viuz-en-sallaz-2025-02-final",
    "date": "",
    "time": "",
@@ -74801,10 +74580,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-premium-viuz-en-sallaz-2025"
   },
   {
-   "tournament": "ffsavate-premium-viuz-en-sallaz-2025",
+   "tournament": "championnat-de-france-premium-2025",
    "bout_id": "ffsavate-premium-viuz-en-sallaz-2025-03-final",
    "date": "",
    "time": "",
@@ -74834,7 +74613,7 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-premium-viuz-en-sallaz-2025"
   },
   {
    "tournament": "ffsavate-demi-finales-espoirs-premium-calais-2026",
@@ -75672,7 +75451,7 @@
    "age_class": "",
    "weight_kg": "48",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "ALLIN Juliette",
    "red_country": "",
@@ -75705,7 +75484,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "COPPEAUX Isaure",
    "red_country": "",
@@ -75738,7 +75517,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "DO PEREIRA Ilyan",
    "red_country": "",
@@ -75771,7 +75550,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "MASSON Lilou",
    "red_country": "",
@@ -75804,7 +75583,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "BERCHE Emma",
    "red_country": "",
@@ -75837,7 +75616,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "GRUCHOT Loretta",
    "red_country": "",
@@ -75870,7 +75649,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "ANANDY Kylian",
    "red_country": "",
@@ -75903,7 +75682,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "LOBJEOIS Gwendoline",
    "red_country": "",
@@ -75936,7 +75715,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "LENNUYEUX-DE-TAUZIA Alix",
    "red_country": "",
@@ -75969,7 +75748,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "HAMAISSIA Ilies",
    "red_country": "",
@@ -76002,7 +75781,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "CASCA Terence",
    "red_country": "",
@@ -76035,7 +75814,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "LUCET Ethan",
    "red_country": "",
@@ -76068,7 +75847,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "GODISSEK Emeline",
    "red_country": "",
@@ -76101,7 +75880,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "FATOL Mathias",
    "red_country": "",
@@ -76134,7 +75913,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "EL GHARIB Achraf",
    "red_country": "",
@@ -76167,7 +75946,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "CACHAU Ilan",
    "red_country": "",
@@ -76200,7 +75979,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "VILLEGAS Alexia",
    "red_country": "",
@@ -76233,7 +76012,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "BRONDEX Tanguy",
    "red_country": "",
@@ -76266,7 +76045,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "KHEDIMI Ilyes",
    "red_country": "",
@@ -76299,7 +76078,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "GAUTIER Lucien",
    "red_country": "",
@@ -76332,7 +76111,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "BOULAL Anwar CERGY BOXE FRANCAISE",
    "red_country": "",
@@ -76365,7 +76144,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "NSIALA DJO Elliot",
    "red_country": "",
@@ -76398,7 +76177,7 @@
    "age_class": "",
    "weight_kg": "",
    "weight_bound": "over",
-   "phase": "semi",
+   "phase": "final",
    "poule": "",
    "red": "BERNE Léo",
    "red_country": "",
@@ -77378,7 +77157,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-01-final",
    "date": "",
    "time": "",
@@ -77408,10 +77187,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-02-final",
    "date": "",
    "time": "",
@@ -77441,10 +77220,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-03-final",
    "date": "",
    "time": "",
@@ -77474,10 +77253,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-04-final",
    "date": "",
    "time": "",
@@ -77507,10 +77286,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-05-final",
    "date": "",
    "time": "",
@@ -77540,10 +77319,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-06-final",
    "date": "",
    "time": "",
@@ -77573,10 +77352,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-07-final",
    "date": "",
    "time": "",
@@ -77606,10 +77385,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-08-final",
    "date": "",
    "time": "",
@@ -77639,10 +77418,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-09-final",
    "date": "",
    "time": "",
@@ -77672,10 +77451,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-10-final",
    "date": "",
    "time": "",
@@ -77705,10 +77484,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-11-final",
    "date": "",
    "time": "",
@@ -77738,10 +77517,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-12-final",
    "date": "",
    "time": "",
@@ -77771,10 +77550,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-13-final",
    "date": "",
    "time": "",
@@ -77804,10 +77583,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-14-final",
    "date": "",
    "time": "",
@@ -77837,10 +77616,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-15-final",
    "date": "",
    "time": "",
@@ -77870,10 +77649,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
-   "tournament": "ffsavate-finales-assaut-melun-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "ffsavate-finales-assaut-melun-2026-16-final",
    "date": "",
    "time": "",
@@ -77903,7 +77682,7 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-finales-assaut-melun-2026"
   },
   {
    "tournament": "11-savate-resultats-jeunes-filles-2011-2011",
@@ -123380,7 +123159,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-001",
    "date": "",
    "time": "",
@@ -123410,10 +123189,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-002",
    "date": "",
    "time": "",
@@ -123443,10 +123222,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-003",
    "date": "",
    "time": "",
@@ -123476,10 +123255,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-004",
    "date": "",
    "time": "",
@@ -123509,10 +123288,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-005",
    "date": "",
    "time": "",
@@ -123542,10 +123321,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-006",
    "date": "",
    "time": "",
@@ -123575,10 +123354,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-007",
    "date": "",
    "time": "",
@@ -123608,10 +123387,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-008",
    "date": "",
    "time": "",
@@ -123641,10 +123420,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-009",
    "date": "",
    "time": "",
@@ -123674,10 +123453,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-010",
    "date": "",
    "time": "",
@@ -123707,10 +123486,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-011",
    "date": "",
    "time": "",
@@ -123740,10 +123519,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-013",
    "date": "",
    "time": "",
@@ -123773,10 +123552,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-014",
    "date": "",
    "time": "",
@@ -123806,10 +123585,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-015",
    "date": "",
    "time": "",
@@ -123839,10 +123618,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-016",
    "date": "",
    "time": "",
@@ -123872,10 +123651,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-018",
    "date": "",
    "time": "",
@@ -123905,10 +123684,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-019",
    "date": "",
    "time": "",
@@ -123938,10 +123717,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-020",
    "date": "",
    "time": "",
@@ -123971,10 +123750,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-021",
    "date": "",
    "time": "",
@@ -124004,10 +123783,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-022",
    "date": "",
    "time": "",
@@ -124037,10 +123816,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-023",
    "date": "",
    "time": "",
@@ -124070,10 +123849,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-024",
    "date": "",
    "time": "",
@@ -124103,10 +123882,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-025",
    "date": "",
    "time": "",
@@ -124136,10 +123915,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-026",
    "date": "",
    "time": "",
@@ -124169,10 +123948,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-027",
    "date": "",
    "time": "",
@@ -124202,10 +123981,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-028",
    "date": "",
    "time": "",
@@ -124235,10 +124014,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-029",
    "date": "",
    "time": "",
@@ -124268,10 +124047,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-030",
    "date": "",
    "time": "",
@@ -124301,10 +124080,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-031",
    "date": "",
    "time": "",
@@ -124334,10 +124113,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-033",
    "date": "",
    "time": "",
@@ -124367,10 +124146,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-034",
    "date": "",
    "time": "",
@@ -124400,10 +124179,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-035",
    "date": "",
    "time": "",
@@ -124433,10 +124212,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-036",
    "date": "",
    "time": "",
@@ -124466,10 +124245,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-037",
    "date": "",
    "time": "",
@@ -124499,10 +124278,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-038",
    "date": "",
    "time": "",
@@ -124532,10 +124311,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-039",
    "date": "",
    "time": "",
@@ -124565,10 +124344,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-040",
    "date": "",
    "time": "",
@@ -124598,10 +124377,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-041",
    "date": "",
    "time": "",
@@ -124631,10 +124410,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-043",
    "date": "",
    "time": "",
@@ -124664,10 +124443,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-044",
    "date": "",
    "time": "",
@@ -124697,10 +124476,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-045",
    "date": "",
    "time": "",
@@ -124730,10 +124509,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-046",
    "date": "",
    "time": "",
@@ -124763,10 +124542,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-047",
    "date": "",
    "time": "",
@@ -124796,10 +124575,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-048",
    "date": "",
    "time": "",
@@ -124829,10 +124608,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-049",
    "date": "",
    "time": "",
@@ -124862,10 +124641,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-050",
    "date": "",
    "time": "",
@@ -124895,10 +124674,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-051",
    "date": "",
    "time": "",
@@ -124928,10 +124707,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-052",
    "date": "",
    "time": "",
@@ -124961,10 +124740,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-053",
    "date": "",
    "time": "",
@@ -124994,10 +124773,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-054",
    "date": "",
    "time": "",
@@ -125027,10 +124806,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-055",
    "date": "",
    "time": "",
@@ -125060,10 +124839,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-056",
    "date": "",
    "time": "",
@@ -125093,10 +124872,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-057",
    "date": "",
    "time": "",
@@ -125126,10 +124905,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-058",
    "date": "",
    "time": "",
@@ -125159,10 +124938,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-059",
    "date": "",
    "time": "",
@@ -125192,10 +124971,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-060",
    "date": "",
    "time": "",
@@ -125225,10 +125004,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-061",
    "date": "",
    "time": "",
@@ -125258,10 +125037,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-062",
    "date": "",
    "time": "",
@@ -125291,10 +125070,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-063",
    "date": "",
    "time": "",
@@ -125324,10 +125103,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-064",
    "date": "",
    "time": "",
@@ -125357,10 +125136,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-065",
    "date": "",
    "time": "",
@@ -125390,10 +125169,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-066",
    "date": "",
    "time": "",
@@ -125423,10 +125202,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-067",
    "date": "",
    "time": "",
@@ -125456,10 +125235,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-068",
    "date": "",
    "time": "",
@@ -125489,10 +125268,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-069",
    "date": "",
    "time": "",
@@ -125522,10 +125301,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-071",
    "date": "",
    "time": "",
@@ -125555,10 +125334,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-074",
    "date": "",
    "time": "",
@@ -125588,10 +125367,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-075",
    "date": "",
    "time": "",
@@ -125621,10 +125400,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-076",
    "date": "",
    "time": "",
@@ -125654,10 +125433,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-077",
    "date": "",
    "time": "",
@@ -125687,10 +125466,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-078",
    "date": "",
    "time": "",
@@ -125720,10 +125499,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
+   "tournament": "championnat-de-france-assaut-2025",
    "bout_id": "livret-de-competition-championnat-assaut-2025-1-pdf-2025-079",
    "date": "",
    "time": "",
@@ -125753,7 +125532,7 @@
    "decision": "",
    "decision_detail": "",
    "status": "unresolved",
-   "result_source": ""
+   "result_source": "livret-de-competition-championnat-assaut-2025-1-pdf-2025"
   },
   {
    "tournament": "livret-de-competition-finale-elite-b-maubeuge-pdf",
@@ -126185,7 +125964,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-01-final",
    "date": "",
    "time": "",
@@ -126215,10 +125994,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-02-final",
    "date": "",
    "time": "",
@@ -126248,10 +126027,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-03-final",
    "date": "",
    "time": "",
@@ -126281,10 +126060,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-04-final",
    "date": "",
    "time": "",
@@ -126314,10 +126093,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-05-final",
    "date": "",
    "time": "",
@@ -126347,10 +126126,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-06-final",
    "date": "",
    "time": "",
@@ -126380,10 +126159,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-07-final",
    "date": "",
    "time": "",
@@ -126413,10 +126192,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-08-final",
    "date": "",
    "time": "",
@@ -126446,10 +126225,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-09-final",
    "date": "",
    "time": "",
@@ -126479,10 +126258,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-10-final",
    "date": "",
    "time": "",
@@ -126512,10 +126291,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-11-final",
    "date": "",
    "time": "",
@@ -126545,10 +126324,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-12-final",
    "date": "",
    "time": "",
@@ -126578,10 +126357,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-13-final",
    "date": "",
    "time": "",
@@ -126611,10 +126390,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
-   "tournament": "livret-de-competition-finales-2e-series-rousies-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-de-competition-finales-2e-series-rousies-pdf-14-final",
    "date": "",
    "time": "",
@@ -126644,7 +126423,7 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-2e-series-rousies-pdf"
   },
   {
    "tournament": "livret-de-competition-open-assaut-a-merignac-pdf-2024",
@@ -132653,7 +132432,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025-01-final",
    "date": "",
    "time": "",
@@ -132683,10 +132462,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025-02-final",
    "date": "",
    "time": "",
@@ -132716,10 +132495,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025-03-final",
    "date": "",
    "time": "",
@@ -132749,10 +132528,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025-04-final",
    "date": "",
    "time": "",
@@ -132782,10 +132561,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025-05-final",
    "date": "",
    "time": "",
@@ -132815,10 +132594,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025-06-final",
    "date": "",
    "time": "",
@@ -132848,10 +132627,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
+   "tournament": "championnat-de-france-espoirs-2025",
    "bout_id": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025-07-final",
    "date": "",
    "time": "",
@@ -132881,10 +132660,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025"
   },
   {
-   "tournament": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "livret-de-competition-finales-juniors-avril-2026-pdf-2026-01-final",
    "date": "",
    "time": "",
@@ -132914,10 +132693,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-juniors-avril-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "livret-de-competition-finales-juniors-avril-2026-pdf-2026-02-final",
    "date": "",
    "time": "",
@@ -132947,10 +132726,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-juniors-avril-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "livret-de-competition-finales-juniors-avril-2026-pdf-2026-03-final",
    "date": "",
    "time": "",
@@ -132980,10 +132759,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-juniors-avril-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "livret-de-competition-finales-juniors-avril-2026-pdf-2026-04-final",
    "date": "",
    "time": "",
@@ -133013,10 +132792,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-juniors-avril-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "livret-de-competition-finales-juniors-avril-2026-pdf-2026-05-final",
    "date": "",
    "time": "",
@@ -133046,10 +132825,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-juniors-avril-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "livret-de-competition-finales-juniors-avril-2026-pdf-2026-06-final",
    "date": "",
    "time": "",
@@ -133079,10 +132858,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-juniors-avril-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
+   "tournament": "championnat-de-france-juniors-2026",
    "bout_id": "livret-de-competition-finales-juniors-avril-2026-pdf-2026-07-final",
    "date": "",
    "time": "",
@@ -133112,10 +132891,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-juniors-avril-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-01-final",
    "date": "",
    "time": "",
@@ -133145,10 +132924,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-02-final",
    "date": "",
    "time": "",
@@ -133178,10 +132957,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-03-final",
    "date": "",
    "time": "",
@@ -133211,10 +132990,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-04-final",
    "date": "",
    "time": "",
@@ -133244,10 +133023,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-05-final",
    "date": "",
    "time": "",
@@ -133277,10 +133056,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-06-final",
    "date": "",
    "time": "",
@@ -133310,10 +133089,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-07-final",
    "date": "",
    "time": "",
@@ -133343,10 +133122,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-08-final",
    "date": "",
    "time": "",
@@ -133376,10 +133155,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-09-final",
    "date": "",
    "time": "",
@@ -133409,10 +133188,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-10-final",
    "date": "",
    "time": "",
@@ -133442,10 +133221,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-11-final",
    "date": "",
    "time": "",
@@ -133475,10 +133254,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-12-final",
    "date": "",
    "time": "",
@@ -133508,10 +133287,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-13-final",
    "date": "",
    "time": "",
@@ -133541,10 +133320,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-14-final",
    "date": "",
    "time": "",
@@ -133574,10 +133353,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-15-final",
    "date": "",
    "time": "",
@@ -133607,10 +133386,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
-   "tournament": "livret-de-competition-finales-assaut-2026-pdf-2026",
+   "tournament": "championnat-de-france-assaut-2026",
    "bout_id": "livret-de-competition-finales-assaut-2026-pdf-2026-16-final",
    "date": "",
    "time": "",
@@ -133640,7 +133419,7 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-de-competition-finales-assaut-2026-pdf-2026"
   },
   {
    "tournament": "livret-de-competition-open-assaut-individuel-calais-v2-pdf",

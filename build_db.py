@@ -642,61 +642,91 @@ def main():
     for line in collapsed:
         print(line)
 
-    # Consolidate multi-stage championships that were parsed as separate
-    # tournaments but belong on one results page. Each mapping groups source
-    # slugs into the master slug, with the phase each source stage represents.
-    _CONSOLIDATE = {
-        "championnat-de-france-2eme-serie-2025-26": (
-            "Championnat de France 2e S\u00e9rie 2025/26",
-            [("ffsbf-tour-eliminatoire-biancotto-2025", "quarter"),
-             ("ffsavate-demi-finales-2eme-serie-dieppe-2026", "semi"),
-             ("livret-2f-v1-plescop-resultat-pdf", "final"),
-             ("ffsbf-2e-serie-finales-rousies-2026", "final"),
-             ]
-        ),
-    }
+    # Auto-detect multi-stage championships that were parsed as separate
+    # tournaments but belong on one results page.
+    #
+    # The rule: tournaments sharing the same `competition` slug (which encodes
+    # the year/edition — `championnat-de-france-elite-a-2024` vs `2025` etc.)
+    # are stages of one championship.  The master tournament is the one whose
+    # slug equals the competition slug; all others are merged into it.
+    #
+    # If no tournament has slug == competition a master is created from the
+    # first entry in the group.
+    _grouped = {}
+    for t in tournaments:
+        if t.competition:
+            _grouped.setdefault(t.competition, []).append(t)
 
-    for master_slug, (master_name, phases) in _CONSOLIDATE.items():
-        sources = [s for s, _ in phases if any(t.slug == s for t in tournaments)]
-        if not sources:
+    for comp_slug, group in _grouped.items():
+        if len(group) <= 1:
             continue
-        # Find existing master or create it
-        master = next((t for t in tournaments if t.slug == master_slug), None)
+
+        # Find the master (slug == competition), or create one.
+        master = next((t for t in group if t.slug == comp_slug), None)
         if master is None:
-            from dataclasses import replace
-            # Create the master tournament; its data will be empty because
-            # it wasn't parsed from a source, but all bouts remap to it.
-            master = Tournament(slug=master_slug, name=master_name,
-                                start_date="2025-12-20",
-                                discipline="", level="national",
-                                format="championship", city="",
-                                year="2026", competition=master_slug,
-                                source="https://www.ffsavate.com")
+            # Use the first entry as template but fix the name from the
+            # competition slug (strip common prefixes/suffixes for a
+            # readable name).
+            first = group[0]
+            # Derive name from competition slug: e.g.
+            # "championnat-de-france-elite-a-2024" -> "Championnat de France Elite A 2024"
+            parts = comp_slug.split("-")
+            name_parts = []
+            skip = {"de", "la", "le", "du", "des", "et", "en"}
+            for p in parts:
+                if p.startswith("20") or p.startswith("19") or len(p) > 2:
+                    name_parts.append(p.capitalize())
+                else:
+                    name_parts.append(p)
+            name = " ".join(name_parts)
+            master = Tournament(slug=comp_slug,
+                                name=name,
+                                year=first.year,
+                                start_date=first.start_date,
+                                end_date=first.end_date,
+                                discipline=first.discipline,
+                                level=first.level,
+                                format=first.format,
+                                age_class=first.age_class,
+                                city=first.city,
+                                country=first.country,
+                                source=first.source,
+                                adapter=first.adapter,
+                                fetched_at=first.fetched_at,
+                                competition=comp_slug)
             tournaments.append(master)
 
-        # Remap all bouts
-        for src_slug, phase in phases:
+        sources = [t for t in group if t.slug != master.slug]
+        if not sources:
+            continue
+
+        # Remap all bouts and placings from sources → master.
+        for src in sources:
             for b in bouts:
-                if b.tournament == src_slug:
-                    b.tournament = master_slug
-                    b.phase = phase
-                    b.result_source = src_slug
-        # Also fix result_source for master bouts that came from a merge
-        for b in bouts:
-            if b.tournament == master_slug and not b.result_source:
-                b.result_source = master_slug
-
-        # Remap placings too
-        for src_slug, phase in phases:
+                if b.tournament == src.slug:
+                    b.tournament = master.slug
+                    # Track which source provided this bout.
+                    b.result_source = src.slug
             for p in placings:
-                if p.tournament == src_slug:
-                    p.tournament = master_slug
+                if p.tournament == src.slug:
+                    p.tournament = master.slug
+                    p.result_source = src.slug
 
-        # Remove source tournaments
-        for src_slug in sources:
-            tournaments[:] = [t for t in tournaments if t.slug != src_slug]
+        # Fix result_source for any master bouts that came from the original
+        # tournament (e.g. a master whose slug == competition had its own
+        # bouts from another source).
+        for b in bouts:
+            if b.tournament == master.slug and not b.result_source:
+                b.result_source = master.slug
+        for p in placings:
+            if p.tournament == master.slug and not p.result_source:
+                p.result_source = master.slug
 
-        print(f"consolidated: {master_slug} ({len(sources)} sources)")
+        # Remove source tournaments.
+        for src in sources:
+            tournaments[:] = [t for t in tournaments if t.slug != src.slug]
+
+        print(f"consolidated: {comp_slug} ({len(sources)} sources merged)")
 
     store.write_csv(args.csv, bouts)
     store.write_placings_csv("placings.csv", placings)
