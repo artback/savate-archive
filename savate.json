@@ -5747,23 +5747,6 @@
    "competition": ""
   },
   {
-   "slug": "ffsbf-tour-eliminatoire-biancotto-2025",
-   "name": "Tour éliminatoire 2e série - Paris (Biancotto), 20/12/2025",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2025",
-   "start_date": "2025-12-20",
-   "end_date": "",
-   "city": "Paris",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-tour-eliminatoire-Paris-2012-2025-_-Biancotto.pdf",
-   "adapter": "ffsavate_finals_wide",
-   "fetched_at": "",
-   "competition": "championnat-de-france-2eme-serie-2025-26"
-  },
-  {
    "slug": "ffsbf-open-automne-merignac-2025",
    "name": "Open d'Automne - Mérignac, 15-16/11/2025",
    "discipline": "combat",
@@ -5779,23 +5762,6 @@
    "adapter": "ffsavate_finals_wide",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "ffsbf-2e-serie-finales-rousies-2026",
-   "name": "Finales France 2ème série M/F - Rousies, 24/01/2026",
-   "discipline": "combat",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2026",
-   "start_date": "2026-01-24",
-   "end_date": "",
-   "city": "",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2025/06/ROUSIES-resultats-finales-FR-2eS-24-01-2026.pdf",
-   "adapter": "ffsavate_finals_wide",
-   "fetched_at": "",
-   "competition": "championnat-de-france-2eme-serie-2025-26"
   },
   {
    "slug": "ffsbf-juniors-finales-lanester-2026",
@@ -6289,23 +6255,6 @@
    "adapter": "ffsavate_finals_wide",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
-   "name": "Demi-finales 2e Série 2026",
-   "discipline": "",
-   "level": "national",
-   "format": "championship",
-   "age_class": "",
-   "year": "2026",
-   "start_date": "2026-01-10",
-   "end_date": "",
-   "city": "Dieppe",
-   "country": "France",
-   "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-Dieppe-10.01.2026-1-1.pdf",
-   "adapter": "ffsavate_finals_wide",
-   "fetched_at": "",
-   "competition": "championnat-de-france-2eme-serie-2025-26"
   },
   {
    "slug": "ffsavate-elite-a-b-juniors-draveil-2026",
@@ -8261,23 +8210,6 @@
    "adapter": "quomodo_club",
    "fetched_at": "",
    "competition": ""
-  },
-  {
-   "slug": "livret-2f-v1-plescop-resultat-pdf",
-   "name": "Finale 2e Séries Filles 2026",
-   "discipline": "",
-   "level": "",
-   "format": "",
-   "age_class": "",
-   "year": "",
-   "start_date": "",
-   "end_date": "",
-   "city": "",
-   "country": "",
-   "source": "raw_sources/Livret-2F-V1-PLESCOP-RESULTAT-.pdf-8e3e3a1b49.pdf",
-   "adapter": "savate_misc",
-   "fetched_at": "",
-   "competition": "championnat-de-france-2eme-serie-2025-26"
   },
   {
    "slug": "livret-2eme-serie-m-resultat-brunoy-pdf",
@@ -12613,6 +12545,23 @@
    "adapter": "savate_weight_list",
    "fetched_at": "",
    "competition": ""
+  },
+  {
+   "slug": "championnat-de-france-2eme-serie-2025-26",
+   "name": "Championnat de France 2e Série 2025/26",
+   "discipline": "",
+   "level": "national",
+   "format": "championship",
+   "age_class": "",
+   "year": "2026",
+   "start_date": "2025-12-20",
+   "end_date": "",
+   "city": "",
+   "country": "",
+   "source": "https://www.ffsavate.com",
+   "adapter": "",
+   "fetched_at": "",
+   "competition": "championnat-de-france-2eme-serie-2025-26"
   }
  ],
  "bouts": [
@@ -63272,7 +63221,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-01-final",
    "date": "",
    "time": "",
@@ -63282,7 +63231,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "LOBJEOIS Gwendoline",
    "red_country": "",
@@ -63302,10 +63251,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-02-final",
    "date": "",
    "time": "",
@@ -63315,7 +63264,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "RICHARD Laurie",
    "red_country": "",
@@ -63335,10 +63284,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-03-final",
    "date": "",
    "time": "",
@@ -63348,7 +63297,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "BERCHE Emma",
    "red_country": "",
@@ -63368,10 +63317,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-04-final",
    "date": "",
    "time": "",
@@ -63381,7 +63330,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "FATOL Mathias",
    "red_country": "",
@@ -63401,10 +63350,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-05-final",
    "date": "",
    "time": "",
@@ -63414,7 +63363,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "EL GHARIB Achraf",
    "red_country": "",
@@ -63434,10 +63383,10 @@
    "decision": "disqualification",
    "decision_detail": "Disqualification",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-06-final",
    "date": "",
    "time": "",
@@ -63447,7 +63396,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "SPINAT Benoit",
    "red_country": "",
@@ -63467,10 +63416,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-07-final",
    "date": "",
    "time": "",
@@ -63480,7 +63429,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "BRONDEX Tanguy",
    "red_country": "",
@@ -63500,10 +63449,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-08-final",
    "date": "",
    "time": "",
@@ -63513,7 +63462,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "MASSOL Nicolas",
    "red_country": "",
@@ -63533,10 +63482,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-09-final",
    "date": "",
    "time": "",
@@ -63546,7 +63495,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "MOISELET Christophe",
    "red_country": "",
@@ -63566,10 +63515,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-10-final",
    "date": "",
    "time": "",
@@ -63579,7 +63528,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "CARMONA Nicolas",
    "red_country": "",
@@ -63599,10 +63548,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-11-final",
    "date": "",
    "time": "",
@@ -63612,7 +63561,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "HUDRY Antonin",
    "red_country": "",
@@ -63632,10 +63581,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-12-final",
    "date": "",
    "time": "",
@@ -63645,7 +63594,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "CHAPON Samuel",
    "red_country": "",
@@ -63665,10 +63614,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-13-final",
    "date": "",
    "time": "",
@@ -63678,7 +63627,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "GAUTIER Lucien",
    "red_country": "",
@@ -63698,10 +63647,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-14-final",
    "date": "",
    "time": "",
@@ -63711,7 +63660,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "BOULAL Anwar",
    "red_country": "",
@@ -63731,10 +63680,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-15-final",
    "date": "",
    "time": "",
@@ -63744,7 +63693,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "QUIGNON Gael",
    "red_country": "",
@@ -63764,10 +63713,10 @@
    "decision": "disqualification",
    "decision_detail": "Disqualification",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-16-final",
    "date": "",
    "time": "",
@@ -63777,7 +63726,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "MARINHO-GONCALVES Thomas",
    "red_country": "",
@@ -63797,10 +63746,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-17-final",
    "date": "",
    "time": "",
@@ -63810,7 +63759,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "BAILLE Frederic",
    "red_country": "",
@@ -63830,10 +63779,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-18-final",
    "date": "",
    "time": "",
@@ -63843,7 +63792,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "ROUY Thomas",
    "red_country": "",
@@ -63863,10 +63812,10 @@
    "decision": "disqualification",
    "decision_detail": "Disqualification",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-19-final",
    "date": "",
    "time": "",
@@ -63876,7 +63825,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "TARTARIN Yanis",
    "red_country": "",
@@ -63896,10 +63845,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-20-final",
    "date": "",
    "time": "",
@@ -63909,7 +63858,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "NOUAR GRECH Léa",
    "red_country": "",
@@ -63929,10 +63878,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-21-final",
    "date": "",
    "time": "",
@@ -63942,7 +63891,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "PATEREK Romane",
    "red_country": "",
@@ -63962,10 +63911,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-22-final",
    "date": "",
    "time": "",
@@ -63975,7 +63924,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "CACCIATORE Hugo",
    "red_country": "",
@@ -63995,10 +63944,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-23-final",
    "date": "",
    "time": "",
@@ -64008,7 +63957,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "POIDEVIN Loic",
    "red_country": "",
@@ -64028,10 +63977,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-24-final",
    "date": "",
    "time": "",
@@ -64041,7 +63990,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "SKALECKI Achille",
    "red_country": "",
@@ -64061,10 +64010,10 @@
    "decision": "disqualification",
    "decision_detail": "Disqualification",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-25-final",
    "date": "",
    "time": "",
@@ -64074,7 +64023,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "BALLIGAND Louis",
    "red_country": "",
@@ -64094,10 +64043,10 @@
    "decision": "forfait",
    "decision_detail": "Forfait",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-26-final",
    "date": "",
    "time": "",
@@ -64107,7 +64056,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "RIMASSON Jeff",
    "red_country": "",
@@ -64127,10 +64076,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-27-final",
    "date": "",
    "time": "",
@@ -64140,7 +64089,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "ERIN-ROUX Ma’Eli",
    "red_country": "",
@@ -64160,10 +64109,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-28-final",
    "date": "",
    "time": "",
@@ -64173,7 +64122,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "CUESTA-BRU Camille",
    "red_country": "",
@@ -64193,10 +64142,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-29-final",
    "date": "",
    "time": "",
@@ -64206,7 +64155,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "SALAMA Anaïs",
    "red_country": "",
@@ -64226,10 +64175,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-30-final",
    "date": "",
    "time": "",
@@ -64239,7 +64188,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "BABACI Melissa",
    "red_country": "",
@@ -64259,10 +64208,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-31-final",
    "date": "",
    "time": "",
@@ -64272,7 +64221,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "ERUAM Lucie",
    "red_country": "",
@@ -64292,10 +64241,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-32-final",
    "date": "",
    "time": "",
@@ -64305,7 +64254,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "EL KHARRAZI Mohamed",
    "red_country": "",
@@ -64325,10 +64274,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-33-final",
    "date": "",
    "time": "",
@@ -64338,7 +64287,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "ANANDY Kylian",
    "red_country": "",
@@ -64358,10 +64307,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-34-final",
    "date": "",
    "time": "",
@@ -64371,7 +64320,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "DO PEREIRA Ilyan",
    "red_country": "",
@@ -64391,10 +64340,10 @@
    "decision": "abandon",
    "decision_detail": "Arrêt",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-35-final",
    "date": "",
    "time": "",
@@ -64404,7 +64353,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "CAVROT Noha",
    "red_country": "",
@@ -64424,10 +64373,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-36-final",
    "date": "",
    "time": "",
@@ -64437,7 +64386,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "GIZZI Alessandro",
    "red_country": "",
@@ -64457,10 +64406,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-37-final",
    "date": "",
    "time": "",
@@ -64470,7 +64419,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "MEMEDOV Marcelo",
    "red_country": "",
@@ -64490,10 +64439,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
-   "tournament": "ffsbf-tour-eliminatoire-biancotto-2025",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-tour-eliminatoire-biancotto-2025-38-final",
    "date": "",
    "time": "",
@@ -64503,7 +64452,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "quarter",
    "poule": "",
    "red": "CASSAT Leo",
    "red_country": "",
@@ -64523,7 +64472,7 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-tour-eliminatoire-biancotto-2025"
   },
   {
    "tournament": "ffsbf-open-automne-merignac-2025",
@@ -64856,7 +64805,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-01",
    "date": "",
    "time": "",
@@ -64866,7 +64815,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "EL GHARIB Achraf",
    "red_country": "",
@@ -64886,10 +64835,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-02",
    "date": "",
    "time": "",
@@ -64899,7 +64848,7 @@
    "age_class": "",
    "weight_kg": "48",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "GAUCI Zoé",
    "red_country": "",
@@ -64919,10 +64868,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-03",
    "date": "",
    "time": "",
@@ -64932,7 +64881,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "BOULAL Anwar",
    "red_country": "",
@@ -64952,10 +64901,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-04",
    "date": "",
    "time": "",
@@ -64965,7 +64914,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "CHASTEL Margot",
    "red_country": "",
@@ -64985,10 +64934,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-05",
    "date": "",
    "time": "",
@@ -64998,7 +64947,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "BRONDEX Tanguy",
    "red_country": "",
@@ -65018,10 +64967,10 @@
    "decision": "abandon",
    "decision_detail": "Jet de l'éponge",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-06",
    "date": "",
    "time": "",
@@ -65031,7 +64980,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "LENNUYEUX-DE-TAUZIA Alix",
    "red_country": "",
@@ -65051,10 +65000,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-07",
    "date": "",
    "time": "",
@@ -65064,7 +65013,7 @@
    "age_class": "",
    "weight_kg": "",
    "weight_bound": "over",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "BERNE Léo",
    "red_country": "",
@@ -65084,10 +65033,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-08",
    "date": "",
    "time": "",
@@ -65097,7 +65046,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "ROUY Thomas",
    "red_country": "",
@@ -65117,10 +65066,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-09",
    "date": "",
    "time": "",
@@ -65130,7 +65079,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "LOBJEOIS Gwendoline",
    "red_country": "",
@@ -65150,10 +65099,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-10",
    "date": "",
    "time": "",
@@ -65163,7 +65112,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "FATOL Mathias",
    "red_country": "",
@@ -65183,10 +65132,10 @@
    "decision": "abandon",
    "decision_detail": "Jet de l'éponge",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-11",
    "date": "",
    "time": "",
@@ -65196,7 +65145,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "VILLEGAS Alexia",
    "red_country": "",
@@ -65216,10 +65165,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-12",
    "date": "",
    "time": "",
@@ -65229,7 +65178,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "GAUTIER Lucien",
    "red_country": "",
@@ -65249,10 +65198,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-13",
    "date": "",
    "time": "",
@@ -65262,7 +65211,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "BERCHE Emma",
    "red_country": "",
@@ -65282,10 +65231,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
-   "tournament": "ffsbf-2e-serie-finales-rousies-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsbf-2e-serie-finales-rousies-2026-p1-14",
    "date": "",
    "time": "",
@@ -65295,7 +65244,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "",
+   "phase": "final",
    "poule": "",
    "red": "KHEDIMI Ilyes",
    "red_country": "",
@@ -65315,7 +65264,7 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsbf-2e-serie-finales-rousies-2026"
   },
   {
    "tournament": "ffsbf-juniors-finales-lanester-2026",
@@ -75713,7 +75662,7 @@
    "result_source": "reported"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-01-final",
    "date": "",
    "time": "",
@@ -75723,7 +75672,7 @@
    "age_class": "",
    "weight_kg": "48",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "ALLIN Juliette",
    "red_country": "",
@@ -75743,10 +75692,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-02-final",
    "date": "",
    "time": "",
@@ -75756,7 +75705,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "COPPEAUX Isaure",
    "red_country": "",
@@ -75776,10 +75725,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-03-final",
    "date": "",
    "time": "",
@@ -75789,7 +75738,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "DO PEREIRA Ilyan",
    "red_country": "",
@@ -75809,10 +75758,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-04-final",
    "date": "",
    "time": "",
@@ -75822,7 +75771,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "MASSON Lilou",
    "red_country": "",
@@ -75842,10 +75791,10 @@
    "decision": "forfait",
    "decision_detail": "Forfait",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-05-final",
    "date": "",
    "time": "",
@@ -75855,7 +75804,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "BERCHE Emma",
    "red_country": "",
@@ -75875,10 +75824,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-06-final",
    "date": "",
    "time": "",
@@ -75888,7 +75837,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "GRUCHOT Loretta",
    "red_country": "",
@@ -75908,10 +75857,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-07-final",
    "date": "",
    "time": "",
@@ -75921,7 +75870,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "ANANDY Kylian",
    "red_country": "",
@@ -75941,10 +75890,10 @@
    "decision": "disqualification",
    "decision_detail": "Disqualification",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-08-final",
    "date": "",
    "time": "",
@@ -75954,7 +75903,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "LOBJEOIS Gwendoline",
    "red_country": "",
@@ -75974,10 +75923,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-09-final",
    "date": "",
    "time": "",
@@ -75987,7 +75936,7 @@
    "age_class": "",
    "weight_kg": "52",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "LENNUYEUX-DE-TAUZIA Alix",
    "red_country": "",
@@ -76007,10 +75956,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-10-final",
    "date": "",
    "time": "",
@@ -76020,7 +75969,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "HAMAISSIA Ilies",
    "red_country": "",
@@ -76040,10 +75989,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-11-final",
    "date": "",
    "time": "",
@@ -76053,7 +76002,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "CASCA Terence",
    "red_country": "",
@@ -76073,10 +76022,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-12-final",
    "date": "",
    "time": "",
@@ -76086,7 +76035,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "LUCET Ethan",
    "red_country": "",
@@ -76106,10 +76055,10 @@
    "decision": "abandon",
    "decision_detail": "Jet de l'éponge",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-13-final",
    "date": "",
    "time": "",
@@ -76119,7 +76068,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "GODISSEK Emeline",
    "red_country": "",
@@ -76139,10 +76088,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-14-final",
    "date": "",
    "time": "",
@@ -76152,7 +76101,7 @@
    "age_class": "",
    "weight_kg": "56",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "FATOL Mathias",
    "red_country": "",
@@ -76172,10 +76121,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-15-final",
    "date": "",
    "time": "",
@@ -76185,7 +76134,7 @@
    "age_class": "",
    "weight_kg": "60",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "EL GHARIB Achraf",
    "red_country": "",
@@ -76205,10 +76154,10 @@
    "decision": "forfait",
    "decision_detail": "Forfait",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-16-final",
    "date": "",
    "time": "",
@@ -76218,7 +76167,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "CACHAU Ilan",
    "red_country": "",
@@ -76238,10 +76187,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-17-final",
    "date": "",
    "time": "",
@@ -76251,7 +76200,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "VILLEGAS Alexia",
    "red_country": "",
@@ -76271,10 +76220,10 @@
    "decision": "abandon",
    "decision_detail": "Hors combat",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-18-final",
    "date": "",
    "time": "",
@@ -76284,7 +76233,7 @@
    "age_class": "",
    "weight_kg": "65",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "BRONDEX Tanguy",
    "red_country": "",
@@ -76304,10 +76253,10 @@
    "decision": "forfait",
    "decision_detail": "Forfait",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-19-final",
    "date": "",
    "time": "",
@@ -76317,7 +76266,7 @@
    "age_class": "",
    "weight_kg": "70",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "KHEDIMI Ilyes",
    "red_country": "",
@@ -76337,10 +76286,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-20-final",
    "date": "",
    "time": "",
@@ -76350,7 +76299,7 @@
    "age_class": "",
    "weight_kg": "75",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "GAUTIER Lucien",
    "red_country": "",
@@ -76370,10 +76319,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-21-final",
    "date": "",
    "time": "",
@@ -76383,7 +76332,7 @@
    "age_class": "",
    "weight_kg": "80",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "BOULAL Anwar CERGY BOXE FRANCAISE",
    "red_country": "",
@@ -76403,10 +76352,10 @@
    "decision": "",
    "decision_detail": "",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-22-final",
    "date": "",
    "time": "",
@@ -76416,7 +76365,7 @@
    "age_class": "",
    "weight_kg": "85",
    "weight_bound": "under",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "NSIALA DJO Elliot",
    "red_country": "",
@@ -76436,10 +76385,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
-   "tournament": "ffsavate-demi-finales-2eme-serie-dieppe-2026",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "ffsavate-demi-finales-2eme-serie-dieppe-2026-23-final",
    "date": "",
    "time": "",
@@ -76449,7 +76398,7 @@
    "age_class": "",
    "weight_kg": "",
    "weight_bound": "over",
-   "phase": "final",
+   "phase": "semi",
    "poule": "",
    "red": "BERNE Léo",
    "red_country": "",
@@ -76469,7 +76418,7 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "ffsavate-demi-finales-2eme-serie-dieppe-2026"
   },
   {
    "tournament": "ffsavate-elite-a-b-juniors-draveil-2026",
@@ -118382,7 +118331,7 @@
    "result_source": ""
   },
   {
-   "tournament": "livret-2f-v1-plescop-resultat-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-2f-v1-plescop-resultat-pdf-01-final",
    "date": "",
    "time": "",
@@ -118412,10 +118361,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-2f-v1-plescop-resultat-pdf"
   },
   {
-   "tournament": "livret-2f-v1-plescop-resultat-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-2f-v1-plescop-resultat-pdf-02-final",
    "date": "",
    "time": "",
@@ -118445,10 +118394,10 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-2f-v1-plescop-resultat-pdf"
   },
   {
-   "tournament": "livret-2f-v1-plescop-resultat-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-2f-v1-plescop-resultat-pdf-04-final",
    "date": "",
    "time": "",
@@ -118478,10 +118427,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-2f-v1-plescop-resultat-pdf"
   },
   {
-   "tournament": "livret-2f-v1-plescop-resultat-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-2f-v1-plescop-resultat-pdf-05-final",
    "date": "",
    "time": "",
@@ -118511,10 +118460,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-2f-v1-plescop-resultat-pdf"
   },
   {
-   "tournament": "livret-2f-v1-plescop-resultat-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-2f-v1-plescop-resultat-pdf-06-final",
    "date": "",
    "time": "",
@@ -118544,10 +118493,10 @@
    "decision": "points",
    "decision_detail": "Unanimité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-2f-v1-plescop-resultat-pdf"
   },
   {
-   "tournament": "livret-2f-v1-plescop-resultat-pdf",
+   "tournament": "championnat-de-france-2eme-serie-2025-26",
    "bout_id": "livret-2f-v1-plescop-resultat-pdf-07-final",
    "date": "",
    "time": "",
@@ -118577,7 +118526,7 @@
    "decision": "points",
    "decision_detail": "Majorité",
    "status": "decided",
-   "result_source": "reported"
+   "result_source": "livret-2f-v1-plescop-resultat-pdf"
   },
   {
    "tournament": "livret-elite-a-st-christol-les-ales-pdf",

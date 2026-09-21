@@ -23,7 +23,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from savate import adapters, competition, display, identity, store
 from savate.adapters import tabular
-from savate.schema import Bout, Placing, check, check_placing
+from savate.schema import Bout, Placing, Tournament, check, check_placing
 
 MANIFEST = Path("tournaments.json")
 
@@ -641,6 +641,62 @@ def main():
                                              register.index())
     for line in collapsed:
         print(line)
+
+    # Consolidate multi-stage championships that were parsed as separate
+    # tournaments but belong on one results page. Each mapping groups source
+    # slugs into the master slug, with the phase each source stage represents.
+    _CONSOLIDATE = {
+        "championnat-de-france-2eme-serie-2025-26": (
+            "Championnat de France 2e S\u00e9rie 2025/26",
+            [("ffsbf-tour-eliminatoire-biancotto-2025", "quarter"),
+             ("ffsavate-demi-finales-2eme-serie-dieppe-2026", "semi"),
+             ("livret-2f-v1-plescop-resultat-pdf", "final"),
+             ("ffsbf-2e-serie-finales-rousies-2026", "final"),
+             ]
+        ),
+    }
+
+    for master_slug, (master_name, phases) in _CONSOLIDATE.items():
+        sources = [s for s, _ in phases if any(t.slug == s for t in tournaments)]
+        if not sources:
+            continue
+        # Find existing master or create it
+        master = next((t for t in tournaments if t.slug == master_slug), None)
+        if master is None:
+            from dataclasses import replace
+            # Create the master tournament; its data will be empty because
+            # it wasn't parsed from a source, but all bouts remap to it.
+            master = Tournament(slug=master_slug, name=master_name,
+                                start_date="2025-12-20",
+                                discipline="", level="national",
+                                format="championship", city="",
+                                year="2026", competition=master_slug,
+                                source="https://www.ffsavate.com")
+            tournaments.append(master)
+
+        # Remap all bouts
+        for src_slug, phase in phases:
+            for b in bouts:
+                if b.tournament == src_slug:
+                    b.tournament = master_slug
+                    b.phase = phase
+                    b.result_source = src_slug
+        # Also fix result_source for master bouts that came from a merge
+        for b in bouts:
+            if b.tournament == master_slug and not b.result_source:
+                b.result_source = master_slug
+
+        # Remap placings too
+        for src_slug, phase in phases:
+            for p in placings:
+                if p.tournament == src_slug:
+                    p.tournament = master_slug
+
+        # Remove source tournaments
+        for src_slug in sources:
+            tournaments[:] = [t for t in tournaments if t.slug != src_slug]
+
+        print(f"consolidated: {master_slug} ({len(sources)} sources)")
 
     store.write_csv(args.csv, bouts)
     store.write_placings_csv("placings.csv", placings)
