@@ -145,8 +145,59 @@ def rows(words_, tolerance=3.0, glue=0.0):
     return out
 
 
+def text(path, first=None, last=None):
+    """All text in a document, with columns separated by two spaces.
+
+    Uses ``pdftotext -bbox-layout`` to get word boxes, groups them into
+    visual lines by ``rows()``, then clusters each line into columns.  Where
+    ``text_of()`` joins every word with a single space (collapsing column
+    boundaries), ``text()`` puts two spaces between columns so that adapters
+    can split on ``\\s{2,}`` without losing a field.
+    """
+    words_ = words(path, first=first, last=last)
+    pages = by_page(words_)
+    parts = []
+    for page_num in sorted(pages):
+        for row in rows(pages[page_num], tolerance=3.0):
+            cols = cluster(row)
+            parts.append("  ".join(text_of(col) for col in cols))
+    return "\n".join(parts)
+
+
 def text_of(line, join=" "):
     return join.join(w.text for w in line)
+
+
+def cluster(line, gap=None):
+    """Cluster a line of words into columns by x-position gaps.
+
+    Returns a list of lists, one per column, words left to right within each
+    column.  A gap is a column break when it exceeds the larger of ``gap``
+    (if given) or 1.5 × the median word width in the line.
+
+    This is the missing half of ``rows()``: ``rows()`` groups words on one
+    visual line, ``cluster()`` tells you which column each word belongs to.
+    Use it before joining words back into text so that column boundaries are
+    preserved rather than collapsed into a single space.
+    """
+    if not line:
+        return []
+    if len(line) == 1:
+        return [line]
+    # Widths of individual words (x1 - x0).
+    widths = [w.x1 - w.x0 for w in line]
+    # Median width as the baseline for "large gap".
+    import statistics
+    median_width = statistics.median(widths)
+    threshold = gap if gap is not None else 1.5 * median_width
+    columns_ = [[line[0]]]
+    for w in line[1:]:
+        prev = columns_[-1][-1]
+        if w.x0 - prev.x1 > threshold:
+            columns_.append([w])
+        else:
+            columns_[-1].append(w)
+    return columns_
 
 
 def in_band(word, left, right):

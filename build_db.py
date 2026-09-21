@@ -46,6 +46,14 @@ def load(entry):
 NORMALISATION_LOG = Path("normalisation.csv")
 ERASURE = Path("erasure.json")
 
+# University / FFSU adapters that produce "moins 50 kg" from PDF text layer
+# when the real class is -48 kg.  Youth adapters also use -50 kg legitimately,
+# so the gate lives here rather than in every adapter.
+_UNI_ADAPTERS = frozenset((
+    "savate_ranked_list", "savate_weight_list", "universitaire",
+    "savate_tabular_pdf", "podium_pdf",
+))
+
 
 def apply_erasure(bouts, placings, people, register, path):
     """Drop the rows a data subject asked to have erased.
@@ -105,7 +113,7 @@ def apply_erasure(bouts, placings, people, register, path):
     return kept_b, kept_p, kept_people, *dropped
 
 
-def normalise(bouts, placings, log=NORMALISATION_LOG):
+def normalise(bouts, placings, log=NORMALISATION_LOG, entries=None):
     """Repair what the sources printed, before anything keys on it.
 
     This runs before the identity register and before deduplication, because
@@ -121,12 +129,21 @@ def normalise(bouts, placings, log=NORMALISATION_LOG):
     inside the name cell moves into its own field instead of being thrown away
     with the rest of the annotation.
 
-    Every substitution is written to `normalisation.csv`. The archive's ground
-    truth is the documents in raw/ and raw_sources/, which are never touched,
-    and this file is the diff between what they print and what the database
-    holds - so a reader who doubts a name can see exactly what was done to it.
-    Rows whose name repairs to nothing are dropped and counted, never guessed.
+    Four things move.  Invalid weight classes – -76 kg and -82 kg, which are
+    OCR artefacts for -75 kg and -85 kg – are corrected for everyone.  A -50 kg
+    class is corrected only in university/FFSU adapters (it is a legitimate
+    youth class).  Every substitution is written to `normalisation.csv`.  The
+    archive's ground truth is the documents in raw/ and raw_sources/, which are
+    never touched, and this file is the diff between what they print and what
+    the database holds – so a reader who doubts a name can see exactly what was
+    done to it.  Rows whose name repairs to nothing are dropped and counted,
+    never guessed.
     """
+    # Build slug → adapter map so we can gate the -50 kg correction.
+    adapter_of = {}
+    if entries:
+        for e in entries:
+            adapter_of[e["slug"]] = e.get("adapter", "")
     names = set()
     for b in bouts:
         names.update((b.red, b.blue, b.winner, b.loser))
@@ -248,6 +265,62 @@ def normalise(bouts, placings, log=NORMALISATION_LOG):
                      f"{dropped_placings} placing(s) whose name was not a name")
     if changes:
         notes.append(f"    every substitution listed in {log}")
+    # --- weight class corrections -------------------------------------------------
+    # Invalid weights that should not exist in the archive.  -76 / -82 are OCR
+    # artefacts for -75 / -85.  -50 is a valid youth class but an OCR error in
+    # university/FFSU sheets where the real class is -48.
+    from savate import normalize as norm
+    wt_changes = 0
+    for b in bouts:
+        if b.weight_kg and b.weight_bound:
+            adapter = adapter_of.get(b.tournament, "")
+            kg, bound = norm.weight(b.weight_kg, b.weight_bound,
+                                    gender=b.gender, adapter=adapter)
+            if kg != b.weight_kg or bound != b.weight_bound:
+                wt_changes += 1
+                changes.append((b.bout_id, "weight",
+                                f"-{b.weight_kg}/{b.weight_bound}",
+                                f"-{kg}/{bound}", "corrected"))
+                b.weight_kg = kg
+                b.weight_bound = bound
+                # Also fix the display category label to stay in sync.
+                if "-50" in (b.category or "") and kg != "50":
+                    b.category = b.category.replace("-50 kg", f"-{kg} kg")
+                elif f"-{b.weight_kg}" in (b.category or ""):
+                    b.category = b.category.replace(
+                        f"-{b.weight_kg}", f"-{kg}")
+        for field in ("red", "blue"):
+            wkg = getattr(b, f"{field}_weighed")
+            if wkg:
+                adapter = adapter_of.get(b.tournament, "")
+                kg, bound = norm.weight(str(wkg), "under",
+                                        gender=b.gender, adapter=adapter)
+                if str(kg) != wkg:
+                    wt_changes += 1
+                    changes.append((b.bout_id, f"{field}_weighed",
+                                    wkg, str(kg), "corrected"))
+                    setattr(b, f"{field}_weighed", str(kg))
+
+    for p in placings:
+        if p.weight_kg and p.weight_bound:
+            adapter = adapter_of.get(p.tournament, "")
+            kg, bound = norm.weight(p.weight_kg, p.weight_bound,
+                                    gender=p.gender, adapter=adapter)
+            if kg != p.weight_kg or bound != p.weight_bound:
+                wt_changes += 1
+                changes.append((p.placing_id, "weight",
+                                f"-{p.weight_kg}/{p.weight_bound}",
+                                f"-{kg}/{bound}", "corrected"))
+                p.weight_kg = kg
+                p.weight_bound = bound
+                if "-50" in (p.category or "") and kg != "50":
+                    p.category = p.category.replace("-50 kg", f"-{kg} kg")
+                elif f"-{p.weight_kg}" in (p.category or ""):
+                    p.category = p.category.replace(
+                        f"-{p.weight_kg}", f"-{kg}")
+
+    if wt_changes:
+        notes.append(f"    {wt_changes} weight class(es) corrected")
     return kept_bouts, kept_placings, notes
 
 
@@ -517,7 +590,7 @@ def main():
     for line in split_notes:
         print(line)
 
-    bouts, placings, repairs = normalise(bouts, placings)
+    bouts, placings, repairs = normalise(bouts, placings, entries=entries)
     for line in repairs:
         print(line)
 

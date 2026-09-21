@@ -256,12 +256,16 @@ def _tournament(slug, meta, source):
 def _text(path, report):
     """The document's text with its columns intact, or "" with a complaint."""
     try:
-        done = subprocess.run(["pdftotext", "-layout", str(path), "-"],
-                              capture_output=True, text=True, timeout=60)
-        return done.stdout or ""
+        return pdf.text(str(path))
     except Exception as e:
-        report.problem(f"pdftotext could not read the document: {e}")
-        return ""
+        report.problem(f"pdf.text failed on {path}: {e}")
+        try:
+            done = subprocess.run(["pdftotext", "-layout", str(path), "-"],
+                                  capture_output=True, text=True, timeout=60)
+            return done.stdout or ""
+        except Exception as e2:
+            report.problem(f"pdftotext could not read the document: {e2}")
+            return ""
 
 
 def _geometry(path, pdf, report):
@@ -332,14 +336,26 @@ def _crowded(body, report):
     documents and relies on elsewhere: the club is set in capitals throughout
     and the given name is not, so the name ends at its first word that is not.
     It is applied only after the column split has failed, never in front of it.
+
+    Only peel the first non-uppercase word — a multi-word club like "Nouveau
+    Chevalier Roze" is valid and peeling it would put the club on the fighter.
     """
     body = _CLUB_BRACKET.sub("", " ".join(body.split())).strip()
     words = body.split()
     if len(words) < 3:
         return None, ""
+    # Find the first word that is not ALL CAPS and starts with a capital.
+    # The `i >= 1` guard lets us peel a leading given name (at index 0) from
+    # an ALL-CAPS surname (e.g. "Nouveau CHEVALIER ROZE" → name=Nouveau).
     at = next((i for i, w in enumerate(words)
-               if i and not w.isupper() and w[:1].isupper()), None)
-    if at is None or at + 1 >= len(words):
+               if i >= 1 and not w.isupper() and w[:1].isupper()), None)
+    if at is None:
+        # Try index 0 as a fallback: a single non-uppercase word at the start.
+        if words and not words[0].isupper() and words[0][:1].isupper():
+            at = 0
+        else:
+            return None, ""
+    if at + 1 >= len(words):
         return None, ""
     club = " ".join(words[at + 1:])
     if not club.isupper():
@@ -384,9 +400,16 @@ def _ffsavate_inline(lines, slug, meta, report, tournament):
         people = []
         for body in block:
             decision, printed = ffs._decision(body)
-            name, club = ffs._competitor(body)
+            # The body may include a rank/dept-code column after the name
+            # (e.g. "ALLIN Juliette  NOUVEAU CHEVALIER ROZE  13004").
+            # Strip trailing all-digit columns before splitting name/club.
+            parts = [p.strip() for p in re.split(r"\s{2,}", body) if p.strip()]
+            while parts and parts[-1].isdigit():
+                parts.pop()
+            stripped_body = "  ".join(parts)
+            name, club = ffs._competitor(stripped_body)
             if not name:
-                name, club = _crowded(ffs._strip_decision(body), report)
+                name, club = _crowded(ffs._strip_decision(stripped_body), report)
             if name:
                 people.append((name, club, decision, printed))
         if len(people) != 2:

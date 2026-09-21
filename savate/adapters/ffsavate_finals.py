@@ -101,20 +101,26 @@ def _competitor(line):
     elif len(parts) > 2:
         club = parts[-1]
         parts = parts[:-1]
+    elif len(parts) == 2:
+        # Two parts: "NAME  CLUB" or "NAME CLUB" (single-space case).
+        # If the second part is ALL CAPS it is the club.
+        if parts[-1].isupper():
+            club = parts[-1]
+            parts = parts[:-1]
 
     # Some rows put only one space between the given name and the club, so the
-    # column split hands back "Gwendoline MENEZ-HOM KRAON BOXING CLUB". Club
+    # column split hands back "Gwendoline MENEZ-HOM KRAON BOXING CLUB".  Club
     # names in these sheets are set in capitals throughout and given names are
     # not, so a leading capitalised-but-not-capitals word belongs to the person.
-    while club:
+    # Peel only the first — multi-word clubs like "Nouveau Chevalier Roze" are
+    # valid and peeling them all would put the club on the fighter's name.
+    if club:
         head = club.split(" ", 1)
-        if len(head) < 2:
-            break
-        word = head[0]
-        if word.isupper() or not word[:1].isupper():
-            break
-        parts.append(word)
-        club = head[1].strip()
+        if len(head) == 2:
+            word = head[0]
+            if not word.isupper() and word[:1].isupper():
+                parts.append(word)
+                club = head[1].strip()
 
     name = " ".join(parts).strip()
     if not name or not re.search(r"[A-Za-zÀ-ÿ]", name):
@@ -153,7 +159,7 @@ def read(source, slug, meta=None, **options):
     report = Report(source=source, adapter=NAME)
     path = sources.fetch(source)
     try:
-        text = pdf.text_of(path)
+        text = pdf.text(str(path))
     except Exception:
         text = ""
     if not isinstance(text, str):

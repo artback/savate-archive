@@ -94,6 +94,25 @@ def fold(text):
     return "".join(c for c in text if not unicodedata.combining(c)).lower()
 
 
+# Weight classes that must not appear in the archive.
+#
+# * -76 kg / -82 kg – OCR artefacts for -75 kg and -85 kg that appear in
+#   several university championship PDFs and older result sheets.
+# * +82 kg – same OCR artefact, but in the heavyweight band.
+#
+# Note: -50 kg is a legitimate weight class in youth categories (cadet,
+# minime, benjamin, junior young age bands). It is *not* a valid senior or
+# university class – FFSU uses -48 / -52 / -56 … – but the correction must
+# not be applied blindly to youth data.  Each adapter must gate the -50 kg fix
+# behind its own domain check.
+_INVALID_WEIGHTS = {
+    # (kg, bound) -> (corrected_kg, corrected_bound)
+    ("76", "under"): ("75", "under"),
+    ("82", "under"): ("85", "under"),
+    ("82", "over"):  ("85", "over"),
+}
+
+
 def _kg(text):
     """'70' -> '70', '67,5' -> '67.5', '70.0' -> '70'.
 
@@ -102,6 +121,43 @@ def _kg(text):
     """
     text = str(text).replace(",", ".")
     return text.rstrip("0").rstrip(".") if "." in text else text
+
+
+def weight(kg, bound, gender="", adapter=None):
+    """Return (kg, bound) corrected to a valid Savate weight class.
+
+    Parameters
+    ----------
+    kg : str
+        The raw weight class number from the source.
+    bound : str
+        "under" or "over".
+    gender : str
+        "Women" or "Men" (optional). Used only for the -50 kg correction.
+    adapter : str
+        Adapter name, used to gate the -50 kg correction.
+
+    Returns
+    -------
+    tuple(str, str)
+        (corrected_kg, corrected_bound).
+    """
+    kg = str(kg)
+    fixed = _INVALID_WEIGHTS.get((kg, bound))
+    if fixed is not None:
+        return fixed
+    # -50 kg is a valid youth class. Only correct when the adapter explicitly
+    # operates at university/senior level.
+    if kg == "50" and bound == "under" and adapter in (
+        "savate_ranked_list", "savate_weight_list", "universitaire",
+        "savate_tabular_pdf", "podium_pdf",
+    ):
+        # University / FFSU progression: women -48 / -52 / -56 …; men
+        # -56 / -60 / -65 …; nobody gets under 48 (women) or 56 (men) kg.
+        if gender.lower().startswith("m") or gender.lower().startswith("men"):
+            return "56", "under"
+        return "48", "under"
+    return kg, bound
 
 
 def category(label):

@@ -368,19 +368,17 @@ def _split_name_club(text):
 
     # A leader that fell in the middle of a person: "NIVAULT-TERNIN-ROZAT ...
     # Alexis MJC SAVATE COTOISE". A capitalised-but-not-capitals word at the
-    # front of a club is a given name that lost its column - but a single
-    # capital is not: clubs are called "S SAVATITUDE" and "C S CLICHY", and
-    # welding their initial onto the competitor invents a middle name.
-    while club:
+    # front of a club is a given name that lost its column — but only peel ONE.
+    # Multi-word clubs like "Nouveau Chevalier Roze" are valid; peeling them
+    # all would make the name impossible to match in the register.
+    if club:
         head = club.split(" ", 1)
-        if len(head) < 2:
-            break
-        word = head[0]
-        if (_is_caps(word) or not word[:1].isupper()
-                or len([c for c in word if c.isalpha()]) < 2):
-            break
-        name = f"{name} {word}".strip()
-        club = head[1].strip()
+        if len(head) == 2:
+            word = head[0]
+            if not (_is_caps(word) or not word[:1].isupper()
+                    or len([c for c in word if c.isalpha()]) < 2):
+                name = f"{name} {word}".strip()
+                club = head[1].strip()
     return name.strip(" .…"), club.strip(" .…")
 
 

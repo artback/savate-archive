@@ -419,8 +419,12 @@ def _peel(body):
     Some rows separate every field with a single space. Surnames are set in
     capitals on these sheets and given names are not, so the name is the run of
     capitals plus the first merely-capitalised word after it. Everything left is
-    the club. This is a reading of the sheet's own typography, not a guess at
-    where a column was.
+    the club.
+
+    Only *one* word is peeled from the club — the given name that lost its
+    column.  Anything further left belongs to the club: a multi-word name like
+    "Nouveau Chevalier Roze" is a real club, and peeling it all would make it
+    look like the fighter's name.
     """
     parts = body.split()
     if len(parts) < 3:
@@ -430,6 +434,7 @@ def _peel(body):
         taken.append(parts.pop(0))
     if not taken or not parts:
         return "", ""
+    # Only peel ONE given-name word.  Everything else is the club.
     if parts[0][:1].isupper() and not parts[0].isupper():
         taken.append(parts.pop(0))
     if not parts:
@@ -472,17 +477,17 @@ def _competitor(line):
         parts = parts[:-1]
 
     # A single space between the given name and the club hands the club back
-    # with the given name glued to its front. Clubs are set in capitals; given
-    # names are not.
-    while club:
+    # with the given name glued to its front.  Clubs are set in capitals; given
+    # names are not.  Peel only the first word — everything else is the club.
+    if club:
         head = club.split(" ", 1)
-        if len(head) < 2:
-            break
-        word = head[0]
-        if word.isupper() or not word[:1].isupper():
-            break
-        parts.append(word)
-        club = head[1].strip()
+        if len(head) == 2:
+            word = head[0]
+            if not word.isupper() and word[:1].isupper():
+                parts.append(word)
+                club = head[1].strip()
+            # else: multi-word club, leave it — peeling "Nouveau Chevalier
+            # Roze" would put the whole name on the fighter.
 
     name = " ".join(" ".join(parts).split()).strip(" .…")
     club = " ".join(club.split()).strip(" .…")
@@ -578,12 +583,16 @@ def _read_lines(text, slug, meta, report):
 
 def _layout_text(path, report):
     try:
-        done = subprocess.run(["pdftotext", "-layout", str(path), "-"],
-                              capture_output=True, text=True, timeout=120)
-        return done.stdout or ""
+        return pdf.text(str(path))
     except Exception as e:
-        report.problem(f"pdftotext failed on {path}: {e}")
-        return ""
+        report.problem(f"pdf.text failed on {path}: {e}")
+        try:
+            done = subprocess.run(["pdftotext", "-layout", str(path), "-"],
+                                  capture_output=True, text=True, timeout=120)
+            return done.stdout or ""
+        except Exception as e2:
+            report.problem(f"pdftotext failed on {path}: {e2}")
+            return ""
 
 
 def read(source, slug, meta=None, **options):
