@@ -1158,7 +1158,7 @@
   },
   {
    "slug": "ffsavate-resultats-20du-20championnat-20du-20monde-20de-",
-   "name": "Resultats du Championnat du MONDE de SAVATE ASSAUT 2012",
+   "name": "Championnat du Monde Assaut 2012",
    "discipline": "assaut",
    "level": "world",
    "format": "championship",
@@ -1175,7 +1175,7 @@
   },
   {
    "slug": "ffsavate-resultats-20du-20championnat-20du-20monde-20de--2",
-   "name": "Resultats du Championnat du MONDE de SAVATE ASSAUT 2012",
+   "name": "Championnat du Monde Assaut 2012",
    "discipline": "assaut",
    "level": "world",
    "format": "championship",
@@ -1192,7 +1192,7 @@
   },
   {
    "slug": "ffsavate-resultats-des-finales-du-championnat-du-monde-c",
-   "name": "RESULTATS DES FINALES DU CHAMPIONNAT DU MONDE COMBAT 2023",
+   "name": "Finales Championnat du Monde Combat 2023",
    "discipline": "combat",
    "level": "world",
    "format": "championship",
@@ -1209,10 +1209,10 @@
   },
   {
    "slug": "ffsavate-resultats-europe-assaut-2023-zagreb",
-   "name": "RESULTATS EUROPE ASSAUT 2023 ZAGREB",
+   "name": "Championnat d'Europe Assaut Zagreb 2023",
    "discipline": "assaut",
    "level": "european",
-   "format": "",
+   "format": "championship",
    "age_class": "",
    "year": "2023",
    "start_date": "",
@@ -1260,10 +1260,10 @@
   },
   {
    "slug": "fisav-51-pool-results-combat-2019-680-senior-women-75kg",
-   "name": "680 senior women 75kg",
+   "name": "Championnat du Monde Combat 2019 - Senior Women -75 kg",
    "discipline": "combat",
    "level": "world",
-   "format": "",
+   "format": "championship",
    "age_class": "Senior",
    "year": "2019",
    "start_date": "",
@@ -1277,10 +1277,10 @@
   },
   {
    "slug": "fisav-51-pool-results-combat-2019-679-senior-women-70kg",
-   "name": "679 senior women 70kg",
+   "name": "Championnat du Monde Combat 2019 - Senior Women -70 kg",
    "discipline": "combat",
    "level": "world",
-   "format": "",
+   "format": "championship",
    "age_class": "Senior",
    "year": "2019",
    "start_date": "",
@@ -1294,10 +1294,10 @@
   },
   {
    "slug": "fisav-51-pool-results-combat-2019-678-senior-women-65kg",
-   "name": "678 senior women 65kg",
+   "name": "Championnat du Monde Combat 2019 - Senior Women -65 kg",
    "discipline": "combat",
    "level": "world",
-   "format": "",
+   "format": "championship",
    "age_class": "Senior",
    "year": "2019",
    "start_date": "",
@@ -1311,10 +1311,10 @@
   },
   {
    "slug": "fisav-51-pool-results-combat-2019-675-senior-women-52kg",
-   "name": "675 senior women 52kg",
+   "name": "Championnat du Monde Combat 2019 - Senior Women -52 kg",
    "discipline": "combat",
    "level": "world",
-   "format": "",
+   "format": "championship",
    "age_class": "Senior",
    "year": "2019",
    "start_date": "",
@@ -1328,10 +1328,10 @@
   },
   {
    "slug": "fisav-51-pool-results-combat-2019-672-senior-men-85kg",
-   "name": "672 senior men 85kg",
+   "name": "Championnat du Monde Combat 2019 - Senior Men +85 kg",
    "discipline": "combat",
    "level": "world",
-   "format": "",
+   "format": "championship",
    "age_class": "Senior",
    "year": "2019",
    "start_date": "",
@@ -1345,11 +1345,11 @@
   },
   {
    "slug": "fisav-51-pool-results-combat-2019-671-sernior-men-85kg",
-   "name": "671 sernior men 85kg",
+   "name": "Championnat du Monde Combat 2019 - Senior Men +85 kg",
    "discipline": "combat",
    "level": "world",
-   "format": "",
-   "age_class": "",
+   "format": "championship",
+   "age_class": "Senior",
    "year": "2019",
    "start_date": "",
    "end_date": "",
@@ -1362,10 +1362,10 @@
   },
   {
    "slug": "fisav-51-pool-results-combat-2019-670-senior-men-80kg",
-   "name": "670 senior men 80kg",
+   "name": "Championnat du Monde Combat 2019 - Senior Men -80 kg",
    "discipline": "combat",
    "level": "world",
-   "format": "",
+   "format": "championship",
    "age_class": "Senior",
    "year": "2019",
    "start_date": "",
@@ -6309,7 +6309,7 @@
   },
   {
    "slug": "ffsavate-world-assaut-2018-plovdiv-classement",
-   "name": "Resultats du Championnat du Monde Assaut 2018, Plovdiv - classement par categories",
+   "name": "Championnat du Monde Assaut Plovdiv 2018",
    "discipline": "assaut",
    "level": "world",
    "format": "championship",
@@ -6479,7 +6479,7 @@
   },
   {
    "slug": "fisav-world-combat-2025-qualifying-pool-results-junior",
-   "name": "Junior World Combat Championships 2025 - qualifying tournament pool results",
+   "name": "Junior World Combat Championships 2025 - Qualifying",
    "discipline": "combat",
    "level": "world",
    "format": "championship",
@@ -6496,7 +6496,7 @@
   },
   {
    "slug": "fisav-world-combat-2025-qualifying-pool-results-senior",
-   "name": "Senior World Combat Championships 2025 - qualifying tournament pool results",
+   "name": "Senior World Combat Championships 2025 - Qualifying",
    "discipline": "combat",
    "level": "world",
    "format": "championship",
@@ -6887,7 +6887,7 @@
   },
   {
    "slug": "11-savate-resultats-jeunes-filles-2011-2011",
-   "name": "11 Savate Resultats jeunes filles 2011",
+   "name": "Jeunes Filles 2011",
    "discipline": "assaut",
    "level": "",
    "format": "",
@@ -6904,7 +6904,7 @@
   },
   {
    "slug": "11-savate-resultats-jeunes-gens-2011-2011",
-   "name": "11 Savate Resultats jeunes gens 2011",
+   "name": "Jeunes Gens 2011",
    "discipline": "assaut",
    "level": "",
    "format": "",
@@ -6938,7 +6938,7 @@
   },
   {
    "slug": "322-ring-1-pool-results-2017-2017",
-   "name": "322 ring 1 pool results 2017",
+   "name": "322 ring 1 2017",
    "discipline": "",
    "level": "",
    "format": "",
@@ -6955,7 +6955,7 @@
   },
   {
    "slug": "323-combat-ring-2-pool-results-2017-2017-junior",
-   "name": "Junior 323 combat ring 2 pool results 2017",
+   "name": "Junior 323 combat ring 2 2017",
    "discipline": "combat",
    "level": "",
    "format": "",
@@ -6972,7 +6972,7 @@
   },
   {
    "slug": "323-combat-ring-2-pool-results-2017-2017-senior",
-   "name": "Senior 323 combat ring 2 pool results 2017",
+   "name": "Senior 323 combat ring 2 2017",
    "discipline": "combat",
    "level": "",
    "format": "",
@@ -6989,7 +6989,7 @@
   },
   {
    "slug": "324-combat-ring-3-pool-results-2017-2017",
-   "name": "324 combat ring 3 pool results 2017",
+   "name": "324 combat ring 3 2017",
    "discipline": "combat",
    "level": "",
    "format": "",
@@ -7006,7 +7006,7 @@
   },
   {
    "slug": "326-jeunes-pool-results-girls-2017-2017",
-   "name": "326 jeunes pool results girls 2017",
+   "name": "326 jeunes 2017",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7040,7 +7040,7 @@
   },
   {
    "slug": "412-f-52kg-pool-results-2018-2018",
-   "name": "412 f 52kg pool results 2018",
+   "name": "412 F -52 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7057,7 +7057,7 @@
   },
   {
    "slug": "413-f-56kg-pool-results-2018-2018",
-   "name": "413 f 56kg pool results 2018",
+   "name": "413 F -56 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7074,7 +7074,7 @@
   },
   {
    "slug": "414-f-60kg-pool-results-2018-2018",
-   "name": "414 f 60kg pool results 2018",
+   "name": "414 F -60 kg 2018",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -7091,7 +7091,7 @@
   },
   {
    "slug": "417-f-70kg-pool-results-2018-2018",
-   "name": "417 f 70kg pool results 2018",
+   "name": "417 F -70 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7108,7 +7108,7 @@
   },
   {
    "slug": "428-m-75kg-pool-results-2018-2018",
-   "name": "428 m 75kg pool results 2018",
+   "name": "428 M -75 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7125,7 +7125,7 @@
   },
   {
    "slug": "429-m-70kg-pool-results-2018-2018",
-   "name": "429 m 70kg pool results 2018",
+   "name": "429 M -70 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7142,7 +7142,7 @@
   },
   {
    "slug": "430-m-65kg-pool-results-2018-2018",
-   "name": "430 m 65kg pool results 2018",
+   "name": "430 M -65 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7159,7 +7159,7 @@
   },
   {
    "slug": "432-m-85kg-pool-results-2018-2018",
-   "name": "432 m 85kg pool results 2018",
+   "name": "432 M +85 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7176,7 +7176,7 @@
   },
   {
    "slug": "433-m-80kg-pool-results-2018-2018",
-   "name": "433 m 80kg pool results 2018",
+   "name": "433 M -80 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7193,7 +7193,7 @@
   },
   {
    "slug": "434-m-56kg-pool-results-2018-2018",
-   "name": "434 m 56kg pool results 2018",
+   "name": "434 M -56 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7210,7 +7210,7 @@
   },
   {
    "slug": "435-m-85kg-pool-results-2018960-2018",
-   "name": "435 m 85kg pool results 2018960",
+   "name": "435 M +85 kg 2018",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7907,7 +7907,7 @@
   },
   {
    "slug": "av-mer-brest2006-resultats-pdf-2006",
-   "name": "AV mer brest2006 Resultats.pdf",
+   "name": "AV Mer Brest 2006",
    "discipline": "",
    "level": "",
    "format": "",
@@ -7924,7 +7924,7 @@
   },
   {
    "slug": "boxe-samedi-20-fevrier-2016-resultats-2016",
-   "name": "BOXE SAMEDI 20 FEVRIER 2016 RESULTATS",
+   "name": "Boxe Samedi 20 Février 2016",
    "discipline": "",
    "level": "",
    "format": "",
@@ -8587,7 +8587,7 @@
   },
   {
    "slug": "championnat-de-france-avenir-mai-2026-resultats-benjamin-pdf",
-   "name": "Championnat de France Avenir mai 2026 Resultats Benjamin.pdf",
+   "name": "Championnat de France Avenir Benjamin 2026",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -8672,7 +8672,7 @@
   },
   {
    "slug": "copie-de-academiques-8-02-24-pdf",
-   "name": "Copie de ACADEMIQUES 8 02 24.pdf",
+   "name": "Académiques 8 Février 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -8740,10 +8740,10 @@
   },
   {
    "slug": "dossier-20competition-20v9-20-20livret-20open-20v3-pdf",
-   "name": "Dossier 20Competition 20v9 20 20Livret 20Open 20v3.pdf",
+   "name": "Open Competition V3",
    "discipline": "",
    "level": "",
-   "format": "",
+   "format": "open",
    "age_class": "",
    "year": "",
    "start_date": "",
@@ -8757,7 +8757,7 @@
   },
   {
    "slug": "escalade-resultats-pdf",
-   "name": "ESCALADE RESULTATS.pdf",
+   "name": "Escalade",
    "discipline": "",
    "level": "",
    "format": "",
@@ -8842,7 +8842,7 @@
   },
   {
    "slug": "france-jeunes-2023-resultats-1-pdf-2023-cadet",
-   "name": "Cadet France Jeunes 2023 resultats 1.pdf",
+   "name": "Cadet France Jeunes 2023",
    "discipline": "",
    "level": "national",
    "format": "",
@@ -8859,7 +8859,7 @@
   },
   {
    "slug": "france-jeunes-2023-resultats-1-pdf-2023-minime",
-   "name": "Minime France Jeunes 2023 resultats 1.pdf",
+   "name": "Minime France Jeunes 2023",
    "discipline": "",
    "level": "national",
    "format": "",
@@ -8944,7 +8944,7 @@
   },
   {
    "slug": "izvsp-pdf-2016",
-   "name": "IZVSP.pdf",
+   "name": "IZV 2016",
    "discipline": "",
    "level": "",
    "format": "",
@@ -8995,7 +8995,7 @@
   },
   {
    "slug": "livret-2f-v1-plescop-resultat-pdf",
-   "name": "Livret 2F V1 PLESCOP RESULTAT .pdf",
+   "name": "Plescop 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9012,7 +9012,7 @@
   },
   {
    "slug": "livret-2eme-serie-m-resultat-brunoy-pdf",
-   "name": "Livret 2eme serie M Resultat BRUNOY.pdf",
+   "name": "Brunoy 2e Série",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -9029,7 +9029,7 @@
   },
   {
    "slug": "livret-elite-a-st-christol-les-ales-pdf",
-   "name": "Livret ELITE A St Christol les Ales.pdf",
+   "name": "St Christol les Ales 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9046,7 +9046,7 @@
   },
   {
    "slug": "livret-elite-a-vandoeuvre-pdf",
-   "name": "Livret ELITE A Vandoeuvre.pdf",
+   "name": "Vandoeuvre 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9063,7 +9063,7 @@
   },
   {
    "slug": "livret-finales-2eme-serie-angouleme-v1-pdf",
-   "name": "Livret Finales 2eme Serie Angouleme V1.pdf",
+   "name": "Angoulême 2e Série",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9080,7 +9080,7 @@
   },
   {
    "slug": "livret-finales-elite-b-v2-pdf",
-   "name": "Livret Finales ELITE B v2.pdf",
+   "name": "Finales Elite B",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9097,7 +9097,7 @@
   },
   {
    "slug": "livret-finales-verdun-23-mars-2024-1-pdf-2024",
-   "name": "Livret Finales Verdun 23 mars 2024 1.pdf",
+   "name": "Verdun 23 Mars 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9114,7 +9114,7 @@
   },
   {
    "slug": "livret-juniors-maj-pdf",
-   "name": "Livret Juniors MAJ.pdf",
+   "name": "Juniors 2026",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -9131,9 +9131,9 @@
   },
   {
    "slug": "livret-open-de-francev2-pdf-2023",
-   "name": "Livret Open de Francev2.pdf",
+   "name": "Open de France 2023",
    "discipline": "",
-   "level": "",
+   "level": "national",
    "format": "open",
    "age_class": "",
    "year": "2023",
@@ -9165,7 +9165,7 @@
   },
   {
    "slug": "livret-de-competition-championnat-assaut-2025-1-pdf-2025",
-   "name": "Livret de competition Championnat Assaut 2025 1.pdf",
+   "name": "Championnat Assaut 2025",
    "discipline": "assaut",
    "level": "national",
    "format": "championship",
@@ -9182,7 +9182,7 @@
   },
   {
    "slug": "livret-de-competition-finale-elite-b-maubeuge-pdf",
-   "name": "Livret de competition Finale ELITE B Maubeuge.pdf",
+   "name": "Maubeuge Finales Elite B",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9199,7 +9199,7 @@
   },
   {
    "slug": "livret-de-competition-finales-2e-series-rousies-pdf",
-   "name": "Livret de competition Finales 2e series Rousies.pdf",
+   "name": "Rousies 2e Série",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9216,7 +9216,7 @@
   },
   {
    "slug": "livret-de-competition-open-assaut-a-merignac-pdf-2024",
-   "name": "Livret de competition Open assaut a Merignac.pdf",
+   "name": "Open Assaut Mérignac 2024",
    "discipline": "assaut",
    "level": "",
    "format": "open",
@@ -9233,7 +9233,7 @@
   },
   {
    "slug": "livret-de-competition-open-dautomne-2025-v5-pdf-2025",
-   "name": "Livret de competition Open dAutomne 2025 v5.pdf",
+   "name": "Open dAutomne 2025",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -9250,7 +9250,7 @@
   },
   {
    "slug": "livret-de-competition-championnat-avenir-2026-v4-pdf-2026-benjamin",
-   "name": "Benjamin Livret de competition championnat Avenir 2026 v4.pdf",
+   "name": "Benjamin Championnat Avenir 2026",
    "discipline": "",
    "level": "",
    "format": "championship",
@@ -9267,7 +9267,7 @@
   },
   {
    "slug": "livret-de-competition-championnat-avenir-2026-v4-pdf-2026-minime",
-   "name": "Minime Livret de competition championnat Avenir 2026 v4.pdf",
+   "name": "Minime Championnat Avenir 2026",
    "discipline": "",
    "level": "",
    "format": "championship",
@@ -9284,7 +9284,7 @@
   },
   {
    "slug": "livret-de-competition-finale-riaille-v2-pdf-2025",
-   "name": "Livret de competition finale Riaille v2.pdf",
+   "name": "Riaillé Finales",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9301,7 +9301,7 @@
   },
   {
    "slug": "livret-de-competition-finales-ea-eb-marseille-avril-2026-v2",
-   "name": "Livret de competition finales EA EB Marseille avril 2026 v2.",
+   "name": "Marseille Avril 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9318,7 +9318,7 @@
   },
   {
    "slug": "livret-de-competition-finales-espoir-m-2025-v2-pdf-2025",
-   "name": "Livret de competition finales ESPOIR M 2025 V2.pdf",
+   "name": "Finales Espoir 2025",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9335,7 +9335,7 @@
   },
   {
    "slug": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
-   "name": "Livret de competition finales Juniors avril 2026.pdf",
+   "name": "Finales Juniors Avril 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9352,7 +9352,7 @@
   },
   {
    "slug": "livret-de-competition-finales-assaut-2026-pdf-2026",
-   "name": "Livret de competition finales assaut 2026.pdf",
+   "name": "Finales Assaut 2026",
    "discipline": "assaut",
    "level": "",
    "format": "",
@@ -9369,7 +9369,7 @@
   },
   {
    "slug": "livret-de-competition-open-assaut-individuel-calais-v2-pdf",
-   "name": "Livret de competition open assaut individuel Calais v2.pdf",
+   "name": "Open Assaut Individuel Calais",
    "discipline": "assaut",
    "level": "national",
    "format": "championship",
@@ -9386,7 +9386,7 @@
   },
   {
    "slug": "livret-de-competition-open-assaut-individuel-calais-pdf-2025",
-   "name": "Livret de competition open assaut individuel Calais.pdf",
+   "name": "Open Assaut Individuel Calais 2025",
    "discipline": "assaut",
    "level": "",
    "format": "open",
@@ -9403,7 +9403,7 @@
   },
   {
    "slug": "livret-des-competitions-v1-open-dautomne-pdf",
-   "name": "Livret des competitions v1 Open dautomne.pdf",
+   "name": "Open dAutomne",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -9420,7 +9420,7 @@
   },
   {
    "slug": "livret-espoir-resultat-v1-plescop-v2-pdf",
-   "name": "Livret espoir RESULTAT V1 PLESCOP V2.pdf",
+   "name": "Plescop Espoir",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9437,7 +9437,7 @@
   },
   {
    "slug": "livret2henpluscollege-savate-v3-pdf",
-   "name": "Livret2HenplusCollege SAVATE V3.pdf",
+   "name": "Henplus College",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9607,7 +9607,7 @@
   },
   {
    "slug": "p-20elite-20a-208-12-20japy-pdf-2013",
-   "name": "P. 20ELITE 20A 208 12 20JAPY.pdf",
+   "name": "Japy 8 Décembre 2013",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9624,7 +9624,7 @@
   },
   {
    "slug": "p-finales-elite-a-dunkerque-pdf",
-   "name": "P.FINALES ELITE A DUNKERQUE.pdf",
+   "name": "Finales Elite A Dunkerque",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9947,10 +9947,10 @@
   },
   {
    "slug": "r-20-20open-20automne-202021-pdf-2020",
-   "name": "R 20 20OPEN 20AUTOMNE 202021.pdf",
+   "name": "Open Automne 2020",
    "discipline": "",
    "level": "",
-   "format": "",
+   "format": "open",
    "age_class": "",
    "year": "2020",
    "start_date": "",
@@ -9964,7 +9964,7 @@
   },
   {
    "slug": "r-20finales-20elite-20a-20mf-20-20longwy-pdf-2016",
-   "name": "R 20FINALES 20ELITE 20A 20MF 20 20LONGWY.pdf",
+   "name": "Longwy Finales Elite A",
    "discipline": "",
    "level": "",
    "format": "",
@@ -9981,10 +9981,10 @@
   },
   {
    "slug": "r-20finales-20chpt-20de-20france-20elite-20b-pdf-2015",
-   "name": "R 20Finales 20CHPT 20DE 20FRANCE 20ELITE 20B.pdf",
+   "name": "Finales Championnat de France Elite B 2015",
    "discipline": "",
-   "level": "",
-   "format": "",
+   "level": "national",
+   "format": "championship",
    "age_class": "",
    "year": "2015",
    "start_date": "",
@@ -10015,7 +10015,7 @@
   },
   {
    "slug": "r-tq-elite-b-2023-1-pdf-2023",
-   "name": "R TQ Elite B 2023 1.pdf",
+   "name": "TQ Elite B 2023",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10032,7 +10032,7 @@
   },
   {
    "slug": "r-20finales-20elite-20a-20f-20cambrai-pdf-2013",
-   "name": "R. 20FINALES 20ELITE 20A 20F 20CAMBRAI.pdf",
+   "name": "Cambrai Finales Elite A Femmes 2013",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10049,7 +10049,7 @@
   },
   {
    "slug": "r-agen-pdf-2010",
-   "name": "R.AGEN.pdf",
+   "name": "Agen 2010",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10066,7 +10066,7 @@
   },
   {
    "slug": "r-elite-a-marseille-pdf-2012",
-   "name": "R.ELITE A MARSEILLE.pdf",
+   "name": "Marseille Elite A 2012",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10083,7 +10083,7 @@
   },
   {
    "slug": "r-elite-a-mf-wignehies-pdf-2012",
-   "name": "R.ELITE A MF WIGNEHIES.pdf",
+   "name": "Wignehies Elite A 2012",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10100,7 +10100,7 @@
   },
   {
    "slug": "r-elitea-vandoeuvre-pdf-2012",
-   "name": "R.ELITEA VANDOEUVRE.pdf",
+   "name": "Vandoeuvre Elite A 2012",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10117,7 +10117,7 @@
   },
   {
    "slug": "r-espoirs-2019-20janv-20japy-pdf-2019",
-   "name": "R.ESPOIRS 2019 20JANV 20JAPY.pdf",
+   "name": "Japy Espoirs 2019",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10134,7 +10134,7 @@
   },
   {
    "slug": "r-vannes-pdf-2010",
-   "name": "R.VANNES.pdf",
+   "name": "Vannes 2010",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10151,7 +10151,7 @@
   },
   {
    "slug": "r-pouchet-5nov2011-pdf-2011",
-   "name": "R.pouchet 5nov2011.pdf",
+   "name": "Pouchet 5 Novembre 2011",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10168,7 +10168,7 @@
   },
   {
    "slug": "result-20tq-20-20jun-20europe-202018-compressed-pdf-2020",
-   "name": "RESULT 20TQ 20 20JUN 20europe 202018.compressed.pdf",
+   "name": "European Juniors TQ 2020",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -10491,7 +10491,7 @@
   },
   {
    "slug": "rezultati-kikinda-pdf-cadet",
-   "name": "Cadet REZULTATI KIKINDA .pdf",
+   "name": "Cadet Kikinda",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10508,7 +10508,7 @@
   },
   {
    "slug": "rezultati-kikinda-pdf-older-pioneer",
-   "name": "Older Pioneer REZULTATI KIKINDA .pdf",
+   "name": "Older Pioneer Kikinda",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10525,7 +10525,7 @@
   },
   {
    "slug": "rezultati-kikinda-pdf-senior",
-   "name": "Senior REZULTATI KIKINDA .pdf",
+   "name": "Senior Kikinda",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10542,7 +10542,7 @@
   },
   {
    "slug": "rezultati-kikinda-pdf-younger-pioneer",
-   "name": "Younger Pioneer REZULTATI KIKINDA .pdf",
+   "name": "Younger Pioneer Kikinda",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10559,7 +10559,7 @@
   },
   {
    "slug": "rezultati-senta-pdf-cadet",
-   "name": "Cadet REZULTATI SENTA.pdf",
+   "name": "Cadet Senta",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10576,7 +10576,7 @@
   },
   {
    "slug": "rezultati-senta-pdf-junior",
-   "name": "Junior REZULTATI SENTA.pdf",
+   "name": "Junior Senta",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10593,7 +10593,7 @@
   },
   {
    "slug": "rezultati-senta-pdf-older-pioneer",
-   "name": "Older Pioneer REZULTATI SENTA.pdf",
+   "name": "Older Pioneer Senta",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10610,7 +10610,7 @@
   },
   {
    "slug": "rezultati-senta-pdf-younger-junior",
-   "name": "Younger Junior REZULTATI SENTA.pdf",
+   "name": "Younger Junior Senta",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10627,7 +10627,7 @@
   },
   {
    "slug": "rezultati-senta-pdf-younger-pioneer",
-   "name": "Younger Pioneer REZULTATI SENTA.pdf",
+   "name": "Younger Pioneer Senta",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10644,7 +10644,7 @@
   },
   {
    "slug": "rezultati-zabalj-28-04-2024-pdf-2024-cadet",
-   "name": "Cadet REZULTATI ZABALJ 28.04.2024.pdf",
+   "name": "Cadet Zabljak 28 Avril 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10661,7 +10661,7 @@
   },
   {
    "slug": "rezultati-zabalj-28-04-2024-pdf-2024-senior",
-   "name": "Senior REZULTATI ZABALJ 28.04.2024.pdf",
+   "name": "Senior Zabljak 28 Avril 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10678,7 +10678,7 @@
   },
   {
    "slug": "rezultati-zabalj-28-04-2024-pdf-2024",
-   "name": "REZULTATI ZABALJ 28.04.2024.pdf",
+   "name": "Zabljak 28 Avril 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10763,7 +10763,7 @@
   },
   {
    "slug": "resultat-albertville-premium-elite-a-2024-1-pdf-2024",
-   "name": "Resultat Albertville PREMIUM Elite A 2024 1.pdf",
+   "name": "Albertville Premium Elite A 2024",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -10780,7 +10780,7 @@
   },
   {
    "slug": "resultat-albertville-premium-elite-a-2024-pdf-2024",
-   "name": "Resultat Albertville PREMIUM Elite A 2024.pdf",
+   "name": "Albertville Premium Elite A 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10797,7 +10797,7 @@
   },
   {
    "slug": "resultat-championnat-avenir-juin-205-pdf-2025-benjamin",
-   "name": "Benjamin Resultat Championnat Avenir juin 205.pdf",
+   "name": "Benjamin Championnat Avenir Juin 2025",
    "discipline": "",
    "level": "",
    "format": "championship",
@@ -10814,7 +10814,7 @@
   },
   {
    "slug": "resultat-championnat-avenir-juin-205-pdf-2025-minime",
-   "name": "Minime Resultat Championnat Avenir juin 205.pdf",
+   "name": "Minime Championnat Avenir Juin 2025",
    "discipline": "",
    "level": "",
    "format": "championship",
@@ -10831,7 +10831,7 @@
   },
   {
    "slug": "resultat-donzere-premium-elite-a-2024-pdf-2024",
-   "name": "Resultat DONZERE PREMIUM Elite A 2024.pdf",
+   "name": "Donzere Premium Elite A 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10848,7 +10848,7 @@
   },
   {
    "slug": "resultat-cadets-2026-pdf-2026",
-   "name": "Resultat cadets 2026.pdf",
+   "name": "Cadets 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10865,7 +10865,7 @@
   },
   {
    "slug": "resultats-20-2022-23-12-2012-20ffsbf-20et-20da-pdf-2012",
-   "name": "Resultats 20 2022 23 12 2012 20FFSBF 20et 20DA.pdf",
+   "name": "Finales FFSBF 2012",
    "discipline": "",
    "level": "national",
    "format": "",
@@ -10882,7 +10882,7 @@
   },
   {
    "slug": "resultats-20veterans-pdf",
-   "name": "Resultats 20Veterans.pdf",
+   "name": "Veterans",
    "discipline": "",
    "level": "national",
    "format": "championship",
@@ -10899,7 +10899,7 @@
   },
   {
    "slug": "resultats-2s-fm-torreilles-pdf",
-   "name": "Resultats 2S FM Torreilles.pdf",
+   "name": "Torreilles 2e Série",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10916,7 +10916,7 @@
   },
   {
    "slug": "resultats-c2m-pdf",
-   "name": "Resultats C2M.pdf",
+   "name": "C2M",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10933,7 +10933,7 @@
   },
   {
    "slug": "resultats-merignac-pdf",
-   "name": "Resultats Merignac.pdf",
+   "name": "Mérignac",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10967,7 +10967,7 @@
   },
   {
    "slug": "resultats-montelimar-pdf",
-   "name": "Resultats Montelimar.pdf",
+   "name": "Montélimar",
    "discipline": "",
    "level": "",
    "format": "",
@@ -10984,7 +10984,7 @@
   },
   {
    "slug": "resultats-premium-clermont-ferrand-pdf-2023",
-   "name": "Resultats PREMIUM Clermont Ferrand.pdf",
+   "name": "Clermont-Ferrand Premium 2023",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11001,7 +11001,7 @@
   },
   {
    "slug": "resultats-premium-maubeuge-pdf-2023",
-   "name": "Resultats PREMIUM Maubeuge.pdf",
+   "name": "Maubeuge Premium 2023",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11018,7 +11018,7 @@
   },
   {
    "slug": "resultats-riaille-31-01-26-pdf-2026",
-   "name": "Resultats RIAILLE 31 01 26.pdf",
+   "name": "Riaillé 31 Janvier 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11035,7 +11035,7 @@
   },
   {
    "slug": "resultats-st-yrieix-sur-charente-mars-2026-pdf-2026",
-   "name": "Resultats St Yrieix sur charente mars 2026 .pdf",
+   "name": "St Yrieix sur Charente Mars 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11052,7 +11052,7 @@
   },
   {
    "slug": "resultats-tq-espoirs-merignac-pdf-2024",
-   "name": "Resultats TQ Espoirs Merignac.pdf",
+   "name": "TQ Espoirs Mérignac 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11069,7 +11069,7 @@
   },
   {
    "slug": "resultats-tq-juniors-merignac-1-pdf",
-   "name": "Resultats TQ JUNIORS Merignac 1.pdf",
+   "name": "TQ Juniors Mérignac",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11086,7 +11086,7 @@
   },
   {
    "slug": "resultats-verdun-07-03-26-pdf-2026",
-   "name": "Resultats Verdun 07.03.26.pdf",
+   "name": "Verdun 7 Mars 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11103,7 +11103,7 @@
   },
   {
    "slug": "resultats-finales-elite-a-et-elite-b-vandoeuvre-2026-pdf-202",
-   "name": "Resultats finales ELITE A et ELITE B Vandoeuvre 2026.pdf",
+   "name": "Vandoeuvre Finales Elite A/B",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11120,7 +11120,7 @@
   },
   {
    "slug": "resultats-finales-plescop-avril-2026-pdf-2026",
-   "name": "Resultats finales Plescop avril 2026.pdf",
+   "name": "Plescop Avril 2026",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11545,10 +11545,10 @@
   },
   {
    "slug": "wcjunior-pdf",
-   "name": "WCJUNIOR.pdf",
+   "name": "World Cup Juniors",
    "discipline": "",
-   "level": "",
-   "format": "",
+   "level": "world",
+   "format": "cup",
    "age_class": "",
    "year": "",
    "start_date": "",
@@ -11562,10 +11562,10 @@
   },
   {
    "slug": "wcsenior-pdf",
-   "name": "WCSENIOR.pdf",
+   "name": "World Cup Seniors",
    "discipline": "",
-   "level": "",
-   "format": "",
+   "level": "world",
+   "format": "cup",
    "age_class": "",
    "year": "",
    "start_date": "",
@@ -11579,10 +11579,10 @@
   },
   {
    "slug": "wcwomen-pdf",
-   "name": "WCWOMEN.pdf",
+   "name": "World Cup Women",
    "discipline": "",
-   "level": "",
-   "format": "",
+   "level": "world",
+   "format": "cup",
    "age_class": "",
    "year": "",
    "start_date": "",
@@ -11851,7 +11851,7 @@
   },
   {
    "slug": "asorumas-pdf",
-   "name": "asorumas.pdf",
+   "name": "Soramas 2006",
    "discipline": "assaut",
    "level": "",
    "format": "",
@@ -11868,7 +11868,7 @@
   },
   {
    "slug": "budim-pdf-2020-cadet",
-   "name": "Cadet budim.pdf",
+   "name": "Cadet Budapest 2020",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11885,7 +11885,7 @@
   },
   {
    "slug": "budim-pdf-2020-junior",
-   "name": "Junior budim.pdf",
+   "name": "Junior Budapest 2020",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11902,7 +11902,7 @@
   },
   {
    "slug": "budim-pdf-2020-pioneer",
-   "name": "Pioneer budim.pdf",
+   "name": "Pioneer Budapest 2020",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11919,7 +11919,7 @@
   },
   {
    "slug": "budim-pdf-2020-senior",
-   "name": "Senior budim.pdf",
+   "name": "Senior Budapest 2020",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11936,7 +11936,7 @@
   },
   {
    "slug": "budim-pdf-2020-younger-junior",
-   "name": "Younger Junior budim.pdf",
+   "name": "Younger Junior Budapest 2020",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11953,7 +11953,7 @@
   },
   {
    "slug": "budimrez-pdf-2019-cadet",
-   "name": "Cadet budimrez.pdf",
+   "name": "Cadet Budapest 2019",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11970,7 +11970,7 @@
   },
   {
    "slug": "budimrez-pdf-2019-junior",
-   "name": "Junior budimrez.pdf",
+   "name": "Junior Budapest 2019",
    "discipline": "",
    "level": "",
    "format": "",
@@ -11987,7 +11987,7 @@
   },
   {
    "slug": "budimrez-pdf-2019-pioneer",
-   "name": "Pioneer budimrez.pdf",
+   "name": "Pioneer Budapest 2019",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12004,7 +12004,7 @@
   },
   {
    "slug": "budimrez-pdf-2019-senior",
-   "name": "Senior budimrez.pdf",
+   "name": "Senior Budapest 2019",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12021,7 +12021,7 @@
   },
   {
    "slug": "budimrez-pdf-2019-younger-junior",
-   "name": "Younger Junior budimrez.pdf",
+   "name": "Younger Junior Budapest 2019",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12055,8 +12055,8 @@
   },
   {
    "slug": "combatruma-pdf-junior",
-   "name": "Junior combatruma.pdf",
-   "discipline": "",
+   "name": "Junior Ruma Combat",
+   "discipline": "combat",
    "level": "",
    "format": "",
    "age_class": "Junior",
@@ -12072,8 +12072,8 @@
   },
   {
    "slug": "combatruma-pdf-senior",
-   "name": "Senior combatruma.pdf",
-   "discipline": "",
+   "name": "Senior Ruma Combat",
+   "discipline": "combat",
    "level": "",
    "format": "",
    "age_class": "Senior",
@@ -12089,7 +12089,7 @@
   },
   {
    "slug": "izvitalija-pdf",
-   "name": "izvitalija.pdf",
+   "name": "IZV 2016",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12106,7 +12106,7 @@
   },
   {
    "slug": "izvslovenia-pdf-2024",
-   "name": "izvslovenia.pdf",
+   "name": "Slovenia 2024",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12259,7 +12259,7 @@
   },
   {
    "slug": "pioniri2021-pdf-2021-older-pioneer",
-   "name": "Older Pioneer pioniri2021.pdf",
+   "name": "Older Pioneer Pioniri 2021",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12276,7 +12276,7 @@
   },
   {
    "slug": "pioniri2021-pdf-2021-younger-pioneer",
-   "name": "Younger Pioneer pioniri2021.pdf",
+   "name": "Younger Pioneer Pioniri 2021",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12293,7 +12293,7 @@
   },
   {
    "slug": "pool-g1-r1-sc-pdf",
-   "name": "pool G1 R1 SC.pdf",
+   "name": "Pool G1 Round 1",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12310,7 +12310,7 @@
   },
   {
    "slug": "pool-g1-t1-sdt-pdf",
-   "name": "pool G1 T1 SdT.pdf",
+   "name": "Pool G1 Table 1",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12327,7 +12327,7 @@
   },
   {
    "slug": "resultats-1er-gant-pdf",
-   "name": "resultats 1er gant.pdf",
+   "name": "1er Gant",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12446,7 +12446,7 @@
   },
   {
    "slug": "rezultati-ssv-2023-pdf-2023",
-   "name": "rezultati SSV 2023.pdf",
+   "name": "SSV 2023",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12480,7 +12480,7 @@
   },
   {
    "slug": "savate-tableaux-feminin-cfu-2015-pdf-2015",
-   "name": "savate tableaux feminin cfu 2015.pdf",
+   "name": "CFU Féminin 2015",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12497,7 +12497,7 @@
   },
   {
    "slug": "savate-tableaux-masculins-cfu-2015-pdf-2015",
-   "name": "savate tableaux masculins cfu 2015.pdf",
+   "name": "CFU Masculin 2015",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12514,7 +12514,7 @@
   },
   {
    "slug": "sprezultati-pdf-2021",
-   "name": "sprezultati.pdf",
+   "name": "Slovenia 2021",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12531,7 +12531,7 @@
   },
   {
    "slug": "varazdin-pdf-2023-junior",
-   "name": "Junior varazdin.pdf",
+   "name": "Junior Varaždin 2023",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12548,7 +12548,7 @@
   },
   {
    "slug": "varazdin-pdf-2023-senior",
-   "name": "Senior varazdin.pdf",
+   "name": "Senior Varaždin 2023",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12565,7 +12565,7 @@
   },
   {
    "slug": "varazdin-pdf-2023",
-   "name": "varazdin.pdf",
+   "name": "Varaždin 2023",
    "discipline": "",
    "level": "",
    "format": "",
@@ -12582,8 +12582,8 @@
   },
   {
    "slug": "varazdincombatwoman-pdf",
-   "name": "varazdincombatwoman.pdf",
-   "discipline": "",
+   "name": "Varaždin Combat Women",
+   "discipline": "combat",
    "level": "",
    "format": "",
    "age_class": "",
