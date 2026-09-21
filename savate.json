@@ -1460,7 +1460,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-championnat-ASSAUT-2025.pdf",
    "adapter": "ffsavate_finals",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-assaut-2025"
   },
   {
    "slug": "ffsavate-championnat-de-france-v-t-rans-2025",
@@ -1494,7 +1494,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-finales-JUNIORS-2025.pdf",
    "adapter": "ffsavate_finals",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-juniors-2025"
   },
   {
    "slug": "ffsavate-finales-championnat-de-france-2e-s-rie-angoul-me-202",
@@ -4503,7 +4503,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Elite-B-Masc.pdf",
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-elite-b-2023"
   },
   {
    "slug": "ffsavate-championnat-de-france-espoirs-masculin-2023",
@@ -4537,7 +4537,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2023/05/2022-2023-Resultats-Elite-B-Fem.pdf",
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-elite-b-2023"
   },
   {
    "slug": "ffsavate-championnat-de-france-2e-serie-feminin-2023",
@@ -4605,7 +4605,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/03/Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-PREMIUM-mars-2024.pdf",
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-premium-2024"
   },
   {
    "slug": "ffsavate-championnat-de-france-juniors-2024-verdun",
@@ -4622,7 +4622,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/03/Resulats-Verdun-CHAMPIONNAT-DE-FRANCE-JUNIORS-FINALES-mars-2024.pdf",
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-juniors-2024"
   },
   {
    "slug": "ffsavate-championnat-de-france-2e-serie-masculin-2024-verdun",
@@ -4651,12 +4651,12 @@
    "year": "2024",
    "start_date": "2024-04-06",
    "end_date": "",
-   "city": "Saint Christol Lez Alès",
+   "city": "",
    "country": "France",
    "source": "https://www.ffsavate.com/content/uploads/2024/03/RESULTATS-CHAMPIONNAT-DE-FRANCE-ELITE-A-St-Christol.pdf",
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-elite-a-2024"
   },
   {
    "slug": "ffsavate-finales-nationales-2024-barbezieux",
@@ -5805,7 +5805,7 @@
    "format": "championship",
    "age_class": "",
    "year": "2023",
-   "start_date": "",
+   "start_date": "2023-03-11",
    "end_date": "",
    "city": "",
    "country": "France",
@@ -5822,9 +5822,9 @@
    "format": "championship",
    "age_class": "",
    "year": "2023",
-   "start_date": "",
+   "start_date": "2023-03-11",
    "end_date": "",
-   "city": "",
+   "city": "Calais",
    "country": "France",
    "source": "https://www.ffsavate.com/content/uploads/2023/05/Resulats-Demi-Finales-Elite-A-Samedi-18-mars-2023-CALAIS.pdf",
    "adapter": "ffsavate_finals_wide",
@@ -5839,9 +5839,9 @@
    "format": "championship",
    "age_class": "",
    "year": "2023",
-   "start_date": "",
+   "start_date": "2023-03-11",
    "end_date": "",
-   "city": "",
+   "city": "Calais",
    "country": "France",
    "source": "https://www.ffsavate.com/content/uploads/2023/05/Resulats-Demi-Finales-PREMIUM-Samedi-18-mars-2023-CALAIS.pdf",
    "adapter": "ffsavate_finals_wide",
@@ -5897,7 +5897,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-ELITE-A-RESULTAT.pdf",
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-elite-a-2024"
   },
   {
    "slug": "ffsbf-elite-a-armentieres-2024",
@@ -5907,14 +5907,14 @@
    "format": "championship",
    "age_class": "",
    "year": "2024",
-   "start_date": "",
+   "start_date": "2024-03-16",
    "end_date": "",
    "city": "",
    "country": "France",
    "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-ELITE-A-RESULTAT-Armentieres.pdf",
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-elite-a-2024"
   },
   {
    "slug": "ffsbf-premium-livret-2024",
@@ -5931,7 +5931,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-PREMIUM-RESULTAT.pdf",
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-premium-2024"
   },
   {
    "slug": "ffsbf-elite-a-finales-vandoeuvre-2024",
@@ -5941,7 +5941,7 @@
    "format": "championship",
    "age_class": "",
    "year": "2024",
-   "start_date": "2024-03-30",
+   "start_date": "2024-03-02",
    "end_date": "",
    "city": "Vandoeuvre",
    "country": "France",
@@ -5965,7 +5965,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/04/Resultats-championnats-de-France-Assaut-Calais-2024.pdf",
    "adapter": "savate_misc",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-assaut-2024"
   },
   {
    "slug": "ffsbf-savate-pro-la-motte-servolex-2024",
@@ -6050,7 +6050,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-FINALES-ESPOIRS-M-2025.pdf",
    "adapter": "ffsavate_finals",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-espoirs-2025"
   },
   {
    "slug": "ffsbf-open-automne-calais-2024",
@@ -6135,7 +6135,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2025/06/Resultats-finales-juniors-2026-.pdf",
    "adapter": "ffsavate_finals_wide",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-juniors-2026"
   },
   {
    "slug": "ffsbf-open-assaut-calais-2026",
@@ -6645,7 +6645,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-ELITE-A-Beaumont-26.pdf",
    "adapter": "ffsavate_finals",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-elite-a-2025"
   },
   {
    "slug": "ffsavate-premium-beaumont-les-valence-2025",
@@ -6662,7 +6662,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-PREMIUM-Beaumont-26.pdf",
    "adapter": "ffsavate_finals",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-premium-2025"
   },
   {
    "slug": "ffsavate-elite-b-la-cote-saint-andre-2025",
@@ -6696,7 +6696,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-Elite-A-Donzere.pdf",
    "adapter": "ffsavate_finals",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-elite-a-2025"
   },
   {
    "slug": "ffsavate-premium-donzere-2025",
@@ -6713,7 +6713,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-Premium-Donzere.pdf",
    "adapter": "ffsavate_finals",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-premium-2025"
   },
   {
    "slug": "ffsavate-premium-viuz-en-sallaz-2025",
@@ -6730,7 +6730,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2024/07/Resultats-PREMIUM-Viuz-en-Sallaz.pdf",
    "adapter": "ffsavate_finals",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-premium-2025"
   },
   {
    "slug": "ffsavate-demi-finales-espoirs-premium-calais-2026",
@@ -6798,7 +6798,7 @@
    "source": "https://www.ffsavate.com/content/uploads/2026/05/Resultats-finales-assaut-2026.pdf",
    "adapter": "ffsavate_finals_wide",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-assaut-2026"
   },
   {
    "slug": "canada-2013",
@@ -9178,7 +9178,7 @@
    "source": "raw_sources/Livret-de-competition-Championnat-Assaut-2025-1.pdf-3ecbafc5f3.pdf",
    "adapter": "ffsavate_bouts",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-assaut-2025"
   },
   {
    "slug": "livret-de-competition-finale-elite-b-maubeuge-pdf",
@@ -9331,7 +9331,7 @@
    "source": "raw_sources/Livret-de-competition-finales-ESPOIR-M-2025-V2.pdf-f5dabce92a.pdf",
    "adapter": "savate_misc",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-espoirs-2025"
   },
   {
    "slug": "livret-de-competition-finales-juniors-avril-2026-pdf-2026",
@@ -9348,7 +9348,7 @@
    "source": "raw_sources/Livret-de-competition-finales-Juniors-avril-2026.pdf-9a8374bcec.pdf",
    "adapter": "savate_misc",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-juniors-2026"
   },
   {
    "slug": "livret-de-competition-finales-assaut-2026-pdf-2026",
@@ -9365,7 +9365,7 @@
    "source": "raw_sources/Livret-de-competition-finales-assaut-2026.pdf-5467a6f250.pdf",
    "adapter": "savate_misc",
    "fetched_at": "",
-   "competition": ""
+   "competition": "championnat-de-france-assaut-2026"
   },
   {
    "slug": "livret-de-competition-open-assaut-individuel-calais-v2-pdf",
@@ -85048,6 +85048,39 @@
    "loser": "DIEUDONNE Mélissa",
    "decision": "forfait",
    "decision_detail": "Par forfait",
+   "status": "decided",
+   "result_source": "reported"
+  },
+  {
+   "tournament": "ffsbf-elite-a-armentieres-2024",
+   "bout_id": "ffsbf-elite-a-armentieres-2024-004",
+   "date": "",
+   "time": "",
+   "ring": "",
+   "category": "Elite A Men -70 kg",
+   "gender": "Men",
+   "age_class": "",
+   "weight_kg": "70",
+   "weight_bound": "under",
+   "phase": "final",
+   "poule": "",
+   "red": "CARDARELLI Vittorio",
+   "red_country": "",
+   "red_club": "AS EVRY SBF 91008",
+   "red_weighed": "",
+   "blue": "GARCIA Iden",
+   "blue_country": "",
+   "blue_club": "BF PARADIS 13023",
+   "blue_weighed": "",
+   "red_points": "",
+   "blue_points": "",
+   "red_warnings": "",
+   "blue_warnings": "",
+   "winner_corner": "",
+   "winner": "CARDARELLI Vittorio",
+   "loser": "GARCIA Iden",
+   "decision": "points",
+   "decision_detail": "Majorité",
    "status": "decided",
    "result_source": "reported"
   },

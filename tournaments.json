@@ -924,7 +924,9 @@
    "format": "championship",
    "discipline": "assaut",
    "age_class": "Senior",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-assaut-2025",
+   "start_date": "2025-04-27"
   }
  },
  {
@@ -952,7 +954,8 @@
    "format": "championship",
    "discipline": "",
    "age_class": "Junior",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-juniors-2025"
   }
  },
  {
@@ -1866,7 +1869,8 @@
    "level": "national",
    "format": "championship",
    "discipline": "combat",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-elite-b-2023"
   }
  },
  {
@@ -1893,7 +1897,8 @@
    "level": "national",
    "format": "championship",
    "discipline": "combat",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-elite-b-2023"
   }
  },
  {
@@ -1948,7 +1953,8 @@
    "level": "national",
    "format": "championship",
    "discipline": "combat",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-premium-2024"
   }
  },
  {
@@ -1962,7 +1968,8 @@
    "format": "championship",
    "discipline": "",
    "age_class": "Junior",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-juniors-2024"
   }
  },
  {
@@ -1988,7 +1995,9 @@
    "level": "national",
    "format": "championship",
    "discipline": "combat",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-elite-a-2024",
+   "start_date": "2024-04-06"
   }
  },
  {
@@ -2704,7 +2713,8 @@
    "format": "championship",
    "age_class": "",
    "year": "2023",
-   "country": "France"
+   "country": "France",
+   "start_date": "2023-03-11"
   }
  },
  {
@@ -2718,7 +2728,9 @@
    "format": "championship",
    "age_class": "",
    "year": "2023",
-   "country": "France"
+   "country": "France",
+   "start_date": "2023-03-11",
+   "city": "Calais"
   }
  },
  {
@@ -2732,7 +2744,9 @@
    "format": "championship",
    "age_class": "",
    "year": "2023",
-   "country": "France"
+   "country": "France",
+   "start_date": "2023-03-11",
+   "city": "Calais"
   }
  },
  {
@@ -2776,7 +2790,8 @@
    "format": "championship",
    "age_class": "",
    "year": "2024",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-elite-a-2024"
   }
  },
  {
@@ -2790,7 +2805,9 @@
    "format": "championship",
    "age_class": "",
    "year": "2024",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-elite-a-2024",
+   "start_date": "2024-03-16"
   }
  },
  {
@@ -2804,7 +2821,8 @@
    "format": "championship",
    "age_class": "",
    "year": "2024",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-premium-2024"
   }
  },
  {
@@ -2818,7 +2836,9 @@
    "format": "championship",
    "age_class": "",
    "year": "2024",
-   "country": "France"
+   "country": "France",
+   "start_date": "2024-03-02",
+   "city": "Vandoeuvre"
   }
  },
  {
@@ -2832,7 +2852,9 @@
    "format": "championship",
    "age_class": "",
    "year": "2024",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-assaut-2024",
+   "start_date": "2024-04-21"
   }
  },
  {
@@ -2888,7 +2910,9 @@
    "format": "championship",
    "age_class": "",
    "year": "2025",
-   "country": "France"
+   "country": "France",
+   "start_date": "2025-02-01",
+   "city": "Rousies"
   }
  },
  {
@@ -2902,7 +2926,8 @@
    "format": "championship",
    "age_class": "Espoir",
    "year": "2025",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-espoirs-2025"
   }
  },
  {
@@ -2975,7 +3000,8 @@
    "format": "championship",
    "age_class": "Junior",
    "year": "2026",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-juniors-2026"
   }
  },
  {
@@ -3328,7 +3354,10 @@
    "format": "championship",
    "age_class": "",
    "year": "2025",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-elite-a-2025",
+   "start_date": "2025-02-01",
+   "city": "Beaumont-les-Valence"
   }
  },
  {
@@ -3342,7 +3371,10 @@
    "format": "championship",
    "age_class": "",
    "year": "2025",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-premium-2025",
+   "start_date": "2025-02-01",
+   "city": "Beaumont-les-Valence"
   }
  },
  {
@@ -3370,7 +3402,10 @@
    "format": "championship",
    "age_class": "",
    "year": "2025",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-elite-a-2025",
+   "start_date": "2025-02-01",
+   "city": "Donzere"
   }
  },
  {
@@ -3384,7 +3419,10 @@
    "format": "championship",
    "age_class": "",
    "year": "2025",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-premium-2025",
+   "start_date": "2025-02-01",
+   "city": "Donzere"
   }
  },
  {
@@ -3398,7 +3436,10 @@
    "format": "championship",
    "age_class": "",
    "year": "2025",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-premium-2025",
+   "start_date": "2025-03-01",
+   "city": "Viuz-en-Sallaz"
   }
  },
  {
@@ -3455,7 +3496,9 @@
    "format": "championship",
    "age_class": "",
    "year": "2026",
-   "country": "France"
+   "country": "France",
+   "competition": "championnat-de-france-assaut-2026",
+   "start_date": "2026-05-23"
   }
  },
  {
@@ -4560,7 +4603,8 @@
   "meta": {
    "name": "Livret de competition Championnat Assaut 2025 1.pdf",
    "year": "2025",
-   "level": "national"
+   "level": "national",
+   "competition": "championnat-de-france-assaut-2025"
   }
  },
  {
@@ -4635,7 +4679,8 @@
   "source": "raw_sources/Livret-de-competition-finales-ESPOIR-M-2025-V2.pdf-f5dabce92a.pdf",
   "meta": {
    "name": "Livret de competition finales ESPOIR M 2025 V2.pdf",
-   "year": "2025"
+   "year": "2025",
+   "competition": "championnat-de-france-espoirs-2025"
   }
  },
  {
@@ -4644,7 +4689,8 @@
   "source": "raw_sources/Livret-de-competition-finales-Juniors-avril-2026.pdf-9a8374bcec.pdf",
   "meta": {
    "name": "Livret de competition finales Juniors avril 2026.pdf",
-   "year": "2026"
+   "year": "2026",
+   "competition": "championnat-de-france-juniors-2026"
   }
  },
  {
@@ -4653,7 +4699,8 @@
   "source": "raw_sources/Livret-de-competition-finales-assaut-2026.pdf-5467a6f250.pdf",
   "meta": {
    "name": "Livret de competition finales assaut 2026.pdf",
-   "year": "2026"
+   "year": "2026",
+   "competition": "championnat-de-france-assaut-2026"
   }
  },
  {
