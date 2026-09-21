@@ -1189,11 +1189,11 @@
     chips += "</div>";
 
     /* Group events by competition (multi-stage championships).
-       Empty competition → each event is its own row.
-       Shared competition → championship heading, then stages indented. */
+       Shared competition → championship heading, then stages sorted by date.
+       Empty competition → each event is its own row, sorted year newest-first. */
     var grouped = {}, groupedArr = [];
     rows.forEach(function (e) {
-      var key = e.competition || "__no_comp__" + e.slug;
+      var key = e.competition || "__no_comp__";
       if (!(key in grouped)) { grouped[key] = []; groupedArr.push(key); }
       grouped[key].push(e);
     });
@@ -1201,13 +1201,33 @@
     function stageDate(e) {
       return e.start_date || e.end_date || "";
     }
-    function stageVenue(e) {
-      return (e.city || "") + (stageDate(e) ? " · " + stageDate(e) : "");
-    }
+
+    /* Sort each group's stages by date (earliest first),
+       then sort the group array: competitions first (by year desc),
+       then ungrouped events (by year desc, scope, name). */
+    groupedArr.sort(function (a, b) {
+      var ga = grouped[a], gb = grouped[b];
+      var aHas = ga[0].competition, bHas = gb[0].competition;
+      /* Competition groups before ungrouped */
+      if (aHas && !bHas) return -1;
+      if (!aHas && bHas) return 1;
+      /* Both have competition: sort by year desc, then name */
+      if (aHas && bHas) {
+        var y = (gb[0].year || "").localeCompare(ga[0].year || "");
+        if (y) return y;
+        return a.localeCompare(b);
+      }
+      /* Neither has competition: same as original sort */
+      var y = (gb[0].year || "").localeCompare(ga[0].year || "");
+      if (y) return y;
+      return (_SCOPE_ORDER[ga[0].level] || Infinity) - (_SCOPE_ORDER[gb[0].level] || Infinity) || ga[0].name.localeCompare(gb[0].name);
+    });
 
     var body = "";
     groupedArr.forEach(function (key) {
-      var stages = grouped[key];
+      var stages = grouped[key].slice().sort(function (a, b) {
+        return (stageDate(a) || "z").localeCompare(stageDate(b) || "z");
+      });
       var hasComp = stages[0].competition;
       if (hasComp) {
         /* Show competition name as a heading, then stages underneath */
@@ -1722,7 +1742,11 @@
 
   /* -- une année ------------------------------------------------------ */
   views.annee = function (q, y) {
-    var list = event.filter(function (e) { return e.year === y; });
+    var list = event.filter(function (e) { return e.year === y; })
+      .sort(function (a, b) {
+        return (_SCOPE_ORDER[a.level] || Infinity) - (_SCOPE_ORDER[b.level] || Infinity) ||
+          a.name.localeCompare(b.name);
+      });
     if (!list.length) return notFound(t("yr.none", { year: y }));
     var out = fil([{ text: t("nav.events"), href: "#/epreuves" }, { text: y }]);
     var nb = 0, np = 0;
