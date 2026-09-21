@@ -963,8 +963,15 @@ def _read_heading_blocks(doc, sheet):
             klass = _category(head["letter"], head["kilos"], head["suffix"],
                               report, prefix)
             label = klass["category"] + (f" {head['phase']}" if head["phase"] else "")
+            # No phase keyword on the heading - when the heading carries a
+            # series (Elite A, Premium, 2e Série) but no round indicator,
+            # treat it as a final. The 2026 series finals omit the round
+            # word entirely ("Elite A - F56" instead of "Finales Elite A").
+            phase = head["phase"]
+            if not phase and head["series"]:
+                phase = "final"
             current = {"klass": klass, "age": head["age"],
-                       "phase": head["phase"], "label": label}
+                       "phase": phase, "label": label}
             continue
         if _structural(text) and len(text.split()) <= 5:
             # "Première partie", "Deuxième partie", "Résultats" - the sheet

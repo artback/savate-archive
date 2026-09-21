@@ -96,7 +96,7 @@ _DECISIONS = [
 # MOYENS"). Anything with a digit or a bracket after the code is not a heading.
 _CLASS_LINE = re.compile(
     r"^\s*([FM])\s*\+?\s*(\d{2,3})\s*[.…\s]*"
-    r"((?:[A-Za-zÀ-ÿ/'’°\-]+\s*){0,3})$")
+    r"((?:[A-Za-zÀ-ÿ/''°\-\d]+\s*){0,3})$")
 
 # A class code wherever it appears - in a table cell, or glued to other text.
 _CLASS_CELL = re.compile(r"\b([FM])\s*\+?\s*(\d{2,3})\b")
