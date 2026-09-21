@@ -1157,11 +1157,17 @@
   /* -- épreuves ----------------------------------------------------- */
   views.epreuves = function (q) {
     var lvl = q.niveau || "", fmt = q.format || "", disc = q.discipline || "";
+    // Scope order: world first, then european, asian, panamerican, african,
+    // oceanian, national, regional, club — same ladder the export uses.
+    var _SCOPE_ORDER = {};
+    D.scopes.forEach(function (s, i) { _SCOPE_ORDER[s[0]] = i; });
     var rows = event.filter(function (e) {
       return (!lvl || e.level === lvl) && (!fmt || e.format === fmt) &&
         (!disc || e.disc === disc);
     }).sort(function (a, b) {
-      return (b.year || "").localeCompare(a.year || "") || a.name.localeCompare(b.name);
+      var y = (b.year || "").localeCompare(a.year || "");
+      if (y) return y;
+      return (_SCOPE_ORDER[a.level] || Infinity) - (_SCOPE_ORDER[b.level] || Infinity) || a.name.localeCompare(b.name);
     });
 
     var chips = '<div class="chips" style="margin-bottom:16px">';
@@ -1186,6 +1192,7 @@
       return "<tr>" +
         '<td class="n" style="color:var(--ink-3)">' + esc(e.year) + "</td>" +
         '<td class="name">' + eLink(e) + "</td>" +
+        '<td class="comp">' + esc(e.competition || "") + "</td>" +
         "<td>" + esc(e.label || "") + "</td>" +
         "<td>" + (e.disc ? discChip(e.disc) : '<span class="gapnote">—</span>') + "</td>" +
         '<td class="n">' + (e.bouts.length || "") + "</td>" +
@@ -1197,6 +1204,7 @@
       n: num(rows.length), first: YEAR_FIRST, last: YEAR_LAST }))) + chips +
       '<div class="scroll"><table><thead><tr><th class="n">' + esc(t("col.year")) +
       "</th><th>" + esc(t("col.event")) + "</th>" +
+      "<th>" + esc(t("col.competition")) + "</th>" +
       "<th>" + esc(t("col.level")) + "</th><th>" + esc(t("col.discipline")) + "</th>" +
       '<th class="n">' + esc(t("col.bouts")) + "</th>" +
       '<th class="n">' + esc(t("col.places")) + "</th>" +
