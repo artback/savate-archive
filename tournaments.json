@@ -5081,7 +5081,7 @@
     "adapter": "universitaire",
     "source": "raw_sources/RESULTATS-Championnat-Universitaire-2022.pdf-68ad8b23c5.pdf",
     "meta": {
-      "name": "RESULTATS Championnat Universitaire 2022.pdf",
+      "name": "Championnat Universitaire 2022",
       "year": "2022"
     }
   },
@@ -5090,7 +5090,7 @@
     "adapter": "quomodo_club",
     "source": "raw_sources/R--20FINALES-20ELITE-20B-20--2027-20JANV-202018-20MARSEILLE-0ff7fd34c8.pdf",
     "meta": {
-      "name": "RESULTATS DES FINALES DU CHAMPIONNAT DE FRANCE ELITE B",
+      "name": "Finales Championnat de France Elite B 2020",
       "year": "2020",
       "city": "Marseille"
     }
@@ -5100,7 +5100,7 @@
     "adapter": "quomodo_club",
     "source": "raw_sources/R-20--20ASSAUT-202021.pdf-14c2853310.pdf",
     "meta": {
-      "name": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+      "name": "Tournois Qualificatifs Assaut M&F",
       "year": "2020"
     }
   },
@@ -5118,7 +5118,7 @@
     "adapter": "antilles_bouts",
     "source": "raw_sources/159-resultats-gala-des-abymes-01-mars-2014-b8f621b46e",
     "meta": {
-      "name": "RESULTATS GALA DES ABYMES 01 MARS 2014",
+      "name": "Gala des Abymes 1 Mars 2014",
       "year": "2014"
     }
   },
@@ -5266,7 +5266,7 @@
     "adapter": "ffsavate_finals_wide",
     "source": "raw_sources/Resultats-Minimes-Championnats-de-France-2026-Compil-Podiums-5a9ad8e93c.pdf",
     "meta": {
-      "name": "Resultats Minimes Championnats de France 2026 Compil Podiums",
+      "name": "Minimes Championnats de France 2026 Compil Podiums",
       "year": "2026",
       "level": "national"
     }
