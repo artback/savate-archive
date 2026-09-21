@@ -1188,23 +1188,63 @@
     chips += filterChip("discipline", "combat", "Combat", q);
     chips += "</div>";
 
-    var body = rows.map(function (e) {
-      return "<tr>" +
-        '<td class="n" style="color:var(--ink-3)">' + esc(e.year) + "</td>" +
-        '<td class="name">' + eLink(e) + "</td>" +
-        '<td class="comp">' + esc(e.competition || "") + "</td>" +
-        "<td>" + esc(e.label || "") + "</td>" +
-        "<td>" + (e.disc ? discChip(e.disc) : '<span class="gapnote">—</span>') + "</td>" +
-        '<td class="n">' + (e.bouts.length || "") + "</td>" +
-        '<td class="n">' + (e.places.length || "") + "</td>" +
-        "</tr>";
-    }).join("");
+    /* Group events by competition (multi-stage championships).
+       Empty competition → each event is its own row.
+       Shared competition → championship heading, then stages indented. */
+    var grouped = {}, groupedArr = [];
+    rows.forEach(function (e) {
+      var key = e.competition || "__no_comp__" + e.slug;
+      if (!(key in grouped)) { grouped[key] = []; groupedArr.push(key); }
+      grouped[key].push(e);
+    });
+
+    function stageDate(e) {
+      return e.start_date || e.end_date || "";
+    }
+    function stageVenue(e) {
+      return (e.city || "") + (stageDate(e) ? " · " + stageDate(e) : "");
+    }
+
+    var body = "";
+    groupedArr.forEach(function (key) {
+      var stages = grouped[key];
+      var hasComp = stages[0].competition;
+      if (hasComp) {
+        /* Show competition name as a heading, then stages underneath */
+        body += '<tr class="comp-heading"><td colspan="7">' +
+          '<span class="comp-title">' + esc(hasComp) + "</span>" + "</td></tr>";
+        stages.forEach(function (e) {
+          body += "<tr>" +
+            '<td class="n" style="color:var(--ink-3)">' + esc(e.year) + "</td>" +
+            '<td class="name" style="padding-left:12px">' + eLink(e) + "</td>" +
+            '<td class="comp">' + esc(stageDate(e) || "—") + "</td>" +
+            "<td>" + esc(e.label || "") + "</td>" +
+            "<td>" + (e.disc ? discChip(e.disc) : '<span class="gapnote">—</span>') + "</td>" +
+            '<td class="n">' + (e.bouts.length || "") + "</td>" +
+            '<td class="n">' + (e.places.length || "") + "</td>" +
+            "</tr>";
+        });
+      } else {
+        /* No competition — just render each event as a row */
+        stages.forEach(function (e) {
+          body += "<tr>" +
+            '<td class="n" style="color:var(--ink-3)">' + esc(e.year) + "</td>" +
+            '<td class="name">' + eLink(e) + "</td>" +
+            '<td class="comp">' + esc(stageDate(e) || "—") + "</td>" +
+            "<td>" + esc(e.label || "") + "</td>" +
+            "<td>" + (e.disc ? discChip(e.disc) : '<span class="gapnote">—</span>') + "</td>" +
+            '<td class="n">' + (e.bouts.length || "") + "</td>" +
+            '<td class="n">' + (e.places.length || "") + "</td>" +
+            "</tr>";
+        });
+      }
+    });
 
     return head(esc(t("ev.title")), esc(t("ev.count", {
       n: num(rows.length), first: YEAR_FIRST, last: YEAR_LAST }))) + chips +
       '<div class="scroll"><table><thead><tr><th class="n">' + esc(t("col.year")) +
       "</th><th>" + esc(t("col.event")) + "</th>" +
-      "<th>" + esc(t("col.competition")) + "</th>" +
+      "<th>" + esc(t("col.date")) + "</th>" +
       "<th>" + esc(t("col.level")) + "</th><th>" + esc(t("col.discipline")) + "</th>" +
       '<th class="n">' + esc(t("col.bouts")) + "</th>" +
       '<th class="n">' + esc(t("col.places")) + "</th>" +
