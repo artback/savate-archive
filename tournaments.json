@@ -2815,7 +2815,7 @@
     "adapter": "ffsavate_bouts",
     "source": "https://www.ffsavate.com/content/uploads/2024/02/Livret-PREMIUM-RESULTAT.pdf",
     "meta": {
-      "name": "Championnat de France Premium 2024 - livret des résultats",
+      "name": "Championnat de France Premium 2024",
       "discipline": "combat",
       "level": "national",
       "format": "championship",
@@ -4592,7 +4592,7 @@
     "adapter": "savate_misc",
     "source": "raw_sources/Livret-PREMIUM-RESULTAT-Armentieres.pdf-4163b2e3b9.pdf",
     "meta": {
-      "name": "Livret PREMIUM RESULTAT Armentieres.pdf",
+      "name": "Armentieres Premium 2024",
       "year": ""
     }
   },
@@ -5002,7 +5002,7 @@
     "adapter": "ffsavate_finals",
     "source": "raw_sources/RESULTATS-11-MARS-2023-PREMIUM.pdf-e687054b1f.pdf",
     "meta": {
-      "name": "RESULTATS 11 MARS 2023 PREMIUM.pdf",
+      "name": "11 Mars 2023 Premium",
       "year": "2023",
       "level": "national"
     }
@@ -5012,7 +5012,7 @@
     "adapter": "ffsavate_sheets",
     "source": "raw_sources/RESULTATS-20ESPOIRS-20MF.pdf-64ebda4218.pdf",
     "meta": {
-      "name": "RESULTATS 20ESPOIRS 20MF.pdf",
+      "name": "Espoirs M/F 2013",
       "year": "2013"
     }
   },
@@ -5021,7 +5021,7 @@
     "adapter": "antilles_bouts",
     "source": "raw_sources/154-resultats-assauts-phenix-club-22-fevrier-2014-79fc2b7149",
     "meta": {
-      "name": "RESULTATS ASSAUTS PHENIX CLUB 22 FEVRIER 2014",
+      "name": "Assauts Phenix Club 22 Février 2014",
       "year": "2014",
       "discipline": "assaut"
     }
@@ -5031,7 +5031,7 @@
     "adapter": "antilles_bouts",
     "source": "raw_sources/310-resultats-challenge-25-novembre-2017-e6e54ac585",
     "meta": {
-      "name": "RESULTATS CHALLENGE 25 NOVEMBRE 2017",
+      "name": "Challenge 25 Novembre 2017",
       "year": "2017",
       "discipline": "assaut"
     }
@@ -5041,7 +5041,7 @@
     "adapter": "antilles_bouts",
     "source": "raw_sources/168-resultats-challenge-creps-5-avril-2014-f3ab7d5dab",
     "meta": {
-      "name": "RESULTATS CHALLENGE CREPS 5 AVRIL 2014",
+      "name": "Challenge Creps 5 Avril 2014",
       "year": "2014",
       "discipline": "assaut"
     }
@@ -5051,7 +5051,7 @@
     "adapter": "antilles_bouts",
     "source": "raw_sources/264-resultats-challenge-goyave-16-avril-2016-652cc6ed15",
     "meta": {
-      "name": "RESULTATS CHALLENGE GOYAVE 16 AVRIL 2016",
+      "name": "Challenge Goyave 16 Avril 2016",
       "year": "2016",
       "discipline": "assaut"
     }
@@ -5061,7 +5061,7 @@
     "adapter": "antilles_bouts",
     "source": "raw_sources/235-resultats-challenge-goyave-20-06-2015-40df28c2e8",
     "meta": {
-      "name": "RESULTATS CHALLENGE GOYAVE 20/06/2015",
+      "name": "Challenge Goyave 20/06/2015",
       "year": "2015",
       "discipline": "assaut"
     }
@@ -5071,7 +5071,7 @@
     "adapter": "antilles_bouts",
     "source": "raw_sources/208-resultats-challenge-mjc-du-gosier-4cfcc19a55",
     "meta": {
-      "name": "RESULTATS CHALLENGE MJC DU GOSIER",
+      "name": "Challenge MJC du Gosier 2014",
       "year": "2014",
       "discipline": "assaut"
     }
@@ -5109,7 +5109,7 @@
     "adapter": "quomodo_club",
     "source": "raw_sources/Resultats-20ASSAUT-202018.pdf-8ea4ca6a22.pdf",
     "meta": {
-      "name": "RESULTATS DES TOURNOIS QUALIFICATIFS ASSAUT M&F",
+      "name": "Qualificatifs Assaut M/F 2020",
       "year": "2020"
     }
   },
