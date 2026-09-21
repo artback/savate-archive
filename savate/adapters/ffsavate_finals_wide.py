@@ -598,6 +598,8 @@ def read(source, slug, meta=None, **options):
         format=meta.get("format", "championship"),
         age_class=meta.get("age_class", ""),
         year=meta.get("year", ""),
+        start_date=meta.get("start_date", ""),
+        city=meta.get("city", ""),
         country=meta.get("country", "France"),
         source=source, adapter=NAME,
         competition=meta.get("competition", ""),

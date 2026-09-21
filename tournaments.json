@@ -1907,7 +1907,8 @@
    "format": "championship",
    "discipline": "combat",
    "country": "France",
-   "competition": "championnat-de-france-2eme-serie-2023"
+   "competition": "championnat-de-france-2eme-serie-2023",
+   "start_date": ""
   }
  },
  {
@@ -2746,7 +2747,8 @@
    "age_class": "",
    "year": "2023",
    "country": "France",
-   "competition": "championnat-de-france-2eme-serie-2023"
+   "competition": "championnat-de-france-2eme-serie-2023",
+   "start_date": "2023-04-01"
   }
  },
  {
@@ -2958,7 +2960,8 @@
    "age_class": "",
    "year": "2026",
    "country": "France",
-   "competition": "championnat-de-france-2eme-serie-2025-26"
+   "competition": "championnat-de-france-2eme-serie-2025-26",
+   "start_date": "2026-01-24"
   }
  },
  {
@@ -4576,7 +4579,8 @@
   "meta": {
    "name": "Livret de competition Finales 2e series Rousies.pdf",
    "year": "",
-   "competition": "championnat-de-france-2eme-serie-2025-26"
+   "competition": "championnat-de-france-2eme-serie-2025-26",
+   "start_date": "2026-01-24"
   }
  },
  {
