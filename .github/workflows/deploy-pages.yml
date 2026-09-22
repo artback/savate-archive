@@ -1,0 +1,18 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build gh-pages from ui/
+        run: |
+          git subtree split --prefix ui -b gh-pages
+          git push origin gh-pages --force
