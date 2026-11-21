@@ -465,14 +465,24 @@
 
   /* The year's totals: one unit per series of championship events — a series
      being the season-long tournament the pipeline consolidated into its
-     stages — or per standalone championship. Each unit carries its champions
-     (the printed podium, or the final where the federation printed none) and
-     everyone who fought in it: the "who won it, who was in it" of a year. */
+     stages — or per standalone championship; where the pipeline found no
+     series, the same printed name in one year, scope and country folds into
+     a single unit. Each unit carries its champions (the printed podium, or
+     the final where the federation printed none) and everyone who fought in
+     it: the "who won it, who was in it" of a year. */
   var yearChamp = (function () {
     var groups = {};
     event.forEach(function (e) {
       if (e.format !== "championship" || !e.year) return;
-      var k = e.competition ? "s" + e.competition : "e" + e.i;
+      if (e.competition) {
+        var s = "s" + e.competition;
+        (groups[s] = groups[s] || []).push(e);
+        return;
+      }
+      /* No series: the same printed name, in the same year, scope and
+         country, is the same championship - one sheet per pool, or one
+         document read twice. */
+      var k = "n" + fold(e.name) + "|" + e.year + "|" + e.level + "|" + e.nat;
       (groups[k] = groups[k] || []).push(e);
     });
     var out = {};
@@ -537,12 +547,15 @@
         disc: last.disc, age: last.age, label: last.label,
         city: last.city || "",
         start: first.start || "", end: last.end || "",
-        stages: evs.length,
+        docs: evs.length,
         href: "#/epreuve/" + last.slug,
         wins: wins,
         derived: derived,
         fighters: fighters
       };
+      /* A championship that published neither a winner nor a fighter is a
+         document the archive holds, not a line of the year's palmarès. */
+      if (!wins.length && !fighters.length) return;
       (out[unit.y] = out[unit.y] || []).push(unit);
     });
     Object.keys(out).forEach(function (y) {
@@ -1858,8 +1871,8 @@
      each, and who fought in it — then the rest of the year's events. */
   function champCard(u) {
     var chips = eventChips(u);
-    if (u.stages > 1)
-      chips += '<span class="chip">' + esc(t("yr.stages", { n: u.stages })) + "</span>";
+    if (u.docs > 1)
+      chips += '<span class="chip">' + esc(t("yr.docs", { n: u.docs })) + "</span>";
     var out = '<div class="card pad champ">';
     out += '<div class="chips" style="margin-bottom:10px">' + chips + "</div>";
     out += '<h3 style="font-size:16px">' + link(u.href, esc(u.name), "linky") + "</h3>";
