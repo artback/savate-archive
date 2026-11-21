@@ -216,7 +216,7 @@ window.SAVATE_I18N = {
     "yr.derivedShort": "reconstruit depuis la finale",
     "yr.noWinner": "Aucun vainqueur publié pour ce championnat.",
     "yr.participantsN": "{n} participants",
-    "yr.stages": "{n} étapes",
+    "yr.docs": "{n} documents sources",
     "yr.otherEvents": "Autres épreuves de l'année",
 
     "cmp.title": "Confrontation",
@@ -550,7 +550,7 @@ window.SAVATE_I18N = {
     "yr.derivedShort": "reconstructed from the final",
     "yr.noWinner": "No winner published for this championship.",
     "yr.participantsN": "{n} participants",
-    "yr.stages": "{n} stages",
+    "yr.docs": "{n} source documents",
     "yr.otherEvents": "Other events of the year",
 
     "cmp.title": "Head to head",
@@ -884,7 +884,7 @@ window.SAVATE_I18N = {
     "yr.derivedShort": "reconstruido desde la final",
     "yr.noWinner": "Sin ganador publicado para este campeonato.",
     "yr.participantsN": "{n} participantes",
-    "yr.stages": "{n} etapas",
+    "yr.docs": "{n} documentos de origen",
     "yr.otherEvents": "Otras competiciones del año",
 
     "cmp.title": "Enfrentamiento",
