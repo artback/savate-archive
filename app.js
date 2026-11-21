@@ -33,7 +33,7 @@
   /* -- event columns ----------------------------------------------- */
   var E_NAME = 0, E_YEAR = 1, E_LEVEL = 2, E_DISC = 3, E_START = 4, E_END = 5,
       E_CITY = 6, E_NAT = 7, E_SLUG = 8, E_FORMAT = 9, E_AGE = 10, E_LABEL = 11,
-      E_SOURCE = 12;
+      E_SOURCE = 12, E_COMPETITION = 13, E_SEASON = 14;
 
   /* The archive's span, computed from the data rather than printed: the footer
      and the event index quote it, and a hardcoded "2007–2026" goes stale the
@@ -164,6 +164,17 @@
   function fold(s) {
     return String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "")
       .toLowerCase().replace(/\s+/g, " ").trim();
+  }
+  function searchFold(s) { return fold(s).replace(/[\u2010-\u2015\u2212]/g, "-"); }
+  function searchTerms(s) {
+    return searchFold(s).split(/[\s,;]+/).filter(Boolean);
+  }
+  function searchText(x) {
+    return searchFold([x.key, x.label, x.hint].filter(Boolean).join(" "));
+  }
+  function searchMatches(x, terms) {
+    var key = searchText(x);
+    return terms.every(function (term) { return key.indexOf(term) >= 0; });
   }
   function slug(s) {
     return fold(s).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -307,6 +318,7 @@
   var event = EVENTS.map(function (e, i) {
     return {
       i: i, slug: e[E_SLUG], name: e[E_NAME], year: e[E_YEAR],
+      season: e[E_SEASON] || "", competition: e[E_COMPETITION] || "",
       level: e[E_LEVEL], format: e[E_FORMAT], label: e[E_LABEL],
       disc: e[E_DISC], age: e[E_AGE], city: e[E_CITY], nat: e[E_NAT],
       start: e[E_START], end: e[E_END], source: e[E_SOURCE] || "",
@@ -447,6 +459,104 @@
   event.forEach(function (e) { if (e.year) years[e.year] = (years[e.year] || 0) + 1; });
   var yearList = Object.keys(years).sort();
 
+  /* The scope ladder as the export knows it: world first, down to club. */
+  var SCOPE_ORDER = {};
+  D.scopes.forEach(function (s, i) { SCOPE_ORDER[s[0]] = i; });
+
+  /* The year's totals: one unit per series of championship events — a series
+     being the season-long tournament the pipeline consolidated into its
+     stages — or per standalone championship. Each unit carries its champions
+     (the printed podium, or the final where the federation printed none) and
+     everyone who fought in it: the "who won it, who was in it" of a year. */
+  var yearChamp = (function () {
+    var groups = {};
+    event.forEach(function (e) {
+      if (e.format !== "championship" || !e.year) return;
+      var k = e.competition ? "s" + e.competition : "e" + e.i;
+      (groups[k] = groups[k] || []).push(e);
+    });
+    var out = {};
+    Object.keys(groups).forEach(function (k) {
+      var evs = groups[k].sort(function (a, b) {
+        return (a.start || "").localeCompare(b.start || "") || a.i - b.i;
+      });
+      var first = evs[0], last = evs[evs.length - 1];
+      var gold = {};
+      evs.forEach(function (e) {
+        e.places.forEach(function (pi) {
+          var l = PLACINGS[pi];
+          if (l[L_RANK] === 1) gold[l[L_CAT]] = { who: l[L_WHO], nat: l[L_NAT], derived: false };
+        });
+      });
+      /* Where no podium was printed, the final decides the total — the same
+         reconstruction the event page applies to its own podiums. */
+      var finals = {};
+      evs.forEach(function (e) {
+        e.bouts.forEach(function (bi) {
+          var b = BOUTS[bi];
+          if (PHASES[b[B_PHASE]] === "final") finals[b[B_CAT]] = bi;
+        });
+      });
+      var derived = 0;
+      Object.keys(finals).forEach(function (c) {
+        if (gold[c]) return;
+        var b = BOUTS[finals[c]];
+        var w = winnerOf(b);
+        if (w < 0) return;
+        gold[c] = { who: w, nat: w === b[B_RED] ? b[B_RNAT] : b[B_BNAT], derived: true };
+        derived++;
+      });
+      var fset = {};
+      evs.forEach(function (e) {
+        e.bouts.forEach(function (bi) {
+          var b = BOUTS[bi];
+          if (b[B_RED] >= 0) fset[b[B_RED]] = 1;
+          if (b[B_BLUE] >= 0) fset[b[B_BLUE]] = 1;
+        });
+        e.places.forEach(function (pi) { fset[PLACINGS[pi][L_WHO]] = 1; });
+      });
+      var wins = Object.keys(gold).map(function (c) {
+        var g = gold[c];
+        return { cat: Number(c), who: g.who, nat: g.nat, derived: g.derived };
+      }).filter(function (w) { return person[w.who]; })
+        .sort(function (a, b) {
+          var ca = CATS[a.cat] || [], cb = CATS[b.cat] || [];
+          return (ca[C_GENDER] || "").localeCompare(cb[C_GENDER] || "") ||
+            (ca[C_AGE] || "").localeCompare(cb[C_AGE] || "") ||
+            (parseFloat((ca[C_WEIGHT] || "").replace(/[^\d.]/g, "")) || 0) -
+            (parseFloat((cb[C_WEIGHT] || "").replace(/[^\d.]/g, "")) || 0);
+        });
+      var fighters = Object.keys(fset).map(Number)
+        .filter(function (i) { return person[i]; })
+        .sort(function (a, b) { return person[a].name.localeCompare(person[b].name); });
+      var unit = {
+        y: last.year,
+        scope: last.level,
+        name: last.name,
+        season: last.season || "",
+        disc: last.disc, age: last.age, label: last.label,
+        city: last.city || "",
+        start: first.start || "", end: last.end || "",
+        stages: evs.length,
+        href: "#/epreuve/" + last.slug,
+        wins: wins,
+        derived: derived,
+        fighters: fighters
+      };
+      (out[unit.y] = out[unit.y] || []).push(unit);
+    });
+    Object.keys(out).forEach(function (y) {
+      out[y].sort(function (a, b) {
+        var ra = SCOPE_ORDER[a.scope] == null ? 99 : SCOPE_ORDER[a.scope];
+        var rb = SCOPE_ORDER[b.scope] == null ? 99 : SCOPE_ORDER[b.scope];
+        return ra - rb ||
+          (a.start || "9999").localeCompare(b.start || "9999") ||
+          a.name.localeCompare(b.name);
+      });
+    });
+    return out;
+  })();
+
   /* ================================================================
      Stored preferences. Every read and write is guarded: an artifact can
      be opened where storage throws outright.
@@ -515,6 +625,8 @@
   }
   function eventChips(e) {
     var out = "";
+    if (e.season && e.season !== e.year)
+      out += '<span class="chip">' + esc(e.season) + "</span>";
     if (e.label) out += '<span class="chip">' + esc(e.label) + "</span>";
     out += discChip(e.disc);
     if (e.age) out += '<span class="chip">' + esc(ageFR(e.age) || e.age) + "</span>";
@@ -811,11 +923,12 @@
 
   /* One query, every kind of thing the archive holds. */
   function searchResults(text) {
-    var f = fold(text);
+    var terms = searchTerms(text);
+    if (!terms.length) return empty(esc(t("search.none", { q: text })));
     var groups = {};
     ORDER_KINDS.forEach(function (k) { groups[k] = []; });
     index.forEach(function (x) {
-      if (x.key.indexOf(f) < 0) return;
+      if (!searchMatches(x, terms)) return;
       if (groups[x.kind] && groups[x.kind].length < 60) groups[x.kind].push(x);
     });
 
@@ -1740,11 +1853,51 @@
     return out;
   };
 
-  /* -- une année ------------------------------------------------------ */
+  /* -- une année ------------------------------------------------------
+     A year, read as a palmarès: the total championships first — who won
+     each, and who fought in it — then the rest of the year's events. */
+  function champCard(u) {
+    var chips = eventChips(u);
+    if (u.stages > 1)
+      chips += '<span class="chip">' + esc(t("yr.stages", { n: u.stages })) + "</span>";
+    var out = '<div class="card pad champ">';
+    out += '<div class="chips" style="margin-bottom:10px">' + chips + "</div>";
+    out += '<h3 style="font-size:16px">' + link(u.href, esc(u.name), "linky") + "</h3>";
+    var when = u.start ? dateFR(u.start) : "";
+    if (u.end && u.end !== u.start) when += (when ? " – " : "") + dateFR(u.end);
+    if (when || u.city) {
+      out += '<div class="foot fig" style="font-size:12.5px;color:var(--ink-3)">' +
+        esc(when) + (u.city ? (when ? " · " : "") + esc(u.city) : "") + "</div>";
+    }
+    out += '<div class="micro" style="margin-top:14px;color:var(--ink-2)">' +
+      esc(t("yr.winner")) + "</div>";
+    if (u.wins.length) {
+      out += '<div class="champwins">' + u.wins.map(function (w) {
+        return '<div class="champwin">' +
+          '<span class="cat">' + esc(catFR(w.cat) || "—") + "</span>" +
+          "<span>" + pLink(person[w.who]) + " " + natHTML(w.nat, { name: false }) + "</span>" +
+          (w.derived ? '<span class="gapnote">' + esc(t("yr.derivedShort")) + "</span>" : "") +
+          "</div>";
+      }).join("") + "</div>";
+    } else {
+      out += '<div class="gapnote" style="margin-top:6px">' + croix("vainqueur") + " " +
+        esc(u.fighters.length ? t("yr.noWinner") : t("ev.nothing")) + "</div>";
+    }
+    if (u.fighters.length) {
+      out += '<details class="parts"' + (u.fighters.length <= 24 ? ' open' : "") + ">" +
+        "<summary>" + esc(t("yr.participantsN", { n: u.fighters.length })) +
+        '</summary><div class="partlist">' +
+        u.fighters.map(function (i) { return pLink(person[i]); }).join(" ") +
+        "</div></details>";
+    }
+    out += "</div>";
+    return out;
+  }
+
   views.annee = function (q, y) {
     var list = event.filter(function (e) { return e.year === y; })
       .sort(function (a, b) {
-        return (_SCOPE_ORDER[a.level] || Infinity) - (_SCOPE_ORDER[b.level] || Infinity) ||
+        return (SCOPE_ORDER[a.level] || Infinity) - (SCOPE_ORDER[b.level] || Infinity) ||
           a.name.localeCompare(b.name);
       });
     if (!list.length) return notFound(t("yr.none", { year: y }));
@@ -1753,7 +1906,17 @@
     list.forEach(function (e) { nb += e.bouts.length; np += e.places.length; });
     out += head(esc(y), esc(t("yr.count", {
       events: list.length, bouts: nb, places: np })));
-    out += '<div class="grid g2">' + list.map(eventCard).join("") + "</div>";
+
+    var champs = yearChamp[y] || [];
+    if (champs.length) {
+      out += section(t("yr.champs") + " · " + champs.length,
+        '<div class="grid g2">' + champs.map(champCard).join("") + "</div>");
+    }
+    var rest = list.filter(function (e) { return e.format !== "championship"; });
+    if (rest.length) {
+      out += section(t("yr.otherEvents"),
+        '<div class="grid g2">' + rest.map(eventCard).join("") + "</div>");
+    }
     return out;
   };
 
@@ -2164,18 +2327,19 @@
   });
   event.forEach(function (e) {
     index.push({
-      key: fold(e.name + " " + e.year + " " + (e.label || "") + " " + (e.disc || "")),
+      key: fold(e.name + " " + e.year + " " + e.season + " " + (e.competition || "") + " " + (e.label || "") + " " + (e.disc || "")),
       label: e.name, kind: "epreuve",
-      hint: [e.year, e.label, e.disc].filter(Boolean).join(" · "),
+      hint: [e.season || e.year, e.label, e.disc].filter(Boolean).join(" · "),
       href: "#/epreuve/" + e.slug });
   });
   yearList.forEach(function (y) {
-    var n = 0, count = 0;
+    var n = 0;
     event.forEach(function (e) {
-      if (e.year === y) { n++; count += e.bouts.length + e.places.length; }
+      if (e.year === y) n++;
     });
     index.push({ key: fold(y), label: y, kind: "annee",
-                 hint: t("search.yearHint", { events: n, lines: count }),
+                 hint: t("search.yearHint", { events: n,
+                                              champs: (yearChamp[y] || []).length }),
                  href: "#/annee/" + y });
   });
   nation.forEach(function (n) {
@@ -2225,16 +2389,19 @@
     document.body.style.overflow = "";
   }
   function runPalette(text) {
-    var f = fold(text);
+    var terms = searchTerms(text);
     palHits = [];
-    if (!f) {
+    if (!terms.length) {
       palHits = index.filter(function (x) { return x.kind === "epreuve"; }).slice(0, 8);
     } else {
       for (var i = 0; i < index.length && palHits.length < 40; i++) {
-        if (index[i].key.indexOf(f) >= 0) palHits.push(index[i]);
+        if (searchMatches(index[i], terms)) palHits.push(index[i]);
       }
       palHits.sort(function (a, b) {
-        return a.key.indexOf(f) - b.key.indexOf(f) || a.label.length - b.label.length;
+        var aLabel = searchFold(a.label), bLabel = searchFold(b.label);
+        var aStarts = terms.every(function (term) { return aLabel.indexOf(term) >= 0; });
+        var bStarts = terms.every(function (term) { return bLabel.indexOf(term) >= 0; });
+        return Number(bStarts) - Number(aStarts) || a.label.length - b.label.length;
       });
     }
     palSel = 0;

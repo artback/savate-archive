@@ -294,6 +294,21 @@ button.chip:hover{border-color:var(--line-2);color:var(--ink)}
 .chip.combat{border-color:color-mix(in srgb,var(--rouge) 34%,var(--line))}
 .chip .dot{width:6px;height:6px;border-radius:50%;background:currentColor;flex:none}
 
+/* ---- the year page: one card per total championship ------------------ */
+.champ .champwins{margin-top:6px}
+.champwin{display:flex;gap:10px;align-items:baseline;padding:4px 0;
+  border-bottom:1px solid var(--line);font-size:13.5px;min-width:0}
+.champwin .cat{color:var(--ink-3);font-size:12.5px;flex:none;
+  min-width:130px;max-width:170px;overflow-wrap:anywhere}
+.champwin .gapnote{margin-left:auto;flex:none;white-space:nowrap}
+details.parts{margin-top:14px}
+details.parts summary{cursor:pointer;font-size:13px;color:var(--ink-2);
+  padding:2px 0}
+details.parts summary:hover{color:var(--ink)}
+.partlist{padding:8px 0 2px;font-size:13px;line-height:1.9;
+  columns:2 200px;column-gap:28px}
+.partlist a{overflow-wrap:anywhere}
+
 /* ---- statistics ------------------------------------------------------ */
 .stat{padding:14px 16px;border:1px solid var(--line);border-radius:10px;
   background:var(--surface);min-width:0}
