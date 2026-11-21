@@ -48,6 +48,7 @@ _WEIGHT_NOTE = re.compile(r"\s*\(\s*Pes[ée]?\s*[\d.,]+\s*kg\s*\)\s*", re.I)
 
 # A parenthesised country or federation code at the end: "(Russie)", "(SER)".
 _PAREN_TAIL = re.compile(r"\s*\(([^()]{2,40})\)\s*$")
+_PAREN_ANY = re.compile(r"\(([^()]{2,40})\)")
 
 # ", Fédération Italienne de Savate" and its Spanish/Galician cousins.
 _CLUB_TAIL = re.compile(
@@ -436,24 +437,32 @@ _alias("France", "FR", "FRA", "Fr", "Francia", "Frankreich", "Frankrike",
        "Francuska")
 _alias("Belgium", "BE", "BEL", "Belgique", "Belgio", "Bel")
 _alias("Italy", "IT", "ITA", "Italie", "Italia", "Ita", "Italija")
-_alias("Croatia", "HR", "CRO", "Croatie", "Croazia", "Cro", "HRV", "Hrvatska")
+_alias("Croatia", "HR", "CRO", "Croatie", "Croazia", "Cro", "HRV", "Hrvatska",
+       "Crotia")
 _alias("Serbia", "RS", "SER", "Serbie", "Srbija", "Ser", "SRB")
 _alias("Slovenia", "SI", "SLO", "Slovenie", "Slovénie", "Slovenija", "SVN")
-_alias("Russia", "RU", "RUS", "Russie", "Russian Federation", "Rus")
+# "RSF" is how the 2021 world sheets print the Russian federation, beside
+# fighters the same archive also lists as "Russia".
+_alias("Russia", "RU", "RUS", "Russie", "Russian Federation", "Rus", "RSF")
 _alias("Ukraine", "UA", "UKR", "Ukranie", "Ucraina", "Ukr", "UKRAIN",
        "Ukrajina")
 _alias("Turkey", "TR", "TUR", "Turquie", "Türkiye", "Turkiye", "Tur")
-_alias("Germany", "DE", "GER", "Allemagne", "Deutschland", "DEU", "Ger")
+# "ALL" is how the 2008 world sheets print Germany, beside German names.
+_alias("Germany", "DE", "GER", "Allemagne", "Deutschland", "DEU", "Ger", "ALL")
 _alias("Greece", "GR", "GRE", "Grece", "Grèce", "Hellas", "GRC")
 _alias("Spain", "ES", "ESP", "Espagne", "España", "Espana", "Esp")
 _alias("Portugal", "PT", "POR", "Prt")
 _alias("Netherlands", "NL", "NED", "Pays-Bas", "Holland", "NLD")
 _alias("United Kingdom", "GB", "GBR", "Great Britain", "Grande-Bretagne",
-       "England", "Angleterre", "Royaume-Uni", "UK")
-_alias("Ireland", "IE", "IRL", "Irlande")
-_alias("Switzerland", "CH", "SUI", "Suisse", "Svizzera", "CHE")
+       "Grande Bretagne", "England", "Angleterre", "Royaume-Uni", "UK",
+       "GB", "Britain")
+# "Eire" is the sheets' English spelling; "Irelande" their misspelling of
+# "Irlande".
+_alias("Ireland", "IE", "IRL", "Irlande", "Eire", "Irelande")
+_alias("Switzerland", "CH", "SUI", "Suisse", "Svizzera", "CHE", "CH")
 _alias("Austria", "AT", "AUT", "Autriche", "Österreich", "Osterreich")
-_alias("Hungary", "HU", "HUN", "Hongrie", "Magyarorszag", "Magyarország")
+_alias("Hungary", "HU", "HUN", "Hongrie", "Magyarorszag", "Magyarország",
+       "HUNGRIA", "HON")
 _alias("Romania", "RO", "ROU", "Roumanie", "Romanie", "Romania", "ROM")
 _alias("Bulgaria", "BG", "BUL", "Bulgarie", "BGR")
 _alias("Poland", "PL", "POL", "Pologne", "Polska")
@@ -492,7 +501,7 @@ _alias("China", "CN", "CHN", "Chine", "Cina")
 _alias("Japan", "JP", "JPN", "Japon", "Giappone", "JAP", "Japanska")
 _alias("Korea", "KR", "KOR", "South Korea", "Coree", "Corée", "Coree du Sud")
 _alias("Vietnam", "VN", "VIE", "Viet Nam", "VNM")
-_alias("Thailand", "TH", "THA", "Thailande", "Thaïlande")
+_alias("Thailand", "TH", "THA", "Thailande", "Thaïlande", "THAI")
 _alias("Philippines", "PH", "PHI", "PHL")
 _alias("Indonesia", "ID", "INA", "Indonesie", "Indonésie", "IDN")
 _alias("Malaysia", "MY", "MAS", "Malaisie", "MYS")
@@ -518,14 +527,15 @@ _alias("Senegal", "SN", "SEN", "Senegal", "Sénégal")
 _alias("Mali", "ML", "MAL", "MLI")
 _alias("Ivory Coast", "CI", "CIV", "Cote d'Ivoire", "Côte d'Ivoire")
 _alias("Burkina Faso", "BF", "BUR", "BFA")
-_alias("Guinea", "GN", "GUI", "Guinee", "Guinée", "Guinea Conakry", "GIN")
+_alias("Guinea", "GN", "GUI", "Guinee", "Guinée", "Guinea Conakry", "GIN",
+       "Guinee Conakry")
 _alias("Cameroon", "CM", "CMR", "Cameroun")
 _alias("Benin", "BJ", "BEN", "Benin", "Bénin")
 _alias("Togo", "TG", "TOG", "TGO")
 _alias("Niger", "NE", "NIG", "NER")
 _alias("Nigeria", "NG", "NGR", "NGA")
 _alias("Ghana", "GH", "GHA")
-_alias("Congo", "CG", "CGO", "Congo Brazzaville", "Rep Congo",
+_alias("Congo", "CG", "CGO", "Congo Brazzaville", "Rep Congo", "Rep. Congo",
        "Republic of the Congo", "Republique du Congo")
 _alias("DR Congo", "CD", "COD", "Congo Kinshasa", "RD Congo",
        "Republique Democratique du Congo", "Democratic Republic of Congo")
@@ -563,7 +573,8 @@ _alias("Malta", "MT", "MLT", "Malte")
 _alias("Cyprus", "CY", "CYP", "Chypre")
 _alias("Chinese Taipei", "TW", "TPE", "Taipei", "Taiwan")
 _alias("Hong Kong", "HK", "HKG", "Hong Kong, China")
-_alias("Guinea-Bissau", "GW", "GBS", "Guinea Bissau", "Guinee-Bissau")
+_alias("Guinea-Bissau", "GW", "GBS", "Guinea Bissau", "Guinee-Bissau",
+       "Guinee Bissau")
 _alias("Luxembourg", "LU", "LUX")
 _alias("Monaco", "MC", "MON", "MCO")
 _alias("Sri Lanka", "LK", "SRI", "LKA")
@@ -710,6 +721,32 @@ def country(raw):
     hit = _NOSPACE.get(key.replace(" ", ""))
     if hit:
         return Country(raw, hit[0], hit[1], known=True)
+
+    # A name spilled into the cell leaves the country as a loose token:
+    # "Aaliyah BELGIQUE" -> Belgium. Only a whole token of four letters or
+    # more that the table already knows is trusted - three or fewer is a
+    # name fragment or a given name ("Murat Can"), not a nation.
+    tokens = text.split()
+    if len(tokens) > 1:
+        for token in (tokens[-1], tokens[0]):
+            if len(token) >= 4:
+                hit = _ALIASES.get(fold(token))
+                if hit:
+                    return Country(raw, hit[0], hit[1], known=True)
+
+    # "(RUS) vs" - the code sat in parentheses, but the spill pushed the
+    # "vs" past it, so the tail rule above could not see it.
+    for found in _PAREN_ANY.finditer(text):
+        hit = _ALIASES.get(fold(found.group(1)))
+        if hit:
+            return Country(raw, hit[0], hit[1], known=True)
+
+    # "Britain)" - the sheet's line broke inside a parenthesised country and
+    # the closing bracket is all that is left of the parenthesis.
+    if text.endswith(")") and not text.endswith("("):
+        hit = _ALIASES.get(fold(text[:-1].rstrip()))
+        if hit:
+            return Country(raw, hit[0], hit[1], known=True)
 
     return Country(raw)
 
