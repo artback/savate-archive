@@ -940,9 +940,22 @@
     if (!terms.length) return empty(esc(t("search.none", { q: text })));
     var groups = {};
     ORDER_KINDS.forEach(function (k) { groups[k] = []; });
+    /* The index sits in archive order, which means nothing to the person
+       typing: an entry whose name carries every term outranks one that
+       matches only in its hint. */
+    var scored = [];
     index.forEach(function (x) {
       if (!searchMatches(x, terms)) return;
-      if (groups[x.kind] && groups[x.kind].length < 60) groups[x.kind].push(x);
+      var name = searchFold(x.label || "");
+      var hits = terms.reduce(function (n, term) {
+        return n + (name.indexOf(term) >= 0 ? 1 : 0);
+      }, 0);
+      scored.push({ x: x, hits: hits });
+    });
+    scored.sort(function (a, b) { return b.hits - a.hits; });
+    scored.forEach(function (s) {
+      if (groups[s.x.kind] && groups[s.x.kind].length < 60)
+        groups[s.x.kind].push(s.x);
     });
 
     var total = 0;
@@ -965,13 +978,16 @@
   }
 
   function eventCard(e) {
+    var foot = [
+      e.year,
+      e.bouts.length ? t("ev.rencontres", { n: e.bouts.length })
+                     : t("ev.placesN", { n: e.places.length })
+    ];
     return '<a class="card pad" href="#/epreuve/' + esc(e.slug) + '">' +
       '<div class="chips" style="margin-bottom:10px">' + eventChips(e) + "</div>" +
       '<h3 style="font-size:16px">' + esc(e.name) + "</h3>" +
       '<div class="foot fig" style="font-size:12.5px;color:var(--ink-3)">' +
-      esc(e.year) + " · " +
-      esc(e.bouts.length ? t("ev.rencontres", { n: e.bouts.length })
-                         : t("ev.placesN", { n: e.places.length })) +
+      esc(foot.filter(Boolean).join(" · ")) +
       "</div></a>";
   }
 
