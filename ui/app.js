@@ -128,7 +128,7 @@
   function rankFR(r) { return t("rank." + r); }
 
   /* The kinds of thing one query can turn up, in the order they are offered. */
-  var ORDER_KINDS = ["tireur", "epreuve", "annee", "nation", "categorie"];
+  var ORDER_KINDS = ["tireur", "epreuve", "annee", "nation", "categorie", "club"];
   function kindFR(k) { return t("search." + k); }
   var RANK_SHORT = ["", "1ᵉʳ", "2ᵉ", "3ᵉ"];
 
@@ -190,6 +190,20 @@
 
   /* Minus sign, not hyphen: "−80 kg" is a weight class, "-80" is arithmetic. */
   function weightFR(label) { return String(label || "").replace(/^-/, "−"); }
+
+  /* A printed club cell can hold a postal code; a bare figure is never a
+     club, so it never dresses a fighter or a fight. */
+  function clubShown(c) {
+    return !!c && c.length >= 3 && /[\p{L}]/u.test(c) && !RANK_LABELS[searchFold(c)];
+  }
+
+  /* Rank labels federations print in the club column of podium sheets —
+     "Finaliste", "Champion", "Vice-Championne" — are places, not clubs.
+     The match is the whole string: "Champions Boxing" stays a club. */
+  var RANK_LABELS = {};
+  ["finaliste", "demi-finaliste", "troisieme", "champion", "championne",
+   "champions", "championnes", "vice-champion", "vice-championne"]
+    .forEach(function (w) { RANK_LABELS[w] = 1; });
 
   function catFR(i) {
     var c = CATS[i];
@@ -306,6 +320,7 @@
       i: i, id: p[P_ID], name: p[P_NAME], key: p[P_KEY],
       slug: slug(p[P_ID]) || "t" + i,
       nats: p[P_NATS] || [], aliases: p[P_ALIAS] || [],
+      clubIdx: p[P_CLUB],
       club: p[P_CLUB] >= 0 ? CLUBS[p[P_CLUB]] : "",
       weighed: p[P_WEIGHED] || [],
       bouts: [], places: [], w: 0, l: 0, or: 0, ar: 0, br: 0,
@@ -454,6 +469,32 @@
       (parseFloat(a.weight.replace(/[^\d.]/g, "")) || 0) -
       (parseFloat(b.weight.replace(/[^\d.]/g, "")) || 0);
   });
+
+  /* Clubs, as the documents printed them. A string two or more tireurs carry
+     is a club; a string a single row holds can be a postal code the sheet
+     printed in the club cell, and it stays out of the index. */
+  var clubOf = CLUBS.map(function (name, i) {
+    return { i: i, name: name, people: [], or: 0, medals: 0, bouts: 0 };
+  });
+  person.forEach(function (p) {
+    var c = clubOf[p.clubIdx];
+    if (!c || !p.club) return;
+    c.people.push(p);
+    c.or += p.or;
+    c.medals += p.medals;
+    c.bouts += p.bouts.length;
+  });
+  function clubReal(c) { return c.people.length >= 2 && clubShown(c.name); }
+  var clubsReal = clubOf.filter(function (c) { return clubReal(c); })
+    .sort(function (a, b) {
+      return b.medals - a.medals || b.bouts - a.bouts ||
+        a.name.localeCompare(b.name);
+    });
+  function clubTop(c) {
+    return c.people.slice().sort(function (a, b) {
+      return b.or - a.or || b.medals - a.medals;
+    })[0];
+  }
 
   var years = {};
   event.forEach(function (e) { if (e.year) years[e.year] = (years[e.year] || 0) + 1; });
@@ -775,6 +816,8 @@
       out += '<div class="meta">';
       out += "<div>" + natHTML(natIdx) + "</div>";
       if (p) {
+        out += '<div class="micro">' + (clubShown(p.club) ? esc(p.club)
+          : croix("club") + " " + esc(t("bul.club"))) + "</div>";
         out += "<div>" + (p.bouts.length
           ? recordHTML(p.w, p.l) + ' <span class="gapnote">' +
             esc(t("fiche.inThisArchive")) + "</span>"
@@ -838,7 +881,11 @@
 
     return "<tr>" +
       '<td class="n" style="color:var(--ink-3)">' + esc(e ? e.year : "") + "</td>" +
-      '<td class="name">' + (opp ? pLink(opp) : croix("pays")) + "</td>" +
+      '<td class="name">' + (opp ? pLink(opp) : croix("pays")) +
+        (opp && clubShown(opp.club)
+          ? '<div class="micro" style="color:var(--ink-3)">' +
+            esc(opp.club) + "</div>"
+          : "") + "</td>" +
       "<td>" + natHTML(oppNat, { name: false }) + "</td>" +
       '<td class="tour">' + esc(phaseShort(phase) || phase || "") +
         (phase === "poule" && b[B_POULE] ? " " + esc(b[B_POULE]) : "") + "</td>" +
@@ -980,6 +1027,7 @@
   function eventCard(e) {
     var foot = [
       e.year,
+      e.city,
       e.bouts.length ? t("ev.rencontres", { n: e.bouts.length })
                      : t("ev.placesN", { n: e.places.length })
     ];
@@ -1660,8 +1708,13 @@
       e ? { text: e.name, href: "#/epreuve/" + e.slug } : { text: "—" },
       { text: t("d.bouts") }
     ]);
-    out += head(esc(t("bul.title")),
-      esc(catFR(b[B_CAT])) + (e ? " · " + esc(e.name) : ""));
+    var sub = esc(catFR(b[B_CAT])) + (e ? " · " + esc(e.name) : "");
+    if (e && e.city) {
+      sub += " · " + esc(e.city) +
+        (e.nat >= 0 && nation[e.nat] && nation[e.nat].known
+          ? " (" + esc(nationName(nation[e.nat])) + ")" : "");
+    }
+    out += head(esc(t("bul.title")), sub);
     out += bulletin(bi);
 
     var meta = '<div class="card pad" style="margin-top:16px"><div class="grid g3">';
@@ -1879,6 +1932,54 @@
         "</th><th>" + esc(t("col.level")) + "</th></tr></thead><tbody>" +
         rows + "</tbody></table></div>"
       : empty(esc(t("cls.noTitles"))));
+    return out;
+  };
+
+  /* -- les clubs -------------------------------------------------------
+     A club is a name the documents printed next to its tireurs. The list
+     holds only the names two or more tireurs carry: what a single row
+     holds can be a postal code, and a list of postal codes is not a list
+     of clubs. */
+  views.clubs = function () {
+    var body = clubsReal.map(function (c) {
+      return "<tr>" +
+        '<td class="name">' + link("#/club/" + c.i, esc(c.name), "linky") + "</td>" +
+        '<td class="n">' + c.people.length + "</td>" +
+        '<td class="n" style="color:var(--or)">' + c.or + "</td>" +
+        '<td class="n">' + c.bouts + "</td>" +
+        "</tr>";
+    }).join("");
+    return head(esc(t("club.title")), esc(t("club.count", { n: clubsReal.length }))) +
+      '<div class="chips" style="margin-bottom:14px">' +
+      '<button class="chip" data-copy>' + esc(t("reg.copy")) + "</button></div>" +
+      '<div class="scroll"><table><thead><tr><th>' + esc(t("club.name")) +
+      '</th><th class="n">' + esc(t("club.members")) + '</th><th class="n">' +
+      esc(t("col.titles")) + '</th><th class="n">' + esc(t("col.bouts")) +
+      "</th></tr></thead><tbody>" + body + "</tbody></table></div>";
+  };
+
+  views.clubPage = function (q, i) {
+    var c = clubOf[parseInt(i, 10)];
+    if (!c || !clubReal(c)) return notFound(t("nf.club"));
+    var out = fil([{ text: t("nav.clubs"), href: "#/clubs" }, { text: c.name }]);
+    out += head(esc(c.name), esc(t("club.line", { n: c.people.length })));
+    var rows = c.people.slice().sort(function (a, b) {
+      return b.or - a.or || b.medals - a.medals || b.bouts.length - a.bouts.length;
+    }).map(function (p) {
+      return "<tr" + (titulaire && titulaire.i === p.i ? ' class="moi"' : "") + ">" +
+        '<td class="name">' + pLink(p) + "</td>" +
+        "<td>" + (p.nats.length ? natHTML(p.nats[0]) : natHTML(-1)) + "</td>" +
+        '<td class="n" style="color:var(--or)">' + p.or + "</td>" +
+        "<td>" + (medalsHTML(p.or, p.ar, p.br) || "") + "</td>" +
+        "<td>" + (p.bouts.length ? recordHTML(p.w, p.l) :
+          '<span class="gapnote">—</span>') + "</td></tr>";
+    }).join("");
+    out += section(t("club.roster"),
+      '<div class="scroll"><table><thead><tr><th>' + esc(t("col.fighter")) +
+      "</th><th>" + esc(t("col.nation")) + "</th>" +
+      '<th class="n">' + esc(t("col.titles")) + "</th><th>" +
+      esc(t("col.medals")) + "</th><th>" + esc(t("col.record")) +
+      "</th></tr></thead><tbody>" + rows + "</tbody></table></div>");
     return out;
   };
 
@@ -2143,6 +2244,8 @@
     [/^\/nation\/(.+)$/, "nation"],
     [/^\/classes$/, "classes"],
     [/^\/classe\/(.+)$/, "classe"],
+    [/^\/clubs$/, "clubs"],
+    [/^\/club\/(\d+)$/, "clubPage"],
     [/^\/annee\/(\d{4})$/, "annee"],
     [/^\/confrontation\/(.+)$/, "confrontation"],
     [/^\/epingles$/, "epingles"],
@@ -2164,7 +2267,8 @@
 
   var NAV = [
     ["#/", "nav.home"], ["#/tireurs", "nav.fighters"], ["#/epreuves", "nav.events"],
-    ["#/nations", "nav.nations"], ["#/classes", "nav.classes"], ["#/notice", "nav.notice"]
+    ["#/nations", "nav.nations"], ["#/classes", "nav.classes"],
+    ["#/clubs", "nav.clubs"], ["#/notice", "nav.notice"]
   ];
 
   /* Which nav item a route belongs under. A prefix test cannot do this once
@@ -2175,6 +2279,7 @@
     if (/^\/(epreuves?|rencontre|annee)(\/|$)/.test(path)) return "#/epreuves";
     if (/^\/nations?(\/|$)/.test(path)) return "#/nations";
     if (/^\/classes?(\/|$)/.test(path)) return "#/classes";
+    if (/^\/clubs?(\/|$)/.test(path)) return "#/clubs";
     if (/^\/notice$/.test(path)) return "#/notice";
     return "";
   }
@@ -2355,10 +2460,19 @@
                  hint: hint.join(" · "), href: "#/tireur/" + p.slug });
   });
   event.forEach(function (e) {
+    /* The venue is part of the name a reader knows: "Calais" must find the
+       open that was held there, and the printed date the sheet it came from.
+       The nation's search string carries every attested spelling, so a
+       reader typing "serbie" reaches the same events as one typing "Serbia". */
+    var natName = (e.nat >= 0 && nation[e.nat] && nation[e.nat].search) || "";
     index.push({
-      key: fold(e.name + " " + e.year + " " + e.season + " " + (e.competition || "") + " " + (e.label || "") + " " + (e.disc || "")),
+      key: fold(e.name + " " + e.year + " " + e.season + " " +
+        (e.competition || "") + " " + (e.label || "") + " " + (e.disc || "") +
+        " " + (e.city || "") + " " + natName + " " + (e.start || "") + " " +
+        (e.end || "")),
       label: e.name, kind: "epreuve",
-      hint: [e.season || e.year, e.label, e.disc].filter(Boolean).join(" · "),
+      hint: [e.city, e.season || e.year, e.label, e.disc].filter(Boolean)
+        .join(" · "),
       href: "#/epreuve/" + e.slug });
   });
   yearList.forEach(function (y) {
@@ -2386,6 +2500,14 @@
                  hint: (k.champs.length ? t("search.titles", { n: k.champs.length }) : "") +
                    (k.bouts ? " · " + t("search.bouts", { n: k.bouts }) : ""),
                  href: "#/classe/" + k.key });
+  });
+
+  clubsReal.forEach(function (c) {
+    var top = clubTop(c);
+    index.push({ key: fold(c.name), label: c.name, kind: "club",
+                 hint: t("search.clubHint", { n: c.people.length }) +
+                   (top.or ? " · " + t("search.titles", { n: top.or }) : ""),
+                 href: "#/club/" + c.i });
   });
 
   var scrim = null, palInput = null, palList = null, palSel = 0, palHits = [];
