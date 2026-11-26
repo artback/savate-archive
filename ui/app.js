@@ -130,7 +130,7 @@
   /* The kinds of thing one query can turn up, in the order they are offered. */
   var ORDER_KINDS = ["tireur", "epreuve", "annee", "nation", "categorie", "club"];
   function kindFR(k) { return t("search." + k); }
-  var RANK_SHORT = ["", "1ᵉʳ", "2ᵉ", "3ᵉ"];
+  var RANK_SHORT = ["", "1ᵉʳ", "2ᵉ", "3ᵉ", "", "5ᵉ", "", "", "", "9ᵉ"];
 
   /* The eleven things the archive can fail to know. Each is a numbered note
      rendered once per page, however many crosses point at it. */
@@ -1592,18 +1592,29 @@
       }).join("");
     if (pod) out += section(t("ev.podiums"), '<div class="grid g2">' + pod + "</div>");
 
-    /* A bracket crowns someone too. Where the sheets print the finals but no
-       podium, the final and the petite finales say who stood there: the
-       winner of the single final is the champion, the man he beat is second,
-       and the winners of the bronze bouts share third. Only a single final
-       with a named winner is read - several finals or no winner stay in the
-       bracket, which still shows them. */
-    var finals = {}, bronzes = {};
+    /* A bracket crowns someone too, and it classifies more than the two
+       finalists. Where the sheet prints the finals but no podium, the bracket
+       says who stood where: the winner of the single final is the champion,
+       the fighter he beat is second, the beaten semi-finalists share third (the
+       bronze savate awards), and the beaten quarter-finalists - and the round
+       before them - share fifth and ninth. Bronze bouts are preferred for
+       third where the sheet prints them. Only a single final with a named
+       winner is read; several finals or no winner stay in the bracket. */
+    var finals = {}, bronzes = {}, semis = {}, quarters = {}, r16s = {};
     e.bouts.forEach(function (bi) {
       var b = BOUTS[bi], ph = PHASES[b[B_PHASE]];
       if (ph === "final") (finals[b[B_CAT]] = finals[b[B_CAT]] || []).push(b);
       else if (ph === "bronze") (bronzes[b[B_CAT]] = bronzes[b[B_CAT]] || []).push(b);
+      else if (ph === "semi") (semis[b[B_CAT]] = semis[b[B_CAT]] || []).push(b);
+      else if (ph === "quarter") (quarters[b[B_CAT]] = quarters[b[B_CAT]] || []).push(b);
+      else if (ph === "r16") (r16s[b[B_CAT]] = r16s[b[B_CAT]] || []).push(b);
     });
+    function beaten(b) {
+      var w = winnerOf(b);
+      if (w === b[B_RED]) return { who: b[B_BLUE], nat: b[B_BNAT] };
+      if (w === b[B_BLUE]) return { who: b[B_RED], nat: b[B_RNAT] };
+      return null;
+    }
     var derivedRows = {};
     Object.keys(finals).forEach(function (c) {
       if (info[c].places.length) return;   /* the printed podium already stands */
@@ -1616,16 +1627,31 @@
         { rank: 2, who: w === f[B_RED] ? f[B_BLUE] : f[B_RED],
           nat: w === f[B_RED] ? f[B_BNAT] : f[B_RNAT] }
       ];
-      var bs = bronzes[c] || [];
-      if (bs.length && bs.length <= 2 && bs.every(function (b) {
-        var bw = winnerOf(b); return bw === b[B_RED] || bw === b[B_BLUE];
-      })) {
+      var seen = {};
+      seen[rows[0].who] = 1;
+      seen[rows[1].who] = 1;
+      function add(rank, list) {
+        (list || []).forEach(function (b) {
+          var l = beaten(b);
+          if (!l || seen[l.who]) return;
+          seen[l.who] = 1;
+          rows.push({ rank: rank, who: l.who, nat: l.nat });
+        });
+      }
+      var bs = (bronzes[c] || []).filter(function (b) { return beaten(b); });
+      if (bs.length && bs.length <= 2) {
         bs.forEach(function (b) {
           var bw = winnerOf(b);
+          if (seen[bw]) return;
+          seen[bw] = 1;
           rows.push({ rank: 3, who: bw,
                       nat: bw === b[B_RED] ? b[B_RNAT] : b[B_BNAT] });
         });
+      } else {
+        add(3, semis[c]);
       }
+      add(5, quarters[c]);
+      add(9, r16s[c]);
       derivedRows[c] = rows;
     });
     var recon = shown.filter(function (c) { return derivedRows[c]; })
