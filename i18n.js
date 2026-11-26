@@ -23,6 +23,7 @@ window.SAVATE_I18N = {
     "nav.events": "Épreuves",
     "nav.nations": "Nations",
     "nav.classes": "Catégories",
+    "nav.clubs": "Clubs",
     "nav.notice": "Notice",
 
     "bar.search": "Rechercher",
@@ -39,7 +40,7 @@ window.SAVATE_I18N = {
 
     "home.title": "Palmarès Savate",
     "home.stats": "{bouts} rencontres · {people} tireurs · {places} places · {events} épreuves · {years}",
-    "home.search": "Un tireur, une épreuve, une nation, une année…",
+    "home.search": "Un tireur, un club, une épreuve, une ville, une nation…",
     "home.searchAria": "Chercher dans toute l’archive",
     "home.byYear": "Par année",
     "home.yearNote": "Avant 2023, les fédérations n’ont publié que des podiums — la barre compte alors des places, pas des rencontres.",
@@ -53,9 +54,11 @@ window.SAVATE_I18N = {
     "search.annee": "Années",
     "search.nation": "Nations",
     "search.categorie": "Catégories",
-    "search.none": "Rien ne correspond à « {q} » — ni tireur, ni épreuve, ni nation, ni catégorie, ni année.",
+    "search.club": "Clubs",
+    "search.none": "Rien ne correspond à « {q} » — ni tireur, ni épreuve, ni nation, ni catégorie, ni club, ni année.",
     "search.yearHint": "{events} épreuves · {champs} championnats",
     "search.nationHint": "{n} tireurs",
+    "search.clubHint": "{n} tireurs",
     "search.titles": "{n} titres",
     "search.bouts": "{n} rencontres",
 
@@ -209,6 +212,13 @@ window.SAVATE_I18N = {
     "cls.champions": "Champion·ne·s",
     "cls.noTitles": "Aucun titre publié dans cette catégorie.",
 
+    "club.title": "Clubs",
+    "club.count": "{n} clubs",
+    "club.name": "Club",
+    "club.members": "Tireurs",
+    "club.line": "{n} tireurs dans ce club",
+    "club.roster": "Tireurs du club",
+
     "yr.count": "{events} épreuves · {bouts} rencontres · {places} places",
     "yr.none": "Aucune épreuve publiée pour {year}.",
     "yr.champs": "Championnats de l'année",
@@ -246,6 +256,7 @@ window.SAVATE_I18N = {
     "nf.bout": "Cette rencontre n’est pas dans l’archive.",
     "nf.nation": "Cette nation n’est pas dans l’archive.",
     "nf.class": "Cette catégorie n’est pas dans l’archive.",
+    "nf.club": "Ce club n’est pas dans l’archive.",
     "nf.pair": "Ces deux tireurs ne sont pas tous les deux dans l’archive.",
     "nf.page": "Cette page n’existe pas.",
     "nf.home": "Revenir à l’accueil",
@@ -346,6 +357,7 @@ window.SAVATE_I18N = {
     "note.age": "Classe d’âge non publiée.",
     "note.coin": "Coins non publiés : le document nomme le vainqueur sans dire qui était au coin rouge et qui au coin bleu.",
     "bul.cornerUnknown": "Coin non publié",
+    "bul.club": "Club non publié",
     "note.annee": "Aucune année rattachée à ce tireur."
   },
 
@@ -357,6 +369,7 @@ window.SAVATE_I18N = {
     "nav.events": "Events",
     "nav.nations": "Nations",
     "nav.classes": "Weight classes",
+    "nav.clubs": "Clubs",
     "nav.notice": "About",
 
     "bar.search": "Search",
@@ -373,7 +386,7 @@ window.SAVATE_I18N = {
 
     "home.title": "Palmarès Savate",
     "home.stats": "{bouts} bouts · {people} fighters · {places} placings · {events} events · {years}",
-    "home.search": "A fighter, an event, a nation, a year…",
+    "home.search": "A fighter, a club, an event, a city, a nation…",
     "home.searchAria": "Search the whole archive",
     "home.byYear": "By year",
     "home.yearNote": "Before 2023 the federations published podiums only — the bar then counts placings, not bouts.",
@@ -387,9 +400,11 @@ window.SAVATE_I18N = {
     "search.annee": "Years",
     "search.nation": "Nations",
     "search.categorie": "Weight classes",
-    "search.none": "Nothing matches “{q}” — no fighter, event, nation, weight class or year.",
+    "search.club": "Clubs",
+    "search.none": "Nothing matches “{q}” — no fighter, event, nation, weight class, club or year.",
     "search.yearHint": "{events} events · {champs} championships",
     "search.nationHint": "{n} fighters",
+    "search.clubHint": "{n} fighters",
     "search.titles": "{n} titles",
     "search.bouts": "{n} bouts",
 
@@ -543,6 +558,13 @@ window.SAVATE_I18N = {
     "cls.champions": "Champions",
     "cls.noTitles": "No title published in this weight class.",
 
+    "club.title": "Clubs",
+    "club.count": "{n} clubs",
+    "club.name": "Club",
+    "club.members": "Fighters",
+    "club.line": "{n} fighters in this club",
+    "club.roster": "The club’s fighters",
+
     "yr.count": "{events} events · {bouts} bouts · {places} placings",
     "yr.none": "No event published for {year}.",
     "yr.champs": "Championships of the year",
@@ -580,6 +602,7 @@ window.SAVATE_I18N = {
     "nf.bout": "This bout is not in the archive.",
     "nf.nation": "This nation is not in the archive.",
     "nf.class": "This weight class is not in the archive.",
+    "nf.club": "This club is not in the archive.",
     "nf.pair": "These two fighters are not both in the archive.",
     "nf.page": "This page does not exist.",
     "nf.home": "Back to the home page",
@@ -680,6 +703,7 @@ window.SAVATE_I18N = {
     "note.age": "Age class not published.",
     "note.coin": "Corners not published: the document names the winner without saying who stood in the red corner and who in the blue.",
     "bul.cornerUnknown": "Corner not published",
+    "bul.club": "Club not published",
     "note.annee": "No year attached to this fighter."
   },
 
@@ -691,6 +715,7 @@ window.SAVATE_I18N = {
     "nav.events": "Competiciones",
     "nav.nations": "Naciones",
     "nav.classes": "Categorías",
+    "nav.clubs": "Clubs",
     "nav.notice": "Nota",
 
     "bar.search": "Buscar",
@@ -707,7 +732,7 @@ window.SAVATE_I18N = {
 
     "home.title": "Palmarès Savate",
     "home.stats": "{bouts} combates · {people} tiradores · {places} puestos · {events} competiciones · {years}",
-    "home.search": "Un tirador, una competición, una nación, un año…",
+    "home.search": "Un tirador, un club, una competición, una ciudad, una nación…",
     "home.searchAria": "Buscar en todo el archivo",
     "home.byYear": "Por año",
     "home.yearNote": "Antes de 2023 las federaciones solo publicaban podios — la barra cuenta entonces puestos, no combates.",
@@ -721,9 +746,11 @@ window.SAVATE_I18N = {
     "search.annee": "Años",
     "search.nation": "Naciones",
     "search.categorie": "Categorías",
-    "search.none": "Nada coincide con «{q}» — ni tirador, ni competición, ni nación, ni categoría, ni año.",
+    "search.club": "Clubs",
+    "search.none": "Nada coincide con «{q}» — ni tirador, ni competición, ni nación, ni categoría, ni club, ni año.",
     "search.yearHint": "{events} competiciones · {champs} campeonatos",
     "search.nationHint": "{n} tiradores",
+    "search.clubHint": "{n} tiradores",
     "search.titles": "{n} títulos",
     "search.bouts": "{n} combates",
 
@@ -877,6 +904,13 @@ window.SAVATE_I18N = {
     "cls.champions": "Campeones y campeonas",
     "cls.noTitles": "Ningún título publicado en esta categoría.",
 
+    "club.title": "Clubs",
+    "club.count": "{n} clubs",
+    "club.name": "Club",
+    "club.members": "Tiradores",
+    "club.line": "{n} tiradores en este club",
+    "club.roster": "Tiradores del club",
+
     "yr.count": "{events} competiciones · {bouts} combates · {places} puestos",
     "yr.none": "Ninguna competición publicada para {year}.",
     "yr.champs": "Campeonatos del año",
@@ -914,6 +948,7 @@ window.SAVATE_I18N = {
     "nf.bout": "Este combate no está en el archivo.",
     "nf.nation": "Esta nación no está en el archivo.",
     "nf.class": "Esta categoría no está en el archivo.",
+    "nf.club": "Este club no está en el archivo.",
     "nf.pair": "Estos dos tiradores no están ambos en el archivo.",
     "nf.page": "Esta página no existe.",
     "nf.home": "Volver al inicio",
@@ -1014,6 +1049,7 @@ window.SAVATE_I18N = {
     "note.age": "Clase de edad no publicada.",
     "note.coin": "Esquinas no publicadas: el documento nombra al vencedor sin decir quién estaba en la esquina roja y quién en la azul.",
     "bul.cornerUnknown": "Esquina no publicada",
+    "bul.club": "Club no publicado",
     "note.annee": "Ningún año vinculado a este tirador."
   }
 };
